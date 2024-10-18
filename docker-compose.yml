@@ -1,0 +1,17 @@
+# https://dev.to/stankukucka/install-jekyll-on-your-mac-with-docker-compose-file-everything-you-need-to-get-going-2alf
+
+version: "3"
+
+services:
+  jekyll:
+      # https://github.com/jekyll/jekyll-sass-converter/issues/156
+      # https://github.com/envygeeks/jekyll-docker/issues/363
+      # https://hub.docker.com/r/jvconseil/jekyll-docker
+      image: jvconseil/jekyll-docker:latest
+      command: jekyll serve --watch --force_polling
+      environment:
+        JEKYLL_VERSION: 4.3.3
+      ports:
+        - 4000:4000
+      volumes:
+        - .:/srv/jekyll

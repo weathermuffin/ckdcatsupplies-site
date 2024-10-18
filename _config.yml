@@ -1,0 +1,12 @@
+title: CKD Cat Supplies
+description: Helping you find the best products and supplies for your CKD kitty, at the best prices.
+theme: just-the-docs
+
+url: https://ckdcatsupplies.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template

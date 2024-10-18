@@ -9,7 +9,7 @@ nav_order: 23
 
 ## Braun ThermoScan 5 Ear Thermometer
 
-[Monitoring]({% link docs/monitoring.md %})
+[**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B01HP0JU2G" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -17,9 +17,9 @@ View on <a href="https://www.amazon.com/dp/B01HP0JU2G" class="external" target="
 
 ## CONTEC Neonate Cuff 6 to 11 cm
 
-[Blood pressure]({% link docs/blood-pressure.md %})
+[**Blood pressure**]({% link docs/blood-pressure.md %})
 {: .label }
-[Monitoring]({% link docs/monitoring.md %})
+[**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
  <a href="https://contechealth.com/products/neonate-cuff-6-to-11-cm-arm-single-tube-reusable-cuff-for-patient-nibp-monitor?variant=41026112454806" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -27,9 +27,9 @@ View on <a href="https://www.amazon.com/dp/B01HP0JU2G" class="external" target="
 
 ## CONTEC08A-VET Veterinary/Animal Blood Pressure Monitor
 
-[Blood pressure]({% link docs/blood-pressure.md %})
+[**Blood pressure**]({% link docs/blood-pressure.md %})
 {: .label }
-[Monitoring]({% link docs/monitoring.md %})
+[**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B075CVM9R6" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -37,9 +37,9 @@ View on <a href="https://www.amazon.com/dp/B075CVM9R6" class="external" target="
 
 ## eufy Indoor Security Camera E220
 
-[Monitoring]({% link docs/monitoring.md %})
+[**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
-[UTI]({% link docs/uti.md %})
+[**UTI**]({% link docs/uti.md %})
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B0856W45VL" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -47,7 +47,7 @@ View on <a href="https://www.amazon.com/dp/B0856W45VL" class="external" target="
 
 ## Greater Goods Digital Pet Scale
 
-[Monitoring]({% link docs/monitoring.md %})
+[**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B098TVJKZ3" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -55,9 +55,9 @@ View on <a href="https://www.amazon.com/dp/B098TVJKZ3" class="external" target="
 
 ## MDF Instruments Acoustica Lightweight Stethoscope
 
-[Heart]({% link docs/heart.md %})
+[**Heart**]({% link docs/heart.md %})
 {: .label }
-[Monitoring]({% link docs/monitoring.md %})
+[**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B0011E8DG2" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -65,13 +65,13 @@ View on <a href="https://www.amazon.com/dp/B0011E8DG2" class="external" target="
 
 ## Petivity Smart Litter Box Monitor
 
-[Monitoring]({% link docs/monitoring.md %})
+[**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
-[UTI]({% link docs/uti.md %})
+[**UTI**]({% link docs/uti.md %})
 {: .label }
 
  <a href="https://www.petivity.com/pages/smart-litter-box-monitor" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.chewy.com/dp/811854" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://www.amazon.com/dp/B0C7S7NPMX" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://www.petivity.com/products/smart-litter-box-monitor" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-18 19:48:32.420487Z -->
+<!-- Updated 2024-10-18 22:47:25.271281Z -->

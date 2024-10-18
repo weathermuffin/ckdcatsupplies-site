@@ -9,13 +9,13 @@ nav_order: 37
 
 ## 1-TDC Periodontal & Joint Health
 
-[Arthritis]({% link docs/arthritis.md %})
+[**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
-[Dental]({% link docs/dental.md %})
+[**Dental**]({% link docs/dental.md %})
 {: .label }
-[Oral]({% link docs/oral.md %})
+[**Oral**]({% link docs/oral.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -23,11 +23,11 @@ View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blan
 
 ## CurcuVET-SA150 Powder
 
-[Antioxidant]({% link docs/antioxidant.md %})
+[**Antioxidant**]({% link docs/antioxidant.md %})
 {: .label }
-[Inflammation]({% link docs/inflammation.md %})
+[**Inflammation**]({% link docs/inflammation.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
  <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -35,9 +35,9 @@ View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blan
 
 ## Duralactin Feline Capsules Cat Supplement
 
-[Arthritis]({% link docs/arthritis.md %})
+[**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -45,27 +45,44 @@ View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blan
 
 ## Fresh Is Best Freeze-Dried Duck Livers Dog Treats
 
-[Anemia]({% link docs/anemia.md %})
+[**Anemia**]({% link docs/anemia.md %})
 {: .label }
-[Iron]({% link docs/iron.md %})
+[**Iron**]({% link docs/iron.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.naturalpetwarehouse.com/fresh-is-best-freeze-dried-duck-liver-fillets-dog-treats" class="external" target="_blank">Natural Pet Warehouse <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 
+## Kal D-Mannose Powder (2.5 oz)
+
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+ <a href="https://felinecrf.org/pyelonephritis_utis.htm#dmannose" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.vitacost.com/kal-d-mannose-powder" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Dad says this tastes sweet, but I don't notice it in my food. We're hopeful it's helping to prevent certain kinds of UTIs. I had a UTI not so long ago, and let me tell you, that was no fun!
+
+
 ## Kan Essentials Rehmannia Eight Combination
 
-[Renal]({% link docs/renal.md %})
+[**Renal**]({% link docs/renal.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 
 ## Life Extension TMG Powder (Trimethylglycine)
 
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.vitacost.com/life-extension-tmg-powder-trimethylglycine" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -73,29 +90,34 @@ View on <a href="https://www.vitacost.com/life-extension-tmg-powder-trimethylgly
 
 ## Nordic Naturals Omega-3 Cat Supplement
 
-[Omega-3]({% link docs/omega-3.md %})
+[**Omega-3**]({% link docs/omega-3.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 
-## NOW Neptune Krill Oil
+## NOW Neptune Krill Oil (500 mg softgels, 60 ct)
 
-[Antioxidant]({% link docs/antioxidant.md %})
+[**Antioxidant**]({% link docs/antioxidant.md %})
 {: .label }
-[Omega-3]({% link docs/omega-3.md %})
+[**Omega-3**]({% link docs/omega-3.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softgels" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Dad mixes this into a bit of Fancy Feast each day as a fun little treat! He's happy, I'm happy.
+
 
 ## NOW NutraFlora FOS Powder
 
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.vitacost.com/now-nutraflora-fos-powder" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -103,19 +125,21 @@ View on <a href="https://www.vitacost.com/now-nutraflora-fos-powder" class="exte
 
 ## NOW Potassium Gluconate Pure Powder
 
-[Potassium]({% link docs/potassium.md %})
+[**Potassium**]({% link docs/potassium.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
+
+ <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_human" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 
 ## NOW Taurine Pure Powder
 
-[Heart]({% link docs/heart.md %})
+[**Heart**]({% link docs/heart.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B000BQSQ68" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://www.vitacost.com/now-taurine-powder" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -123,19 +147,19 @@ View on <a href="https://www.amazon.com/dp/B000BQSQ68" class="external" target="
 
 ## Nutrim Oat Beta-Glucan
 
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 
 ## OC Raw Freeze-Dried Chicken Hearts
 
-[Anemia]({% link docs/anemia.md %})
+[**Anemia**]({% link docs/anemia.md %})
 {: .label }
-[B vitamins]({% link docs/b-vitamins.md %})
+[**B vitamins**]({% link docs/b-vitamins.md %})
 {: .label }
-[Iron]({% link docs/iron.md %})
+[**Iron**]({% link docs/iron.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
  <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -143,31 +167,27 @@ View on <a href="https://www.amazon.com/dp/B000BQSQ68" class="external" target="
 View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chicken-hearts-dog-treats" class="external" target="_blank">Natural Pet Warehouse <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 
-## Purina Hydra Care, 3 oz, 12 ct
+## Purina Hydra Care, 3 oz
 
-[Hydration]({% link docs/hydration.md %})
+[**Hydration**]({% link docs/hydration.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
+
+### 12 ct
 
 View on <a href="https://www.chewy.com/dp/282734" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-
-## Purina Hydra Care, 3 oz, 36 ct
-
-[Hydration]({% link docs/hydration.md %})
-{: .label }
-[Supplements]({% link docs/supplements.md %})
-{: .label }
+### 36 ct
 
 View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 
 ## Rx Vitamins Formula CV Capsules Heart Supplement
 
-[Heart]({% link docs/heart.md %})
+[**Heart**]({% link docs/heart.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -175,37 +195,44 @@ View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blan
 
 ## Super Snouts Joint Power (Green-Lipped Mussel)
 
-[Arthritis]({% link docs/arthritis.md %})
+[**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/130969" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 
-## Vetoquinol Renal K+ Powder
+## Vetoquinol Renal K+ (Powder)
 
-[Potassium]({% link docs/potassium.md %})
+[**Potassium**]({% link docs/potassium.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
+
+ <a href="https://www.vetoquinolusa.com/products/renal-k-plus" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_brands" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Before Dad knew what he was doing, we once had to go to the ER for hypokalemia. That was not much fun. This got my potassium up fast. I take it every day now. Definitely get the powder, not the gel. I don't notice the powder when added to my food.
 
 
 ## Vital Essentials Chicken Hearts Freeze-Dried Raw Cat Treats
 
-[Anemia]({% link docs/anemia.md %})
+[**Anemia**]({% link docs/anemia.md %})
 {: .label }
-[B vitamins]({% link docs/b-vitamins.md %})
+[**B vitamins**]({% link docs/b-vitamins.md %})
 {: .label }
-[Iron]({% link docs/iron.md %})
+[**Iron**]({% link docs/iron.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
  <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-18 19:48:32.420487Z -->
+<!-- Updated 2024-10-18 22:47:25.271281Z -->

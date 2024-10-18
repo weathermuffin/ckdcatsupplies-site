@@ -9,5 +9,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-target-blank
 
+callouts:
+  lunasays:
+    title: Luna Says
+    color: yellow
+
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template

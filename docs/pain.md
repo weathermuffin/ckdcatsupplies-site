@@ -9,13 +9,13 @@ nav_order: 29
 
 ## Redonyl Ultra Feline
 
-[Arthritis]({% link docs/arthritis.md %})
+[**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
-[PEA]({% link docs/pea.md %})
+[**PEA**]({% link docs/pea.md %})
 {: .label }
-[Pain]({% link docs/pain.md %})
+[**Pain**]({% link docs/pain.md %})
 {: .label }
 
 View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-for-dogs-otc/variation-13786" class="external" target="_blank">VetRxDirect <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-18 19:48:32.420487Z -->
+<!-- Updated 2024-10-18 22:47:25.271281Z -->

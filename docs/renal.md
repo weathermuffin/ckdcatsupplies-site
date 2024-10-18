@@ -9,9 +9,9 @@ nav_order: 34
 
 ## Kan Essentials Rehmannia Eight Combination
 
-[Renal]({% link docs/renal.md %})
+[**Renal**]({% link docs/renal.md %})
 {: .label }
-[Supplements]({% link docs/supplements.md %})
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-<!-- Updated 2024-10-18 19:48:32.420487Z -->
+<!-- Updated 2024-10-18 22:47:25.271281Z -->

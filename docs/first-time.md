@@ -10,7 +10,7 @@ Welcome! Although, if you're here, it means your cat has CKD, and
 I'm sorry for that.
 
 By now you've undoubtedly experienced what a challenging roller
-coaster feline CKD is. [Luna]({% link docs/about.md %}) was
+coaster feline CKD is. My [Luna]({% link docs/about.md %}) was
 diagnosed in February 2024, and I empathize and relate to your
 situation.
 

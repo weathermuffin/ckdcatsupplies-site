@@ -1,5 +1,5 @@
 ---
-title: Home
+title: "&#x1F3E0; Home"
 layout: home
 nav_order: 1
 permalink: /
@@ -10,129 +10,132 @@ permalink: /
 Helping you find the best products and supplies for your CKD kitty,
 at the best prices.
 
+First time here? [Start here.]({% link docs/first-time.md %})
+
 ## All CATegories &#x1F639;
 
-[Anemia](docs/anemia.html)
+[Anemia]({% link docs/anemia.md %})
 {: .label }
 
-[Antioxidant](docs/antioxidant.html)
+[Antioxidant]({% link docs/antioxidant.md %})
 {: .label }
 
-[Anxiety](docs/anxiety.html)
+[Anxiety]({% link docs/anxiety.md %})
 {: .label }
 
-[Arthritis](docs/arthritis.html)
+[Arthritis]({% link docs/arthritis.md %})
 {: .label }
 
-[B vitamins](docs/b-vitamins.html)
+[B vitamins]({% link docs/b-vitamins.md %})
 {: .label }
 
-[Bladder](docs/bladder.html)
+[Bladder]({% link docs/bladder.md %})
 {: .label }
 
-[Blood pressure](docs/blood-pressure.html)
+[Blood pressure]({% link docs/blood-pressure.md %})
 {: .label }
 
-[Capsules](docs/capsules.html)
+[Capsules]({% link docs/capsules.md %})
 {: .label }
 
-[Constipation](docs/constipation.html)
+[Constipation]({% link docs/constipation.md %})
 {: .label }
 
-[Dental](docs/dental.html)
+[Dental]({% link docs/dental.md %})
 {: .label }
 
-[Diarrhea](docs/diarrhea.html)
+[Diarrhea]({% link docs/diarrhea.md %})
 {: .label }
 
-[Enteric dialysis](docs/enteric-dialysis.html)
+[Enteric dialysis]({% link docs/enteric-dialysis.md %})
 {: .label }
 
-[Fluids](docs/fluids.html)
+[Fluids]({% link docs/fluids.md %})
 {: .label }
 
-[Grooming](docs/grooming.html)
+[Grooming]({% link docs/grooming.md %})
 {: .label }
 
-[Heart](docs/heart.html)
+[Heart]({% link docs/heart.md %})
 {: .label }
 
-[Hydration](docs/hydration.html)
+[Hydration]({% link docs/hydration.md %})
 {: .label }
 
-[Inflammation](docs/inflammation.html)
+[Inflammation]({% link docs/inflammation.md %})
 {: .label }
 
-[Iron](docs/iron.html)
+[Iron]({% link docs/iron.md %})
 {: .label }
 
-[LRS](docs/lrs.html)
+[LRS]({% link docs/lrs.md %})
 {: .label }
 
-[Medicating](docs/medicating.html)
+[Medicating]({% link docs/medicating.md %})
 {: .label }
 
-[Misc](docs/misc.html)
+[Misc]({% link docs/misc.md %})
 {: .label }
 
-[Monitoring](docs/monitoring.html)
+[Monitoring]({% link docs/monitoring.md %})
 {: .label }
 
-[Needles](docs/needles.html)
+[Needles]({% link docs/needles.md %})
 {: .label }
 
-[Non-renal food](docs/non-renal-food.html)
+[Non-renal food]({% link docs/non-renal-food.md %})
 {: .label }
 
-[Omega-3](docs/omega-3.html)
+[Omega-3]({% link docs/omega-3.md %})
 {: .label }
 
-[Oral](docs/oral.html)
+[Oral]({% link docs/oral.md %})
 {: .label }
 
-[PEA](docs/pea.html)
+[PEA]({% link docs/pea.md %})
 {: .label }
 
-[Pain](docs/pain.html)
+[Pain]({% link docs/pain.md %})
 {: .label }
 
-[Phosphate binder](docs/phosphate-binder.html)
+[Phosphate binder]({% link docs/phosphate-binder.md %})
 {: .label }
 
-[Pilling](docs/pilling.html)
+[Pilling]({% link docs/pilling.md %})
 {: .label }
 
-[Potassium](docs/potassium.html)
+[Potassium]({% link docs/potassium.md %})
 {: .label }
 
-[Probiotics](docs/probiotics.html)
+[Probiotics]({% link docs/probiotics.md %})
 {: .label }
 
-[Renal](docs/renal.html)
+[Renal]({% link docs/renal.md %})
 {: .label }
 
-[Renal food](docs/renal-food.html)
+[Renal food]({% link docs/renal-food.md %})
 {: .label }
 
-[Sub-Qs](docs/sub-qs.html)
+[Sub-Qs]({% link docs/sub-qs.md %})
 {: .label }
 
-[Supplements](docs/supplements.html)
+[Supplements]({% link docs/supplements.md %})
 {: .label }
 
-[Syringes](docs/syringes.html)
+[Syringes]({% link docs/syringes.md %})
 {: .label }
 
-[Transdermals](docs/transdermals.html)
+[Transdermals]({% link docs/transdermals.md %})
 {: .label }
 
-[Treats](docs/treats.html)
+[Treats]({% link docs/treats.md %})
 {: .label }
 
-[UTI](docs/uti.html)
+[UTI]({% link docs/uti.md %})
 {: .label }
 
-[Vitamins](docs/vitamins.html)
+[Vitamins]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2024-10-18 02:52:49.339144Z -->
+
+<!-- Updated 2024-10-18 19:48:32.420487Z -->

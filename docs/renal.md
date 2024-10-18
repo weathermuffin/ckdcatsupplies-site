@@ -1,17 +1,17 @@
 ---
-title: Renal
+title: "&#x1F535; Renal"
 layout: default
 nav_order: 34
 ---
 
 # Renal
 
+
 ## Kan Essentials Rehmannia Eight Combination
 
-[Renal](renal.html)
+[Renal]({% link docs/renal.md %})
 {: .label }
-[Supplements](supplements.html)
+[Supplements]({% link docs/supplements.md %})
 {: .label }
 
-
-<!-- Updated 2024-10-18 02:52:49.339144Z -->
+<!-- Updated 2024-10-18 19:48:32.420487Z -->

@@ -14,5 +14,5 @@ Update gems
 
 ```bash
 docker-compose run jekyll /bin/bash
-$ bundle
+$ bundle install
 ```

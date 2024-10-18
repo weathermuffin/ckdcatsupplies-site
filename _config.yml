@@ -7,6 +7,7 @@ url: https://ckdcatsupplies.com
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-target-blank
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template

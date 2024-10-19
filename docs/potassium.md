@@ -35,4 +35,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 >
 > Before Dad knew what he was doing, we once had to go to the ER for hypokalemia. That was not much fun. This got my potassium up fast. I take it every day now. Definitely get the powder, not the gel. I don't notice the powder when added to my food.
 
-<!-- Updated 2024-10-18 22:47:25.271281Z -->
+<!-- Updated 2024-10-19 00:40:48.005020Z -->

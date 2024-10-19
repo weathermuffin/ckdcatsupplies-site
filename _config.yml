@@ -9,6 +9,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-target-blank
 
+markdown: kramdown
+
 callouts:
   lunasays:
     title: Luna Says

@@ -28,4 +28,4 @@ View on <a href="https://www.amazon.com/dp/B08B7DVLY1" class="external" target="
 [**Syringes**]({% link docs/syringes.md %})
 {: .label }
 
-<!-- Updated 2024-10-18 22:47:25.271281Z -->
+<!-- Updated 2024-10-19 00:40:48.005020Z -->

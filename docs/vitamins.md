@@ -54,4 +54,4 @@ View on <a href="https://www.vitacost.com/vitacost-vitamin-b-12-methylcobalamin-
 >
 > This helps me keep the anemia away. I take it every day mixed in food and don't even notice it. It's odorless and tasteless.
 
-<!-- Updated 2024-10-18 22:47:25.271281Z -->
+<!-- Updated 2024-10-19 00:40:48.005020Z -->

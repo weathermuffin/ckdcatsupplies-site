@@ -14,7 +14,7 @@ GENERATED FILE - DO NOT EDIT
 Helping you find the best products and supplies for your CKD kitty,
 at the best prices.
 
-First time here? [Start here.]({% link docs/first-time.md %})
+First time here? [Start here.]({% link docs/start-here.md %})
 
 ## All CATegories &#x1F639;
 
@@ -141,5 +141,4 @@ First time here? [Start here.]({% link docs/first-time.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-
-<!-- Updated 2024-10-18 22:47:25.271281Z -->
+<!-- Updated 2024-10-19 00:40:48.005020Z -->

@@ -1,10 +1,14 @@
 ---
-title: "&#x1F449; First Time"
+title: "&#x1F449; Start Here"
 layout: default
 nav_order: 101
 ---
 
-# First Time
+{% comment %} 
+GENERATED FILE - DO NOT EDIT
+{% endcomment %}
+
+# Start Here
 
 Welcome! Although, if you're here, it means your cat has CKD, and
 I'm sorry for that.
@@ -39,11 +43,11 @@ like CKD. They may be too up to their eyeballs pulling foxtails
 out of dogs and other day-to-day requirements to give your cat's
 CKD the time, attention, and painstaking research it deserves.
 And, sadly, many vets suggest euthanasia way too early.
-This disease is an intricate dance, and finding a competent
-veterinary internal medicine specialist to work with now will
-serve you well in the long run. Specialists have a tendency to
-book up well in advance, so the sooner you can get on the
-calendar, the better.
+This disease is an intricate &mdash; but manageable &mdash; dance
+and finding a competent veterinary internal medicine specialist
+to work with will serve you in the long run. Specialists have a
+tendency to book up well in advance, so the sooner you can get
+on the calendar, the better.
 
 One more note about the felinecrf.org website mentioned above.
 Once you've had a chance to read it, and realize what an incredible
@@ -77,8 +81,8 @@ like
 
 ...then come to this vetted list of CKD cat supplies.
 
-Go ahead and bookmark this site now so you can be sure and find it
-again when you need it.
+**Go ahead and bookmark this site now so you can be sure and find it
+again when you need it.**
 
 Each item that appears provides valuable information at your
 fingertips, such as
@@ -101,4 +105,133 @@ for your home location, please let me know in an email.
 Best wishes on your CKD journey. If you have any questions or
 concerns, please reach out. I'm here to help.
 
-&#x2764; Chuck & Luna
+&#x2764; Chuck & Luna ([About]({% link docs/about.md %}))
+
+
+## Where To Next?
+
+Browse one of the following CATegories... &#x1F639;
+
+[**Anemia**]({% link docs/anemia.md %})
+{: .label }
+
+[**Antioxidant**]({% link docs/antioxidant.md %})
+{: .label }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+
+[**Arthritis**]({% link docs/arthritis.md %})
+{: .label }
+
+[**B vitamins**]({% link docs/b-vitamins.md %})
+{: .label }
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+
+[**Blood pressure**]({% link docs/blood-pressure.md %})
+{: .label }
+
+[**Capsules**]({% link docs/capsules.md %})
+{: .label }
+
+[**Constipation**]({% link docs/constipation.md %})
+{: .label }
+
+[**Dental**]({% link docs/dental.md %})
+{: .label }
+
+[**Diarrhea**]({% link docs/diarrhea.md %})
+{: .label }
+
+[**Enteric dialysis**]({% link docs/enteric-dialysis.md %})
+{: .label }
+
+[**Fluids**]({% link docs/fluids.md %})
+{: .label }
+
+[**Grooming**]({% link docs/grooming.md %})
+{: .label }
+
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+
+[**Hydration**]({% link docs/hydration.md %})
+{: .label }
+
+[**Inflammation**]({% link docs/inflammation.md %})
+{: .label }
+
+[**Iron**]({% link docs/iron.md %})
+{: .label }
+
+[**LRS**]({% link docs/lrs.md %})
+{: .label }
+
+[**Medicating**]({% link docs/medicating.md %})
+{: .label }
+
+[**Misc**]({% link docs/misc.md %})
+{: .label }
+
+[**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+[**Needles**]({% link docs/needles.md %})
+{: .label }
+
+[**Non-renal food**]({% link docs/non-renal-food.md %})
+{: .label }
+
+[**Omega-3**]({% link docs/omega-3.md %})
+{: .label }
+
+[**Oral**]({% link docs/oral.md %})
+{: .label }
+
+[**PEA**]({% link docs/pea.md %})
+{: .label }
+
+[**Pain**]({% link docs/pain.md %})
+{: .label }
+
+[**Phosphate binders**]({% link docs/phosphate-binders.md %})
+{: .label }
+
+[**Pilling**]({% link docs/pilling.md %})
+{: .label }
+
+[**Potassium**]({% link docs/potassium.md %})
+{: .label }
+
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+[**Renal**]({% link docs/renal.md %})
+{: .label }
+
+[**Renal food**]({% link docs/renal-food.md %})
+{: .label }
+
+[**Sub-Qs**]({% link docs/sub-qs.md %})
+{: .label }
+
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+[**Syringes**]({% link docs/syringes.md %})
+{: .label }
+
+[**Transdermals**]({% link docs/transdermals.md %})
+{: .label }
+
+[**Treats**]({% link docs/treats.md %})
+{: .label }
+
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+[**Vitamins**]({% link docs/vitamins.md %})
+{: .label }
+

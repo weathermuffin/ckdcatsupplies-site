@@ -33,4 +33,4 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softge
 >
 > Dad mixes this into a bit of Fancy Feast each day as a fun little treat! He's happy, I'm happy.
 
-<!-- Updated 2024-10-18 22:47:25.271281Z -->
+<!-- Updated 2024-10-19 00:40:48.005020Z -->

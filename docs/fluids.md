@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Fluids"
 layout: default
-nav_order: 14
+nav_order: 15
 ---
 
 # Fluids
@@ -45,4 +45,9 @@ View on <a href="https://www.chewy.com/dp/179221" class="external" target="_blan
 
 View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 01:01:58.261546Z -->
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Well I can't say it's my favorite way to pass the time, but I do feel better and more hydrated after these fluids.
+
+<!-- Updated 2024-10-19 19:30:19.856427Z -->

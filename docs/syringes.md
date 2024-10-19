@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Syringes"
 layout: default
-nav_order: 38
+nav_order: 40
 ---
 
 # Syringes
@@ -34,4 +34,9 @@ View on <a href="https://www.amazon.com/dp/B08B7DVLY1" class="external" target="
 [**Syringes**]({% link docs/syringes.md %})
 {: .label }
 
-<!-- Updated 2024-10-19 01:01:58.261546Z -->
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> These are good syringes that can be reused without the markings fading so quickly. Plus, the 0.01 mL gradations make for very accurate dosing!
+
+<!-- Updated 2024-10-19 19:30:19.856427Z -->

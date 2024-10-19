@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Vitamins"
 layout: default
-nav_order: 42
+nav_order: 44
 ---
 
 # Vitamins
@@ -60,4 +60,4 @@ View on <a href="https://www.vitacost.com/vitacost-vitamin-b-12-methylcobalamin-
 >
 > This helps me keep the anemia away. I take it every day mixed in food and don't even notice it. It's odorless and tasteless.
 
-<!-- Updated 2024-10-19 01:01:58.261546Z -->
+<!-- Updated 2024-10-19 19:30:19.856427Z -->

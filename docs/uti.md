@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; UTI"
 layout: default
-nav_order: 41
+nav_order: 43
 ---
 
 # UTI
@@ -15,6 +15,11 @@ nav_order: 41
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B0856W45VL" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> This is useful if Dad needs to leave the house for a bit, or wants to see if I'm lounging by the litter box in an unhealthy way.
 
 * * *
 
@@ -40,7 +45,7 @@ View on <a href="https://www.vitacost.com/kal-d-mannose-powder" class="external"
 
 
 
-## Petivity Smart Litter Box Monitor
+## Petivity by Purina Petivity Smart Litter Box Monitor
 
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
@@ -51,4 +56,9 @@ View on <a href="https://www.vitacost.com/kal-d-mannose-powder" class="external"
 
 View on <a href="https://www.chewy.com/dp/811854" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://www.amazon.com/dp/B0C7S7NPMX" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://www.petivity.com/products/smart-litter-box-monitor" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 01:01:58.261546Z -->
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> I'll never understand it, but Dad likes to monitor my litter box habits. (I know, right?!) This tells him when I use the box, what I did (#1 or #2), how long I was in there, and even my weight! Heck, just monitoring my weight day-to-day is extremely valuable. But my dad also geeks out on all the stats and other info. &#x1F913;
+
+<!-- Updated 2024-10-19 19:30:19.856427Z -->

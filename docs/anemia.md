@@ -18,6 +18,11 @@ nav_order: 2
 
 View on <a href="https://www.naturalpetwarehouse.com/fresh-is-best-freeze-dried-duck-liver-fillets-dog-treats" class="external" target="_blank">Natural Pet Warehouse <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> My internal medicine specialist said liver is a good source of iron and may help with keeping anemia away. So far, so good!
+
 * * *
 
 
@@ -53,6 +58,11 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
  <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chicken-hearts-dog-treats" class="external" target="_blank">Natural Pet Warehouse <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> The first time Dad opened these up, I followed him around the house begging for a whole hour! I personally don't like to eat these on their own, but I do enjoy having some ground up and mixed in my food. Dad likes that these help with B vitamins and iron.
 
 * * *
 
@@ -95,4 +105,9 @@ View on <a href="https://www.vitacost.com/vitacost-vitamin-b-12-methylcobalamin-
 
 View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 01:01:58.261546Z -->
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Another option for chicken hearts! Yum.
+
+<!-- Updated 2024-10-19 19:30:19.856427Z -->

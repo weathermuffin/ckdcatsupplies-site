@@ -145,6 +145,9 @@ Browse one of the following CATegories... &#x1F639;
 [**Diarrhea**]({% link docs/diarrhea.md %})
 {: .label }
 
+[**Ears**]({% link docs/ears.md %})
+{: .label }
+
 [**Enteric dialysis**]({% link docs/enteric-dialysis.md %})
 {: .label }
 
@@ -188,6 +191,9 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Oral**]({% link docs/oral.md %})
+{: .label }
+
+[**Otitis**]({% link docs/otitis.md %})
 {: .label }
 
 [**PEA**]({% link docs/pea.md %})

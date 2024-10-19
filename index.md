@@ -51,6 +51,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 [**Diarrhea**]({% link docs/diarrhea.md %})
 {: .label }
 
+[**Ears**]({% link docs/ears.md %})
+{: .label }
+
 [**Enteric dialysis**]({% link docs/enteric-dialysis.md %})
 {: .label }
 
@@ -94,6 +97,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 {: .label }
 
 [**Oral**]({% link docs/oral.md %})
+{: .label }
+
+[**Otitis**]({% link docs/otitis.md %})
 {: .label }
 
 [**PEA**]({% link docs/pea.md %})
@@ -141,4 +147,4 @@ First time here? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2024-10-19 01:01:58.261546Z -->
+<!-- Updated 2024-10-19 19:30:19.856427Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Omega-3"
 layout: default
-nav_order: 26
+nav_order: 27
 ---
 
 # Omega-3
@@ -36,4 +36,4 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softge
 >
 > Dad mixes this into a bit of Fancy Feast each day as a fun little treat! He's happy, I'm happy.
 
-<!-- Updated 2024-10-19 01:01:58.261546Z -->
+<!-- Updated 2024-10-19 19:30:19.856427Z -->

@@ -1,13 +1,13 @@
 ---
 title: "&#x1F535; Phosphate binders"
 layout: default
-nav_order: 30
+nav_order: 32
 ---
 
 # Phosphate binders
 
 
-## Rx Vitamins Phos-Bind (35 g)
+## Rx Vitamins Phos-Bind
 
 [**Phosphate binders**]({% link docs/phosphate-binders.md %})
 {: .label }
@@ -26,7 +26,7 @@ View on <a href="https://www.chewy.com/dp/186061" class="external" target="_blan
 
 
 
-## ThrivingPets Aluminum Hydroxide
+## ThrivingPets Aluminum Hydroxide Powder
 
 [**Phosphate binders**]({% link docs/phosphate-binders.md %})
 {: .label }
@@ -59,4 +59,9 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 
 View on <a href="https://www.chewy.com/dp/102188" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 01:01:58.261546Z -->
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> We tried this initially, though ultimately we settled on an aluminum hydroxide binder.
+
+<!-- Updated 2024-10-19 19:30:19.856427Z -->

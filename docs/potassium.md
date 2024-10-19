@@ -18,6 +18,9 @@ nav_order: 32
 
 View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Vetoquinol Renal K+ (Powder)
 
@@ -35,4 +38,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 >
 > Before Dad knew what he was doing, we once had to go to the ER for hypokalemia. That was not much fun. This got my potassium up fast. I take it every day now. Definitely get the powder, not the gel. I don't notice the powder when added to my food.
 
-<!-- Updated 2024-10-19 00:40:48.005020Z -->
+<!-- Updated 2024-10-19 01:01:58.261546Z -->

@@ -14,6 +14,9 @@ nav_order: 22
 
 View on <a href="https://www.amazon.com/dp/B0CCB1VRJD" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Lily of the Desert Organic Aloe Vera Juice Inner Fillet
 
@@ -22,11 +25,17 @@ View on <a href="https://www.amazon.com/dp/B0CCB1VRJD" class="external" target="
 
 View on <a href="https://www.vitacost.com/lily-of-the-desert-organic-aloe-vera-juice-inner-fillet-preservative-free-32-fl-oz" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## NOW Slippery Elm Powder
 
 [**Misc**]({% link docs/misc.md %})
 {: .label }
+
+* * *
+
 
 
 ## Silicone Stretch Pet Food Can Lids
@@ -36,6 +45,9 @@ View on <a href="https://www.vitacost.com/lily-of-the-desert-organic-aloe-vera-j
 
 View on <a href="https://www.amazon.com/dp/B07Q5747XZ" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Zymox Ear Cleanser, 4 oz
 
@@ -43,6 +55,9 @@ View on <a href="https://www.amazon.com/dp/B07Q5747XZ" class="external" target="
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/54795" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## Zymox Plus Advanced Formula 1% Hydrocortisone Otic
@@ -52,4 +67,4 @@ View on <a href="https://www.chewy.com/dp/54795" class="external" target="_blank
 
 View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 00:40:48.005020Z -->
+<!-- Updated 2024-10-19 01:01:58.261546Z -->

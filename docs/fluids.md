@@ -24,6 +24,9 @@ View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-li
 
 View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-liter-bags-braun-brand-dehp-free-bags-case-of-12-bags" class="external" target="_blank">ThrivingPets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Vetivex Veterinary DEHP Free Lactated Ringers Electrolyte Injection Solution
 
@@ -42,4 +45,4 @@ View on <a href="https://www.chewy.com/dp/179221" class="external" target="_blan
 
 View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 00:40:48.005020Z -->
+<!-- Updated 2024-10-19 01:01:58.261546Z -->

@@ -14,6 +14,9 @@ nav_order: 15
 
 View on <a href="https://www.chewy.com/dp/233454" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## JW Pet Gripsoft Cat Comb
 
@@ -21,6 +24,9 @@ View on <a href="https://www.chewy.com/dp/233454" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/40173" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## Portable Electric USB Rechargeable Pet Clipper
@@ -30,6 +36,9 @@ View on <a href="https://www.chewy.com/dp/40173" class="external" target="_blank
 
 View on <a href="https://www.amazon.com/dp/B092QN563N" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Self-Cleaning Slicker Brush
 
@@ -38,4 +47,4 @@ View on <a href="https://www.amazon.com/dp/B092QN563N" class="external" target="
 
 View on <a href="https://www.amazon.com/dp/B000YIWUXI" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 00:40:48.005020Z -->
+<!-- Updated 2024-10-19 01:01:58.261546Z -->

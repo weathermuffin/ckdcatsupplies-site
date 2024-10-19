@@ -20,6 +20,9 @@ nav_order: 37
 
 View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## CurcuVET-SA150 Powder
 
@@ -32,6 +35,9 @@ View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blan
 
  <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Duralactin Feline Capsules Cat Supplement
 
@@ -41,6 +47,9 @@ View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## Fresh Is Best Freeze-Dried Duck Livers Dog Treats
@@ -53,6 +62,9 @@ View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.naturalpetwarehouse.com/fresh-is-best-freeze-dried-duck-liver-fillets-dog-treats" class="external" target="_blank">Natural Pet Warehouse <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## Kal D-Mannose Powder (2.5 oz)
@@ -71,6 +83,9 @@ View on <a href="https://www.vitacost.com/kal-d-mannose-powder" class="external"
 >
 > Dad says this tastes sweet, but I don't notice it in my food. We're hopeful it's helping to prevent certain kinds of UTIs. I had a UTI not so long ago, and let me tell you, that was no fun!
 
+* * *
+
+
 
 ## Kan Essentials Rehmannia Eight Combination
 
@@ -79,6 +94,9 @@ View on <a href="https://www.vitacost.com/kal-d-mannose-powder" class="external"
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
+* * *
+
+
 
 ## Life Extension TMG Powder (Trimethylglycine)
 
@@ -86,6 +104,9 @@ View on <a href="https://www.vitacost.com/kal-d-mannose-powder" class="external"
 {: .label }
 
 View on <a href="https://www.vitacost.com/life-extension-tmg-powder-trimethylglycine" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## Nordic Naturals Omega-3 Cat Supplement
@@ -96,6 +117,9 @@ View on <a href="https://www.vitacost.com/life-extension-tmg-powder-trimethylgly
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## NOW Neptune Krill Oil (500 mg softgels, 60 ct)
@@ -114,6 +138,9 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softge
 >
 > Dad mixes this into a bit of Fancy Feast each day as a fun little treat! He's happy, I'm happy.
 
+* * *
+
+
 
 ## NOW NutraFlora FOS Powder
 
@@ -121,6 +148,9 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softge
 {: .label }
 
 View on <a href="https://www.vitacost.com/now-nutraflora-fos-powder" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## NOW Potassium Gluconate Pure Powder
@@ -134,6 +164,9 @@ View on <a href="https://www.vitacost.com/now-nutraflora-fos-powder" class="exte
 
 View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## NOW Taurine Pure Powder
 
@@ -144,11 +177,17 @@ View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" c
 
 View on <a href="https://www.amazon.com/dp/B000BQSQ68" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://www.vitacost.com/now-taurine-powder" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Nutrim Oat Beta-Glucan
 
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
+
+* * *
+
 
 
 ## OC Raw Freeze-Dried Chicken Hearts
@@ -166,6 +205,9 @@ View on <a href="https://www.amazon.com/dp/B000BQSQ68" class="external" target="
 
 View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chicken-hearts-dog-treats" class="external" target="_blank">Natural Pet Warehouse <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Purina Hydra Care, 3 oz
 
@@ -182,6 +224,9 @@ View on <a href="https://www.chewy.com/dp/282734" class="external" target="_blan
 
 View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Rx Vitamins Formula CV Capsules Heart Supplement
 
@@ -192,6 +237,9 @@ View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blan
 
 View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Super Snouts Joint Power (Green-Lipped Mussel)
 
@@ -201,6 +249,9 @@ View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/130969" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## Vetoquinol Renal K+ (Powder)
@@ -219,6 +270,9 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 >
 > Before Dad knew what he was doing, we once had to go to the ER for hypokalemia. That was not much fun. This got my potassium up fast. I take it every day now. Definitely get the powder, not the gel. I don't notice the powder when added to my food.
 
+* * *
+
+
 
 ## Vital Essentials Chicken Hearts Freeze-Dried Raw Cat Treats
 
@@ -235,4 +289,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 
 View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 00:40:48.005020Z -->
+<!-- Updated 2024-10-19 01:01:58.261546Z -->

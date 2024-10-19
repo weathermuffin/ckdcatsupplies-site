@@ -20,6 +20,9 @@ nav_order: 6
 
 View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+* * *
+
+
 
 ## Jarrow Formulas B-Right
 
@@ -34,6 +37,9 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 > &#x1F63A; Luna Says
 >
 > This is good for me but tastes nasty. So it has to go into a capsule, not mixed in my food. Every so often Dad has to divide up the chonker of a human dose into size 5 gelcaps I can handle.
+
+* * *
+
 
 
 ## OC Raw Freeze-Dried Chicken Hearts
@@ -50,6 +56,9 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
  <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chicken-hearts-dog-treats" class="external" target="_blank">Natural Pet Warehouse <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 
 
 ## Vitacost Vitamin B-12 Methylcobalamin Capsules, 500 mcg (300 ct)
@@ -70,6 +79,9 @@ View on <a href="https://www.vitacost.com/vitacost-vitamin-b-12-methylcobalamin-
 >
 > This helps me keep the anemia away. I take it every day mixed in food and don't even notice it. It's odorless and tasteless.
 
+* * *
+
+
 
 ## Vital Essentials Chicken Hearts Freeze-Dried Raw Cat Treats
 
@@ -86,4 +98,4 @@ View on <a href="https://www.vitacost.com/vitacost-vitamin-b-12-methylcobalamin-
 
 View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 00:40:48.005020Z -->
+<!-- Updated 2024-10-19 01:01:58.261546Z -->

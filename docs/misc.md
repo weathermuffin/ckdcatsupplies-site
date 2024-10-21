@@ -41,4 +41,4 @@ View on <a href="https://www.amazon.com/dp/B0CCB1VRJD" class="external" target="
 
 View on <a href="https://www.amazon.com/dp/B07Q5747XZ" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-21 20:38:50.807685Z -->
+<!-- Updated 2024-10-21 20:52:34.593065Z -->

@@ -20,14 +20,6 @@ nav_order: 16
 
  <a href="https://www.bbraunusa.com/en/products/b/lactated-ringer-sinjections.html" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-### 1 Liter
-
-View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-liter-bags" class="external" target="_blank">ThrivingPets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
-### 1 Liter, Case of 12
-
-View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-liter-bags-braun-brand-dehp-free-bags-case-of-12-bags" class="external" target="_blank">ThrivingPets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
 * * *
 
 
@@ -45,17 +37,9 @@ View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-li
 
  <a href="https://www.dechra-us.com/our-products/us/companion-animal/cat/prescription/vetivex-veterinary-fluids#Veterinary-Lactated-Ringer-s-Injection-USP" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-### 500 mL
-
-View on <a href="https://www.chewy.com/dp/179221" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
-### 1,000 mL
-
-View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Well I can't say it's my favorite way to pass the time, but I do feel better and more hydrated after these fluids.
 
-<!-- Updated 2024-10-21 20:38:50.807685Z -->
+<!-- Updated 2024-10-21 20:52:34.593065Z -->

@@ -18,23 +18,23 @@ nav_order: 45
 
 ### variety, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781454" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007780088" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007780088" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### salmon, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781406" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007747320" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007747320" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### tuna, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781422" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007714552" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007714552" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### chicken & liver, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781390" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007681784" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007681784" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### chicken & shrimp, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781438" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007649016" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007649016" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -50,8 +50,6 @@ View on <a href="https://www.chewy.com/dp/781438" class="external" target="_blan
 {: .label }
 
  <a href="https://www.churuvet.com/nourish" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.vetrxdirect.com/product/view/churu-veterinarian-formula-appetite-motivator-for-cats-otc" class="external" target="_blank">VetRxDirect <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -73,7 +71,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/churu-veterinarian-for
 [**Treats**]({% link docs/treats.md %})
 {: .label }
 
-View on <a href="https://www.chewy.com/dp/33780" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B000JOE224" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.greenies.com/products/feline-greenies-pill-pockets-for-cats-natural-soft-cat-treats-salmon-flavor-16-oz-pack-45-treats" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B000JOE224" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.greenies.com/products/feline-greenies-pill-pockets-for-cats-natural-soft-cat-treats-salmon-flavor-16-oz-pack-45-treats" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -95,7 +93,7 @@ View on <a href="https://www.chewy.com/dp/33780" class="external" target="_blank
 
  <a href="https://www.temptationstreats.com/products/treats/tasty-chicken-flavor" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/109154" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B006LRL8IO" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B006LRL8IO" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -121,7 +119,7 @@ View on <a href="https://www.chewy.com/dp/109154" class="external" target="_blan
 
 ### 20 ct
 
-View on <a href="https://www.chewy.com/dp/883494" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0C7XN4V25" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0C7XN4V25" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 160 ct
 
@@ -132,4 +130,4 @@ View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP" class="external" target="
 >
 > This works very well for smothering capsules, or even plain as a chaser after those nasty oral medicines. (Gross!) I heard Dad mumble something about low sodium and the cardiologist.
 
-<!-- Updated 2024-10-21 20:38:50.807685Z -->
+<!-- Updated 2024-10-21 20:52:34.593065Z -->

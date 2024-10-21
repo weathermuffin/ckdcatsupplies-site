@@ -16,15 +16,15 @@ nav_order: 4
 
 ### 1 ct
 
-View on <a href="https://www.chewy.com/dp/57068" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607645831" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607645831" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 3 ct
 
-View on <a href="https://www.chewy.com/dp/179225" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607678599" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607678599" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 6 ct
 
-View on <a href="https://www.chewy.com/dp/141899" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607711367" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607711367" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -37,7 +37,7 @@ View on <a href="https://www.chewy.com/dp/141899" class="external" target="_blan
 [**Anxiety**]({% link docs/anxiety.md %})
 {: .label }
 
-View on <a href="https://www.chewy.com/dp/57066" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-starter-set" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://us.feliway.com/products/feliway-classic-starter-set" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -50,6 +50,6 @@ View on <a href="https://www.chewy.com/dp/57066" class="external" target="_blank
 [**Anxiety**]({% link docs/anxiety.md %})
 {: .label }
 
-View on <a href="https://www.chewy.com/dp/141900" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-spray-60ml" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://us.feliway.com/products/feliway-classic-spray-60ml" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-21 20:38:50.807685Z -->
+<!-- Updated 2024-10-21 20:52:34.593065Z -->

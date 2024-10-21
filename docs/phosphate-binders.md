@@ -18,11 +18,11 @@ nav_order: 35
 
 ### 35 g
 
-View on <a href="https://www.chewy.com/dp/848134" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0CX73HXPF" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0CX73HXPF" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 200 g
 
-View on <a href="https://www.chewy.com/dp/186061" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0D2PKNP51" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0D2PKNP51" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -36,14 +36,6 @@ View on <a href="https://www.chewy.com/dp/186061" class="external" target="_blan
 {: .label }
 
  <a href="https://felinecrf.org/phosphorus_binders.htm#aluminium_hydroxide" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
-### 50 g
-
-View on <a href="https://thrivingpets.com/products/thrivingpets-aluminum-hydroxide-powder-usp-50g-jar" class="external" target="_blank">ThrivingPets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
-### 200 g
-
-View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp-200-gram-jar" class="external" target="_blank">ThrivingPets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -63,21 +55,9 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 
  <a href="https://www.vetoquinolusa.com/products/epakitin" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/phosphorus_binders.htm#ipakitine" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-### 60 g
-
-View on <a href="https://www.chewy.com/dp/102188" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
-### 180 g
-
-View on <a href="https://www.chewy.com/dp/102189" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
-### 300 g
-
-View on <a href="https://www.chewy.com/dp/102190" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > We tried this initially, though ultimately we settled on an aluminum hydroxide binder.
 
-<!-- Updated 2024-10-21 20:38:50.807685Z -->
+<!-- Updated 2024-10-21 20:52:34.593065Z -->

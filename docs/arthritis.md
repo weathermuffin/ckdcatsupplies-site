@@ -20,8 +20,6 @@ nav_order: 5
 
  <a href="https://www.dechra-us.com/our-products/us/companion-animal/cat/non-prescription/redonyl-ultra-feline" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-for-dogs-otc/variation-13786" class="external" target="_blank">VetRxDirect <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -49,8 +47,6 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 
  <a href="https://www.duralactin.com/feline-products/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_microlactin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
 * * *
 
 
@@ -59,8 +55,6 @@ View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blan
 
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
-
-View on <a href="https://www.chewy.com/dp/167090" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -88,7 +82,7 @@ View on <a href="https://www.amazon.com/dp/B07HMLT6SF" class="external" target="
 
  <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/senior" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B0CLYZJS25" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.chewy.com/dp/1021414" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.petco.com/shop/en/petcostore/product/nutramax-cosequin-senior-joint-health-supplement-sprinkle-capsules-for-cats-count-of-60-3909252" class="external" target="_blank">Petco <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0CLYZJS25" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -112,7 +106,7 @@ View on <a href="https://www.amazon.com/dp/B0CLYZJS25" class="external" target="
 
  <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/max" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B003ZWLFWW" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.chewy.com/dp/35570" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://store.cosequin.com/collections/cat-products/products/cosequin-for-cats-sprinkle-capsules" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B003ZWLFWW" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://store.cosequin.com/collections/cat-products/products/cosequin-for-cats-sprinkle-capsules" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -135,7 +129,7 @@ View on <a href="https://www.amazon.com/dp/B003ZWLFWW" class="external" target="
 
  <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/original" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B000F4W02M" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.chewy.com/dp/101450" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B000F4W02M" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -158,7 +152,7 @@ View on <a href="https://www.amazon.com/dp/B000F4W02M" class="external" target="
 
  <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/boswellia" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B0772WG4R8" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.petco.com/shop/en/petcostore/product/cosequin-joint-health-plus-boswellia-cat-supplement-pack-of-60-tablets-2353416" class="external" target="_blank">Petco <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0772WG4R8" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -203,7 +197,7 @@ View on <a href="https://www.amazon.com/dp/B0772WG4R8" class="external" target="
 
  <a href="https://www.dasuquin.com/product/dasuquin-sprinkle-capsules-for-cats" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B001ICRYTY" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.chewy.com/dp/35844" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B001ICRYTY" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -226,11 +220,11 @@ View on <a href="https://www.amazon.com/dp/B001ICRYTY" class="external" target="
 
 ### 75 g
 
-View on <a href="https://www.chewy.com/dp/130969" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-power-1" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-power-1" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 150 g
 
-View on <a href="https://www.chewy.com/dp/804166" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-power-1" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-power-1" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -262,14 +256,14 @@ View on <a href="https://www.chewy.com/dp/804166" class="external" target="_blan
 
 ### 30 ct
 
-View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B07CT1F6KB" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107572816" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B07CT1F6KB" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107572816" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 60 ct
 
-View on <a href="https://www.chewy.com/dp/231715" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B00USLDY8Q" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107638352" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B00USLDY8Q" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107638352" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 120 ct
 
-View on <a href="https://www.chewy.com/dp/231716" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B00CAB5PU2" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107703888" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B00CAB5PU2" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107703888" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-21 20:38:50.807685Z -->
+<!-- Updated 2024-10-21 20:52:34.593065Z -->

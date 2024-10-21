@@ -14,6 +14,8 @@ nav_order: 40
 
  <a href="https://bluebuffalo.com/dry-cat-food/blue-natural-veterinary-diet/kidney-mobility/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+View on <a href="https://www.chewy.com/dp/174510" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -29,6 +31,8 @@ nav_order: 40
 {: .label }
 
  <a href="https://bluebuffalo.com/wet-cat-food/natural-veterinary-diet/kidney-mobility/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.chewy.com/dp/174518" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -48,6 +52,8 @@ nav_order: 40
 
  <a href="https://www.hillspet.com/cat-food/pd-kd-early-support-feline-chicken-dry" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+View on <a href="https://www.chewy.com/dp/175305" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -66,6 +72,8 @@ nav_order: 40
 
  <a href="https://www.royalcanin.com/us/cats/products/vet-products/renal-support-e-loaf-in-sauce-4168" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+View on <a href="https://www.chewy.com/dp/297392" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -82,7 +90,7 @@ nav_order: 40
 [**Renal food**]({% link docs/renal-food.md %})
 {: .label }
 
-View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/chicken-formulas-variety-pack-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/578142" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/collections/wx-phos-focused/products/chicken-formulas-variety-pack-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -97,11 +105,11 @@ View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/chi
 
 ### Chicken
 
-View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/chicken-formula-in-gravy-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/578086" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/collections/wx-phos-focused/products/chicken-formula-in-gravy-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### Chicken & Tilapia
 
-View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/chicken-and-tilapia-formula-in-gravy-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/578102" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/collections/wx-phos-focused/products/chicken-and-tilapia-formula-in-gravy-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -121,23 +129,23 @@ View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/chi
 
 ### Chicken
 
-View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/chicken-formula-in-a-hydrating-puree-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/578046" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/collections/wx-phos-focused/products/chicken-formula-in-a-hydrating-puree-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### Tilapia & Tuna
 
-View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/tilapia-and-tuna-formula-in-a-hydrating-puree-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/578062" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/collections/wx-phos-focused/products/tilapia-and-tuna-formula-in-a-hydrating-puree-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### Tilapia & Chicken
 
-View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/tilapia-and-chicken-formula-in-a-hydrating-puree-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/578070" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/collections/wx-phos-focused/products/tilapia-and-chicken-formula-in-a-hydrating-puree-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### Variety Pack
 
-View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/pate-formulas-variety-pack-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/578126" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/collections/wx-phos-focused/products/pate-formulas-variety-pack-cat-can" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > I really liked this food. Sadly, I think I was allergic to the egg in it. But lots of kitties enjoy this food. It's a good source of protein with low phosphorus, a nice option for a CKD kitty. Bonus: it doesn't require a prescription!
 
-<!-- Updated 2024-10-21 23:06:55.390018Z -->
+<!-- Updated 2024-10-21 23:24:29.273313Z -->

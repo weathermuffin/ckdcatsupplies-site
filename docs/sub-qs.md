@@ -47,6 +47,22 @@ nav_order: 41
 [**Sub-Qs**]({% link docs/sub-qs.md %})
 {: .label }
 
+### 1 ct
+
+View on <a href="https://www.chewy.com/dp/204475" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 2 ct
+
+View on <a href="https://www.chewy.com/dp/316435" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 3 ct
+
+View on <a href="https://www.chewy.com/dp/322121" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 4 ct
+
+View on <a href="https://www.chewy.com/dp/322122" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
 * * *
 
 
@@ -104,9 +120,17 @@ nav_order: 41
 
  <a href="https://www.dechra-us.com/our-products/us/companion-animal/cat/prescription/vetivex-veterinary-fluids#Veterinary-Lactated-Ringer-s-Injection-USP" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+### 500 mL
+
+View on <a href="https://www.chewy.com/dp/179221" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 1,000 mL
+
+View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Well I can't say it's my favorite way to pass the time, but I do feel better and more hydrated after these fluids.
 
-<!-- Updated 2024-10-21 23:06:55.390018Z -->
+<!-- Updated 2024-10-21 23:24:29.273313Z -->

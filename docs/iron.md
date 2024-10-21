@@ -68,9 +68,11 @@ View on <a href="https://www.freshisbest.com/product/freeze-dried-duck-livers/" 
 
  <a href="https://www.vitalessentials.com/products/freeze-dried-raw-chicken-hearts-cat-treats" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Another option for chicken hearts! Yum.
 
-<!-- Updated 2024-10-21 23:06:55.390018Z -->
+<!-- Updated 2024-10-21 23:24:29.273313Z -->

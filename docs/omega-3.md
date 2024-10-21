@@ -18,7 +18,7 @@ nav_order: 30
 
  <a href="https://felinecrf.org/nutritional_requirements.htm#essential_fatty_acids" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B008OYAZUE/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nordic.com/products/omega-3-cat/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nordic.com/products/omega-3-cat/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -64,4 +64,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-
 
 </details>
 
-<!-- Updated 2024-10-21 23:06:55.390018Z -->
+<!-- Updated 2024-10-21 23:24:29.273313Z -->

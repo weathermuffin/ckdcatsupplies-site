@@ -12,8 +12,6 @@ nav_order: 25
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0BNL5JCVR/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -28,8 +26,6 @@ View on <a href="https://www.amazon.com/dp/B0BNL5JCVR/ref=nosim?tag=ckdcatsuppli
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
 * * *
 
 
@@ -39,6 +35,4 @@ View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsuppli
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B07Q5747XZ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-10-21 23:06:55.390018Z -->
+<!-- Updated 2024-10-21 23:24:29.273313Z -->

@@ -16,11 +16,11 @@ nav_order: 44
 
 ### 16 fl. oz.
 
-View on <a href="https://www.amazon.com/dp/B019G9OZ2O/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://lilyofthedesert.com/shop/lily-of-the-desert/aloe-vera-juices-gels/inner-fillet-juice/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://lilyofthedesert.com/shop/lily-of-the-desert/aloe-vera-juices-gels/inner-fillet-juice/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 32 fl. oz.
 
-View on <a href="https://www.amazon.com/dp/B00028POJ2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://lilyofthedesert.com/shop/lily-of-the-desert/aloe-vera-juices-gels/inner-fillet-juice/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://lilyofthedesert.com/shop/lily-of-the-desert/aloe-vera-juices-gels/inner-fillet-juice/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -40,11 +40,9 @@ View on <a href="https://www.amazon.com/dp/B00028POJ2/ref=nosim?tag=ckdcatsuppli
 [**Transdermals**]({% link docs/transdermals.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Dad wears these when giving me transdermal medications. Can't say I enjoy it, but better that than some gross oral medicine!
 
-<!-- Updated 2024-10-21 23:06:55.390018Z -->
+<!-- Updated 2024-10-21 23:24:29.273313Z -->

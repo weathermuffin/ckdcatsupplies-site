@@ -39,4 +39,4 @@ View on <a href="https://www.rawpawspetfood.com/pumpkin-powder-digestive-supplem
 >
 > I've had some trouble in the past with, ahem, ruptured anal glands. Pumpkin helps bulk up my stool and naturally keep the glands expressed. Dad says this powder is more convenient and less wasteful than canned pumpkin.
 
-<!-- Updated 2024-10-21 21:43:09.008370Z -->
+<!-- Updated 2024-10-21 23:06:55.390018Z -->

@@ -45,4 +45,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/potassium-glucona
 >
 > Before Dad knew what he was doing (as if he does now!), we once had to go to the ER for hypokalemia. That was not much fun. This got my potassium up fast. I take it every day now. Definitely get the powder, not the gel. I don't notice the powder when added to my food.
 
-<!-- Updated 2024-10-21 21:43:09.008370Z -->
+<!-- Updated 2024-10-21 23:06:55.390018Z -->

@@ -73,4 +73,4 @@ View on <a href="https://www.freshisbest.com/product/freeze-dried-duck-livers/" 
 >
 > Another option for chicken hearts! Yum.
 
-<!-- Updated 2024-10-21 21:43:09.008370Z -->
+<!-- Updated 2024-10-21 23:06:55.390018Z -->

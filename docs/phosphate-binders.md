@@ -18,11 +18,11 @@ nav_order: 35
 
 ### 35 g
 
-View on <a href="https://www.amazon.com/dp/B0CX73HXPF?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0CX73HXPF/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 200 g
 
-View on <a href="https://www.amazon.com/dp/B0D2PKNP51?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0D2PKNP51/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -60,4 +60,4 @@ View on <a href="https://www.amazon.com/dp/B0D2PKNP51?tag=ckdcatsupplies-20" cla
 >
 > We tried this initially, though ultimately we settled on an aluminum hydroxide binder.
 
-<!-- Updated 2024-10-21 21:43:09.008370Z -->
+<!-- Updated 2024-10-21 23:06:55.390018Z -->

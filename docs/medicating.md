@@ -18,7 +18,7 @@ nav_order: 24
 [**Treats**]({% link docs/treats.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B000JOE224?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.greenies.com/products/feline-greenies-pill-pockets-for-cats-natural-soft-cat-treats-salmon-flavor-16-oz-pack-45-treats" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B000JOE224/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.greenies.com/products/feline-greenies-pill-pockets-for-cats-natural-soft-cat-treats-salmon-flavor-16-oz-pack-45-treats" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -38,7 +38,7 @@ View on <a href="https://www.amazon.com/dp/B000JOE224?tag=ckdcatsupplies-20" cla
 [**Transdermals**]({% link docs/transdermals.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0BS6MDCT5?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -61,4 +61,4 @@ View on <a href="https://www.amazon.com/dp/B0BS6MDCT5?tag=ckdcatsupplies-20" cla
 >
 > Ugh I really hate this thing! But occasionally it's a necessary evil. This one works well due to its long length and easily holds size 3-5 capsules.
 
-<!-- Updated 2024-10-21 21:43:09.008370Z -->
+<!-- Updated 2024-10-21 23:06:55.390018Z -->

@@ -14,7 +14,7 @@ nav_order: 19
 [**Heart**]({% link docs/heart.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B000BD0RRM?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-nattokinase-2-000-fus-90-veggie-caps-33" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B000BD0RRM/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-nattokinase-2-000-fus-90-veggie-caps-33" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -27,7 +27,7 @@ View on <a href="https://www.amazon.com/dp/B000BD0RRM?tag=ckdcatsupplies-20" cla
 [**Heart**]({% link docs/heart.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0014I4XMS?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-ubiquinol-with-kaneka-50-mg-90-softgels-12631" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0014I4XMS/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-ubiquinol-with-kaneka-50-mg-90-softgels-12631" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -42,7 +42,7 @@ View on <a href="https://www.amazon.com/dp/B0014I4XMS?tag=ckdcatsupplies-20" cla
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0011E8DG2?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-747xp-blackout-black" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0011E8DG2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-747xp-blackout-black" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -62,7 +62,7 @@ View on <a href="https://www.amazon.com/dp/B0011E8DG2?tag=ckdcatsupplies-20" cla
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B000BQSQ68?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/taurine-pure-powder" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B000BQSQ68/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/taurine-pure-powder" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -85,7 +85,7 @@ View on <a href="https://www.amazon.com/dp/B000BQSQ68?tag=ckdcatsupplies-20" cla
 
  <a href="https://www.rxvitamins.com/rxvitaminsforpet/product-category/cardiovascular-health-products/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B01GL01D6C?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B01GL01D6C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -114,15 +114,15 @@ View on <a href="https://www.amazon.com/dp/B01GL01D6C?tag=ckdcatsupplies-20" cla
 
 ### 20 ct
 
-View on <a href="https://www.amazon.com/dp/B0C7XN4V25?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0C7XN4V25/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 160 ct
 
-View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > This works very well for smothering capsules, or even plain as a chaser after those nasty oral medicines. (Gross!) I heard Dad mumble something about low sodium and the cardiologist.
 
-<!-- Updated 2024-10-21 21:43:09.008370Z -->
+<!-- Updated 2024-10-21 23:06:55.390018Z -->

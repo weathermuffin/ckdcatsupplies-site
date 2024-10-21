@@ -45,6 +45,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 [**Constipation**]({% link docs/constipation.md %})
 {: .label }
 
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+
 [**Dental**]({% link docs/dental.md %})
 {: .label }
 
@@ -58,6 +61,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 {: .label }
 
 [**Fluids**]({% link docs/fluids.md %})
+{: .label }
+
+[**GI**]({% link docs/gi.md %})
 {: .label }
 
 [**Grooming**]({% link docs/grooming.md %})
@@ -85,6 +91,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 {: .label }
 
 [**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+[**Nausea**]({% link docs/nausea.md %})
 {: .label }
 
 [**Needles**]({% link docs/needles.md %})
@@ -147,4 +156,4 @@ First time here? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2024-10-19 19:30:19.856427Z -->
+<!-- Updated 2024-10-21 20:38:50.807685Z -->

@@ -1,10 +1,26 @@
 ---
 title: "&#x1F535; Misc"
 layout: default
-nav_order: 23
+nav_order: 25
 ---
 
 # Misc
+
+
+## BAGAIL Kitchen Scale, 0.1 g Precision
+
+[**Misc**]({% link docs/misc.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B0BNL5JCVR" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Handy for weighing food, water bowls, supplements, drugs, etc. And even for making coffee! It's not the most accurate scale, but it's good enough, and a great price.
+
+* * *
+
 
 
 ## Donut Collar
@@ -18,15 +34,6 @@ View on <a href="https://www.amazon.com/dp/B0CCB1VRJD" class="external" target="
 
 
 
-## NOW Slippery Elm Powder
-
-[**Misc**]({% link docs/misc.md %})
-{: .label }
-
-* * *
-
-
-
 ## Silicone Stretch Pet Food Can Lids
 
 [**Misc**]({% link docs/misc.md %})
@@ -34,4 +41,4 @@ View on <a href="https://www.amazon.com/dp/B0CCB1VRJD" class="external" target="
 
 View on <a href="https://www.amazon.com/dp/B07Q5747XZ" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-19 19:30:19.856427Z -->
+<!-- Updated 2024-10-21 20:38:50.807685Z -->

@@ -1,13 +1,15 @@
 ---
 title: "&#x1F535; Phosphate binders"
 layout: default
-nav_order: 32
+nav_order: 35
 ---
 
 # Phosphate binders
 
 
 ## Rx Vitamins Phos-Bind
+
+![Rx Vitamins Phos-Bind](https://www.rxvitamins.com/rxvitaminsforpet/wp-content/uploads/2016/08/Phos-Bind-COMBO-1024x1024.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Phosphate binders**]({% link docs/phosphate-binders.md %})
 {: .label }
@@ -16,17 +18,19 @@ nav_order: 32
 
 ### 35 g
 
-View on <a href="https://www.chewy.com/dp/848134" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://www.amazon.com/dp/B0CX73HXPF" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/848134" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0CX73HXPF" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 200 g
 
-View on <a href="https://www.chewy.com/dp/186061" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://www.amazon.com/dp/B0D2PKNP51" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/186061" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0D2PKNP51" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
 
 
 ## ThrivingPets Aluminum Hydroxide Powder
+
+![ThrivingPets Aluminum Hydroxide Powder](https://thrivingpets.com/cdn/shop/products/aloh3_50g_288x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Phosphate binders**]({% link docs/phosphate-binders.md %})
 {: .label }
@@ -52,16 +56,28 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 
 ## Vetoquinol Epakitin Powder
 
+![Vetoquinol Epakitin Powder](https://www.vetoquinolusa.com/sites/us2country/files/styles/product_detail__photo_popup/public/2022-09/417361-417358-822305-epakitin-large.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
 [**Phosphate binders**]({% link docs/phosphate-binders.md %})
 {: .label }
 
  <a href="https://www.vetoquinolusa.com/products/epakitin" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/phosphorus_binders.htm#ipakitine" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
+### 60 g
+
 View on <a href="https://www.chewy.com/dp/102188" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 180 g
+
+View on <a href="https://www.chewy.com/dp/102189" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 300 g
+
+View on <a href="https://www.chewy.com/dp/102190" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > We tried this initially, though ultimately we settled on an aluminum hydroxide binder.
 
-<!-- Updated 2024-10-19 19:30:19.856427Z -->
+<!-- Updated 2024-10-21 20:38:50.807685Z -->

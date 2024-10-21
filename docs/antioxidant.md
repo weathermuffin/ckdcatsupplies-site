@@ -7,7 +7,9 @@ nav_order: 3
 # Antioxidant
 
 
-## NOW Neptune Krill Oil (500 mg softgels, 60 ct)
+## NOW Neptune Krill Oil, 500 mg Softgels
+
+![NOW Neptune Krill Oil, 500 mg Softgels](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-05/1625_v12.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Antioxidant**]({% link docs/antioxidant.md %})
 {: .label }
@@ -16,18 +18,36 @@ nav_order: 3
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softgels" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/nutritional_requirements.htm#essential_fatty_acids" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 60 ct
+
+View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softgels" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 120 ct
+
+View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external" target="_blank">Vitacost <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Dad mixes this into a bit of Fancy Feast each day as a fun little treat! He's happy, I'm happy.
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/ <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Jewell DE, Motsinger LA, Paetau-Robinson I. Effect of dietary antioxidants on free radical damage in dogs and cats. J Anim Sci. 2024 Jan 3;102:skae153. <a href="https://doi.org/10.1093/jas/skae153" class="external" target="_blank">https://doi.org/10.1093/jas/skae153 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Kane, E (2004). Dietary antioxidants are important for pets. DVM360. <a href="https://www.dvm360.com/view/dietary-antioxidants-are-important-pets" class="external" target="_blank">https://www.dvm360.com/view/dietary-antioxidants-are-important-pets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
 
 * * *
 
 
 
 ## ThorneVET CurcuVET-SA150 Powder
+
+![ThorneVET CurcuVET-SA150 Powder](https://thornevet.com/wp-content/uploads/2021/04/V939Pfront.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Antioxidant**]({% link docs/antioxidant.md %})
 {: .label }
@@ -36,11 +56,19 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softge
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Dad thinks this is good for me, but I have no thoughts on the matter. I guess I don't notice it mixed into food. Apparently this particular product has some kind of new-fangled process that makes it more "bioavailable." Whatevs.
+<details markdown="block">
+<summary>References and resources</summary>
 
-<!-- Updated 2024-10-19 19:30:19.856427Z -->
+1.  Jewell DE, Motsinger LA, Paetau-Robinson I. Effect of dietary antioxidants on free radical damage in dogs and cats. J Anim Sci. 2024 Jan 3;102:skae153. <a href="https://doi.org/10.1093/jas/skae153" class="external" target="_blank">https://doi.org/10.1093/jas/skae153 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Kane, E (2004). Dietary antioxidants are important for pets. DVM360. <a href="https://www.dvm360.com/view/dietary-antioxidants-are-important-pets" class="external" target="_blank">https://www.dvm360.com/view/dietary-antioxidants-are-important-pets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Richter G (2020). Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/ <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+<!-- Updated 2024-10-21 20:38:50.807685Z -->

@@ -139,6 +139,9 @@ Browse one of the following CATegories... &#x1F639;
 [**Constipation**]({% link docs/constipation.md %})
 {: .label }
 
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+
 [**Dental**]({% link docs/dental.md %})
 {: .label }
 
@@ -152,6 +155,9 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Fluids**]({% link docs/fluids.md %})
+{: .label }
+
+[**GI**]({% link docs/gi.md %})
 {: .label }
 
 [**Grooming**]({% link docs/grooming.md %})
@@ -179,6 +185,9 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+[**Nausea**]({% link docs/nausea.md %})
 {: .label }
 
 [**Needles**]({% link docs/needles.md %})

@@ -65,7 +65,7 @@ nav_order: 5
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B07HMLT6SF" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B07HMLT6SF?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -82,7 +82,7 @@ View on <a href="https://www.amazon.com/dp/B07HMLT6SF" class="external" target="
 
  <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/senior" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B0CLYZJS25" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0CLYZJS25?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -106,7 +106,7 @@ View on <a href="https://www.amazon.com/dp/B0CLYZJS25" class="external" target="
 
  <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/max" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B003ZWLFWW" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://store.cosequin.com/collections/cat-products/products/cosequin-for-cats-sprinkle-capsules" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B003ZWLFWW?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://store.cosequin.com/collections/cat-products/products/cosequin-for-cats-sprinkle-capsules" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -129,7 +129,7 @@ View on <a href="https://www.amazon.com/dp/B003ZWLFWW" class="external" target="
 
  <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/original" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B000F4W02M" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B000F4W02M?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -152,7 +152,7 @@ View on <a href="https://www.amazon.com/dp/B000F4W02M" class="external" target="
 
  <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/boswellia" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B0772WG4R8" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0772WG4R8?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -197,7 +197,7 @@ View on <a href="https://www.amazon.com/dp/B0772WG4R8" class="external" target="
 
  <a href="https://www.dasuquin.com/product/dasuquin-sprinkle-capsules-for-cats" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B001ICRYTY" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B001ICRYTY?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -256,14 +256,14 @@ View on <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-
 
 ### 30 ct
 
-View on <a href="https://www.amazon.com/dp/B07CT1F6KB" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107572816" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B07CT1F6KB?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107572816" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 60 ct
 
-View on <a href="https://www.amazon.com/dp/B00USLDY8Q" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107638352" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B00USLDY8Q?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107638352" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 120 ct
 
-View on <a href="https://www.amazon.com/dp/B00CAB5PU2" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107703888" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B00CAB5PU2?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107703888" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-21 20:52:34.593065Z -->
+<!-- Updated 2024-10-21 21:43:09.008370Z -->

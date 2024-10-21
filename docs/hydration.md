@@ -20,7 +20,7 @@ nav_order: 20
 
 ### 36 ct
 
-View on <a href="https://www.amazon.com/dp/B0BP9JJDVW" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0BP9JJDVW?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -43,11 +43,11 @@ View on <a href="https://www.amazon.com/dp/B0BP9JJDVW" class="external" target="
 [**Hydration**]({% link docs/hydration.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > As we all know, hydration is super important for CKD. A fountain is often suggested to help kitties drink more. I never really took to this fountain, though... except for the one time I was really intoxicated after anesthesia and stuck my head in it!
 
-<!-- Updated 2024-10-21 20:52:34.593065Z -->
+<!-- Updated 2024-10-21 21:43:09.008370Z -->

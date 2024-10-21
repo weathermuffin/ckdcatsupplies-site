@@ -140,4 +140,4 @@ View on <a href="https://www.weruva.com/collections/wx-phos-focused/products/pat
 >
 > I really liked this food. Sadly, I think I was allergic to the egg in it. But lots of kitties enjoy this food. It's a good source of protein with low phosphorus, a nice option for a CKD kitty. Bonus: it doesn't require a prescription!
 
-<!-- Updated 2024-10-21 20:52:34.593065Z -->
+<!-- Updated 2024-10-21 21:43:09.008370Z -->

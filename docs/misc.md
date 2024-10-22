@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Misc"
 layout: default
-nav_order: 25
+nav_order: 30
 ---
 
 # Misc
@@ -35,4 +35,4 @@ nav_order: 25
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

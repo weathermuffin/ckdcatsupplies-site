@@ -112,6 +112,9 @@ concerns, please reach out. I'm here to help.
 
 Browse one of the following CATegories... &#x1F639;
 
+[**Aluminum hydroxide**]({% link docs/aluminum-hydroxide.md %})
+{: .label }
+
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
 
@@ -119,6 +122,9 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+
+[**Appetite**]({% link docs/appetite.md %})
 {: .label }
 
 [**Arthritis**]({% link docs/arthritis.md %})
@@ -131,6 +137,9 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Blood pressure**]({% link docs/blood-pressure.md %})
+{: .label }
+
+[**CKD**]({% link docs/ckd.md %})
 {: .label }
 
 [**Capsules**]({% link docs/capsules.md %})
@@ -146,6 +155,9 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Diarrhea**]({% link docs/diarrhea.md %})
+{: .label }
+
+[**Drugs**]({% link docs/drugs.md %})
 {: .label }
 
 [**Ears**]({% link docs/ears.md %})
@@ -169,13 +181,16 @@ Browse one of the following CATegories... &#x1F639;
 [**Hydration**]({% link docs/hydration.md %})
 {: .label }
 
+[**Hyperthyroid**]({% link docs/hyperthyroid.md %})
+{: .label }
+
 [**Inflammation**]({% link docs/inflammation.md %})
 {: .label }
 
 [**Iron**]({% link docs/iron.md %})
 {: .label }
 
-[**LRS**]({% link docs/lrs.md %})
+[**Lactated Ringer's (LRS)**]({% link docs/lactated-ringers-lrs.md %})
 {: .label }
 
 [**Medicating**]({% link docs/medicating.md %})
@@ -221,6 +236,9 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+[**Proteinuria**]({% link docs/proteinuria.md %})
 {: .label }
 
 [**Renal**]({% link docs/renal.md %})

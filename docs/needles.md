@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Needles"
 layout: default
-nav_order: 28
+nav_order: 33
 ---
 
 # Needles
@@ -16,7 +16,7 @@ nav_order: 28
 [**Sub-Qs**]({% link docs/sub-qs.md %})
 {: .label }
 
- <a href="https://www.terumotmp.com/products/infusion-and-blood-collection/surflo-winged-infusion-sets.html" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/subcutaneous_fluids_syringe.htm#what_you_need" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.terumotmp.com/products/infusion-and-blood-collection/surflo-winged-infusion-sets.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/subcutaneous_fluids_syringe.htm#what_you_need" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -36,11 +36,11 @@ nav_order: 28
 [**Sub-Qs**]({% link docs/sub-qs.md %})
 {: .label }
 
- <a href="https://www.terumotmp.com/products/hypodermics/terumo-hypodermic-needles.html" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/subcutaneous_fluids_giving_set.htm#what_you_need" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.terumotmp.com/products/hypodermics/terumo-hypodermic-needles.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/subcutaneous_fluids_giving_set.htm#what_you_need" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > I'd prefer to not be poked at all, but if it has to happen, I want it to be Terumo ultra thin wall!
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

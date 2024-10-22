@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Vitamins"
 layout: default
-nav_order: 47
+nav_order: 53
 ---
 
 # Vitamins
@@ -18,9 +18,9 @@ nav_order: 47
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
- <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.jacksongalaxy.com/products/b12-for-cats-dietary-supplement?variant=39351808065571" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.jacksongalaxy.com/products/b12-for-cats-dietary-supplement?variant=39351808065571" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -35,7 +35,7 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
- <a href="https://jarrow.com/products/b-right-100-veggie-caps" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#b_complex_human" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://jarrow.com/products/b-right-100-veggie-caps" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#b_complex_human" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -57,7 +57,7 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
- <a href="https://superiorsourcevitamins.com/product/no-shot-methylcobalamin-b-12-1000-mcg/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://superiorsourcevitamins.com/product/no-shot-methylcobalamin-b-12-1000-mcg/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -79,11 +79,11 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
- <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > This helps me keep the anemia away. I take it every day mixed in food and don't even notice it. It's odorless and tasteless.
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

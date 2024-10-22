@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Cystitis"
 layout: default
-nav_order: 11
+nav_order: 14
 ---
 
 # Cystitis
@@ -18,7 +18,7 @@ nav_order: 11
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Gunn-Moore DA, Cameron ME. A pilot study using synthetic feline facial pheromone for the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(3):133-138. <a href="https://doi.org/10.1016/j.jfms.2004.01.006" class="external" target="_blank">https://doi.org/10.1016/j.jfms.2004.01.006 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Gunn-Moore DA, Cameron ME. A pilot study using synthetic feline facial pheromone for the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(3):133-138. doi:<a href="https://doi.org/10.1016/j.jfms.2004.01.006" class="external" target="_blank">10.1016/j.jfms.2004.01.006&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -35,7 +35,7 @@ nav_order: 11
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
- <a href="https://www.protexinvet.com/cystophan/p6236" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.protexinvet.com/cystophan/p6236" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -50,6 +50,18 @@ nav_order: 11
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
- <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+* * *
+
+
+# Cystitis references and resources
+
+1.  Buffington, C.A.T. (2011), Idiopathic Cystitis in Domestic Cats—Beyond the Lower Urinary Tract. Journal of Veterinary Internal Medicine, 25: 784-796. doi:<a href="https://doi.org/10.1111/j.1939-1676.2011.0732.x" class="external" target="_blank">10.1111/j.1939-1676.2011.0732.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Gunn-Moore DA, Shenoy CM. Oral glucosamine and the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(4):219-225. doi:<a href="https://doi.org/10.1016/j.jfms.2003.09.007" class="external" target="_blank">10.1016/j.jfms.2003.09.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  He C, Fan K, Hao Z, Tang N, Li G and Wang S (2022) Prevalence, Risk Factors, Pathophysiology, Potential Biomarkers and Management of Feline Idiopathic Cystitis: An Update Review. Front. Vet. Sci. 9:900847. doi:<a href="https://doi.org/10.3389/fvets.2022.900847" class="external" target="_blank">10.3389/fvets.2022.900847&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Poole A. Feline idiopathic cystitis: what to suggest. The Veterinary Nurse. 2020; 11(4):161-165. <a href="https://www.theveterinarynurse.com/content/clinical/feline-idiopathic-cystitis-what-to-suggest/" class="external" target="_blank">https://www.theveterinarynurse.com/content/clinical/feline-idiopathic-cystitis-what-to-suggest/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Shinya TAKENOUCHI, Yui KOBAYASHI, Tatsuya SHINOZAKI, Koji KOBAYASHI, Tatsuro NAKAMURA, Tomohiro YONEZAWA, Takahisa MURATA, The urinary lipid profile in cats with idiopathic cystitis, Journal of Veterinary Medical Science, 2022, Volume 84, Issue 5, Pages 689-693. doi:<a href="https://doi.org/10.1292/jvms.22-0049" class="external" target="_blank">10.1292/jvms.22-0049&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Wooten S. Feline interstitial cystitis: Its not about the bladder. DVM360. 2017. <a href="https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder" class="external" target="_blank">https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

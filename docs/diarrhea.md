@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Diarrhea"
 layout: default
-nav_order: 13
+nav_order: 16
 ---
 
 # Diarrhea
@@ -16,14 +16,14 @@ nav_order: 13
 [**Probiotics**]({% link docs/probiotics.md %})
 {: .label }
 
- <a href="https://www.purina.com/pro-plan-vet/supplements/fortiflora" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_waste_products_regulation.htm#fortiflora" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.purina.com/pro-plan-vet/supplements/fortiflora" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_waste_products_regulation.htm#fortiflora" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 30 ct
 
-View on <a href="https://www.chewy.com/dp/49853" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.proplanvetdirect.com/feline-fortiflora-probiotic" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/49853" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.proplanvetdirect.com/feline-fortiflora-probiotic" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 180 ct
 
-View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

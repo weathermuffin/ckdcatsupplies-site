@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; B vitamins"
 layout: default
-nav_order: 6
+nav_order: 8
 ---
 
 # B vitamins
@@ -18,9 +18,9 @@ nav_order: 6
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
- <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.jacksongalaxy.com/products/b12-for-cats-dietary-supplement?variant=39351808065571" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.jacksongalaxy.com/products/b12-for-cats-dietary-supplement?variant=39351808065571" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -35,7 +35,7 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
- <a href="https://jarrow.com/products/b-right-100-veggie-caps" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#b_complex_human" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://jarrow.com/products/b-right-100-veggie-caps" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#b_complex_human" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -46,9 +46,9 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 
 
 
-## OC Raw Freeze-Dried Chicken Hearts
+## OC Raw Freeze-Dried Raw Chicken Hearts
 
-![OC Raw Freeze-Dried Chicken Hearts](https://ocraw.com/wp-content/uploads/2021/09/image-18.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![OC Raw Freeze-Dried Raw Chicken Hearts](https://ocraw.com/wp-content/uploads/2021/09/image-18.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
@@ -59,7 +59,7 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://ocraw.com/product/chicken-hearts-freeze-dried/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://ocraw.com/product/chicken-hearts-freeze-dried/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -81,7 +81,7 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
- <a href="https://superiorsourcevitamins.com/product/no-shot-methylcobalamin-b-12-1000-mcg/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://superiorsourcevitamins.com/product/no-shot-methylcobalamin-b-12-1000-mcg/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -103,7 +103,7 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
- <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -114,9 +114,9 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 
 
 
-## Vital Essentials Chicken Hearts Freeze-Dried Raw Cat Treats
+## Vital Essentials Freeze-Dried Raw Chicken Hearts
 
-![Vital Essentials Chicken Hearts Freeze-Dried Raw Cat Treats](https://www.vitalessentials.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0472%2F5922%2F2175%2Fproducts%2Fev58vqtytj61swbtngip.png%3Fv%3D1680588154&w=3840&q=85){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Vital Essentials Freeze-Dried Raw Chicken Hearts](https://www.vitalessentials.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0472%2F5922%2F2175%2Fproducts%2Fev58vqtytj61swbtngip.png%3Fv%3D1680588154&w=3840&q=85){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
@@ -127,13 +127,13 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.vitalessentials.com/products/freeze-dried-raw-chicken-hearts-cat-treats" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.vitalessentials.com/products/freeze-dried-raw-chicken-hearts-cat-treats" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Another option for chicken hearts! Yum.
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

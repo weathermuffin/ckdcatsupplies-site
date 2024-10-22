@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Bladder"
 layout: default
-nav_order: 7
+nav_order: 9
 ---
 
 # Bladder
@@ -18,7 +18,7 @@ nav_order: 7
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Gunn-Moore DA, Cameron ME. A pilot study using synthetic feline facial pheromone for the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(3):133-138. <a href="https://doi.org/10.1016/j.jfms.2004.01.006" class="external" target="_blank">https://doi.org/10.1016/j.jfms.2004.01.006 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Gunn-Moore DA, Cameron ME. A pilot study using synthetic feline facial pheromone for the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(3):133-138. doi:<a href="https://doi.org/10.1016/j.jfms.2004.01.006" class="external" target="_blank">10.1016/j.jfms.2004.01.006&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -33,7 +33,7 @@ nav_order: 7
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
 
-View on <a href="https://naturesway.com/products/corn-silk" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://naturesway.com/products/corn-silk" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -48,7 +48,7 @@ View on <a href="https://naturesway.com/products/corn-silk" class="external" tar
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
- <a href="https://www.protexinvet.com/cystophan/p6236" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.protexinvet.com/cystophan/p6236" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -63,6 +63,6 @@ View on <a href="https://naturesway.com/products/corn-silk" class="external" tar
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
- <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

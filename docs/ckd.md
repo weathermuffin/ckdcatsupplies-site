@@ -1,10 +1,10 @@
 ---
-title: "&#x1F535; Enteric dialysis"
+title: "&#x1F535; CKD"
 layout: default
-nav_order: 19
+nav_order: 11
 ---
 
-# Enteric dialysis
+# CKD
 
 
 ## Dechra Porus One
@@ -55,8 +55,8 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 * * *
 
 
-# Enteric dialysis references and resources
+# CKD references and resources
 
-1.  Rishniw M, Wynn SG. Azodyl, a synbiotic, fails to alter azotemia in cats with chronic kidney disease when sprinkled onto food. Journal of Feline Medicine and Surgery. 2011;13(6):405-409. doi:<a href="https://doi.org/10.1016/j.jfms.2010.12.015" class="external" target="_blank">10.1016/j.jfms.2010.12.015&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Cook A, Saunders A. Finding the Balance in Your Patients with Cardiovascular and Renal Disease. Today's Veterinary Practice. 2018. <a href="https://todaysveterinarypractice.com/cardiology/veterinary-patients-with-cardiovascular-and-renal-disease/" class="external" target="_blank">https://todaysveterinarypractice.com/cardiology/veterinary-patients-with-cardiovascular-and-renal-disease/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 <!-- Updated 2024-10-22 23:44:58.896165Z -->

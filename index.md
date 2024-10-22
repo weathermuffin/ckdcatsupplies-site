@@ -18,6 +18,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 
 ## All CATegories &#x1F639;
 
+[**Aluminum hydroxide**]({% link docs/aluminum-hydroxide.md %})
+{: .label }
+
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
 
@@ -25,6 +28,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 {: .label }
 
 [**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+
+[**Appetite**]({% link docs/appetite.md %})
 {: .label }
 
 [**Arthritis**]({% link docs/arthritis.md %})
@@ -37,6 +43,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 {: .label }
 
 [**Blood pressure**]({% link docs/blood-pressure.md %})
+{: .label }
+
+[**CKD**]({% link docs/ckd.md %})
 {: .label }
 
 [**Capsules**]({% link docs/capsules.md %})
@@ -52,6 +61,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 {: .label }
 
 [**Diarrhea**]({% link docs/diarrhea.md %})
+{: .label }
+
+[**Drugs**]({% link docs/drugs.md %})
 {: .label }
 
 [**Ears**]({% link docs/ears.md %})
@@ -75,13 +87,16 @@ First time here? [Start here.]({% link docs/start-here.md %})
 [**Hydration**]({% link docs/hydration.md %})
 {: .label }
 
+[**Hyperthyroid**]({% link docs/hyperthyroid.md %})
+{: .label }
+
 [**Inflammation**]({% link docs/inflammation.md %})
 {: .label }
 
 [**Iron**]({% link docs/iron.md %})
 {: .label }
 
-[**LRS**]({% link docs/lrs.md %})
+[**Lactated Ringer's (LRS)**]({% link docs/lactated-ringers-lrs.md %})
 {: .label }
 
 [**Medicating**]({% link docs/medicating.md %})
@@ -129,6 +144,9 @@ First time here? [Start here.]({% link docs/start-here.md %})
 [**Probiotics**]({% link docs/probiotics.md %})
 {: .label }
 
+[**Proteinuria**]({% link docs/proteinuria.md %})
+{: .label }
+
 [**Renal**]({% link docs/renal.md %})
 {: .label }
 
@@ -156,4 +174,4 @@ First time here? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Pilling"
 layout: default
-nav_order: 36
+nav_order: 41
 ---
 
 # Pilling
@@ -18,23 +18,23 @@ nav_order: 36
 
 ### variety, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781454" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007780088" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/781454" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007780088" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### salmon, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781406" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007747320" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/781406" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007747320" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### tuna, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781422" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007714552" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/781422" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007714552" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### chicken & liver, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781390" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007681784" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/781390" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007681784" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### chicken & shrimp, 12 ct
 
-View on <a href="https://www.chewy.com/dp/781438" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007649016" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/781438" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://catit.us/products/catit-creamy-cat-treats-12-pack?variant=43457007649016" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -49,7 +49,7 @@ View on <a href="https://www.chewy.com/dp/781438" class="external" target="_blan
 [**Treats**]({% link docs/treats.md %})
 {: .label }
 
- <a href="https://www.churuvet.com/nourish" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.churuvet.com/nourish" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -69,6 +69,26 @@ View on <a href="https://www.chewy.com/dp/781438" class="external" target="_blan
 
 
 
+## GooFurr
+
+![GooFurr](https://images.squarespace-cdn.com/content/v1/5e600ed75f5ecb512a26d7c8/1594252184168-96YX24WEVAMC8MANWTRK/BoxandTube_white_wide_editors_price.png?format=2500w){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Pilling**]({% link docs/pilling.md %})
+{: .label }
+
+ <a href="https://goofurr.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://goofurr.com/#order-form" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> We haven't tried this, but have heard it works for some kitties.
+
+* * *
+
+
+
 ## Greenies Pill Pockets, Salmon Flavor
 
 ![Greenies Pill Pockets, Salmon Flavor](https://www.greenies.com/cdn/shop/files/fgj1dzrzfjdyl8evvhs0.jpg?width=990){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -80,7 +100,7 @@ View on <a href="https://www.chewy.com/dp/781438" class="external" target="_blan
 [**Treats**]({% link docs/treats.md %})
 {: .label }
 
-View on <a href="https://www.chewy.com/dp/33780" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.greenies.com/products/feline-greenies-pill-pockets-for-cats-natural-soft-cat-treats-salmon-flavor-16-oz-pack-45-treats" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/33780" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.greenies.com/products/feline-greenies-pill-pockets-for-cats-natural-soft-cat-treats-salmon-flavor-16-oz-pack-45-treats" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -129,9 +149,9 @@ View on <a href="https://www.chewy.com/dp/33780" class="external" target="_blank
 [**Treats**]({% link docs/treats.md %})
 {: .label }
 
- <a href="https://www.temptationstreats.com/products/treats/tasty-chicken-flavor" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.temptationstreats.com/products/treats/tasty-chicken-flavor" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/109154" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/109154" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -153,11 +173,11 @@ View on <a href="https://www.chewy.com/dp/109154" class="external" target="_blan
 [**Treats**]({% link docs/treats.md %})
 {: .label }
 
- <a href="https://tikipets.com/product/tiki-cat/tiki-cat-wet-food/mousse-shreds/senior-cat/chicken-chicken-liver-recipe-supplement/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://tikipets.com/product/tiki-cat/tiki-cat-wet-food/mousse-shreds/senior-cat/chicken-chicken-liver-recipe-supplement/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 20 ct
 
-View on <a href="https://www.chewy.com/dp/883494" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/883494" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -175,7 +195,7 @@ View on <a href="https://www.chewy.com/dp/883494" class="external" target="_blan
 [**Pilling**]({% link docs/pilling.md %})
 {: .label }
 
-View on <a href="https://www.chewy.com/dp/204481" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/204481" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -197,15 +217,15 @@ View on <a href="https://www.chewy.com/dp/204481" class="external" target="_blan
 
 ### 100 ct
 
-View on <a href="https://xprsnutra.com/products/size-3-clear-empty-gelatin-capsules?variant=41230161445058" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-3-clear-empty-gelatin-capsules?variant=41230161445058" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 500 ct
 
-View on <a href="https://xprsnutra.com/products/size-3-clear-empty-gelatin-capsules?variant=41230161871042" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-3-clear-empty-gelatin-capsules?variant=41230161871042" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 1,000 ct
 
-View on <a href="https://xprsnutra.com/products/size-3-clear-empty-gelatin-capsules?variant=41230162297026" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-3-clear-empty-gelatin-capsules?variant=41230162297026" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -227,15 +247,15 @@ View on <a href="https://xprsnutra.com/products/size-3-clear-empty-gelatin-capsu
 
 ### 100 ct
 
-View on <a href="https://xprsnutra.com/products/size-4-clear-empty-gelatin-capsules?variant=41230176288962" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-4-clear-empty-gelatin-capsules?variant=41230176288962" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 500 ct
 
-View on <a href="https://xprsnutra.com/products/size-4-clear-empty-gelatin-capsules?variant=41230176813250" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-4-clear-empty-gelatin-capsules?variant=41230176813250" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 1,000 ct
 
-View on <a href="https://xprsnutra.com/products/size-4-clear-empty-gelatin-capsules?variant=41230177337538" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-4-clear-empty-gelatin-capsules?variant=41230177337538" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -257,23 +277,23 @@ View on <a href="https://xprsnutra.com/products/size-4-clear-empty-gelatin-capsu
 
 ### 100 ct
 
-View on <a href="https://xprsnutra.com/products/size-5-clear-empty-gelatin-capsules?variant=41230185955522" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-5-clear-empty-gelatin-capsules?variant=41230185955522" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 500 ct
 
-View on <a href="https://xprsnutra.com/products/size-5-clear-empty-gelatin-capsules?variant=41230186217666" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-5-clear-empty-gelatin-capsules?variant=41230186217666" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 1,000 ct
 
-View on <a href="https://xprsnutra.com/products/size-5-clear-empty-gelatin-capsules?variant=41230186479810" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-5-clear-empty-gelatin-capsules?variant=41230186479810" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 5,000 ct
 
-View on <a href="https://xprsnutra.com/products/size-5-clear-empty-gelatin-capsules?variant=41230186774722" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://xprsnutra.com/products/size-5-clear-empty-gelatin-capsules?variant=41230186774722" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > My favorite size of capsule is NONE, but this is my second favorite. Dad puts whatever he needs to into one of these bad boys, slathers it with a lickable treat, then tops with crushed Temptations powder. I just gobble the thing right down! He thinks he's pulling a fast one and sneaking a pill without me noticing. Mostly I humor him, but every once in a while I'll spit one out to keep him on his toes.
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

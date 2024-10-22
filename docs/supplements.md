@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Supplements"
 layout: default
-nav_order: 42
+nav_order: 48
 ---
 
 # Supplements
@@ -16,17 +16,23 @@ nav_order: 42
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.duralactin.com/feline-products/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_microlactin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.duralactin.com/feline-products/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_microlactin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Duralactin Technical Monograph (2017). <a href="https://www.duralactin.com/wp-content/uploads/2023/04/Duralactin-Technical-Profile.pdf" class="external" target="_blank">https://www.duralactin.com/wp-content/uploads/2023/04/Duralactin-Technical-Profile.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
 
 * * *
 
 
 
-## Fresh Is Best Freeze-Dried Duck Livers Dog Treats
+## Fresh Is Best Freeze-Dried Duck Livers
 
-![Fresh Is Best Freeze-Dried Duck Livers Dog Treats](https://www.freshisbest.com/wp-content/uploads/2022/01/Duck-Livers.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Fresh Is Best Freeze-Dried Duck Livers](https://www.freshisbest.com/wp-content/uploads/2022/01/Duck-Livers.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
@@ -35,7 +41,7 @@ View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blan
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://www.freshisbest.com/product/freeze-dried-duck-livers/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.freshisbest.com/product/freeze-dried-duck-livers/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -55,9 +61,9 @@ View on <a href="https://www.freshisbest.com/product/freeze-dried-duck-livers/" 
 [**UTI**]({% link docs/uti.md %})
 {: .label }
 
- <a href="https://felinecrf.org/pyelonephritis_utis.htm#dmannose" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/pyelonephritis_utis.htm#dmannose" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.kalvitamins.com/products/d-mannose-powder" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.kalvitamins.com/products/d-mannose-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -77,7 +83,7 @@ View on <a href="https://www.kalvitamins.com/products/d-mannose-powder" class="e
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://kanherb.com/products/rehmannia-eight-combination/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://kanherb.com/products/rehmannia-eight-combination/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -90,11 +96,11 @@ View on <a href="https://www.kalvitamins.com/products/d-mannose-powder" class="e
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://www.lifeextension.com/vitamins-supplements/item00349/tmg-powder" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.lifeextension.com/vitamins-supplements/item00349/tmg-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Hall JA, Jewell DE, Ephraim E (2022). Feeding cats with chronic kidney disease food supplemented with betaine and prebiotics increases total body mass and reduces uremic toxins. PLOS ONE 17(5): e0268624. <a href="https://doi.org/10.1371/journal.pone.0268624" class="external" target="_blank">https://doi.org/10.1371/journal.pone.0268624 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hall JA, Jewell DE, Ephraim E (2022). Feeding cats with chronic kidney disease food supplemented with betaine and prebiotics increases total body mass and reduces uremic toxins. PLOS ONE 17(5): e0268624. doi:<a href="https://doi.org/10.1371/journal.pone.0268624" class="external" target="_blank">10.1371/journal.pone.0268624&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -111,13 +117,13 @@ View on <a href="https://www.lifeextension.com/vitamins-supplements/item00349/tm
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://felinecrf.org/nutritional_requirements.htm#essential_fatty_acids" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/nutritional_requirements.htm#essential_fatty_acids" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nordic.com/products/omega-3-cat/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nordic.com/products/omega-3-cat/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/ <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -136,15 +142,15 @@ View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blan
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://felinecrf.org/nutritional_requirements.htm#essential_fatty_acids" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/nutritional_requirements.htm#essential_fatty_acids" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 60 ct
 
-View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 120 ct
 
-View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -153,9 +159,7 @@ View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/ <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Jewell DE, Motsinger LA, Paetau-Robinson I. Effect of dietary antioxidants on free radical damage in dogs and cats. J Anim Sci. 2024 Jan 3;102:skae153. <a href="https://doi.org/10.1093/jas/skae153" class="external" target="_blank">https://doi.org/10.1093/jas/skae153 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Kane, E (2004). Dietary antioxidants are important for pets. DVM360. <a href="https://www.dvm360.com/view/dietary-antioxidants-are-important-pets" class="external" target="_blank">https://www.dvm360.com/view/dietary-antioxidants-are-important-pets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -170,11 +174,11 @@ View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://www.nowfoods.com/products/supplements/nutraflora-fos-powder" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.nowfoods.com/products/supplements/nutraflora-fos-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Hall JA, Jewell DE, Ephraim E (2022). Feeding cats with chronic kidney disease food supplemented with betaine and prebiotics increases total body mass and reduces uremic toxins. PLOS ONE 17(5): e0268624. <a href="https://doi.org/10.1371/journal.pone.0268624" class="external" target="_blank">https://doi.org/10.1371/journal.pone.0268624 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hall JA, Jewell DE, Ephraim E (2022). Feeding cats with chronic kidney disease food supplemented with betaine and prebiotics increases total body mass and reduces uremic toxins. PLOS ONE 17(5): e0268624. doi:<a href="https://doi.org/10.1371/journal.pone.0268624" class="external" target="_blank">10.1371/journal.pone.0268624&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -191,9 +195,9 @@ View on <a href="https://www.nowfoods.com/products/supplements/nutraflora-fos-po
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_human" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_human" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.nowfoods.com/products/supplements/potassium-gluconate-powder" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.nowfoods.com/products/supplements/potassium-gluconate-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -213,11 +217,11 @@ View on <a href="https://www.nowfoods.com/products/supplements/potassium-glucona
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://www.nowfoods.com/products/supplements/taurine-pure-powder" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.nowfoods.com/products/supplements/taurine-pure-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/ <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -234,14 +238,14 @@ View on <a href="https://www.nowfoods.com/products/supplements/taurine-pure-powd
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/senior" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/senior" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/1021414" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/1021414" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. <a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">https://doi.org/10.1111/j.1939-1676.2010.0495.x <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Richter G (2020). Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/ <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Richter G (2020). Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -258,13 +262,13 @@ View on <a href="https://www.chewy.com/dp/1021414" class="external" target="_bla
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/max" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/max" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/35570" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://store.cosequin.com/collections/cat-products/products/cosequin-for-cats-sprinkle-capsules" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/35570" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://store.cosequin.com/collections/cat-products/products/cosequin-for-cats-sprinkle-capsules" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. <a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">https://doi.org/10.1111/j.1939-1676.2010.0495.x <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -281,13 +285,13 @@ View on <a href="https://www.chewy.com/dp/35570" class="external" target="_blank
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/original" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/original" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/101450" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/101450" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. <a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">https://doi.org/10.1111/j.1939-1676.2010.0495.x <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -304,12 +308,12 @@ View on <a href="https://www.chewy.com/dp/101450" class="external" target="_blan
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/boswellia" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.cosequin.com/joint-supplement/cat/sprinkle-capsule/boswellia" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. <a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">https://doi.org/10.1111/j.1939-1676.2010.0495.x <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Richter G (2020). Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/ <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Richter G (2020). Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -317,20 +321,20 @@ View on <a href="https://www.chewy.com/dp/101450" class="external" target="_blan
 
 
 
-## Nutramax Dasuquin Advanced Sprinkle Capsules for Cats
+## Nutramax Dasuquin Advanced Sprinkle Capsules
 
-![Nutramax Dasuquin Advanced Sprinkle Capsules for Cats](https://cdn.prod.website-files.com/61840d35f36a41439c39f093/63cff52ef27a2665eb119eae_dasuquin-cats-advanced-sprinkle-capsules-new-700-p-500.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Nutramax Dasuquin Advanced Sprinkle Capsules](https://cdn.prod.website-files.com/61840d35f36a41439c39f093/63cff52ef27a2665eb119eae_dasuquin-cats-advanced-sprinkle-capsules-new-700-p-500.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.dasuquin.com/product/dasuquin-advanced-sprinkle-capsules-for-cats" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.dasuquin.com/product/dasuquin-advanced-sprinkle-capsules-for-cats" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Morrison, B (2023). Cosequin vs. Dasuquin: What's The Difference? PetMD. <a href="https://www.petmd.com/general-health/cosequin-vs-dasuquin" class="external" target="_blank">https://www.petmd.com/general-health/cosequin-vs-dasuquin <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Morrison, B (2023). Cosequin vs. Dasuquin: What's The Difference? PetMD. <a href="https://www.petmd.com/general-health/cosequin-vs-dasuquin" class="external" target="_blank">https://www.petmd.com/general-health/cosequin-vs-dasuquin&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -338,22 +342,22 @@ View on <a href="https://www.chewy.com/dp/101450" class="external" target="_blan
 
 
 
-## Nutramax Dasuquin Sprinkle Capsules for Cats (84 ct)
+## Nutramax Dasuquin Sprinkle Capsules (84 ct)
 
-![Nutramax Dasuquin Sprinkle Capsules for Cats](https://cdn.prod.website-files.com/61840d35f36a41439c39f093/63cff4dd7207ac4f00b72326_dasuquin-cats-sprinkle-new-700-p-500.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Nutramax Dasuquin Sprinkle Capsules](https://cdn.prod.website-files.com/61840d35f36a41439c39f093/63cff4dd7207ac4f00b72326_dasuquin-cats-sprinkle-new-700-p-500.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.dasuquin.com/product/dasuquin-sprinkle-capsules-for-cats" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.dasuquin.com/product/dasuquin-sprinkle-capsules-for-cats" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_glucosamine_chondroitin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/35844" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/35844" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Morrison, B (2023). Cosequin vs. Dasuquin: What's The Difference? PetMD. <a href="https://www.petmd.com/general-health/cosequin-vs-dasuquin" class="external" target="_blank">https://www.petmd.com/general-health/cosequin-vs-dasuquin <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Morrison, B (2023). Cosequin vs. Dasuquin: What's The Difference? PetMD. <a href="https://www.petmd.com/general-health/cosequin-vs-dasuquin" class="external" target="_blank">https://www.petmd.com/general-health/cosequin-vs-dasuquin&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -370,19 +374,19 @@ View on <a href="https://www.chewy.com/dp/35844" class="external" target="_blank
 
 ### 8 oz
 
-View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327048274" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327048274" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 450 g
 
-View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327081042" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327081042" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 4 x 8 oz
 
-View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327113810" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327113810" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Hall JA, Jewell DE, Ephraim E (2022). Feeding cats with chronic kidney disease food supplemented with betaine and prebiotics increases total body mass and reduces uremic toxins. PLOS ONE 17(5): e0268624. <a href="https://doi.org/10.1371/journal.pone.0268624" class="external" target="_blank">https://doi.org/10.1371/journal.pone.0268624 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hall JA, Jewell DE, Ephraim E (2022). Feeding cats with chronic kidney disease food supplemented with betaine and prebiotics increases total body mass and reduces uremic toxins. PLOS ONE 17(5): e0268624. doi:<a href="https://doi.org/10.1371/journal.pone.0268624" class="external" target="_blank">10.1371/journal.pone.0268624&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -390,9 +394,9 @@ View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327
 
 
 
-## OC Raw Freeze-Dried Chicken Hearts
+## OC Raw Freeze-Dried Raw Chicken Hearts
 
-![OC Raw Freeze-Dried Chicken Hearts](https://ocraw.com/wp-content/uploads/2021/09/image-18.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![OC Raw Freeze-Dried Raw Chicken Hearts](https://ocraw.com/wp-content/uploads/2021/09/image-18.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
@@ -403,7 +407,7 @@ View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://ocraw.com/product/chicken-hearts-freeze-dried/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://ocraw.com/product/chicken-hearts-freeze-dried/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -423,15 +427,15 @@ View on <a href="https://sur.co/products/nutrim-oat-beta-glucan?variant=41194327
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.purina.com/pro-plan-vet/supplements/hydra-care" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/oral_fluids.htm#rehydration_sachets" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.purina.com/pro-plan-vet/supplements/hydra-care" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/oral_fluids.htm#rehydration_sachets" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 12 ct
 
-View on <a href="https://www.chewy.com/dp/282734" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/282734" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 36 ct
 
-View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -440,8 +444,8 @@ View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blan
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Zanghi, B. M., Gerheart, L., & Gardner, C. L. (2018). Effects of a nutrient-enriched water on water intake and indices of hydration in healthy domestic cats fed a dry kibble diet. American Journal of Veterinary Research, 79(7), 733-744. <a href="https://doi.org/10.2460/ajvr.79.7.733" class="external" target="_blank">https://doi.org/10.2460/ajvr.79.7.733 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Zanghi, B. M., Wils-Plotz, E., DeGeer, S., & Gardner, C. L. (2018). Effects of a nutrient-enriched water with and without poultry flavoring on water intake, urine specific gravity, and urine output in healthy domestic cats fed a dry kibble diet. American Journal of Veterinary Research, 79(11), 1150-1159. <a href="https://doi.org/10.2460/ajvr.79.11.1150" class="external" target="_blank">https://doi.org/10.2460/ajvr.79.11.1150 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zanghi, B. M., Gerheart, L., & Gardner, C. L. (2018). Effects of a nutrient-enriched water on water intake and indices of hydration in healthy domestic cats fed a dry kibble diet. American Journal of Veterinary Research, 79(7), 733-744. doi:<a href="https://doi.org/10.2460/ajvr.79.7.733" class="external" target="_blank">10.2460/ajvr.79.7.733&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zanghi, B. M., Wils-Plotz, E., DeGeer, S., & Gardner, C. L. (2018). Effects of a nutrient-enriched water with and without poultry flavoring on water intake, urine specific gravity, and urine output in healthy domestic cats fed a dry kibble diet. American Journal of Veterinary Research, 79(11), 1150-1159. doi:<a href="https://doi.org/10.2460/ajvr.79.11.1150" class="external" target="_blank">10.2460/ajvr.79.11.1150&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -458,15 +462,15 @@ View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blan
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.rxvitamins.com/rxvitaminsforpet/product-category/cardiovascular-health-products/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.rxvitamins.com/rxvitaminsforpet/product-category/cardiovascular-health-products/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
-1. _"Do no use simultaneously with anticoagulants, antihypertensive, vasodilators, or if suffering from ulcers, diabetes and when pregnant or breastfeeding."_ &mdash;  Cunha J. Forskolin. <a href="https://www.rxlist.com/forskolin/generic-drug.htm" class="external" target="_blank">https://www.rxlist.com/forskolin/generic-drug.htm <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1. _"Because supplementation with Coleus forskohlii extract or forskolin has been noted to reduce blood pressure, increase stomach acid levels, and inhibit platelet aggregation, it should be used with caution by people with hypotension (low blood pressure) or who are taking antihypertensive (blood-pressure-lowering) drugs, people with blood clotting disorders or who are taking blood thinning medication, and people with stomach ulcers."_ &mdash;  Damianou A, Milazzo N (2024). Coleus forskohlii. <a href="https://examine.com/supplements/coleus-forskohlii/#dosage-information" class="external" target="_blank">https://examine.com/supplements/coleus-forskohlii/#dosage-information <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1. _"Forskolin should be avoided in patients with polycystic kidney disease."_ &mdash;  Forskolin. <a href="https://www.drugs.com/npc/forskolin.html" class="external" target="_blank">https://www.drugs.com/npc/forskolin.html <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1. _"Do no use simultaneously with anticoagulants, antihypertensive, vasodilators, or if suffering from ulcers, diabetes and when pregnant or breastfeeding."_ &mdash;  Cunha J. Forskolin. <a href="https://www.rxlist.com/forskolin/generic-drug.htm" class="external" target="_blank">https://www.rxlist.com/forskolin/generic-drug.htm&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1. _"Because supplementation with Coleus forskohlii extract or forskolin has been noted to reduce blood pressure, increase stomach acid levels, and inhibit platelet aggregation, it should be used with caution by people with hypotension (low blood pressure) or who are taking antihypertensive (blood-pressure-lowering) drugs, people with blood clotting disorders or who are taking blood thinning medication, and people with stomach ulcers."_ &mdash;  Damianou A, Milazzo N (2024). Coleus forskohlii. <a href="https://examine.com/supplements/coleus-forskohlii/#dosage-information" class="external" target="_blank">https://examine.com/supplements/coleus-forskohlii/#dosage-information&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1. _"Forskolin should be avoided in patients with polycystic kidney disease."_ &mdash;  Forskolin. <a href="https://www.drugs.com/npc/forskolin.html" class="external" target="_blank">https://www.drugs.com/npc/forskolin.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -485,11 +489,11 @@ View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blan
 
 ### 75 g
 
-View on <a href="https://www.chewy.com/dp/130969" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-power-1" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/130969" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-power-1" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 150 g
 
-View on <a href="https://www.chewy.com/dp/804166" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-power-1" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/804166" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://supersnoutshempcompany.com/products/super-snouts-joint-power-1" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -498,7 +502,7 @@ View on <a href="https://www.chewy.com/dp/804166" class="external" target="_blan
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. <a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">https://doi.org/10.1111/j.1939-1676.2010.0495.x <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -517,7 +521,7 @@ View on <a href="https://www.chewy.com/dp/804166" class="external" target="_blan
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -526,9 +530,7 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Jewell DE, Motsinger LA, Paetau-Robinson I. Effect of dietary antioxidants on free radical damage in dogs and cats. J Anim Sci. 2024 Jan 3;102:skae153. <a href="https://doi.org/10.1093/jas/skae153" class="external" target="_blank">https://doi.org/10.1093/jas/skae153 <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Kane, E (2004). Dietary antioxidants are important for pets. DVM360. <a href="https://www.dvm360.com/view/dietary-antioxidants-are-important-pets" class="external" target="_blank">https://www.dvm360.com/view/dietary-antioxidants-are-important-pets <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Richter G (2020). Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/ <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Richter G (2020). Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -545,9 +547,9 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.vetoquinolusa.com/products/renal-k-plus" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_brands" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.vetoquinolusa.com/products/renal-k-plus" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_brands" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -558,9 +560,9 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 
 
 
-## Vital Essentials Chicken Hearts Freeze-Dried Raw Cat Treats
+## Vital Essentials Freeze-Dried Raw Chicken Hearts
 
-![Vital Essentials Chicken Hearts Freeze-Dried Raw Cat Treats](https://www.vitalessentials.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0472%2F5922%2F2175%2Fproducts%2Fev58vqtytj61swbtngip.png%3Fv%3D1680588154&w=3840&q=85){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Vital Essentials Freeze-Dried Raw Chicken Hearts](https://www.vitalessentials.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0472%2F5922%2F2175%2Fproducts%2Fev58vqtytj61swbtngip.png%3Fv%3D1680588154&w=3840&q=85){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
@@ -571,9 +573,9 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.vitalessentials.com/products/freeze-dried-raw-chicken-hearts-cat-treats" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.vitalessentials.com/products/freeze-dried-raw-chicken-hearts-cat-treats" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -599,14 +601,20 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 
 ### 30 ct
 
-View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107572816" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/231714" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107572816" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 60 ct
 
-View on <a href="https://www.chewy.com/dp/231715" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107638352" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/231715" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107638352" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 120 ct
 
-View on <a href="https://www.chewy.com/dp/231716" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107703888" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/231716" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.workssowell.com/products/1-tdc-oral-health-mobility-support-for-cats?variant=32341107703888" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+<details markdown="block">
+<summary>References and resources</summary>
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+1.  Lopes Kubitza FM, Anthony JMG. Topical oral 1-tetradecanol complex in the treatment of periodontal diseases in cats. Journal of Feline Medicine and Surgery. 2019;21(12):1141-1148. doi:<a href="https://doi.org/10.1177/1098612X18820734" class="external" target="_blank">10.1177/1098612X18820734&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

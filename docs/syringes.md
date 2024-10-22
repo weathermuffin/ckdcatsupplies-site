@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Syringes"
 layout: default
-nav_order: 43
+nav_order: 49
 ---
 
 # Syringes
@@ -39,11 +39,11 @@ nav_order: 43
 [**Syringes**]({% link docs/syringes.md %})
 {: .label }
 
- <a href="https://exelint.com/products/human-products/syringes/1cc-tuberculin-syringes" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://exelint.com/products/human-products/syringes/1cc-tuberculin-syringes" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > These are very good syringes that can be reused without the markings fading so quickly. Plus, graduated to 0.01 mL makes for very accurate dosing!
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Monitoring"
 layout: default
-nav_order: 26
+nav_order: 31
 ---
 
 # Monitoring
@@ -14,7 +14,7 @@ nav_order: 26
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
- <a href="https://www.braunhealthcare.com/us_en/thermometer/thermoscan-5/" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.braunhealthcare.com/us_en/thermometer/thermoscan-5/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -34,7 +34,7 @@ nav_order: 26
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://contechealth.com/collections/vet-blood-pressure-monitor/products/contec08a-vet-electronic-sphygmomanometer" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://contechealth.com/collections/vet-blood-pressure-monitor/products/contec08a-vet-electronic-sphygmomanometer" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -54,7 +54,7 @@ View on <a href="https://contechealth.com/collections/vet-blood-pressure-monitor
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://contechealth.com/products/neonate-cuff-6-to-11-cm-arm-single-tube-reusable-cuff-for-patient-nibp-monitor?variant=41026112454806" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://contechealth.com/products/neonate-cuff-6-to-11-cm-arm-single-tube-reusable-cuff-for-patient-nibp-monitor?variant=41026112454806" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -69,7 +69,7 @@ View on <a href="https://contechealth.com/products/neonate-cuff-6-to-11-cm-arm-s
 [**UTI**]({% link docs/uti.md %})
 {: .label }
 
-View on <a href="https://www.eufy.com/products/t8410121" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.eufy.com/products/t8410121" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -87,7 +87,7 @@ View on <a href="https://www.eufy.com/products/t8410121" class="external" target
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://shop.greatergoods.com/products/pet-scale" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://shop.greatergoods.com/products/pet-scale" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -107,7 +107,7 @@ View on <a href="https://shop.greatergoods.com/products/pet-scale" class="extern
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-747xp-blackout-black" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-747xp-blackout-black" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -127,13 +127,13 @@ View on <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-7
 [**UTI**]({% link docs/uti.md %})
 {: .label }
 
- <a href="https://www.petivity.com/pages/smart-litter-box-monitor" class="external" target="_blank">manufacturer page <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.petivity.com/pages/smart-litter-box-monitor" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/811854" class="external" target="_blank">Chewy <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.petivity.com/products/smart-litter-box-monitor" class="external" target="_blank">Direct <svg width="18" height="18" viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/811854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.petivity.com/products/smart-litter-box-monitor" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > I'll never understand it, but Dad likes to monitor my litter box habits. (I know, right?!) This tells him when I use the box, what I did (#1 or #2), how long I was in there, and even my weight! Heck, just monitoring my weight day-to-day is extremely valuable. But my dad also geeks out on all the stats and other info. &#x1F913;
 
-<!-- Updated 2024-10-21 23:24:29.273313Z -->
+<!-- Updated 2024-10-22 23:44:58.896165Z -->

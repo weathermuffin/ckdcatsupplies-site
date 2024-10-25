@@ -12,6 +12,8 @@ nav_order: 47
 [**Sub-Qs**]({% link docs/sub-qs.md %})
 {: .label }
 
+View on <a href="https://thrivingpets.com/products/iv-admin-set-dehp-free-72" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 * * *
 
 
@@ -29,6 +31,14 @@ nav_order: 47
 
  <a href="https://www.bbraunusa.com/en/products/b/lactated-ringer-sinjections.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+### 1 Liter
+
+View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-liter-bags" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 1 Liter, Case of 12
+
+View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-liter-bags-braun-brand-dehp-free-bags-case-of-12-bags" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 * * *
 
 
@@ -37,6 +47,8 @@ nav_order: 47
 
 [**Sub-Qs**]({% link docs/sub-qs.md %})
 {: .label }
+
+View on <a href="https://thrivingpets.com/products/iv-admin-set-dehp-free-braun-v1501" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -78,6 +90,14 @@ View on <a href="https://www.chewy.com/dp/322122" class="external" target="_blan
 
  <a href="https://www.terumotmp.com/products/infusion-and-blood-collection/surflo-winged-infusion-sets.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/subcutaneous_fluids_syringe.htm#what_you_need" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+### 21G x 3/4", 12" Tubing
+
+View on <a href="https://www.scahealth.com/p/surflo-winged-infusion-set-21g-x-3-4-in-ultra-thin-wall-12-in-tubing" class="external" target="_blank">SCA Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 23G x 3/4", 12" Tubing
+
+View on <a href="https://www.scahealth.com/p/surflo-winged-infusion-set-23g-x-3-4-in-ultra-thin-wall-12-in-tubing" class="external" target="_blank">SCA Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -97,6 +117,14 @@ View on <a href="https://www.chewy.com/dp/322122" class="external" target="_blan
 {: .label }
 
  <a href="https://www.terumotmp.com/products/hypodermics/terumo-hypodermic-needles.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/subcutaneous_fluids_giving_set.htm#what_you_need" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 20G x 1"
+
+View on <a href="https://thrivingpets.com/products/terumo-needles-thin-wall-20-gauge-1-inch-box-of-100" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 21G x 1"
+
+View on <a href="https://thrivingpets.com/products/terumo-needles-thin-wall-21-gauge-1-inch-box-of-100" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -133,4 +161,4 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 >
 > Well I can't say it's my favorite way to pass the time, but I do feel better and more hydrated after these fluids.
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

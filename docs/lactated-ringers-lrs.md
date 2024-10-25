@@ -20,6 +20,14 @@ nav_order: 28
 
  <a href="https://www.bbraunusa.com/en/products/b/lactated-ringer-sinjections.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+### 1 Liter
+
+View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-liter-bags" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 1 Liter, Case of 12
+
+View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-liter-bags-braun-brand-dehp-free-bags-case-of-12-bags" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 * * *
 
 
@@ -50,4 +58,4 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 >
 > Well I can't say it's my favorite way to pass the time, but I do feel better and more hydrated after these fluids.
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

@@ -15,6 +15,8 @@ nav_order: 14
 {: .label }
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
+
+View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -64,4 +66,4 @@ nav_order: 14
 1.  Shinya TAKENOUCHI, Yui KOBAYASHI, Tatsuya SHINOZAKI, Koji KOBAYASHI, Tatsuro NAKAMURA, Tomohiro YONEZAWA, Takahisa MURATA, The urinary lipid profile in cats with idiopathic cystitis, Journal of Veterinary Medical Science, 2022, Volume 84, Issue 5, Pages 689-693. doi:<a href="https://doi.org/10.1292/jvms.22-0049" class="external" target="_blank">10.1292/jvms.22-0049&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wooten S. Feline interstitial cystitis: Its not about the bladder. DVM360. 2017. <a href="https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder" class="external" target="_blank">https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

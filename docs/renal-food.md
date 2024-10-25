@@ -148,4 +148,4 @@ View on <a href="https://www.chewy.com/dp/578126" class="external" target="_blan
 >
 > I really liked this food. Sadly, I think I was allergic to the egg in it. But lots of kitties enjoy this food. It's a good source of protein with low phosphorus, a nice option for a CKD kitty. Bonus: it doesn't require a prescription!
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

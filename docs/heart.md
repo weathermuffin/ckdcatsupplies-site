@@ -14,7 +14,7 @@ nav_order: 23
 [**Heart**]({% link docs/heart.md %})
 {: .label }
 
-View on <a href="https://www.doctorsbest.com/products/doctor-s-best-nattokinase-2-000-fus-90-veggie-caps-33" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.vitacost.com/doctors-best-nattokinase" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B000BD0RRM/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-nattokinase-2-000-fus-90-veggie-caps-33" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -27,7 +27,15 @@ View on <a href="https://www.doctorsbest.com/products/doctor-s-best-nattokinase-
 [**Heart**]({% link docs/heart.md %})
 {: .label }
 
-View on <a href="https://www.doctorsbest.com/products/doctor-s-best-ubiquinol-with-kaneka-50-mg-90-softgels-12631" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.vitacost.com/doctors-best-ubiquinol-with-kaneka-qh" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0014I4XMS/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-ubiquinol-with-kaneka-50-mg-90-softgels-12631" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Druzhaeva N, Petrič AD, Tavčar-Kalcher G, Babič J, Nemec Svete A. Randomized, double-blinded, controlled trial of the effects of coenzyme Q10 supplementation on plasma coenzyme Q10 concentration in dogs with myxomatous mitral valve disease. Am J Vet Res. 2021 Apr;82(4):280-285. doi:<a href="https://doi.org/10.2460/ajvr.82.4.280" class="external" target="_blank">10.2460/ajvr.82.4.280&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Ishikawa, A., Kawarazaki, H., Ando, K. et al. Renal preservation effect of ubiquinol, the reduced form of coenzyme Q10. Clin Exp Nephrol 15, 30-33 (2011). doi:<a href="https://doi.org/10.1007/s10157-010-0350-8" class="external" target="_blank">10.1007/s10157-010-0350-8&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sood B, Patel P, Keenaghan M. Coenzyme Q10. [Updated 2024 Jan 30]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. <a href="https://www.ncbi.nlm.nih.gov/books/NBK531491/" class="external" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK531491/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
 
 * * *
 
@@ -101,7 +109,7 @@ View on <a href="https://www.chewy.com/dp/299560" class="external" target="_blan
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-747xp-blackout-black" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0011E8DG2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-747xp-blackout-black" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -121,7 +129,7 @@ View on <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-7
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://www.nowfoods.com/products/supplements/taurine-pure-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B000BQSQ68/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vitacost.com/now-taurine-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/taurine-pure-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -144,7 +152,7 @@ View on <a href="https://www.nowfoods.com/products/supplements/taurine-pure-powd
 
  <a href="https://www.rxvitamins.com/rxvitaminsforpet/product-category/cardiovascular-health-products/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B01GL01D6C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vetrxdirect.com/product/view/formula-cv-for-dogs-and-cats-otc" class="external" target="_blank">VetRxDirect&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -173,7 +181,11 @@ View on <a href="https://www.chewy.com/dp/192751" class="external" target="_blan
 
 ### 20 ct
 
-View on <a href="https://www.chewy.com/dp/883494" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/883494" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0C7XN4V25/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 160 ct
+
+View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -197,6 +209,10 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 <details markdown="block">
 <summary>References and resources</summary>
 
+1.  Vetmedin (pimobendan) Chewable Tablets product insert. Boehringer Ingelheim Animal Health USA Inc. 2023. <a href="https://docs.boehringer-ingelheim.com/PI/Theras/Vetmedin_PI.pdf" class="external" target="_blank">https://docs.boehringer-ingelheim.com/PI/Theras/Vetmedin_PI.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Freedom of Information Summary, Corrected Original New Animal Drug Application, NADA 141-273: Vetmedin (pimobendan) Chewable Tablets. 2007. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/832" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/832&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Freedom of Information Summary, Application for Conditional Approval, Application Number 141-556: Vetmedin-CA1 (pimobendan) Chewable Tablets. 2022. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/12512" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/12512&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Freedom of Information Summary, Original New Animal Drug Application, NADA 141-575: Vetmedin Solution (pimobendan oral solution). 2024. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/15024" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/15024&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Hanzlicek AS, Gehring R, Kukanich B, Kukanich KS, Borgarelli M, Smee N, Olson EE, Margiocco M. Pharmacokinetics of oral pimobendan in healthy cats. J Vet Cardiol. 2012 Dec;14(4):489-96. doi:<a href="https://doi.org/10.1016/j.jvc.2012.06.002" class="external" target="_blank">10.1016/j.jvc.2012.06.002&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kittleson MD, Côté E. The Feline Cardiomyopathies: 2. Hypertrophic cardiomyopathy. Journal of Feline Medicine and Surgery. 2021;23(11):1028-1051. doi:<a href="https://doi.org/10.1177/1098612X211020162" class="external" target="_blank">10.1177/1098612X211020162&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Oldach MS, Ueda Y, Ontiveros ES, Fousse SL, Harris SP and Stern JA (2019) Cardiac Effects of a Single Dose of Pimobendan in Cats With Hypertrophic Cardiomyopathy; A Randomized, Placebo-Controlled, Crossover Study. Front. Vet. Sci. 6:15. doi:<a href="https://doi.org/10.3389/fvets.2019.00015" class="external" target="_blank">10.3389/fvets.2019.00015&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -222,5 +238,6 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 1.  Pierce, K.V., Rush, J.E., Freeman, L.M., Cunningham, S.M. and Yang, V.K. (2017), Association between Survival Time and Changes in NT-proBNP in Cats Treated for Congestive Heart Failure. J Vet Intern Med, 31: 678-684. doi:<a href="https://doi.org/10.1111/jvim.14690" class="external" target="_blank">10.1111/jvim.14690&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rivas VN, Kaplan JL, Kennedy SA, Fitzgerald S, Crofton AE, Farrell A, Grubb L, Jauregui CE, Grigorean G, Choi E, et al. Multi-Omic, Histopathologic, and Clinicopathologic Effects of Once-Weekly Oral Rapamycin in a Naturally Occurring Feline Model of Hypertrophic Cardiomyopathy: A Pilot Study. Animals. 2023; 13(20):3184. doi:<a href="https://doi.org/10.3390/ani13203184" class="external" target="_blank">10.3390/ani13203184&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Schaer M. Fluid Therapy for Critically Ill Dogs and Cats. World Small Animal Veterinary Association World Congress Proceedings, 2006. <a href="https://www.vin.com/doc/?id=3858919" class="external" target="_blank">https://www.vin.com/doc/?id=3858919&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Syme HM. Cardiovascular and renal manifestations of hyperthyroidism. Vet Clin North Am Small Anim Pract. 2007 Jul;37(4):723-43, vi. doi:<a href="https://doi.org/10.1016/j.cvsm.2007.05.011" class="external" target="_blank">10.1016/j.cvsm.2007.05.011&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

@@ -18,7 +18,7 @@ nav_order: 3
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://www.freshisbest.com/product/freeze-dried-duck-livers/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.naturalpetwarehouse.com/fresh-is-best-freeze-dried-duck-liver-fillets-dog-treats" class="external" target="_blank">Natural Pet Warehouse&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.freshisbest.com/product/freeze-dried-duck-livers/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -63,6 +63,8 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 
  <a href="https://ocraw.com/product/chicken-hearts-freeze-dried/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#oral_iron_food" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chicken-hearts-dog-treats" class="external" target="_blank">Natural Pet Warehouse&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -85,6 +87,8 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 
  <a href="https://superiorsourcevitamins.com/product/no-shot-methylcobalamin-b-12-1000-mcg/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+View on <a href="https://www.amazon.com/dp/B003VR6Y18/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vitacost.com/superior-source-no-shot-methylcobalamin-b-12" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -106,6 +110,8 @@ View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blan
 {: .label }
 
  <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.vitacost.com/vitacost-vitamin-b-12-methylcobalamin-500-mcg-300-capsules" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0046IET7C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -148,4 +154,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 1.  Naigamwalla DZ, Webb JA, Giger U. Iron deficiency anemia. Can Vet J. 2012 Mar;53(3):250-6. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3280776/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC3280776/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Winzelberg Olson S, Hohenhaus AE. Feline non-regenerative anemia: Diagnostic and treatment recommendations. Journal of Feline Medicine and Surgery. 2019;21(7):615-631. doi:<a href="https://doi.org/10.1177/1098612X19856178" class="external" target="_blank">10.1177/1098612X19856178&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

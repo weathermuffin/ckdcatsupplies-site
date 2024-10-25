@@ -20,6 +20,8 @@ nav_order: 38
 
  <a href="https://www.dechra-us.com/our-products/us/companion-animal/cat/non-prescription/redonyl-ultra-feline" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-for-dogs-otc/variation-13786" class="external" target="_blank">VetRxDirect&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -38,6 +40,13 @@ nav_order: 38
 
 # PEA references and resources
 
+1.  Cifelli P, Ruffolo G, Ceccanti M, Cambieri C, Libonati L, Palma E, Inghilleri M. Classical and Unexpected Effects of Ultra-Micronized PEA in Neuromuscular Function. Biomolecules. 2022; 12(6):758. doi:<a href="https://doi.org/10.3390/biom12060758" class="external" target="_blank">10.3390/biom12060758&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Paul Clayton, Silma Subah, Ruchitha Venkatesh, Mariko Hill & Nathasha Bogoda (2021) Palmitoylethanolamide: A Potential Alternative to Cannabidiol, Journal of Dietary Supplements, 20:3, 505-530. doi:<a href="https://doi.org/10.1080/19390211.2021.2005733" class="external" target="_blank">10.1080/19390211.2021.2005733&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  della Rocca G, Re G. Palmitoylethanolamide and Related ALIAmides for Small Animal Health: State of the Art. Biomolecules. 2022; 12(9):1186. doi:<a href="https://doi.org/10.3390/biom12091186" class="external" target="_blank">10.3390/biom12091186&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hesselink JMK (2013) Professor Rita Levi-Montalcini on Nerve Growth Factor, Mast Cells and Palmitoylethanolamide, an Endogenous Anti-Inflammatory and Analgesic Compound. J Pain Relief 2:114. doi:<a href="https://doi.org/10.4172/2167-0846.1000114" class="external" target="_blank">10.4172/2167-0846.1000114&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Impellizzeri, D., Bruschetta, G., Cordaro, M. et al. Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain. J Neuroinflammation 11, 136 (2014). doi:<a href="https://doi.org/10.1186/s12974-014-0136-0" class="external" target="_blank">10.1186/s12974-014-0136-0&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lang-Illievich K, Klivinyi C, Lasser C, Brenna CTA, Szilagyi IS, Bornemann-Cimenti H. Palmitoylethanolamide in the Treatment of Chronic Pain: A Systematic Review and Meta-Analysis of Double-Blind Randomized Controlled Trials. Nutrients. 2023; 15(6):1350. doi:<a href="https://doi.org/10.3390/nu15061350" class="external" target="_blank">10.3390/nu15061350&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Noli, C., della Valle, M.F., Miolo, A., Medori, C., Schievano, C. and (2019), Effect of dietary supplementation with ultramicronized palmitoylethanolamide in maintaining remission in cats with nonflea hypersensitivity dermatitis: a double-blind, multicentre, randomized, placebo-controlled study. Vet Dermatol, 30: 387-e117. doi:<a href="https://doi.org/10.1111/vde.12764" class="external" target="_blank">10.1111/vde.12764&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

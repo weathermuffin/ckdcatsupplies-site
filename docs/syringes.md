@@ -14,6 +14,8 @@ nav_order: 49
 [**Syringes**]({% link docs/syringes.md %})
 {: .label }
 
+View on <a href="https://www.amazon.com/dp/B07BQDRDC2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -29,6 +31,8 @@ nav_order: 49
 
 [**Syringes**]({% link docs/syringes.md %})
 {: .label }
+
+View on <a href="https://www.amazon.com/dp/B08B7DVLY1/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -46,4 +50,4 @@ nav_order: 49
 >
 > These are very good syringes that can be reused without the markings fading so quickly. Plus, graduated to 0.01 mL makes for very accurate dosing!
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

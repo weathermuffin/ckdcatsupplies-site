@@ -15,6 +15,8 @@ nav_order: 9
 {: .label }
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
+
+View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -33,7 +35,7 @@ nav_order: 9
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
 
-View on <a href="https://naturesway.com/products/corn-silk" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vitacost.com/natures-way-corn-silk-1-200-mg-per-serving-traditional-urinary-health" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://naturesway.com/products/corn-silk" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -65,4 +67,4 @@ View on <a href="https://naturesway.com/products/corn-silk" class="external" tar
 
  <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

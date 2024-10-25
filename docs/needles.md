@@ -18,6 +18,14 @@ nav_order: 33
 
  <a href="https://www.terumotmp.com/products/infusion-and-blood-collection/surflo-winged-infusion-sets.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/subcutaneous_fluids_syringe.htm#what_you_need" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+### 21G x 3/4", 12" Tubing
+
+View on <a href="https://www.scahealth.com/p/surflo-winged-infusion-set-21g-x-3-4-in-ultra-thin-wall-12-in-tubing" class="external" target="_blank">SCA Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 23G x 3/4", 12" Tubing
+
+View on <a href="https://www.scahealth.com/p/surflo-winged-infusion-set-23g-x-3-4-in-ultra-thin-wall-12-in-tubing" class="external" target="_blank">SCA Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -38,9 +46,17 @@ nav_order: 33
 
  <a href="https://www.terumotmp.com/products/hypodermics/terumo-hypodermic-needles.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/subcutaneous_fluids_giving_set.htm#what_you_need" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+### 20G x 1"
+
+View on <a href="https://thrivingpets.com/products/terumo-needles-thin-wall-20-gauge-1-inch-box-of-100" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 21G x 1"
+
+View on <a href="https://thrivingpets.com/products/terumo-needles-thin-wall-21-gauge-1-inch-box-of-100" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > I'd prefer to not be poked at all, but if it has to happen, I want it to be Terumo ultra thin wall!
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

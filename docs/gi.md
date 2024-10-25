@@ -43,4 +43,12 @@ View on <a href="https://www.chewy.com/dp/1028494" class="external" target="_bla
 
 View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+* * *
+
+
+# GI references and resources
+
+1.  Hall, E. (2002), Rational selection of gastrointestinal drugs for cats and dogs. In Practice, 24: 242-249. doi:<a href="https://doi.org/10.1136/inpract.24.5.242" class="external" target="_blank">10.1136/inpract.24.5.242&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Tobacman JK. Review of harmful gastrointestinal effects of carrageenan in animal experiments. Environ Health Perspect. 2001 Oct;109(10):983-94. doi:<a href="https://doi.org/10.1289/ehp.01109983" class="external" target="_blank">10.1289/ehp.01109983&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

@@ -20,11 +20,11 @@ nav_order: 40
 
 ### 35 g
 
-View on <a href="https://www.chewy.com/dp/848134" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/848134" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0CX73HXPF/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 200 g
 
-View on <a href="https://www.chewy.com/dp/186061" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/186061" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0D2PKNP51/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -40,6 +40,14 @@ View on <a href="https://www.chewy.com/dp/186061" class="external" target="_blan
 {: .label }
 
  <a href="https://felinecrf.org/phosphorus_binders.htm#aluminium_hydroxide" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 50 g
+
+View on <a href="https://thrivingpets.com/products/thrivingpets-aluminum-hydroxide-powder-usp-50g-jar" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 200 g
+
+View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp-200-gram-jar" class="external" target="_blank">ThrivingPets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -83,5 +91,6 @@ View on <a href="https://www.chewy.com/dp/102190" class="external" target="_blan
 
 1.  Daugirdas, J.T., Finn, W.F., Emmett, M., Chertow, G.M. and (2011), The Phosphate Binder Equivalent Dose. Seminars in Dialysis, 24: 41-49. doi:<a href="https://doi.org/10.1111/j.1525-139X.2011.00849.x" class="external" target="_blank">10.1111/j.1525-139X.2011.00849.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Emmett M. A comparison of clinically useful phosphorus binders for patients with chronic kidney failure. Kidney International. 2004; 66:S32-S25. doi:<a href="https://doi.org/10.1111/j.1523-1755.2004.09005.x" class="external" target="_blank">10.1111/j.1523-1755.2004.09005.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quinn V, Graber J, Sedlacek M. The dietary supplement chitosan lowers serum phosphorus in a hemodialysis patient not tolerating prescription medications. Hemodialysis International. 2022; 26: E12-E15. doi:<a href="https://doi.org/10.1111/hdi.12965" class="external" target="_blank">10.1111/hdi.12965&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

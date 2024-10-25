@@ -24,7 +24,7 @@ View on <a href="https://www.chewy.com/dp/282734" class="external" target="_blan
 
 ### 36 ct
 
-View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0BP9JJDVW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -47,9 +47,20 @@ View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blan
 [**Hydration**]({% link docs/hydration.md %})
 {: .label }
 
+View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > As we all know, hydration is super important for CKD. A fountain is often suggested to help kitties drink more. I never really took to this fountain, though... except for the one time I was really intoxicated after anesthesia and stuck my head in it!
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+* * *
+
+
+# Hydration references and resources
+
+1.  EFSA Panel on Additives and Products or Substances used in Animal Feed (FEEDAP); Bampidis V, Azimonti G, Bastos ML, Christensen H, Dusemund B, Kos Durjava M, Kouba M, López-Alonso M, López Puente S, Marcon F, Mayo B, Pechová A, Petkova M, Ramos F, Sanz Y, Villa RE, Woutersen R, Bories G, Gropp J, Nebbia C, Innocenti ML, Aquilina G. Safety and efficacy of methyl cellulose for all animal species. EFSA J. 2020 Jul 31;18(7):e06212. doi:<a href="https://doi.org/10.2903/j.efsa.2020.6212" class="external" target="_blank">10.2903/j.efsa.2020.6212&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Buckley CMF, Hawthorne A, Colyer A, Stevenson AE. Effect of dietary water intake on urinary output, specific gravity and relative supersaturation for calcium oxalate and struvite in the cat. British Journal of Nutrition. 2011;106(S1):S128-S130. doi:<a href="https://doi.org/10.1017/S0007114511001875" class="external" target="_blank">10.1017/S0007114511001875&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hall JA, Vanchina MA, Ogleby B, Jewell DE. Increased Water Viscosity Enhances Water Intake and Reduces Risk of Calcium Oxalate Stone Formation in Cats. Animals. 2021; 11(7):2110. doi:<a href="https://doi.org/10.3390/ani11072110" class="external" target="_blank">10.3390/ani11072110&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

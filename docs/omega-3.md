@@ -18,7 +18,7 @@ nav_order: 35
 
  <a href="https://felinecrf.org/nutritional_requirements.htm#essential_fatty_acids" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nordic.com/products/omega-3-cat/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B008OYAZUE/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.petco.com/shop/en/petcostore/product/nordic-naturals-omega-3-oil-for-cats" class="external" target="_blank">Petco&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nordic.com/products/omega-3-cat/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -45,11 +45,11 @@ View on <a href="https://www.chewy.com/dp/689902" class="external" target="_blan
 
 ### 60 ct
 
-View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softgels" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 120 ct
 
-View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -62,4 +62,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-
 
 </details>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

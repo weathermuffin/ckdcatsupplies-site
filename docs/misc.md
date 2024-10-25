@@ -12,6 +12,8 @@ nav_order: 30
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
+View on <a href="https://www.amazon.com/dp/B0BNL5JCVR/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
@@ -26,6 +28,8 @@ nav_order: 30
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
+View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 * * *
 
 
@@ -35,4 +39,6 @@ nav_order: 30
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+View on <a href="https://www.amazon.com/dp/B07Q5747XZ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

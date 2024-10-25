@@ -27,8 +27,8 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Richter G (2020). Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Richter. Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
-<!-- Updated 2024-10-22 23:44:58.896165Z -->
+<!-- Updated 2024-10-25 20:37:29.258820Z -->

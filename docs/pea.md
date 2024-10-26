@@ -6,6 +6,9 @@ nav_order: 38
 
 # PEA
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Dechra Redonyl Ultra Feline
 
@@ -49,4 +52,4 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 1.  Noli, C., della Valle, M.F., Miolo, A., Medori, C., Schievano, C. and (2019), Effect of dietary supplementation with ultramicronized palmitoylethanolamide in maintaining remission in cats with nonflea hypersensitivity dermatitis: a double-blind, multicentre, randomized, placebo-controlled study. Vet Dermatol, 30: 387-e117. doi:<a href="https://doi.org/10.1111/vde.12764" class="external" target="_blank">10.1111/vde.12764&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

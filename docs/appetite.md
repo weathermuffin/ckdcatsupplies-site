@@ -6,6 +6,9 @@ nav_order: 6
 
 # Appetite
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Cerenia Maropitant Citrate Tablets (16 mg)
 
@@ -110,4 +113,4 @@ View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_bla
 1.  Quimby JM, Benson KK, Summers SC, et al. Assessment of compounded transdermal mirtazapine as an appetite stimulant in cats with chronic kidney disease. Journal of Feline Medicine and Surgery. 2020;22(4):376-383. doi:<a href="https://doi.org/10.1177/1098612X19851303" class="external" target="_blank">10.1177/1098612X19851303&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Riechelmann RP, Burman D, Tannock IF, Rodin G, Zimmermann C. Phase II Trial of Mirtazapine for Cancer-Related Cachexia and Anorexia. American Journal of Hospice and Palliative Medicine®. 2010;27(2):106-110. doi:<a href="https://doi.org/10.1177/1049909109345685" class="external" target="_blank">10.1177/1049909109345685&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

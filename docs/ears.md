@@ -6,6 +6,9 @@ nav_order: 18
 
 # Ears
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Zymox Enzymatic Ear Cleanser (4 oz)
 
@@ -45,4 +48,4 @@ View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blan
 
 </details>
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

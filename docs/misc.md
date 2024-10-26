@@ -6,13 +6,16 @@ nav_order: 30
 
 # Misc
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## BAGAIL Kitchen Scale, 0.1 g Precision
 
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0BNL5JCVR/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0BNL5JCVR/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -28,7 +31,7 @@ View on <a href="https://www.amazon.com/dp/B0BNL5JCVR/ref=nosim?tag=ckdcatsuppli
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
 * * *
 
@@ -39,6 +42,6 @@ View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsuppli
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B07Q5747XZ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B07Q5747XZ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

@@ -6,6 +6,9 @@ nav_order: 44
 
 # Proteinuria
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Generic Telmisartan Compounded Oral Oil Liquid
 
@@ -53,4 +56,4 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Vientós-Plotts AI, Behrend EN, Welles EG, Chew DJ, Gaillard PR, Busler JN, Lee HP. Effect of blood contamination on results of dipstick evaluation and urine protein-to-urine creatinine ratio for urine samples from dogs and cats. Am J Vet Res. 2018 May;79(5):525-531. doi:<a href="https://doi.org/10.2460/ajvr.79.5.525" class="external" target="_blank">10.2460/ajvr.79.5.525&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  White JD, Norris JM, Bosward KL, Fleay R, Lauer C, Malik R. Persistent haematuria and proteinuria due to glomerular disease in related Abyssinian cats. Journal of Feline Medicine and Surgery. 2008;10(3):219-229. doi:<a href="https://doi.org/10.1016/j.jfms.2007.11.007" class="external" target="_blank">10.1016/j.jfms.2007.11.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

@@ -6,6 +6,9 @@ nav_order: 27
 
 # Iron
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Fresh Is Best Freeze-Dried Duck Livers
 
@@ -77,4 +80,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 >
 > Another option for chicken hearts! Yum.
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

@@ -6,6 +6,9 @@ nav_order: 10
 
 # Blood pressure
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor
 
@@ -16,7 +19,7 @@ nav_order: 10
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B075CVM9R6/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://contechealth.com/collections/vet-blood-pressure-monitor/products/contec08a-vet-electronic-sphygmomanometer" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B075CVM9R6/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://contechealth.com/collections/vet-blood-pressure-monitor/products/contec08a-vet-electronic-sphygmomanometer" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -138,4 +141,4 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Thompson J. Management of hypertension in a geriatric cat. Can Vet J. 2004 May;45(5):427-9. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC548629/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC548629/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

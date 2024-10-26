@@ -6,6 +6,9 @@ nav_order: 24
 
 # Hydration
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Purina Hydra Care, 3 oz
 
@@ -24,7 +27,7 @@ View on <a href="https://www.chewy.com/dp/282734" class="external" target="_blan
 
 ### 36 ct
 
-View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0BP9JJDVW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0BP9JJDVW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/290341" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -47,7 +50,7 @@ View on <a href="https://www.chewy.com/dp/290341" class="external" target="_blan
 [**Hydration**]({% link docs/hydration.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -63,4 +66,4 @@ View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsuppli
 1.  Buckley CMF, Hawthorne A, Colyer A, Stevenson AE. Effect of dietary water intake on urinary output, specific gravity and relative supersaturation for calcium oxalate and struvite in the cat. British Journal of Nutrition. 2011;106(S1):S128-S130. doi:<a href="https://doi.org/10.1017/S0007114511001875" class="external" target="_blank">10.1017/S0007114511001875&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Hall JA, Vanchina MA, Ogleby B, Jewell DE. Increased Water Viscosity Enhances Water Intake and Reduces Risk of Calcium Oxalate Stone Formation in Cats. Animals. 2021; 11(7):2110. doi:<a href="https://doi.org/10.3390/ani11072110" class="external" target="_blank">10.3390/ani11072110&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

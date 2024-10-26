@@ -21,3 +21,7 @@ pharmacy in the kitchen.
 We'd love to hear from you! Message us at chuck -at- weathermuffin.com
 
 &#x2764; Chuck & Luna
+
+* * *
+
+"As an Amazon Associate I earn from qualifying purchases."

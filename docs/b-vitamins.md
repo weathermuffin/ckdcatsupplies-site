@@ -6,6 +6,9 @@ nav_order: 8
 
 # B vitamins
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Jackson Galaxy B12 Vitamin Supplement for Cats, 1 oz
 
@@ -85,7 +88,7 @@ View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chi
 
  <a href="https://superiorsourcevitamins.com/product/no-shot-methylcobalamin-b-12-1000-mcg/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B003VR6Y18/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vitacost.com/superior-source-no-shot-methylcobalamin-b-12" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B003VR6Y18/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/superior-source-no-shot-methylcobalamin-b-12" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -109,7 +112,7 @@ View on <a href="https://www.amazon.com/dp/B003VR6Y18/ref=nosim?tag=ckdcatsuppli
 
  <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral_usa" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.vitacost.com/vitacost-vitamin-b-12-methylcobalamin-500-mcg-300-capsules" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0046IET7C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0046IET7C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/vitacost-vitamin-b-12-methylcobalamin-500-mcg-300-capsules" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -142,4 +145,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 >
 > Another option for chicken hearts! Yum.
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

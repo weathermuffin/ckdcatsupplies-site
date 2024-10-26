@@ -6,6 +6,9 @@ nav_order: 5
 
 # Anxiety
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Feliway Classic Calming Diffuser Refill
 
@@ -91,4 +94,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

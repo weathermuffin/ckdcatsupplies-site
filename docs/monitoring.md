@@ -6,6 +6,9 @@ nav_order: 31
 
 # Monitoring
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Braun ThermoScan 5 Ear Thermometer
 
@@ -16,7 +19,7 @@ nav_order: 31
 
  <a href="https://www.braunhealthcare.com/us_en/thermometer/thermoscan-5/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.amazon.com/dp/B01HP0JU2G/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B01HP0JU2G/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -36,7 +39,7 @@ View on <a href="https://www.amazon.com/dp/B01HP0JU2G/ref=nosim?tag=ckdcatsuppli
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B075CVM9R6/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://contechealth.com/collections/vet-blood-pressure-monitor/products/contec08a-vet-electronic-sphygmomanometer" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B075CVM9R6/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://contechealth.com/collections/vet-blood-pressure-monitor/products/contec08a-vet-electronic-sphygmomanometer" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -71,7 +74,7 @@ View on <a href="https://contechealth.com/products/neonate-cuff-6-to-11-cm-arm-s
 [**UTI**]({% link docs/uti.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0856W45VL/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.eufy.com/products/t8410121" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0856W45VL/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.eufy.com/products/t8410121" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -89,7 +92,7 @@ View on <a href="https://www.amazon.com/dp/B0856W45VL/ref=nosim?tag=ckdcatsuppli
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B098TVJKZ3/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://shop.greatergoods.com/products/pet-scale" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B098TVJKZ3/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://shop.greatergoods.com/products/pet-scale" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -109,7 +112,7 @@ View on <a href="https://www.amazon.com/dp/B098TVJKZ3/ref=nosim?tag=ckdcatsuppli
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0011E8DG2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-747xp-blackout-black" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0011E8DG2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://mdfinstruments.com/products/mdf-acoustica-stethoscope-747xp-blackout-black" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -133,11 +136,11 @@ View on <a href="https://www.amazon.com/dp/B0011E8DG2/ref=nosim?tag=ckdcatsuppli
 
  <a href="https://www.petivity.com/pages/smart-litter-box-monitor" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/811854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.petivity.com/products/smart-litter-box-monitor" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/811854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.petivity.com/products/smart-litter-box-monitor" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > I'll never understand it, but Dad likes to monitor my litter box habits. (I know, right?!) This tells him when I use the box, what I did (#1 or #2), how long I was in there, and even my weight! Heck, just monitoring my weight day-to-day is extremely valuable. But my dad also geeks out on all the stats and other info. &#x1F913;
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

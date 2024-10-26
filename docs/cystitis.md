@@ -6,6 +6,9 @@ nav_order: 14
 
 # Cystitis
 
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
 
 ## Feliway Cystease Advanced Urinary Tract Support for Cats (30 ct)
 
@@ -16,7 +19,7 @@ nav_order: 14
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -66,4 +69,4 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 1.  Shinya TAKENOUCHI, Yui KOBAYASHI, Tatsuya SHINOZAKI, Koji KOBAYASHI, Tatsuro NAKAMURA, Tomohiro YONEZAWA, Takahisa MURATA, The urinary lipid profile in cats with idiopathic cystitis, Journal of Veterinary Medical Science, 2022, Volume 84, Issue 5, Pages 689-693. doi:<a href="https://doi.org/10.1292/jvms.22-0049" class="external" target="_blank">10.1292/jvms.22-0049&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wooten S. Feline interstitial cystitis: Its not about the bladder. DVM360. 2017. <a href="https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder" class="external" target="_blank">https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-25 20:37:29.258820Z -->
+<!-- Updated 2024-10-26 01:42:16.287288Z -->

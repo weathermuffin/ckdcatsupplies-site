@@ -27,6 +27,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/porus-one-renaltec-for
 > &#x1F63A; Luna Says
 >
 > Dad is really excited about this one, but I don't get what's the big deal. Some mumbo-jumbo about absorbing uremic toxin precursors in the gut before they get into my blood. Apparently that helps me feel better! He says it's one of the few supplements available that repeatedly demonstrates a benefit when studied by researchers.
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -64,4 +65,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 
 1.  Rishniw M, Wynn SG. Azodyl, a synbiotic, fails to alter azotemia in cats with chronic kidney disease when sprinkled onto food. Journal of Feline Medicine and Surgery. 2011;13(6):405-409. doi:<a href="https://doi.org/10.1016/j.jfms.2010.12.015" class="external" target="_blank">10.1016/j.jfms.2010.12.015&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

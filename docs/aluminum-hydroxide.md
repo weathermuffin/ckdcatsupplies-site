@@ -66,4 +66,4 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 1.  Emmett M. A comparison of clinically useful phosphorus binders for patients with chronic kidney failure. Kidney International. 2004; 66:S32-S25. doi:<a href="https://doi.org/10.1111/j.1523-1755.2004.09005.x" class="external" target="_blank">10.1111/j.1523-1755.2004.09005.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Katopodis KP, Andrikos E, Pappas M, Siamopoulos KC. Effectiveness of Aluminum Hydroxide Timing Administration in Relation to Meals in Controling Hyperphosphatemia in Dialysis Patients. The International Journal of Artificial Organs. 2005;28(8):803-807. doi:<a href="https://doi.org/10.1177/039139880502800806" class="external" target="_blank">10.1177/039139880502800806&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

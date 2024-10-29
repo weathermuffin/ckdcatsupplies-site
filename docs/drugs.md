@@ -21,7 +21,10 @@ nav_order: 17
 [**Nausea**]({% link docs/nausea.md %})
 {: .label }
 
+ <a href="https://www.zoetisus.com/products/petcare/cerenia" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/appetite_loss_nausea_vomiting.htm#maropitant" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -52,6 +55,7 @@ View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/300965" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -82,6 +86,7 @@ View on <a href="https://www.chewy.com/dp/300965" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/1028494" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -105,6 +110,7 @@ View on <a href="https://www.chewy.com/dp/1028494" class="external" target="_bla
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -137,6 +143,7 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -164,6 +171,7 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -195,6 +203,7 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -223,6 +232,7 @@ View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_bla
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/299560" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -254,6 +264,7 @@ View on <a href="https://www.chewy.com/dp/299560" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -287,6 +298,7 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -304,4 +316,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 
 </details>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

@@ -23,7 +23,7 @@ nav_order: 8
 
  <a href="https://felinecrf.org/vitamin_b.htm#methylcobalamin_oral" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.jacksongalaxy.com/products/b12-for-cats-dietary-supplement?variant=39351808065571" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/565686" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.jacksongalaxy.com/products/b12-for-cats-dietary-supplement?variant=39351808065571" class="external" target="_blank">Jackson Galaxy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -145,4 +145,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 >
 > Another option for chicken hearts! Yum.
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

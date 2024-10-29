@@ -21,7 +21,7 @@ nav_order: 42
 
  <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_human" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/potassium-gluconate-powder" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/potassium-gluconate-powder" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -61,4 +61,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 1.  Hoehne SN. Management of Potassium Disorders in the Emergency Room. European Veterinary Emergency and Critical Care Congress 2019. <a href="https://www.vin.com/doc/?id=9257727" class="external" target="_blank">https://www.vin.com/doc/?id=9257727&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kogika MM, de Morais HA. A Quick Reference on Hypokalemia. Vet Clin North Am Small Anim Pract. 2017 Mar;47(2):229-234. doi:<a href="https://doi.org/10.1016/j.cvsm.2016.10.010" class="external" target="_blank">10.1016/j.cvsm.2016.10.010&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

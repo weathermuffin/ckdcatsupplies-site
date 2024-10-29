@@ -10,6 +10,26 @@ nav_order: 24
 
 
 
+## Methocel E4M Food Grade (50 g)
+
+![Methocel E4M Food Grade](https://cdn11.bigcommerce.com/s-nu5wtrnr3h/images/stencil/1280x1280/products/596/2385/KitchenAlchemy_MethocelE4M_400g_01__43861.1691154572.jpg?c=1){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Hydration**]({% link docs/hydration.md %})
+{: .label }
+
+View on <a href="https://modernistpantry.com/products/methocel-e4m-food-grade.html" class="external" target="_blank">Modernist Pantry&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Hall JA, Vanchina MA, Ogleby B, Jewell DE. Increased Water Viscosity Enhances Water Intake and Reduces Risk of Calcium Oxalate Stone Formation in Cats. Animals. 2021; 11(7):2110. doi:<a href="https://doi.org/10.3390/ani11072110" class="external" target="_blank">10.3390/ani11072110&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
 ## Purina Hydra Care, 3 oz
 
 ![Purina Hydra Care, 3 oz](https://www.purina.com/_gatsby/image/05751f1ef9a850df7548f30a7ace8ddd/c36b855aa1f5fb641ad91723b483f8b5/main-pack-shot_1000x1000_0.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2022-10%2Fmain-pack-shot_1000x1000_0.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=aabb95682ce0d48c6872ff8d6620cbed){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -33,6 +53,7 @@ View on <a href="https://www.amazon.com/dp/B0BP9JJDVW/ref=nosim?tag=ckdcatsuppli
 > &#x1F63A; Luna Says
 >
 > The vet says this may help stimulate me to drink more water. And hydration is super important for CKD kitties like me! I do not like this enough to drink it up as-is, as the instructions suggest... but I'll tolerate it mixed into food.
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -66,4 +87,4 @@ View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsuppli
 1.  Buckley CMF, Hawthorne A, Colyer A, Stevenson AE. Effect of dietary water intake on urinary output, specific gravity and relative supersaturation for calcium oxalate and struvite in the cat. British Journal of Nutrition. 2011;106(S1):S128-S130. doi:<a href="https://doi.org/10.1017/S0007114511001875" class="external" target="_blank">10.1017/S0007114511001875&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Hall JA, Vanchina MA, Ogleby B, Jewell DE. Increased Water Viscosity Enhances Water Intake and Reduces Risk of Calcium Oxalate Stone Formation in Cats. Animals. 2021; 11(7):2110. doi:<a href="https://doi.org/10.3390/ani11072110" class="external" target="_blank">10.3390/ani11072110&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

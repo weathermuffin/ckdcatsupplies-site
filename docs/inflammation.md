@@ -21,12 +21,13 @@ nav_order: 26
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">ThorneVET&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Dad thinks this is good for me, but I have no thoughts on the matter. I guess I don't notice it mixed into food. Apparently this particular product has some kind of new-fangled process that makes it more "bioavailable." Whatevs.
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -34,4 +35,4 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 
 </details>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

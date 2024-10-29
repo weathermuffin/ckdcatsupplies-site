@@ -35,11 +35,11 @@ nav_order: 13
 [**Constipation**]({% link docs/constipation.md %})
 {: .label }
 
-View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.rawpawspetfood.com/pumpkin-powder-digestive-supplement-p/suppump-8.htm" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.rawpawspetfood.com/pumpkin-powder-digestive-supplement-p/suppump-8.htm" class="external" target="_blank">Raw Paws&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > I've had some trouble in the past with, ahem, ruptured anal glands. Pumpkin helps bulk up my stool and naturally keep the glands expressed. Dad says this powder is more convenient and less wasteful than canned pumpkin.
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

@@ -22,6 +22,7 @@ nav_order: 50
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -49,6 +50,7 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -77,11 +79,11 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 
 ### 16 fl. oz.
 
-View on <a href="https://www.amazon.com/dp/B019G9OZ2O/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/lily-of-the-desert-organic-aloe-vera-juice-inner-fillet-preservative-free" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://lilyofthedesert.com/shop/lily-of-the-desert/aloe-vera-juices-gels/inner-fillet-juice/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B019G9OZ2O/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/lily-of-the-desert-organic-aloe-vera-juice-inner-fillet-preservative-free" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://lilyofthedesert.com/shop/lily-of-the-desert/aloe-vera-juices-gels/inner-fillet-juice/" class="external" target="_blank">Lily of the Desert&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 32 fl. oz.
 
-View on <a href="https://www.amazon.com/dp/B00028POJ2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/lily-of-the-desert-organic-aloe-vera-juice-inner-fillet-preservative-free-32-fl-oz" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://lilyofthedesert.com/shop/lily-of-the-desert/aloe-vera-juices-gels/inner-fillet-juice/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B00028POJ2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/lily-of-the-desert-organic-aloe-vera-juice-inner-fillet-preservative-free-32-fl-oz" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://lilyofthedesert.com/shop/lily-of-the-desert/aloe-vera-juices-gels/inner-fillet-juice/" class="external" target="_blank">Lily of the Desert&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -115,4 +117,4 @@ View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsuppli
 
 1.  Marks SL. Where Are We With Transdermal Drug Administration? Waltham Feline Medicine Symposium 2003. <a href="https://www.vin.com/doc/?id=3847278" class="external" target="_blank">https://www.vin.com/doc/?id=3847278&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

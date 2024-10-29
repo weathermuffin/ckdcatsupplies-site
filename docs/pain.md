@@ -29,6 +29,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 > &#x1F63A; Luna Says
 >
 > Dad thinks this helps me with arthritis and other pain. He was unable to find another source which is "ultra-micronized," which allegedly helps with something called "bioavailability." Silly humans and their fancy words! Just mix this in my food already.
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -54,6 +55,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -84,4 +86,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

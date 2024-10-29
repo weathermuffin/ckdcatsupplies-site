@@ -57,6 +57,43 @@ View on <a href="https://thrivingpets.com/products/iv-admin-set-dehp-free-braun-
 
 
 
+## ICU Medical Lactated Ringer's Injection, USP
+
+![ICU Medical Lactated Ringer's Injection, USP](https://www.icumed.com/media/mbqnclgu/0990-7953-09_350x350.jpg?format=webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Fluids**]({% link docs/fluids.md %})
+{: .label }
+[**Lactated Ringer's (LRS)**]({% link docs/lactated-ringers-lrs.md %})
+{: .label }
+[**Sub-Qs**]({% link docs/sub-qs.md %})
+{: .label }
+
+ <a href="https://www.icumed.com/iv-solutions/sol-lactated-ringers-injection/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 500 mL
+
+View on <a href="https://www.chewy.com/dp/180861" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 1,000 mL
+
+View on <a href="https://www.chewy.com/dp/173585" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> These are OK but my dad prefers DEHP-free.
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  ICU Medical Issues a Voluntary Nationwide Recall of Lactated Ringer's Injection, USP Due to the Presence of Particulate Matter. FDA. May 8, 2020. <a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/icu-medical-issues-voluntary-nationwide-recall-lactated-ringers-injection-usp-due-presence" class="external" target="_blank">https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/icu-medical-issues-voluntary-nationwide-recall-lactated-ringers-injection-usp-due-presence&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
 ## Jorvet Infusion Set, 72", 20 drops per mL
 
 [**Sub-Qs**]({% link docs/sub-qs.md %})
@@ -164,4 +201,4 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 >
 > Well I can't say it's my favorite way to pass the time, but I do feel better and more hydrated after these fluids.
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

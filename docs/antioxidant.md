@@ -25,16 +25,17 @@ nav_order: 4
 
 ### 60 ct
 
-View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softgels" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.vitacost.com/now-neptune-krill-oil-500-mg-60-softgels" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 120 ct
 
-View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/krill-oil-500-mg-softgels" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Dad mixes this into a bit of Fancy Feast each day as a fun little treat! He's happy, I'm happy.
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -57,12 +58,13 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
-View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="external" target="_blank">ThorneVET&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Dad thinks this is good for me, but I have no thoughts on the matter. I guess I don't notice it mixed into food. Apparently this particular product has some kind of new-fangled process that makes it more "bioavailable." Whatevs.
+
 <details markdown="block">
 <summary>References and resources</summary>
 
@@ -78,4 +80,4 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 1.  Jewell DE, Motsinger LA, Paetau-Robinson I. Effect of dietary antioxidants on free radical damage in dogs and cats. J Anim Sci. 2024 Jan 3;102:skae153. doi:<a href="https://doi.org/10.1093/jas/skae153" class="external" target="_blank">10.1093/jas/skae153&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kane, E (2004). Dietary antioxidants are important for pets. DVM360. <a href="https://www.dvm360.com/view/dietary-antioxidants-are-important-pets" class="external" target="_blank">https://www.dvm360.com/view/dietary-antioxidants-are-important-pets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-26 01:42:16.287288Z -->
+<!-- Updated 2024-10-29 23:01:03.919277Z -->

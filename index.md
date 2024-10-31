@@ -11,10 +11,9 @@ GENERATED FILE - DO NOT EDIT
 
 # CKD Cat Supplies
 
-Helping you find the best products and supplies for your CKD kitty,
-at the best prices.
+{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}
 
-First time here? [Start here.]({% link docs/start-here.md %})
+First time visitor? [Start here.]({% link docs/start-here.md %})
 
 ## All CATegories &#x1F639;
 
@@ -174,4 +173,4 @@ First time here? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

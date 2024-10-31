@@ -6,6 +6,8 @@ nav_order: 37
 
 # Otitis
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -94,4 +96,4 @@ View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blan
 1.  Cytology Reference Guide. Dechra Veterinary Products. 2023. <a href="https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/C230160-Cytology-Reference-Guide.pdf" class="external" target="_blank">https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/C230160-Cytology-Reference-Guide.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fujimura M. Effects of an enzyme agent containing mutanase and dextranase for treatment of biofilms in bacteria- and yeast-infected canine otitis externa. Polish Journal of Veterinary Sciences. 2022; 25(3):383-389. doi:<a href="https://doi.org/10.24425/pjvs.2022.142021" class="external" target="_blank">10.24425/pjvs.2022.142021&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

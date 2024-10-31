@@ -6,6 +6,8 @@ nav_order: 53
 
 # Vitamins
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -93,4 +95,4 @@ View on <a href="https://www.amazon.com/dp/B0046IET7C/ref=nosim?tag=ckdcatsuppli
 >
 > This helps me keep the anemia away. I take it every day mixed in food and don't even notice it. It's odorless and tasteless.
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

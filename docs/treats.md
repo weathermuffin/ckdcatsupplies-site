@@ -6,6 +6,8 @@ nav_order: 51
 
 # Treats
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -170,4 +172,4 @@ View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsuppli
 >
 > This works very well for smothering capsules, or even plain as a chaser after those nasty oral medicines. (Gross!) I heard Dad mumble something about low sodium and the cardiologist.
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

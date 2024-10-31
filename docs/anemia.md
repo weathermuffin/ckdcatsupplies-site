@@ -6,6 +6,8 @@ nav_order: 3
 
 # Anemia
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -157,4 +159,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 1.  Naigamwalla DZ, Webb JA, Giger U. Iron deficiency anemia. Can Vet J. 2012 Mar;53(3):250-6. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3280776/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC3280776/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Winzelberg Olson S, Hohenhaus AE. Feline non-regenerative anemia: Diagnostic and treatment recommendations. Journal of Feline Medicine and Surgery. 2019;21(7):615-631. doi:<a href="https://doi.org/10.1177/1098612X19856178" class="external" target="_blank">10.1177/1098612X19856178&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

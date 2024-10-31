@@ -6,6 +6,8 @@ nav_order: 35
 
 # Omega-3
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -67,4 +69,4 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external
 
 </details>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

@@ -6,6 +6,8 @@ nav_order: 29
 
 # Medicating
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -66,4 +68,4 @@ View on <a href="https://www.chewy.com/dp/204481" class="external" target="_blan
 >
 > Ugh I really hate this thing! But occasionally it's a necessary evil. This one works well due to its long length and easily holds size 3-5 capsules.
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

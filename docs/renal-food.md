@@ -6,6 +6,8 @@ nav_order: 46
 
 # Renal food
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -151,4 +153,4 @@ View on <a href="https://www.chewy.com/dp/578126" class="external" target="_blan
 >
 > I really liked this food. Sadly, I think I was allergic to the egg in it. But lots of kitties enjoy this food. It's a good source of protein with low phosphorus, a nice option for a CKD kitty. Bonus: it doesn't require a prescription!
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

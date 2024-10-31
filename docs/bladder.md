@@ -6,6 +6,8 @@ nav_order: 9
 
 # Bladder
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -71,4 +73,4 @@ View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsuppli
 
  <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

@@ -6,6 +6,8 @@ nav_order: 28
 
 # Lactated Ringer's (LRS)
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -98,4 +100,4 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 >
 > Well I can't say it's my favorite way to pass the time, but I do feel better and more hydrated after these fluids.
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

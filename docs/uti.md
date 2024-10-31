@@ -6,6 +6,8 @@ nav_order: 52
 
 # UTI
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -80,4 +82,4 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 1.  Dorsch R, Teichmann-Knorrn S, Sjetne Lund H. Urinary tract infection and subclinical bacteriuria in cats: A clinical update. Journal of Feline Medicine and Surgery. 2019;21(11):1023-1038. doi:<a href="https://doi.org/10.1177/1098612X19880435" class="external" target="_blank">10.1177/1098612X19880435&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  KuKanich, KS. Managing the E coli UTI. Consultant on Call, NAVC Clinician's Brief, August 2011. <a href="https://assets.ctfassets.net/4dmg3l1sxd6g/56kBrmZeTq2VYkVdoNAz31/2f9a999e2d4140cdb46b98a74176480b/managingecoliuti-5302-article.pdf" class="external" target="_blank">https://assets.ctfassets.net/4dmg3l1sxd6g/56kBrmZeTq2VYkVdoNAz31/2f9a999e2d4140cdb46b98a74176480b/managingecoliuti-5302-article.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

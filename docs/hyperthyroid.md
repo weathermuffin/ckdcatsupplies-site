@@ -6,6 +6,8 @@ nav_order: 25
 
 # Hyperthyroid
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -55,4 +57,4 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 1.  Vaske HH, Schermerhorn T, Grauer GF. Effects of feline hyperthyroidism on kidney function: a review. Journal of Feline Medicine and Surgery. 2016;18(2):55-59. doi:<a href="https://doi.org/10.1177/1098612X15575385" class="external" target="_blank">10.1177/1098612X15575385&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Yu, L., Lacorcia, L. and Johnstone, T., Hyperthyroid cats and their kidneys: a literature review. Aust Vet J. 2022; 100: 415-432. doi:<a href="https://doi.org/10.1111/avj.13179" class="external" target="_blank">10.1111/avj.13179&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

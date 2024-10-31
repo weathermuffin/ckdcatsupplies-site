@@ -6,6 +6,8 @@ nav_order: 39
 
 # Pain
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -86,4 +88,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

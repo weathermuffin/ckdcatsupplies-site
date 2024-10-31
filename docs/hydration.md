@@ -6,6 +6,8 @@ nav_order: 24
 
 # Hydration
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -87,4 +89,4 @@ View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsuppli
 1.  Buckley CMF, Hawthorne A, Colyer A, Stevenson AE. Effect of dietary water intake on urinary output, specific gravity and relative supersaturation for calcium oxalate and struvite in the cat. British Journal of Nutrition. 2011;106(S1):S128-S130. doi:<a href="https://doi.org/10.1017/S0007114511001875" class="external" target="_blank">10.1017/S0007114511001875&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Hall JA, Vanchina MA, Ogleby B, Jewell DE. Increased Water Viscosity Enhances Water Intake and Reduces Risk of Calcium Oxalate Stone Formation in Cats. Animals. 2021; 11(7):2110. doi:<a href="https://doi.org/10.3390/ani11072110" class="external" target="_blank">10.3390/ani11072110&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

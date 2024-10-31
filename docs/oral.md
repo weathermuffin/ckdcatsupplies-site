@@ -6,6 +6,8 @@ nav_order: 36
 
 # Oral
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -69,4 +71,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 
 1.  Lopes Kubitza FM, Anthony JMG. Topical oral 1-tetradecanol complex in the treatment of periodontal diseases in cats. Journal of Feline Medicine and Surgery. 2019;21(12):1141-1148. doi:<a href="https://doi.org/10.1177/1098612X18820734" class="external" target="_blank">10.1177/1098612X18820734&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

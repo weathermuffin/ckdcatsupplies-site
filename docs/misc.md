@@ -6,6 +6,8 @@ nav_order: 30
 
 # Misc
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -44,4 +46,4 @@ View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsuppli
 
 View on <a href="https://www.amazon.com/dp/B07Q5747XZ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

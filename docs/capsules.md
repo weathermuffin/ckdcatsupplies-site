@@ -6,6 +6,8 @@ nav_order: 12
 
 # Capsules
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -113,4 +115,4 @@ View on <a href="https://www.amazon.com/dp/B095Z5WP43/ref=nosim?tag=ckdcatsuppli
 >
 > My favorite size of capsule is NONE, but this is my second favorite. Dad puts whatever he needs to into one of these bad boys, slathers it with a lickable treat, then tops with crushed Temptations powder. I just gobble the thing right down! He thinks he's pulling a fast one and sneaking a pill without me noticing. Mostly I humor him, but every once in a while I'll spit one out to keep him on his toes.
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

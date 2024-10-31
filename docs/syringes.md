@@ -6,6 +6,8 @@ nav_order: 49
 
 # Syringes
 
+First time visitor? [Start here.]({% link docs/start-here.md %})
+
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
@@ -53,4 +55,4 @@ View on <a href="https://www.amazon.com/dp/B08B7DVLY1/ref=nosim?tag=ckdcatsuppli
 >
 > These are very good syringes that can be reused without the markings fading so quickly. Plus, graduated to 0.01 mL makes for very accurate dosing!
 
-<!-- Updated 2024-10-29 23:01:03.919277Z -->
+<!-- Updated 2024-10-31 18:18:22.247739Z -->

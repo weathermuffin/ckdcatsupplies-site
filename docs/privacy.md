@@ -1,7 +1,7 @@
 ---
 title: "&#x1F440; Privacy"
-layout: about
-nav_order: 103
+layout: default
+nav_order: 104
 ---
 
 # Privacy

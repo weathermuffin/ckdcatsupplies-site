@@ -268,3 +268,7 @@ Browse one of the following CATegories... &#x1F639;
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
+
+...or to help support desperately needed feline CKD research, see our
+[feline CKD philanthropy]({% link docs/feline-ckd-philanthropy.md %})
+suggestions.

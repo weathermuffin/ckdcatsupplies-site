@@ -44,4 +44,4 @@ View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_bla
 >
 > I've had some trouble in the past with, ahem, ruptured anal glands. Pumpkin helps bulk up my stool and naturally keep the glands expressed. Dad says this powder is more convenient and less wasteful than canned pumpkin.
 
-<!-- Updated 2024-10-31 18:18:22.247739Z -->
+<!-- Updated 2024-11-01 19:12:06.004679Z -->

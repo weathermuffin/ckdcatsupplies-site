@@ -64,4 +64,4 @@ View on <a href="https://www.amazon.com/dp/B092QN563N/ref=nosim?tag=ckdcatsuppli
 >
 > Sometimes, despite our best efforts, a mat will form in my fur. It's quick and easy to take care of with these clippers. I appreciate that they're so quiet, and it's the same one my vet uses!
 
-<!-- Updated 2024-10-31 18:18:22.247739Z -->
+<!-- Updated 2024-11-01 19:12:06.004679Z -->

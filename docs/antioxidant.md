@@ -82,4 +82,4 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 1.  Jewell DE, Motsinger LA, Paetau-Robinson I. Effect of dietary antioxidants on free radical damage in dogs and cats. J Anim Sci. 2024 Jan 3;102:skae153. doi:<a href="https://doi.org/10.1093/jas/skae153" class="external" target="_blank">10.1093/jas/skae153&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kane, E (2004). Dietary antioxidants are important for pets. DVM360. <a href="https://www.dvm360.com/view/dietary-antioxidants-are-important-pets" class="external" target="_blank">https://www.dvm360.com/view/dietary-antioxidants-are-important-pets&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-10-31 18:18:22.247739Z -->
+<!-- Updated 2024-11-01 19:12:06.004679Z -->

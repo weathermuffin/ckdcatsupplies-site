@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Bladder"
 layout: default
-nav_order: 9
+nav_order: 10
 ---
 
 # Bladder
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Feliway Cystease Advanced Urinary Tract Support for Cats (30 ct)
+## &#x1F7E2; Feliway Cystease Advanced Urinary Tract Support for Cats (30 ct)
 
 ![Feliway Cystease Advanced Urinary Tract Support for Cats](https://www.feliway.co.uk/cdn/shop/files/KWP0136_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -34,7 +34,7 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nature's Way Corn Silk 1,200 mg Capsules (100 ct)
+## &#x1F7E2; Nature's Way Corn Silk 1,200 mg Capsules (100 ct)
 
 ![Nature's Way Corn Silk 1,200 mg Capsules](https://naturesway.com/cdn/shop/products/sholynzn2ahbfqstq0yq.png?height=500){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -47,7 +47,7 @@ View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Protexin Cystophan
+## &#x1F7E2; Protexin Cystophan
 
 ![Protexin Cystophan](https://www.protexinvet.com/images/products/standard/6236.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -62,7 +62,7 @@ View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsuppli
 
 
 
-## VetPlus Cystaid
+## &#x1F7E2; VetPlus Cystaid
 
 ![VetPlus Cystaid](https://www.vetplus.co.uk/wp-content/uploads/2021/04/Cystaid.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -73,4 +73,4 @@ View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsuppli
 
  <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

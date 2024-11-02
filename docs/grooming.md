@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Grooming"
 layout: default
-nav_order: 22
+nav_order: 23
 ---
 
 # Grooming
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Coastal Pet Safari Self-Cleaning Slicker Brush
+## &#x1F7E2; Coastal Pet Safari Self-Cleaning Slicker Brush
 
 ![Coastal Pet Safari Self-Cleaning Slicker Brush](https://www.coastalpet.com/remote.axd/images.salsify.com/image/upload/s--Ty10226D--/zt5nysj1oyklks5oljvq.jpg?format=webp&quality=80){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -30,7 +30,7 @@ View on <a href="https://www.amazon.com/dp/B000YIWUXI/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Frisco Cat Curry Brush
+## &#x1F7E2; Frisco Cat Curry Brush
 
 [**Grooming**]({% link docs/grooming.md %})
 {: .label }
@@ -41,7 +41,7 @@ View on <a href="https://www.chewy.com/dp/233454" class="external" target="_blan
 
 
 
-## JW Pet Gripsoft Cat Comb
+## &#x1F7E2; JW Pet Gripsoft Cat Comb
 
 [**Grooming**]({% link docs/grooming.md %})
 {: .label }
@@ -52,7 +52,7 @@ View on <a href="https://www.amazon.com/dp/B0002AQPXO/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Portable Electric USB Rechargeable Pet Clipper
+## &#x1F7E2; Portable Electric USB Rechargeable Pet Clipper
 
 [**Grooming**]({% link docs/grooming.md %})
 {: .label }
@@ -64,4 +64,4 @@ View on <a href="https://www.amazon.com/dp/B092QN563N/ref=nosim?tag=ckdcatsuppli
 >
 > Sometimes, despite our best efforts, a mat will form in my fur. It's quick and easy to take care of with these clippers. I appreciate that they're so quiet, and it's the same one my vet uses!
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

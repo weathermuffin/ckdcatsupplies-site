@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Arthritis"
 layout: default
-nav_order: 7
+nav_order: 8
 ---
 
 # Arthritis
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Dechra Redonyl Ultra Feline
+## &#x1F7E2; Dechra Redonyl Ultra Feline
 
 ![Dechra Redonyl Ultra Feline](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/redonyl_ultra_feline_0321.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -37,7 +37,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 
 1.  Cifelli P, Ruffolo G, Ceccanti M, Cambieri C, Libonati L, Palma E, Inghilleri M. Classical and Unexpected Effects of Ultra-Micronized PEA in Neuromuscular Function. Biomolecules. 2022; 12(6):758. doi:<a href="https://doi.org/10.3390/biom12060758" class="external" target="_blank">10.3390/biom12060758&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1. _"Due to the patents held on Redonyl Ultra, no other animal health nutraceutical can contain micronized or ultramicronized PEA."_ &mdash;  Dechra unveils skin-supporting Redonyl Ultra Feline (2022) <a href="https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/" class="external" target="_blank">https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1. _"Due to the patents held on Redonyl Ultra, no other animal health nutraceutical can contain micronized or ultramicronized PEA."_ &mdash;  Dechra unveils skin-supporting Redonyl Ultra Feline (2022) <a href="https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/" class="external" target="_blank">https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-10-20)
 
 </details>
 
@@ -45,7 +45,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 
 
 
-## Duralactin Feline Capsules Cat Supplement
+## &#x1F7E2; Duralactin Feline Capsules Cat Supplement
 
 ![Duralactin Feline Capsules Cat Supplement](https://duralactin.wpenginepowered.com/wp-content/uploads/2023/06/pg-cat-capsules-p.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -69,7 +69,7 @@ View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blan
 
 
 
-## Frisco 18.5 or 24.5 Inch 2-in-1 Cat Stairs
+## &#x1F7E2; Frisco 18.5 or 24.5 Inch 2-in-1 Cat Stairs
 
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
@@ -80,7 +80,7 @@ View on <a href="https://www.chewy.com/dp/167090" class="external" target="_blan
 
 
 
-## K&H Heated Cat Bed
+## &#x1F7E2; K&H Heated Cat Bed
 
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
@@ -91,7 +91,7 @@ View on <a href="https://www.amazon.com/dp/B07HMLT6SF/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nutramax Cosequin for Senior Cats (60 ct)
+## &#x1F7E2; Nutramax Cosequin for Senior Cats (60 ct)
 
 ![Nutramax Cosequin for Senior Cats](https://d2pw1p1a0ffblt.cloudfront.net/img/3000191-front_1064.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -116,7 +116,7 @@ View on <a href="https://www.amazon.com/dp/B0CLYZJS25/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nutramax Cosequin Maximum Strength (55 ct)
+## &#x1F7E2; Nutramax Cosequin Maximum Strength (55 ct)
 
 ![Nutramax Cosequin Maximum Strength](https://d2pw1p1a0ffblt.cloudfront.net/img/CQCAT30-front_1064.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -140,7 +140,7 @@ View on <a href="https://www.amazon.com/dp/B003ZWLFWW/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nutramax Cosequin Original (80 ct)
+## &#x1F7E2; Nutramax Cosequin Original (80 ct)
 
 ![Nutramax Cosequin Original](https://d2pw1p1a0ffblt.cloudfront.net/img/CQCAT80-front_1064.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -164,7 +164,7 @@ View on <a href="https://www.amazon.com/dp/B000F4W02M/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nutramax Cosequin PLUS Boswellia (60 ct)
+## &#x1F7E2; Nutramax Cosequin PLUS Boswellia (60 ct)
 
 ![Nutramax Cosequin PLUS Boswellia](https://d2pw1p1a0ffblt.cloudfront.net/img/CQCAT60P-Box_1064.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -189,7 +189,7 @@ View on <a href="https://www.amazon.com/dp/B0772WG4R8/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nutramax Dasuquin Advanced Sprinkle Capsules
+## &#x1F7E2; Nutramax Dasuquin Advanced Sprinkle Capsules
 
 ![Nutramax Dasuquin Advanced Sprinkle Capsules](https://cdn.prod.website-files.com/61840d35f36a41439c39f093/63cff52ef27a2665eb119eae_dasuquin-cats-advanced-sprinkle-capsules-new-700-p-500.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -211,7 +211,7 @@ View on <a href="https://www.amazon.com/dp/B0772WG4R8/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nutramax Dasuquin Sprinkle Capsules (84 ct)
+## &#x1F7E2; Nutramax Dasuquin Sprinkle Capsules (84 ct)
 
 ![Nutramax Dasuquin Sprinkle Capsules](https://cdn.prod.website-files.com/61840d35f36a41439c39f093/63cff4dd7207ac4f00b72326_dasuquin-cats-sprinkle-new-700-p-500.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -235,7 +235,7 @@ View on <a href="https://www.amazon.com/dp/B001ICRYTY/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Super Snouts Joint Power (Green-Lipped Mussel)
+## &#x1F7E2; Super Snouts Joint Power (Green-Lipped Mussel)
 
 ![Super Snouts Joint Power (Green-Lipped Mussel)](https://supersnoutshempcompany.com/cdn/shop/files/Joint_Power_75g_Front.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -268,7 +268,7 @@ View on <a href="https://www.chewy.com/dp/804166" class="external" target="_blan
 
 
 
-## worksSOwell 1-TDC Periodontal & Joint Health
+## &#x1F7E2; worksSOwell 1-TDC Periodontal & Joint Health
 
 ![worksSOwell 1-TDC Periodontal & Joint Health](https://www.workssowell.com/cdn/shop/files/1-TDCcat_3.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -311,4 +311,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Richter. Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

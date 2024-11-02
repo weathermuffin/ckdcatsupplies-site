@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Diarrhea"
 layout: default
-nav_order: 16
+nav_order: 17
 ---
 
 # Diarrhea
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Purina FortiFlora Powder
+## &#x1F7E2; Purina FortiFlora Powder
 
 ![Purina FortiFlora Powder](https://www.purina.com/_gatsby/image/8214f1a72af6b5832e42c34f7188c7de/c36b855aa1f5fb641ad91723b483f8b5/fortiflora_feline_1_1000x1000.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-09%2Ffortiflora_feline_1_1000x1000.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=b9551d6d5cca04196a4f921dd63eddbd){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -31,4 +31,4 @@ View on <a href="https://www.amazon.com/dp/B001650OE0/ref=nosim?tag=ckdcatsuppli
 
 View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

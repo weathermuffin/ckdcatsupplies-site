@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Transdermals"
 layout: default
-nav_order: 50
+nav_order: 52
 ---
 
 # Transdermals
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Generic Methimazole Compounded Transdermal
+## &#x1F7E2; Generic Methimazole Compounded Transdermal
 
 ![Generic Methimazole Compounded Transdermal](https://image.chewy.com/is/image/catalog/246800_MAIN._AC_SL600_V1602709279_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -40,7 +40,7 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 
 
 
-## Generic Mirtazapine Compounded Transdermal
+## &#x1F7E2; Generic Mirtazapine Compounded Transdermal
 
 ![Generic Mirtazapine Compounded Transdermal](https://image.chewy.com/is/image/catalog/246833_MAIN._AC_SL600_V1602704279_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -72,7 +72,7 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 
 
 
-## Lily of the Desert Organic Aloe Vera Juice Inner Fillet
+## &#x1F7E2; Lily of the Desert Organic Aloe Vera Juice Inner Fillet
 
 ![Lily of the Desert Organic Aloe Vera Juice Inner Fillet](https://lilyofthedesert.com/wp-content/uploads/2022/11/inner-fillet-aloe-vera-juice-front.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -96,7 +96,7 @@ View on <a href="https://www.amazon.com/dp/B00028POJ2/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nitrile Finger Cots
+## &#x1F7E2; Nitrile Finger Cots
 
 [**Medicating**]({% link docs/medicating.md %})
 {: .label }
@@ -119,4 +119,4 @@ View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsuppli
 
 1.  Marks SL. Where Are We With Transdermal Drug Administration? Waltham Feline Medicine Symposium 2003. <a href="https://www.vin.com/doc/?id=3847278" class="external" target="_blank">https://www.vin.com/doc/?id=3847278&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

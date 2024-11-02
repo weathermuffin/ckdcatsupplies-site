@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Non-renal food"
 layout: default
-nav_order: 34
+nav_order: 35
 ---
 
 # Non-renal food
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Feline Natural Lamb & King Salmon Freeze-Dried Cat Food (11 oz)
+## &#x1F7E2; Feline Natural Lamb & King Salmon Freeze-Dried Cat Food (11 oz)
 
 ![Feline Natural Lamb & King Salmon Freeze-Dried Cat Food](https://cdn.shopify.com/s/files/1/0709/8839/8889/products/1977-freeze-dried-lamb-king-salmon-feast-320g_1.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -30,7 +30,7 @@ View on <a href="https://www.chewy.com/dp/149767" class="external" target="_blan
 
 
 
-## Feline Natural Lamb Freeze-Dried Cat Food (11 oz)
+## &#x1F7E2; Feline Natural Lamb Freeze-Dried Cat Food (11 oz)
 
 ![Feline Natural Lamb Freeze-Dried Cat Food](https://cdn.shopify.com/s/files/1/0709/8839/8889/products/2485-freeze-dried-lamb-feast-320g_1.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -44,4 +44,4 @@ View on <a href="https://www.chewy.com/dp/767462" class="external" target="_blan
 >
 > This one is also super tasty! But I like the one with salmon just a bit more.
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

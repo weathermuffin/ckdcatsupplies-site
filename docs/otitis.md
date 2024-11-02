@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Otitis"
 layout: default
-nav_order: 37
+nav_order: 38
 ---
 
 # Otitis
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Tresaderm thiabendazole, dexamethasone, neomycin sulfate solution
+## &#x1F7E2; Tresaderm thiabendazole, dexamethasone, neomycin sulfate solution
 
 ![Tresaderm thiabendazole, dexamethasone, neomycin sulfate solution](https://bi-animalhealth.com/pets/sites/default/files/styles/2400x900_scale/public/2021-09/Tresaderm-Hero.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -47,7 +47,7 @@ View on <a href="https://www.chewy.com/dp/173261" class="external" target="_blan
 
 
 
-## Zymox Enzymatic Ear Cleanser (4 oz)
+## &#x1F7E2; Zymox Enzymatic Ear Cleanser (4 oz)
 
 ![Zymox Enzymatic Ear Cleanser](https://shop.zymox.com/media/6b/d4/23/1705416514/660f864367a14d3db4cb0c0cb4523952.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -62,7 +62,7 @@ View on <a href="https://www.chewy.com/dp/54795" class="external" target="_blank
 
 
 
-## Zymox Plus Advanced Otic Enzymatic Solution with 1% Hydrocortisone (1.25 fl oz)
+## &#x1F7E2; Zymox Plus Advanced Otic Enzymatic Solution with 1% Hydrocortisone (1.25 fl oz)
 
 ![Zymox Plus Advanced Otic Enzymatic Solution with 1% Hydrocortisone](https://shop.zymox.com/media/e7/a5/d1/1705416466/aa33de58fcef4159a8345ada7e3c08a8.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -96,4 +96,4 @@ View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blan
 1.  Cytology Reference Guide. Dechra Veterinary Products. 2023. <a href="https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/C230160-Cytology-Reference-Guide.pdf" class="external" target="_blank">https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/C230160-Cytology-Reference-Guide.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fujimura M. Effects of an enzyme agent containing mutanase and dextranase for treatment of biofilms in bacteria- and yeast-infected canine otitis externa. Polish Journal of Veterinary Sciences. 2022; 25(3):383-389. doi:<a href="https://doi.org/10.24425/pjvs.2022.142021" class="external" target="_blank">10.24425/pjvs.2022.142021&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Iron"
 layout: default
-nav_order: 27
+nav_order: 28
 ---
 
 # Iron
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Fresh Is Best Freeze-Dried Duck Livers
+## &#x1F7E2; Fresh Is Best Freeze-Dried Duck Livers
 
 ![Fresh Is Best Freeze-Dried Duck Livers](https://www.freshisbest.com/wp-content/uploads/2022/01/Duck-Livers.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -34,7 +34,7 @@ View on <a href="https://www.naturalpetwarehouse.com/fresh-is-best-freeze-dried-
 
 
 
-## OC Raw Freeze-Dried Raw Chicken Hearts
+## &#x1F7E2; OC Raw Freeze-Dried Raw Chicken Hearts
 
 ![OC Raw Freeze-Dried Raw Chicken Hearts](https://ocraw.com/wp-content/uploads/2021/09/image-18.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -60,7 +60,7 @@ View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chi
 
 
 
-## Vital Essentials Freeze-Dried Raw Chicken Hearts
+## &#x1F7E2; Vital Essentials Freeze-Dried Raw Chicken Hearts
 
 ![Vital Essentials Freeze-Dried Raw Chicken Hearts](https://www.vitalessentials.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0472%2F5922%2F2175%2Fproducts%2Fev58vqtytj61swbtngip.png%3Fv%3D1680588154&w=3840&q=85){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -82,4 +82,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 >
 > Another option for chicken hearts! Yum.
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Treats"
 layout: default
-nav_order: 51
+nav_order: 53
 ---
 
 # Treats
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Brunswick Boneless Butterflied Sardine Fillets in Spring Water with No Salt Added (12 pack)
+## &#x1F7E2; Brunswick Boneless Butterflied Sardine Fillets in Spring Water with No Salt Added (12 pack)
 
 ![Brunswick Boneless Butterflied Sardine Fillets in Spring Water with No Salt Added](https://brunswicksardinesus.com/wp-content/uploads/2023/12/Boness-Butterflied-Sardine-Fillets-in-Spring-Water.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -27,7 +27,7 @@ View on <a href="https://www.amazon.com/dp/B08LFNMW59/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Catit Creamy Cat Treat Tube
+## &#x1F7E2; Catit Creamy Cat Treat Tube
 
 ![Catit Creamy Cat Treat Tube](https://catit.us/cdn/shop/products/0268f3d0a99cfc4d51010c77d37fed272e6594b5.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -80,7 +80,7 @@ View on <a href="https://www.amazon.com/dp/B09QQRJPX1/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Churu Nourish (50 ct)
+## &#x1F7E2; Churu Nourish (50 ct)
 
 ![Churu Nourish](https://static.wixstatic.com/media/3fe9bf_3ade9021b550481fafc0b1cb4f878201~mv2.png/v1/fill/w_578,h_578,al_c,q_90,usm_0.66_1.00_0.01/3fe9bf_3ade9021b550481fafc0b1cb4f878201~mv2.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -102,7 +102,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/churu-veterinarian-for
 
 
 
-## Greenies Pill Pockets, Salmon Flavor
+## &#x1F7E2; Greenies Pill Pockets, Salmon Flavor
 
 ![Greenies Pill Pockets, Salmon Flavor](https://www.greenies.com/cdn/shop/files/fgj1dzrzfjdyl8evvhs0.jpg?width=990){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -124,7 +124,7 @@ View on <a href="https://www.amazon.com/dp/B000JOE224/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag
+## &#x1F7E2; Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag
 
 ![Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag](https://www.temptationstreats.com/cdn-cgi/image/width=600,height=600,f=auto,quality=90/sites/g/files/fnmzdf3061/files/migrate-product-files/images/fl2swyjkaed60fmbouc2.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -146,7 +146,7 @@ View on <a href="https://www.amazon.com/dp/B006LRL8IO/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver
+## &#x1F7E2; Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver
 
 ![Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver](https://tikipets.com/wp-content/uploads/2020/06/10062-1536x1536.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -172,4 +172,4 @@ View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsuppli
 >
 > This works very well for smothering capsules, or even plain as a chaser after those nasty oral medicines. (Gross!) I heard Dad mumble something about low sodium and the cardiologist.
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Monitoring"
 layout: default
-nav_order: 31
+nav_order: 32
 ---
 
 # Monitoring
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Braun ThermoScan 5 Ear Thermometer
+## &#x1F7E2; Braun ThermoScan 5 Ear Thermometer
 
 ![Braun ThermoScan 5 Ear Thermometer](https://www.braunhealthcare.com/us_en/wp-content/uploads/sites/4/irt6500us_product_straight_1200x1200.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -32,7 +32,7 @@ View on <a href="https://www.amazon.com/dp/B01HP0JU2G/ref=nosim?tag=ckdcatsuppli
 
 
 
-## CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor
+## &#x1F7E2; CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor
 
 ![CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor](https://contechealth.com/cdn/shop/products/20_1024x1024.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -52,7 +52,7 @@ View on <a href="https://www.amazon.com/dp/B075CVM9R6/ref=nosim?tag=ckdcatsuppli
 
 
 
-## CONTEC Neonate Cuff 6 to 11 cm
+## &#x1F7E2; CONTEC Neonate Cuff 6 to 11 cm
 
 ![CONTEC Neonate Cuff 6 to 11 cm](https://contechealth.com/cdn/shop/products/5__E_1024x1024.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -67,7 +67,7 @@ View on <a href="https://contechealth.com/products/neonate-cuff-6-to-11-cm-arm-s
 
 
 
-## eufy Indoor Security Camera E220
+## &#x1F7E2; eufy Indoor Security Camera E220
 
 ![eufy Indoor Security Camera E220](https://cdn.shopify.com/s/files/1/0504/7094/4954/files/S220IndoorCam.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -87,7 +87,7 @@ View on <a href="https://www.amazon.com/dp/B0856W45VL/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Greater Goods Digital Pet Scale
+## &#x1F7E2; Greater Goods Digital Pet Scale
 
 ![Greater Goods Digital Pet Scale](https://shop.greatergoods.com/cdn/shop/products/2_0250_WithstandsWiggles_Website_1200x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -105,7 +105,7 @@ View on <a href="https://www.amazon.com/dp/B098TVJKZ3/ref=nosim?tag=ckdcatsuppli
 
 
 
-## MDF Instruments Acoustica Lightweight Stethoscope
+## &#x1F7E2; MDF Instruments Acoustica Lightweight Stethoscope
 
 ![MDF Instruments Acoustica Lightweight Stethoscope](https://mdfinstruments.com/cdn/shop/files/mdf-stethoscope-acoustica-stethoscope-blackout-black.jpg?width=1400){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -125,7 +125,7 @@ View on <a href="https://www.amazon.com/dp/B0011E8DG2/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Petivity by Purina Petivity Smart Litter Box Monitor
+## &#x1F7E2; Petivity by Purina Petivity Smart Litter Box Monitor
 
 ![Petivity by Purina Petivity Smart Litter Box Monitor](https://www.petivity.com/cdn/shop/files/SLM_PDP_Carousel_4.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -145,4 +145,4 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 >
 > I'll never understand it, but Dad likes to monitor my litter box habits. (I know, right?!) This tells him when I use the box, what I did (#1 or #2), how long I was in there, and even my weight! Heck, just monitoring my weight day-to-day is extremely valuable. But my dad also geeks out on all the stats and other info. &#x1F913;
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

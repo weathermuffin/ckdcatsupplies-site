@@ -23,6 +23,9 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
 
+[**Antibiotics**]({% link docs/antibiotics.md %})
+{: .label }
+
 [**Antioxidant**]({% link docs/antioxidant.md %})
 {: .label }
 
@@ -146,6 +149,9 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Proteinuria**]({% link docs/proteinuria.md %})
 {: .label }
 
+[**Pyelonephritis**]({% link docs/pyelonephritis.md %})
+{: .label }
+
 [**Renal**]({% link docs/renal.md %})
 {: .label }
 
@@ -173,4 +179,4 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

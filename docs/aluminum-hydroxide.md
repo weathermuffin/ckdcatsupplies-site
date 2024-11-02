@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Rx Vitamins Phos-Bind
+## &#x1F7E2; Rx Vitamins Phos-Bind
 
 ![Rx Vitamins Phos-Bind](https://www.rxvitamins.com/rxvitaminsforpet/wp-content/uploads/2016/08/Phos-Bind-COMBO-1024x1024.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -35,7 +35,7 @@ View on <a href="https://www.amazon.com/dp/B0D2PKNP51/ref=nosim?tag=ckdcatsuppli
 
 
 
-## ThrivingPets Aluminum Hydroxide Powder
+## &#x1F7E2; ThrivingPets Aluminum Hydroxide Powder
 
 ![ThrivingPets Aluminum Hydroxide Powder](https://thrivingpets.com/cdn/shop/products/aloh3_50g_288x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -68,4 +68,4 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 1.  Emmett M. A comparison of clinically useful phosphorus binders for patients with chronic kidney failure. Kidney International. 2004; 66:S32-S25. doi:<a href="https://doi.org/10.1111/j.1523-1755.2004.09005.x" class="external" target="_blank">10.1111/j.1523-1755.2004.09005.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Katopodis KP, Andrikos E, Pappas M, Siamopoulos KC. Effectiveness of Aluminum Hydroxide Timing Administration in Relation to Meals in Controling Hyperphosphatemia in Dialysis Patients. The International Journal of Artificial Organs. 2005;28(8):803-807. doi:<a href="https://doi.org/10.1177/039139880502800806" class="external" target="_blank">10.1177/039139880502800806&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

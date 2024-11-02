@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Nausea"
 layout: default
-nav_order: 32
+nav_order: 33
 ---
 
 # Nausea
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Cerenia Maropitant Citrate Tablets (16 mg)
+## &#x1F7E2; Cerenia Maropitant Citrate Tablets (16 mg)
 
 ![Cerenia Maropitant Citrate Tablets](https://image.chewy.com/is/image/catalog/146224_MAIN._AC_SL600_V1728334497_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -45,7 +45,7 @@ View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blan
 
 
 
-## Generic Ondansetron Tablets
+## &#x1F7E2; Generic Ondansetron Tablets
 
 ![Generic Ondansetron Tablets](https://image.chewy.com/is/image/catalog/205219_MAIN._AC_SL600_V1633037204_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -76,7 +76,7 @@ View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_bla
 
 
 
-## NOW Slippery Elm Powder (4 oz)
+## &#x1F7E2; NOW Slippery Elm Powder (4 oz)
 
 ![NOW Slippery Elm Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-03/5060_v6.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -100,4 +100,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 1.  Trepanier L. Acute Vomiting in Cats: Rational Treatment Selection. Journal of Feline Medicine and Surgery. 2010;12(3):225-230. doi:<a href="https://doi.org/10.1016/j.jfms.2010.01.005" class="external" target="_blank">10.1016/j.jfms.2010.01.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zajic LB, Herndon AK, Sieberg LG, et al. Assessment of absorption of transdermal ondansetron in normal research cats. Journal of Feline Medicine and Surgery. 2017;19(12):1245-1248. doi:<a href="https://doi.org/10.1177/1098612X16688807" class="external" target="_blank">10.1177/1098612X16688807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

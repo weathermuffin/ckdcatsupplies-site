@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Constipation"
 layout: default
-nav_order: 13
+nav_order: 14
 ---
 
 # Constipation
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## MiraLAX
+## &#x1F7E2; MiraLAX
 
 ![MiraLAX](https://www.miralax.com/sites/g/files/vrxlpx51391/files/2023-10/BCH%20-%202023%20-%20MiraLAX%20Redesign%20-%20MiraLAX%20-%20FullPack%20-%20Badge%20-%20PDP.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -30,7 +30,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Raw Paws Organic Pumpkin Powder
+## &#x1F7E2; Raw Paws Organic Pumpkin Powder
 
 ![Raw Paws Organic Pumpkin Powder](https://cdn4.volusion.store/jwoqv-kzvzr/v/vspfiles/photos/SUPPUMP-8-2T.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -44,4 +44,4 @@ View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_bla
 >
 > I've had some trouble in the past with, ahem, ruptured anal glands. Pumpkin helps bulk up my stool and naturally keep the glands expressed. Dad says this powder is more convenient and less wasteful than canned pumpkin.
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

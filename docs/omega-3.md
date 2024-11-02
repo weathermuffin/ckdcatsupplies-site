@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Omega-3"
 layout: default
-nav_order: 35
+nav_order: 36
 ---
 
 # Omega-3
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Nordic Naturals Omega-3 Cat (2 fl. oz.)
+## &#x1F7E2; Nordic Naturals Omega-3 Cat (2 fl. oz.)
 
 ![Nordic Naturals Omega-3 Cat](https://cdn.shopify.com/s/files/1/0511/3059/7560/files/50515RC1-Omega3Cat_2oz_Box_Front.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -36,7 +36,7 @@ View on <a href="https://www.amazon.com/dp/B008OYAZUE/ref=nosim?tag=ckdcatsuppli
 
 
 
-## NOW Neptune Krill Oil, 500 mg Softgels
+## &#x1F7E2; NOW Neptune Krill Oil, 500 mg Softgels
 
 ![NOW Neptune Krill Oil, 500 mg Softgels](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-05/1625_v12.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -69,4 +69,4 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external
 
 </details>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

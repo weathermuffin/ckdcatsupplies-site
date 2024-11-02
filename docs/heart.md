@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Heart"
 layout: default
-nav_order: 23
+nav_order: 24
 ---
 
 # Heart
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Doctor's Best Nattokinase 2,000 FU (90 ct)
+## &#x1F7E2; Doctor's Best Nattokinase 2,000 FU (90 ct)
 
 ![Doctor's Best Nattokinase 2,000 FU](https://www.doctorsbest.com/cdn/shop/files/753950001251-BFP-V6-040324_9e2dcd51-86fe-4ec2-bc21-b78359e2b1b3.jpg?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -25,7 +25,7 @@ View on <a href="https://www.amazon.com/dp/B000BD0RRM/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Doctor's Best Ubiquinol with Kaneka QH, 50 mg (90 ct)
+## &#x1F7E2; Doctor's Best Ubiquinol with Kaneka QH, 50 mg (90 ct)
 
 ![Doctor's Best Ubiquinol with Kaneka QH, 50 mg](https://www.doctorsbest.com/cdn/shop/files/753950001787-BFP-V5-050124.png?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -47,7 +47,7 @@ View on <a href="https://www.amazon.com/dp/B0014I4XMS/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Generic Atenolol Compounded Oral Oil Liquid
+## &#x1F7E2; Generic Atenolol Compounded Oral Oil Liquid
 
 ![Generic Atenolol Compounded Oral Oil Liquid](https://image.chewy.com/is/image/catalog/274546_MAIN._AC_SL600_V1638919327_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -80,7 +80,7 @@ View on <a href="https://www.chewy.com/dp/300965" class="external" target="_blan
 
 
 
-## Generic Pimobendan Compounded Oral Oil Liquid
+## &#x1F7E2; Generic Pimobendan Compounded Oral Oil Liquid
 
 ![Generic Pimobendan Compounded Oral Oil Liquid](https://image.chewy.com/is/image/catalog/273141_MAIN._AC_SL600_V1638916352_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -108,7 +108,7 @@ View on <a href="https://www.chewy.com/dp/299560" class="external" target="_blan
 
 
 
-## MDF Instruments Acoustica Lightweight Stethoscope
+## &#x1F7E2; MDF Instruments Acoustica Lightweight Stethoscope
 
 ![MDF Instruments Acoustica Lightweight Stethoscope](https://mdfinstruments.com/cdn/shop/files/mdf-stethoscope-acoustica-stethoscope-blackout-black.jpg?width=1400){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -128,7 +128,7 @@ View on <a href="https://www.amazon.com/dp/B0011E8DG2/ref=nosim?tag=ckdcatsuppli
 
 
 
-## NOW Taurine Pure Powder
+## &#x1F7E2; NOW Taurine Pure Powder
 
 ![NOW Taurine Pure Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2022-08/0260_mainimage.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -150,9 +150,11 @@ View on <a href="https://www.amazon.com/dp/B000BQSQ68/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Rx Vitamins Formula CV Capsules Heart Supplement (90 ct)
+## &#x1F7E2; Rx Vitamins Formula CV Capsules Heart Supplement (90 ct)
 
 ![Rx Vitamins Formula CV Capsules Heart Supplement](https://www.rxvitamins.com/rxvitaminsforpet/wp-content/uploads/2016/08/8100-Formula-CV-1024x1024.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+&#x1F6D1; This item has cautions. See the references and resources.
 
 [**Heart**]({% link docs/heart.md %})
 {: .label }
@@ -166,9 +168,9 @@ View on <a href="https://www.amazon.com/dp/B01GL01D6C/ref=nosim?tag=ckdcatsuppli
 <details markdown="block">
 <summary>References and resources</summary>
 
-1. _"Do no use simultaneously with anticoagulants, antihypertensive, vasodilators, or if suffering from ulcers, diabetes and when pregnant or breastfeeding."_ &mdash;  Cunha J. Forskolin. <a href="https://www.rxlist.com/forskolin/generic-drug.htm" class="external" target="_blank">https://www.rxlist.com/forskolin/generic-drug.htm&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1. _"Because supplementation with Coleus forskohlii extract or forskolin has been noted to reduce blood pressure, increase stomach acid levels, and inhibit platelet aggregation, it should be used with caution by people with hypotension (low blood pressure) or who are taking antihypertensive (blood-pressure-lowering) drugs, people with blood clotting disorders or who are taking blood thinning medication, and people with stomach ulcers."_ &mdash;  Damianou A, Milazzo N (2024). Coleus forskohlii. <a href="https://examine.com/supplements/coleus-forskohlii/#dosage-information" class="external" target="_blank">https://examine.com/supplements/coleus-forskohlii/#dosage-information&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1. _"Forskolin should be avoided in patients with polycystic kidney disease."_ &mdash;  Forskolin. <a href="https://www.drugs.com/npc/forskolin.html" class="external" target="_blank">https://www.drugs.com/npc/forskolin.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1. _"Do no use simultaneously with anticoagulants, antihypertensive, vasodilators, or if suffering from ulcers, diabetes and when pregnant or breastfeeding."_ &mdash;  Cunha J. Forskolin. <a href="https://www.rxlist.com/forskolin/generic-drug.htm" class="external" target="_blank">https://www.rxlist.com/forskolin/generic-drug.htm&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-10-20)
+1. _"Because supplementation with Coleus forskohlii extract or forskolin has been noted to reduce blood pressure, increase stomach acid levels, and inhibit platelet aggregation, it should be used with caution by people with hypotension (low blood pressure) or who are taking antihypertensive (blood-pressure-lowering) drugs, people with blood clotting disorders or who are taking blood thinning medication, and people with stomach ulcers."_ &mdash;  Damianou A, Milazzo N (2024). Coleus forskohlii. <a href="https://examine.com/supplements/coleus-forskohlii/#dosage-information" class="external" target="_blank">https://examine.com/supplements/coleus-forskohlii/#dosage-information&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-10-20)
+1. _"Forskolin should be avoided in patients with polycystic kidney disease."_ &mdash;  Forskolin. <a href="https://www.drugs.com/npc/forskolin.html" class="external" target="_blank">https://www.drugs.com/npc/forskolin.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-10-20)
 
 </details>
 
@@ -176,7 +178,7 @@ View on <a href="https://www.amazon.com/dp/B01GL01D6C/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver
+## &#x1F7E2; Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver
 
 ![Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver](https://tikipets.com/wp-content/uploads/2020/06/10062-1536x1536.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -206,7 +208,7 @@ View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Vetmedin Pimobendan Chewable Tablets
+## &#x1F7E2; Vetmedin Pimobendan Chewable Tablets
 
 ![Vetmedin Pimobendan Chewable Tablets](https://image.chewy.com/is/image/catalog/146420_MAIN._AC_SL600_V1706298829_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -251,4 +253,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 1.  Schaer M. Fluid Therapy for Critically Ill Dogs and Cats. World Small Animal Veterinary Association World Congress Proceedings, 2006. <a href="https://www.vin.com/doc/?id=3858919" class="external" target="_blank">https://www.vin.com/doc/?id=3858919&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Syme HM. Cardiovascular and renal manifestations of hyperthyroidism. Vet Clin North Am Small Anim Pract. 2007 Jul;37(4):723-43, vi. doi:<a href="https://doi.org/10.1016/j.cvsm.2007.05.011" class="external" target="_blank">10.1016/j.cvsm.2007.05.011&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

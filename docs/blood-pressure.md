@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Blood pressure"
 layout: default
-nav_order: 10
+nav_order: 11
 ---
 
 # Blood pressure
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor
+## &#x1F7E2; CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor
 
 ![CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor](https://contechealth.com/cdn/shop/products/20_1024x1024.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -32,7 +32,7 @@ View on <a href="https://www.amazon.com/dp/B075CVM9R6/ref=nosim?tag=ckdcatsuppli
 
 
 
-## CONTEC Neonate Cuff 6 to 11 cm
+## &#x1F7E2; CONTEC Neonate Cuff 6 to 11 cm
 
 ![CONTEC Neonate Cuff 6 to 11 cm](https://contechealth.com/cdn/shop/products/5__E_1024x1024.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -47,7 +47,7 @@ View on <a href="https://contechealth.com/products/neonate-cuff-6-to-11-cm-arm-s
 
 
 
-## Generic Atenolol Compounded Oral Oil Liquid
+## &#x1F7E2; Generic Atenolol Compounded Oral Oil Liquid
 
 ![Generic Atenolol Compounded Oral Oil Liquid](https://image.chewy.com/is/image/catalog/274546_MAIN._AC_SL600_V1638919327_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -80,7 +80,7 @@ View on <a href="https://www.chewy.com/dp/300965" class="external" target="_blan
 
 
 
-## Generic Telmisartan Compounded Oral Oil Liquid
+## &#x1F7E2; Generic Telmisartan Compounded Oral Oil Liquid
 
 ![Generic Telmisartan Compounded Oral Oil Liquid](https://image.chewy.com/is/image/catalog/583926_MAIN._AC_SL600_V1659906586_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -134,7 +134,7 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Kobori H, Mori H, Masaki T, Nishiyama A. Angiotensin II blockade and renal protection. Curr Pharm Des. 2013;19(17):3033-42. doi:<a href="https://doi.org/10.2174/1381612811319170009" class="external" target="_blank">10.2174/1381612811319170009&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kothari N, Ganguly B (2014). Potential Drug-Drug Interactions among Medications Prescribed to Hypertensive Patients. J Clin of Diagn Res. 8(11), HC01-HC04. doi:<a href="https://doi.org/10.7860/JCDR/2014/10032.5091" class="external" target="_blank">10.7860/JCDR/2014/10032.5091&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Lawson JS, Jepson RE. Feline comorbidities: The intermingled relationship between chronic kidney disease and hypertension. Journal of Feline Medicine and Surgery. 2021;23(9):812-822. doi:<a href="https://doi.org/10.1177/1098612X211037872" class="external" target="_blank">10.1177/1098612X211037872&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Linek J. Iris aneurysm in feline hypertensive oculopathy. Vet Ophthalmol. 2020; 23: 436–441. doi:<a href="https://doi.org/10.1111/vop.12738" class="external" target="_blank">10.1111/vop.12738&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Linek J. Iris aneurysm in feline hypertensive oculopathy. Vet Ophthalmol. 2020; 23: 436-441. doi:<a href="https://doi.org/10.1111/vop.12738" class="external" target="_blank">10.1111/vop.12738&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Maggio F, DeFrancesco TC, Atkins CE, Pizzirani S, Gilger BC, Davidson MG. Ocular lesions associated with systemic hypertension in cats: 69 cases (1985-1998). J Am Vet Med Assoc. 2000 Sep 1;217(5):695-702. doi:<a href="https://doi.org/10.2460/javma.2000.217.695" class="external" target="_blank">10.2460/javma.2000.217.695&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Mancia G, De Backer G, Dominiczak A, Cifkova R, Fagard R, Germano G, Grassi G, Heagerty AM, Kjeldsen SE, Laurent S, Narkiewicz K, Ruilope L, Rynkiewicz A, Schmieder RE, Boudier HA, Zanchetti A, Vahanian A, Camm J, De Caterina R, Dean V, Dickstein K, Filippatos G, Funck-Brentano C, Hellemans I, Kristensen SD, McGregor K, Sechtem U, Silber S, Tendera M, Widimsky P, Zamorano JL, Erdine S, Kiowski W, Agabiti-Rosei E, Ambrosioni E, Lindholm LH, Viigimaa M, Adamopoulos S, Agabiti-Rosei E, Ambrosioni E, Bertomeu V, Clement D, Erdine S, Farsang C, Gaita D, Lip G, Mallion JM, Manolis AJ, Nilsson PM, O'Brien E, Ponikowski P, Redon J, Ruschitzka F, Tamargo J, van Zwieten P, Waeber B, Williams B; Management of Arterial Hypertension of the European Society of Hypertension; European Society of Cardiology. 2007 Guidelines for the Management of Arterial Hypertension: The Task Force for the Management of Arterial Hypertension of the European Society of Hypertension (ESH) and of the European Society of Cardiology (ESC). J Hypertens. 2007 Jun;25(6):1105-87. doi:<a href="https://doi.org/10.1097/HJH.0b013e3281fc975a" class="external" target="_blank">10.1097/HJH.0b013e3281fc975a&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Mika MISHINA, Nobuyoshi WATANABE, Toshifumi WATANABE, Diurnal Variations of Blood Pressure in Cats, Journal of Veterinary Medical Science, 2006, Volume 68, Issue 3, Pages 243-248. doi:<a href="https://doi.org/10.1292/jvms.68.243" class="external" target="_blank">10.1292/jvms.68.243&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -145,4 +145,4 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Thompson J. Management of hypertension in a geriatric cat. Can Vet J. 2004 May;45(5):427-9. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC548629/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC548629/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

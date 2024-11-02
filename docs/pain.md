@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Pain"
 layout: default
-nav_order: 39
+nav_order: 40
 ---
 
 # Pain
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Dechra Redonyl Ultra Feline
+## &#x1F7E2; Dechra Redonyl Ultra Feline
 
 ![Dechra Redonyl Ultra Feline](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/redonyl_ultra_feline_0321.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -37,7 +37,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 
 1.  Cifelli P, Ruffolo G, Ceccanti M, Cambieri C, Libonati L, Palma E, Inghilleri M. Classical and Unexpected Effects of Ultra-Micronized PEA in Neuromuscular Function. Biomolecules. 2022; 12(6):758. doi:<a href="https://doi.org/10.3390/biom12060758" class="external" target="_blank">10.3390/biom12060758&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1. _"Due to the patents held on Redonyl Ultra, no other animal health nutraceutical can contain micronized or ultramicronized PEA."_ &mdash;  Dechra unveils skin-supporting Redonyl Ultra Feline (2022) <a href="https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/" class="external" target="_blank">https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1. _"Due to the patents held on Redonyl Ultra, no other animal health nutraceutical can contain micronized or ultramicronized PEA."_ &mdash;  Dechra unveils skin-supporting Redonyl Ultra Feline (2022) <a href="https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/" class="external" target="_blank">https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-10-20)
 
 </details>
 
@@ -45,7 +45,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 
 
 
-## Generic Gabapentin Compounded Tablet
+## &#x1F7E2; Generic Gabapentin Compounded Tablet
 
 ![Generic Gabapentin Compounded Tablet](https://image.chewy.com/is/image/catalog/943142_MAIN._AC_SL600_V1714058490_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -88,4 +88,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

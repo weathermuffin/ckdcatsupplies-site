@@ -1,10 +1,10 @@
 ---
-title: "&#x1F535; UTI"
+title: "&#x1F535; Antibiotics"
 layout: default
-nav_order: 54
+nav_order: 4
 ---
 
-# UTI
+# Antibiotics
 
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
@@ -43,72 +43,6 @@ A kidney-penetrating fluoroquinolone antibiotic.
 
 
 
-## &#x1F7E2; eufy Indoor Security Camera E220
-
-![eufy Indoor Security Camera E220](https://cdn.shopify.com/s/files/1/0504/7094/4954/files/S220IndoorCam.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Monitoring**]({% link docs/monitoring.md %})
-{: .label }
-[**UTI**]({% link docs/uti.md %})
-{: .label }
-
-View on <a href="https://www.amazon.com/dp/B0856W45VL/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.eufy.com/products/t8410121" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> This is useful if Dad needs to leave the house for a bit, or wants to see if I'm lounging by the litter box in an unhealthy way.
-
-* * *
-
-
-
-## &#x1F7E2; Kal D-Mannose Powder (2.5 oz)
-
-![Kal D-Mannose Powder](https://www.kalvitamins.com/cdn/shop/files/021245167181_4.png?width=1426){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Supplements**]({% link docs/supplements.md %})
-{: .label }
-[**UTI**]({% link docs/uti.md %})
-{: .label }
-
- <a href="https://felinecrf.org/pyelonephritis_utis.htm#dmannose" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.amazon.com/dp/B000MTU2Z2/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/kal-d-mannose-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.kalvitamins.com/products/d-mannose-powder" class="external" target="_blank">KAL Vitamins&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> Dad says this tastes sweet, but I don't notice it in my food. We're hopeful it's helping to prevent certain kinds of UTIs. I had a UTI not so long ago, and let me tell you, that was no fun!
-
-* * *
-
-
-
-## &#x1F7E2; Petivity by Purina Petivity Smart Litter Box Monitor
-
-![Petivity by Purina Petivity Smart Litter Box Monitor](https://www.petivity.com/cdn/shop/files/SLM_PDP_Carousel_4.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**CKD**]({% link docs/ckd.md %})
-{: .label }
-[**Monitoring**]({% link docs/monitoring.md %})
-{: .label }
-[**UTI**]({% link docs/uti.md %})
-{: .label }
-
- <a href="https://www.petivity.com/pages/smart-litter-box-monitor" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/811854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.petivity.com/products/smart-litter-box-monitor" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> I'll never understand it, but Dad likes to monitor my litter box habits. (I know, right?!) This tells him when I use the box, what I did (#1 or #2), how long I was in there, and even my weight! Heck, just monitoring my weight day-to-day is extremely valuable. But my dad also geeks out on all the stats and other info. &#x1F913;
-
-* * *
-
-
-
 ## &#x1F7E2; Zeniquin marbofloxacin
 
 ![Zeniquin marbofloxacin](https://www.zoetisus.com/content/_assets/images/Petcare/zeniquin_family.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -135,13 +69,5 @@ A kidney-penetrating fluoroquinolone antibiotic.
 1. _"The use of fluoroquinolones in cats has been reported to adversely affect the retina. Such products should be used with caution in cats."_ &mdash;  Zeniquin product insert. Zoetis, 2019. <a href="https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/zeniquin-prescribing-information.pdf" class="external" target="_blank">PDF&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-11-01)
 
 </details>
-
-* * *
-
-
-# UTI references and resources
-
-1.  Dorsch R, Teichmann-Knorrn S, Sjetne Lund H. Urinary tract infection and subclinical bacteriuria in cats: A clinical update. Journal of Feline Medicine and Surgery. 2019;21(11):1023-1038. doi:<a href="https://doi.org/10.1177/1098612X19880435" class="external" target="_blank">10.1177/1098612X19880435&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  KuKanich, KS. Managing the E coli UTI. Consultant on Call, NAVC Clinician's Brief, August 2011. <a href="https://assets.ctfassets.net/4dmg3l1sxd6g/56kBrmZeTq2VYkVdoNAz31/2f9a999e2d4140cdb46b98a74176480b/managingecoliuti-5302-article.pdf" class="external" target="_blank">https://assets.ctfassets.net/4dmg3l1sxd6g/56kBrmZeTq2VYkVdoNAz31/2f9a999e2d4140cdb46b98a74176480b/managingecoliuti-5302-article.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 <!-- Updated 2024-11-02 00:28:15.800041Z -->

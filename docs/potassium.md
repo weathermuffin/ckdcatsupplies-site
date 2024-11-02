@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Potassium"
 layout: default
-nav_order: 42
+nav_order: 43
 ---
 
 # Potassium
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## NOW Potassium Gluconate Pure Powder
+## &#x1F7E2; NOW Potassium Gluconate Pure Powder
 
 ![NOW Potassium Gluconate Pure Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2022-10/1471_mainimage.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -34,7 +34,7 @@ View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" c
 
 
 
-## Vetoquinol Renal K+ (Powder)
+## &#x1F7E2; Vetoquinol Renal K+ (Powder)
 
 ![Vetoquinol Renal K+](https://www.vetoquinolusa.com/sites/us2country/files/styles/product_detail__photo/public/2022-09/410630-410631-renal-k-large.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -63,4 +63,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 1.  Hoehne SN. Management of Potassium Disorders in the Emergency Room. European Veterinary Emergency and Critical Care Congress 2019. <a href="https://www.vin.com/doc/?id=9257727" class="external" target="_blank">https://www.vin.com/doc/?id=9257727&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kogika MM, de Morais HA. A Quick Reference on Hypokalemia. Vet Clin North Am Small Anim Pract. 2017 Mar;47(2):229-234. doi:<a href="https://doi.org/10.1016/j.cvsm.2016.10.010" class="external" target="_blank">10.1016/j.cvsm.2016.10.010&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

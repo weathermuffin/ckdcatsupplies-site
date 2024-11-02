@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Enteric dialysis"
 layout: default
-nav_order: 19
+nav_order: 20
 ---
 
 # Enteric dialysis
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Dechra Porus One
+## &#x1F7E2; Dechra Porus One
 
 ![Dechra Porus One](https://www.porus-one.com/admin/public/getimage.ashx?Image=/Files/Images/Porus_One-IT-PL-UK-Carton-30_x_500mg-2.png&Width=1920&Height=1440&Format=webp&Quality=75&Crop=0){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -42,7 +42,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/porus-one-renaltec-for
 
 
 
-## Virbac Nephrodyl Synbiotic Capsules
+## &#x1F7E2; Virbac Nephrodyl Synbiotic Capsules
 
 ![Virbac Nephrodyl Synbiotic Capsules](https://vet-us.virbac.com/files/live/sites/virbac-b2b-usa/files/pictures/Product%20Shots/Nephrodyl/Nephrodyl_US_face_250px.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -67,4 +67,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 
 1.  Rishniw M, Wynn SG. Azodyl, a synbiotic, fails to alter azotemia in cats with chronic kidney disease when sprinkled onto food. Journal of Feline Medicine and Surgery. 2011;13(6):405-409. doi:<a href="https://doi.org/10.1016/j.jfms.2010.12.015" class="external" target="_blank">10.1016/j.jfms.2010.12.015&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

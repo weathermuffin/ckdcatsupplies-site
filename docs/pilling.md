@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Pilling"
 layout: default
-nav_order: 41
+nav_order: 42
 ---
 
 # Pilling
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Catit Creamy Cat Treat Tube
+## &#x1F7E2; Catit Creamy Cat Treat Tube
 
 ![Catit Creamy Cat Treat Tube](https://catit.us/cdn/shop/products/0268f3d0a99cfc4d51010c77d37fed272e6594b5.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -65,7 +65,7 @@ View on <a href="https://www.amazon.com/dp/B09QQRJPX1/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Churu Nourish (50 ct)
+## &#x1F7E2; Churu Nourish (50 ct)
 
 ![Churu Nourish](https://static.wixstatic.com/media/3fe9bf_3ade9021b550481fafc0b1cb4f878201~mv2.png/v1/fill/w_578,h_578,al_c,q_90,usm_0.66_1.00_0.01/3fe9bf_3ade9021b550481fafc0b1cb4f878201~mv2.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -87,7 +87,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/churu-veterinarian-for
 
 
 
-## Fractional teaspoons, 1/64 tsp to 1/4 tsp
+## &#x1F7E2; Fractional teaspoons, 1/64 tsp to 1/4 tsp
 
 [**Pilling**]({% link docs/pilling.md %})
 {: .label }
@@ -98,7 +98,7 @@ View on <a href="https://www.amazon.com/dp/B09MFVJT2J/ref=nosim?tag=ckdcatsuppli
 
 
 
-## GooFurr
+## &#x1F7E2; GooFurr
 
 ![GooFurr](https://images.squarespace-cdn.com/content/v1/5e600ed75f5ecb512a26d7c8/1594252184168-96YX24WEVAMC8MANWTRK/BoxandTube_white_wide_editors_price.png?format=2500w){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -118,7 +118,7 @@ View on <a href="https://www.amazon.com/dp/B00H4R195W/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Greenies Pill Pockets, Salmon Flavor
+## &#x1F7E2; Greenies Pill Pockets, Salmon Flavor
 
 ![Greenies Pill Pockets, Salmon Flavor](https://www.greenies.com/cdn/shop/files/fgj1dzrzfjdyl8evvhs0.jpg?width=990){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -140,7 +140,7 @@ View on <a href="https://www.amazon.com/dp/B000JOE224/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nitrile Finger Cots
+## &#x1F7E2; Nitrile Finger Cots
 
 [**Medicating**]({% link docs/medicating.md %})
 {: .label }
@@ -160,7 +160,7 @@ View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Single Capsule Scoop (Size 5)
+## &#x1F7E2; Single Capsule Scoop (Size 5)
 
 [**Capsules**]({% link docs/capsules.md %})
 {: .label }
@@ -173,7 +173,7 @@ View on <a href="https://www.amazon.com/dp/B0D2PCPX1T/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag
+## &#x1F7E2; Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag
 
 ![Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag](https://www.temptationstreats.com/cdn-cgi/image/width=600,height=600,f=auto,quality=90/sites/g/files/fnmzdf3061/files/migrate-product-files/images/fl2swyjkaed60fmbouc2.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -195,7 +195,7 @@ View on <a href="https://www.amazon.com/dp/B006LRL8IO/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver
+## &#x1F7E2; Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver
 
 ![Tiki Cat Silver Comfort Mousse, Chicken & Chicken Liver](https://tikipets.com/wp-content/uploads/2020/06/10062-1536x1536.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -225,7 +225,7 @@ View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsuppli
 
 
 
-## VetOne Pet Piller (12 ct)
+## &#x1F7E2; VetOne Pet Piller (12 ct)
 
 [**Medicating**]({% link docs/medicating.md %})
 {: .label }
@@ -243,7 +243,7 @@ View on <a href="https://www.chewy.com/dp/204481" class="external" target="_blan
 
 
 
-## XPRS Nutra Size 3 Clear Empty Gelatin Capsules
+## &#x1F7E2; XPRS Nutra Size 3 Clear Empty Gelatin Capsules
 
 ![XPRS Nutra Size 3 Clear Empty Gelatin Capsules](https://xprsnutra.com/cdn/shop/products/E-Clear3-100.jpg?width=1200){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -273,7 +273,7 @@ View on <a href="https://www.amazon.com/dp/B01BI78SKC/ref=nosim?tag=ckdcatsuppli
 
 
 
-## XPRS Nutra Size 4 Clear Empty Gelatin Capsules
+## &#x1F7E2; XPRS Nutra Size 4 Clear Empty Gelatin Capsules
 
 ![XPRS Nutra Size 4 Clear Empty Gelatin Capsules](https://xprsnutra.com/cdn/shop/products/Clear100_d472f011-7ebb-4e94-8bea-24b7c7346062.jpg?width=1200){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -303,7 +303,7 @@ View on <a href="https://www.amazon.com/dp/B017362KFG/ref=nosim?tag=ckdcatsuppli
 
 
 
-## XPRS Nutra Size 5 Clear Empty Gelatin Capsules
+## &#x1F7E2; XPRS Nutra Size 5 Clear Empty Gelatin Capsules
 
 ![XPRS Nutra Size 5 Clear Empty Gelatin Capsules](https://xprsnutra.com/cdn/shop/products/Clear100_ef45ee99-1fde-41fe-804a-4444d7c23f70.jpg?width=1200){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -333,4 +333,4 @@ View on <a href="https://www.amazon.com/dp/B095Z5WP43/ref=nosim?tag=ckdcatsuppli
 >
 > My favorite size of capsule is NONE, but this is my second favorite. Dad puts whatever he needs to into one of these bad boys, slathers it with a lickable treat, then tops with crushed Temptations powder. I just gobble the thing right down! He thinks he's pulling a fast one and sneaking a pill without me noticing. Mostly I humor him, but every once in a while I'll spit one out to keep him on his toes.
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

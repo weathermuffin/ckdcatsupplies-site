@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Drugs"
 layout: default
-nav_order: 17
+nav_order: 18
 ---
 
 # Drugs
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Cerenia Maropitant Citrate Tablets (16 mg)
+## &#x1F7E2; Cerenia Maropitant Citrate Tablets (16 mg)
 
 ![Cerenia Maropitant Citrate Tablets](https://image.chewy.com/is/image/catalog/146224_MAIN._AC_SL600_V1728334497_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -45,7 +45,7 @@ View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blan
 
 
 
-## Generic Atenolol Compounded Oral Oil Liquid
+## &#x1F7E2; Generic Atenolol Compounded Oral Oil Liquid
 
 ![Generic Atenolol Compounded Oral Oil Liquid](https://image.chewy.com/is/image/catalog/274546_MAIN._AC_SL600_V1638919327_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -78,7 +78,7 @@ View on <a href="https://www.chewy.com/dp/300965" class="external" target="_blan
 
 
 
-## Generic Budesonide Compounded Tablet
+## &#x1F7E2; Generic Budesonide Compounded Tablet
 
 ![Generic Budesonide Compounded Tablet](https://image.chewy.com/is/image/catalog/546670_MAIN._AC_SL600_V1694631365_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -100,7 +100,7 @@ View on <a href="https://www.chewy.com/dp/1028494" class="external" target="_bla
 
 
 
-## Generic Gabapentin Compounded Tablet
+## &#x1F7E2; Generic Gabapentin Compounded Tablet
 
 ![Generic Gabapentin Compounded Tablet](https://image.chewy.com/is/image/catalog/943142_MAIN._AC_SL600_V1714058490_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -133,7 +133,7 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 
 
 
-## Generic Methimazole Compounded Transdermal
+## &#x1F7E2; Generic Methimazole Compounded Transdermal
 
 ![Generic Methimazole Compounded Transdermal](https://image.chewy.com/is/image/catalog/246800_MAIN._AC_SL600_V1602709279_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -161,7 +161,7 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 
 
 
-## Generic Mirtazapine Compounded Transdermal
+## &#x1F7E2; Generic Mirtazapine Compounded Transdermal
 
 ![Generic Mirtazapine Compounded Transdermal](https://image.chewy.com/is/image/catalog/246833_MAIN._AC_SL600_V1602704279_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -193,7 +193,7 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 
 
 
-## Generic Ondansetron Tablets
+## &#x1F7E2; Generic Ondansetron Tablets
 
 ![Generic Ondansetron Tablets](https://image.chewy.com/is/image/catalog/205219_MAIN._AC_SL600_V1633037204_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -224,7 +224,7 @@ View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_bla
 
 
 
-## Generic Pimobendan Compounded Oral Oil Liquid
+## &#x1F7E2; Generic Pimobendan Compounded Oral Oil Liquid
 
 ![Generic Pimobendan Compounded Oral Oil Liquid](https://image.chewy.com/is/image/catalog/273141_MAIN._AC_SL600_V1638916352_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -252,7 +252,7 @@ View on <a href="https://www.chewy.com/dp/299560" class="external" target="_blan
 
 
 
-## Generic Telmisartan Compounded Oral Oil Liquid
+## &#x1F7E2; Generic Telmisartan Compounded Oral Oil Liquid
 
 ![Generic Telmisartan Compounded Oral Oil Liquid](https://image.chewy.com/is/image/catalog/583926_MAIN._AC_SL600_V1659906586_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -290,7 +290,7 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 
 
 
-## Vetmedin Pimobendan Chewable Tablets
+## &#x1F7E2; Vetmedin Pimobendan Chewable Tablets
 
 ![Vetmedin Pimobendan Chewable Tablets](https://image.chewy.com/is/image/catalog/146420_MAIN._AC_SL600_V1706298829_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -318,4 +318,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 
 </details>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

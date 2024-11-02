@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Misc"
 layout: default
-nav_order: 30
+nav_order: 31
 ---
 
 # Misc
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## BAGAIL Kitchen Scale, 0.1 g Precision
+## &#x1F7E2; BAGAIL Kitchen Scale, 0.1 g Precision
 
 [**Misc**]({% link docs/misc.md %})
 {: .label }
@@ -28,7 +28,7 @@ View on <a href="https://www.amazon.com/dp/B0BNL5JCVR/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Donut Collar
+## &#x1F7E2; Donut Collar
 
 [**Misc**]({% link docs/misc.md %})
 {: .label }
@@ -39,11 +39,11 @@ View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Silicone Stretch Pet Food Can Lids
+## &#x1F7E2; Silicone Stretch Pet Food Can Lids
 
 [**Misc**]({% link docs/misc.md %})
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B07Q5747XZ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Renal food"
 layout: default
-nav_order: 46
+nav_order: 48
 ---
 
 # Renal food
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Blue Buffalo Natural K+M Kidney + Mobility Dry Cat Food, 7 lb
+## &#x1F7E2; Blue Buffalo Natural K+M Kidney + Mobility Dry Cat Food, 7 lb
 
 [**Renal food**]({% link docs/renal-food.md %})
 {: .label }
@@ -30,7 +30,7 @@ View on <a href="https://www.chewy.com/dp/174510" class="external" target="_blan
 
 
 
-## Blue Buffalo Natural K+M Kidney + Mobility Wet Cat Food, 5.5 oz, case of 24
+## &#x1F7E2; Blue Buffalo Natural K+M Kidney + Mobility Wet Cat Food, 5.5 oz, case of 24
 
 [**Renal food**]({% link docs/renal-food.md %})
 {: .label }
@@ -48,7 +48,7 @@ View on <a href="https://www.chewy.com/dp/174518" class="external" target="_blan
 
 
 
-## Hill's Prescription Diet k/d Kidney Care Early Support with Chicken Dry Cat Food
+## &#x1F7E2; Hill's Prescription Diet k/d Kidney Care Early Support with Chicken Dry Cat Food
 
 ![Hill's Prescription Diet k/d Kidney Care Early Support with Chicken Dry Cat Food](https://pxmshare.colgatepalmolive.com/PNG_500/d1zDNXDBD-FGe1S5gqQo5.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -68,7 +68,7 @@ View on <a href="https://www.chewy.com/dp/175305" class="external" target="_blan
 
 
 
-## Royal Canin Renal Support E Loaf in Sauce, 5.1-oz, case of 24
+## &#x1F7E2; Royal Canin Renal Support E Loaf in Sauce, 5.1-oz, case of 24
 
 ![Royal Canin Renal Support E Loaf in Sauce, 5.1-oz, case of 24](https://cdn.royalcanin-weshare-online.io/Bz82vYcBRYZmsWpc2fhh/v17/center-front-hero-image-4168-030111948236-cat-01-jpg?w=640&auto=compress){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -88,7 +88,7 @@ View on <a href="https://www.chewy.com/dp/297392" class="external" target="_blan
 
 
 
-## Weruva Wx Phos-Focused Chicken Variety Pack Wet Food, 3 oz, case of 12
+## &#x1F7E2; Weruva Wx Phos-Focused Chicken Variety Pack Wet Food, 3 oz, case of 12
 
 ![Weruva Wx Phos-Focused Chicken Variety Pack Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/products/810028243538_WX-CAN-CHX-FORMULAS_VP_3OZ_2300X2300_V1R1_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -101,7 +101,7 @@ View on <a href="https://www.chewy.com/dp/578142" class="external" target="_blan
 
 
 
-## Weruva Wx Phos-Focused Gravy-Style Wet Food, 3 oz, case of 12
+## &#x1F7E2; Weruva Wx Phos-Focused Gravy-Style Wet Food, 3 oz, case of 12
 
 ![Weruva Wx Phos-Focused Gravy-Style Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/products/810028242678_WX-CAN-CHX-GRAVY_3OZ_2300X2300_V1R1_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -125,7 +125,7 @@ View on <a href="https://www.chewy.com/dp/578102" class="external" target="_blan
 
 
 
-## Weruva Wx Phos-Focused Puree-Style Wet Food, 3 oz, case of 12
+## &#x1F7E2; Weruva Wx Phos-Focused Puree-Style Wet Food, 3 oz, case of 12
 
 ![Weruva Wx Phos-Focused Puree-Style Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/products/810028242647_WX-CAN-CHX-PUREE_3OZ_2300X2300_V1R15_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -153,4 +153,4 @@ View on <a href="https://www.chewy.com/dp/578126" class="external" target="_blan
 >
 > I really liked this food. Sadly, I think I was allergic to the egg in it. But lots of kitties enjoy this food. It's a good source of protein with low phosphorus, a nice option for a CKD kitty. Bonus: it doesn't require a prescription!
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Anxiety"
 layout: default
-nav_order: 5
+nav_order: 6
 ---
 
 # Anxiety
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Feliway Classic Calming Diffuser Refill
+## &#x1F7E2; Feliway Classic Calming Diffuser Refill
 
 ![Feliway Classic Calming Diffuser Refill](https://us.feliway.com/cdn/shop/products/02Amazon_FeliwayClassicRefill_967x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -35,7 +35,7 @@ View on <a href="https://www.chewy.com/dp/141899" class="external" target="_blan
 
 
 
-## Feliway Classic Calming Diffuser Starter Kit
+## &#x1F7E2; Feliway Classic Calming Diffuser Starter Kit
 
 ![Feliway Classic Calming Diffuser Starter Kit](https://us.feliway.com/cdn/shop/products/02AmazonFeliwayDiffuser_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -48,7 +48,7 @@ View on <a href="https://www.chewy.com/dp/57066" class="external" target="_blank
 
 
 
-## Feliway Classic Calming Spray (60 mL)
+## &#x1F7E2; Feliway Classic Calming Spray (60 mL)
 
 ![Feliway Classic Calming Spray](https://us.feliway.com/cdn/shop/products/FELIWAY_CLASSIC_SPRAY_60ML_US_PACKAGE-PRODUCT_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -61,7 +61,7 @@ View on <a href="https://www.chewy.com/dp/141900" class="external" target="_blan
 
 
 
-## Generic Gabapentin Compounded Tablet
+## &#x1F7E2; Generic Gabapentin Compounded Tablet
 
 ![Generic Gabapentin Compounded Tablet](https://image.chewy.com/is/image/catalog/943142_MAIN._AC_SL600_V1714058490_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -97,4 +97,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

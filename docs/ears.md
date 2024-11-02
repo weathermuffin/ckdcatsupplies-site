@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Ears"
 layout: default
-nav_order: 18
+nav_order: 19
 ---
 
 # Ears
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Zymox Enzymatic Ear Cleanser (4 oz)
+## &#x1F7E2; Zymox Enzymatic Ear Cleanser (4 oz)
 
 ![Zymox Enzymatic Ear Cleanser](https://shop.zymox.com/media/6b/d4/23/1705416514/660f864367a14d3db4cb0c0cb4523952.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -27,7 +27,7 @@ View on <a href="https://www.chewy.com/dp/54795" class="external" target="_blank
 
 
 
-## Zymox Plus Advanced Otic Enzymatic Solution with 1% Hydrocortisone (1.25 fl oz)
+## &#x1F7E2; Zymox Plus Advanced Otic Enzymatic Solution with 1% Hydrocortisone (1.25 fl oz)
 
 ![Zymox Plus Advanced Otic Enzymatic Solution with 1% Hydrocortisone](https://shop.zymox.com/media/e7/a5/d1/1705416466/aa33de58fcef4159a8345ada7e3c08a8.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -51,4 +51,4 @@ View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blan
 
 </details>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

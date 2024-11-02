@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Syringes"
 layout: default
-nav_order: 49
+nav_order: 51
 ---
 
 # Syringes
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## BH Supplies 1 mL Luer Slip Syringes (100 ct)
+## &#x1F7E2; BH Supplies 1 mL Luer Slip Syringes (100 ct)
 
 ![BH Supplies 1 mL Luer Slip Syringes (100 ct)](https://bhmedicalsupplies.com/cdn/shop/files/B07BQDRDC2.MAIN_720x@2x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -30,7 +30,7 @@ View on <a href="https://www.amazon.com/dp/B07BQDRDC2/ref=nosim?tag=ckdcatsuppli
 
 
 
-## BH Supplies 5 mL Luer Slip Syringes with Cap (100 ct)
+## &#x1F7E2; BH Supplies 5 mL Luer Slip Syringes with Cap (100 ct)
 
 ![BH Supplies 5 mL Luer Slip Syringes with Cap (100 ct)](https://bhmedicalsupplies.com/cdn/shop/files/5mL_LSCAP_720x@2x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -43,7 +43,7 @@ View on <a href="https://www.amazon.com/dp/B08B7DVLY1/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Exel 1cc Tuberculin Syringes, Luer Slip, with Cap #26048
+## &#x1F7E2; Exel 1cc Tuberculin Syringes, Luer Slip, with Cap #26048
 
 [**Syringes**]({% link docs/syringes.md %})
 {: .label }
@@ -55,4 +55,4 @@ View on <a href="https://www.amazon.com/dp/B08B7DVLY1/ref=nosim?tag=ckdcatsuppli
 >
 > These are very good syringes that can be reused without the markings fading so quickly. Plus, graduated to 0.01 mL makes for very accurate dosing!
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

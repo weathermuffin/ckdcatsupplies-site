@@ -118,6 +118,9 @@ Browse one of the following CATegories... &#x1F639;
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
 
+[**Antibiotics**]({% link docs/antibiotics.md %})
+{: .label }
+
 [**Antioxidant**]({% link docs/antioxidant.md %})
 {: .label }
 
@@ -239,6 +242,9 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Proteinuria**]({% link docs/proteinuria.md %})
+{: .label }
+
+[**Pyelonephritis**]({% link docs/pyelonephritis.md %})
 {: .label }
 
 [**Renal**]({% link docs/renal.md %})

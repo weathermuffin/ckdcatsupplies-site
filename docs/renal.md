@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Renal"
 layout: default
-nav_order: 45
+nav_order: 47
 ---
 
 # Renal
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Generic Telmisartan Compounded Oral Oil Liquid
+## &#x1F7E2; Generic Telmisartan Compounded Oral Oil Liquid
 
 ![Generic Telmisartan Compounded Oral Oil Liquid](https://image.chewy.com/is/image/catalog/583926_MAIN._AC_SL600_V1659906586_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -50,7 +50,7 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 
 
 
-## Kan Essentials Rehmannia Eight Combination
+## &#x1F7E2; Kan Essentials Rehmannia Eight Combination
 
 ![Kan Essentials Rehmannia Eight Combination](https://kanherb.com/images/store/products/Kan_Essentials_Rehmannia_Eight_Combination_Extract.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -68,4 +68,4 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 
 1.  Syme HM. Cardiovascular and renal manifestations of hyperthyroidism. Vet Clin North Am Small Anim Pract. 2007 Jul;37(4):723-43, vi. doi:<a href="https://doi.org/10.1016/j.cvsm.2007.05.011" class="external" target="_blank">10.1016/j.cvsm.2007.05.011&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

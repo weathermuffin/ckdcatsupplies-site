@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; GI"
 layout: default
-nav_order: 21
+nav_order: 22
 ---
 
 # GI
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Generic Budesonide Compounded Tablet
+## &#x1F7E2; Generic Budesonide Compounded Tablet
 
 ![Generic Budesonide Compounded Tablet](https://image.chewy.com/is/image/catalog/546670_MAIN._AC_SL600_V1694631365_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -34,7 +34,7 @@ View on <a href="https://www.chewy.com/dp/1028494" class="external" target="_bla
 
 
 
-## NOW Slippery Elm Powder (4 oz)
+## &#x1F7E2; NOW Slippery Elm Powder (4 oz)
 
 ![NOW Slippery Elm Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-03/5060_v6.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -57,4 +57,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 1.  Hall, E. (2002), Rational selection of gastrointestinal drugs for cats and dogs. In Practice, 24: 242-249. doi:<a href="https://doi.org/10.1136/inpract.24.5.242" class="external" target="_blank">10.1136/inpract.24.5.242&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Tobacman JK. Review of harmful gastrointestinal effects of carrageenan in animal experiments. Environ Health Perspect. 2001 Oct;109(10):983-94. doi:<a href="https://doi.org/10.1289/ehp.01109983" class="external" target="_blank">10.1289/ehp.01109983&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

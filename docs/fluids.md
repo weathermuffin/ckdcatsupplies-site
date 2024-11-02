@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Fluids"
 layout: default
-nav_order: 20
+nav_order: 21
 ---
 
 # Fluids
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## B. Braun DEHP Free Lactated Ringers Electrolyte Injection Solution USP
+## &#x1F7E2; B. Braun DEHP Free Lactated Ringers Electrolyte Injection Solution USP
 
 ![B. Braun DEHP Free Lactated Ringers Electrolyte Injection Solution USP](https://www.bbraunusa.com/content/dam/catalog/bbraun/bbraunProductCatalog/S/AEM2015/en-us/b253/lactated-ringer-sinjections.jpeg.transform/1000/image.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -37,7 +37,7 @@ View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-li
 
 
 
-## ICU Medical Lactated Ringer's Injection, USP
+## &#x1F7E2; ICU Medical Lactated Ringer's Injection, USP
 
 ![ICU Medical Lactated Ringer's Injection, USP](https://www.icumed.com/media/mbqnclgu/0990-7953-09_350x350.jpg?format=webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -74,7 +74,7 @@ View on <a href="https://www.chewy.com/dp/173585" class="external" target="_blan
 
 
 
-## Vetivex Veterinary DEHP Free Lactated Ringers Electrolyte Injection Solution
+## &#x1F7E2; Vetivex Veterinary DEHP Free Lactated Ringers Electrolyte Injection Solution
 
 ![Vetivex Veterinary DEHP Free Lactated Ringers Electrolyte Injection Solution](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/vetivexlrs_group_0321.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -108,4 +108,4 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 1.  Hansen B (2021). Fluid Overload. Front. Vet. Sci. 8:668688. doi:<a href="https://doi.org/10.3389/fvets.2021.668688" class="external" target="_blank">10.3389/fvets.2021.668688&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Schaer M. Fluid Therapy for Critically Ill Dogs and Cats. World Small Animal Veterinary Association World Congress Proceedings, 2006. <a href="https://www.vin.com/doc/?id=3858919" class="external" target="_blank">https://www.vin.com/doc/?id=3858919&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

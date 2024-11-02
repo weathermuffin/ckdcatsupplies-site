@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Cystitis"
 layout: default
-nav_order: 14
+nav_order: 15
 ---
 
 # Cystitis
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Feliway Cystease Advanced Urinary Tract Support for Cats (30 ct)
+## &#x1F7E2; Feliway Cystease Advanced Urinary Tract Support for Cats (30 ct)
 
 ![Feliway Cystease Advanced Urinary Tract Support for Cats](https://www.feliway.co.uk/cdn/shop/files/KWP0136_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -34,7 +34,7 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Protexin Cystophan
+## &#x1F7E2; Protexin Cystophan
 
 ![Protexin Cystophan](https://www.protexinvet.com/images/products/standard/6236.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -49,7 +49,7 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 
 
 
-## VetPlus Cystaid
+## &#x1F7E2; VetPlus Cystaid
 
 ![VetPlus Cystaid](https://www.vetplus.co.uk/wp-content/uploads/2021/04/Cystaid.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -72,4 +72,4 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 1.  Shinya TAKENOUCHI, Yui KOBAYASHI, Tatsuya SHINOZAKI, Koji KOBAYASHI, Tatsuro NAKAMURA, Tomohiro YONEZAWA, Takahisa MURATA, The urinary lipid profile in cats with idiopathic cystitis, Journal of Veterinary Medical Science, 2022, Volume 84, Issue 5, Pages 689-693. doi:<a href="https://doi.org/10.1292/jvms.22-0049" class="external" target="_blank">10.1292/jvms.22-0049&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wooten S. Feline interstitial cystitis: Its not about the bladder. DVM360. 2017. <a href="https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder" class="external" target="_blank">https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Hyperthyroid"
 layout: default
-nav_order: 25
+nav_order: 26
 ---
 
 # Hyperthyroid
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Generic Methimazole Compounded Transdermal
+## &#x1F7E2; Generic Methimazole Compounded Transdermal
 
 ![Generic Methimazole Compounded Transdermal](https://image.chewy.com/is/image/catalog/246800_MAIN._AC_SL600_V1602709279_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -57,4 +57,4 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 1.  Vaske HH, Schermerhorn T, Grauer GF. Effects of feline hyperthyroidism on kidney function: a review. Journal of Feline Medicine and Surgery. 2016;18(2):55-59. doi:<a href="https://doi.org/10.1177/1098612X15575385" class="external" target="_blank">10.1177/1098612X15575385&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Yu, L., Lacorcia, L. and Johnstone, T., Hyperthyroid cats and their kidneys: a literature review. Aust Vet J. 2022; 100: 415-432. doi:<a href="https://doi.org/10.1111/avj.13179" class="external" target="_blank">10.1111/avj.13179&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

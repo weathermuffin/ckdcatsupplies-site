@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Oral"
 layout: default
-nav_order: 36
+nav_order: 37
 ---
 
 # Oral
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## NOW Slippery Elm Powder (4 oz)
+## &#x1F7E2; NOW Slippery Elm Powder (4 oz)
 
 ![NOW Slippery Elm Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-03/5060_v6.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -31,7 +31,7 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 
 
 
-## worksSOwell 1-TDC Periodontal & Joint Health
+## &#x1F7E2; worksSOwell 1-TDC Periodontal & Joint Health
 
 ![worksSOwell 1-TDC Periodontal & Joint Health](https://www.workssowell.com/cdn/shop/files/1-TDCcat_3.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -71,4 +71,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 
 1.  Lopes Kubitza FM, Anthony JMG. Topical oral 1-tetradecanol complex in the treatment of periodontal diseases in cats. Journal of Feline Medicine and Surgery. 2019;21(12):1141-1148. doi:<a href="https://doi.org/10.1177/1098612X18820734" class="external" target="_blank">10.1177/1098612X18820734&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

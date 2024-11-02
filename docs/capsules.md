@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Capsules"
 layout: default
-nav_order: 12
+nav_order: 13
 ---
 
 # Capsules
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Single Capsule Scoop (Size 5)
+## &#x1F7E2; Single Capsule Scoop (Size 5)
 
 [**Capsules**]({% link docs/capsules.md %})
 {: .label }
@@ -25,7 +25,7 @@ View on <a href="https://www.amazon.com/dp/B0D2PCPX1T/ref=nosim?tag=ckdcatsuppli
 
 
 
-## XPRS Nutra Size 3 Clear Empty Gelatin Capsules
+## &#x1F7E2; XPRS Nutra Size 3 Clear Empty Gelatin Capsules
 
 ![XPRS Nutra Size 3 Clear Empty Gelatin Capsules](https://xprsnutra.com/cdn/shop/products/E-Clear3-100.jpg?width=1200){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -55,7 +55,7 @@ View on <a href="https://www.amazon.com/dp/B01BI78SKC/ref=nosim?tag=ckdcatsuppli
 
 
 
-## XPRS Nutra Size 4 Clear Empty Gelatin Capsules
+## &#x1F7E2; XPRS Nutra Size 4 Clear Empty Gelatin Capsules
 
 ![XPRS Nutra Size 4 Clear Empty Gelatin Capsules](https://xprsnutra.com/cdn/shop/products/Clear100_d472f011-7ebb-4e94-8bea-24b7c7346062.jpg?width=1200){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -85,7 +85,7 @@ View on <a href="https://www.amazon.com/dp/B017362KFG/ref=nosim?tag=ckdcatsuppli
 
 
 
-## XPRS Nutra Size 5 Clear Empty Gelatin Capsules
+## &#x1F7E2; XPRS Nutra Size 5 Clear Empty Gelatin Capsules
 
 ![XPRS Nutra Size 5 Clear Empty Gelatin Capsules](https://xprsnutra.com/cdn/shop/products/Clear100_ef45ee99-1fde-41fe-804a-4444d7c23f70.jpg?width=1200){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -115,4 +115,4 @@ View on <a href="https://www.amazon.com/dp/B095Z5WP43/ref=nosim?tag=ckdcatsuppli
 >
 > My favorite size of capsule is NONE, but this is my second favorite. Dad puts whatever he needs to into one of these bad boys, slathers it with a lickable treat, then tops with crushed Temptations powder. I just gobble the thing right down! He thinks he's pulling a fast one and sneaking a pill without me noticing. Mostly I humor him, but every once in a while I'll spit one out to keep him on his toes.
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

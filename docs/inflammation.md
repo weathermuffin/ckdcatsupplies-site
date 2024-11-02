@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Inflammation"
 layout: default
-nav_order: 26
+nav_order: 27
 ---
 
 # Inflammation
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## ThorneVET CurcuVET-SA150 Powder
+## &#x1F7E2; ThorneVET CurcuVET-SA150 Powder
 
 ![ThorneVET CurcuVET-SA150 Powder](https://thornevet.com/wp-content/uploads/2021/04/V939Pfront.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -37,4 +37,4 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 
 </details>
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Needles"
 layout: default
-nav_order: 33
+nav_order: 34
 ---
 
 # Needles
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Terumo SURFLO Winged Infusion Set, Ultra Thin Wall (50 ct)
+## &#x1F7E2; Terumo SURFLO Winged Infusion Set, Ultra Thin Wall (50 ct)
 
 ![Terumo SURFLO Winged Infusion Set, Ultra Thin Wall (50 ct)](https://www.terumotmp.com/content/terumo-tmp-www/en_us/home/products/infusion-and-blood-collection/surflo-winged-infusion-sets/_jcr_content/image.img.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -40,7 +40,7 @@ View on <a href="https://www.scahealth.com/p/surflo-winged-infusion-set-23g-x-3-
 
 
 
-## Terumo Ultra Thin Wall Needles (100 ct)
+## &#x1F7E2; Terumo Ultra Thin Wall Needles (100 ct)
 
 ![Terumo Ultra Thin Wall Needles (100 ct)](https://www.terumotmp.com/content/terumo-tmp-www/en_us/home/products/hypodermics/terumo-hypodermic-needles/_jcr_content/image.img.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -64,4 +64,4 @@ View on <a href="https://thrivingpets.com/products/terumo-needles-thin-wall-21-g
 >
 > I'd prefer to not be poked at all, but if it has to happen, I want it to be Terumo ultra thin wall!
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

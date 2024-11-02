@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Lactated Ringer's (LRS)"
 layout: default
-nav_order: 28
+nav_order: 29
 ---
 
 # Lactated Ringer's (LRS)
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## B. Braun DEHP Free Lactated Ringers Electrolyte Injection Solution USP
+## &#x1F7E2; B. Braun DEHP Free Lactated Ringers Electrolyte Injection Solution USP
 
 ![B. Braun DEHP Free Lactated Ringers Electrolyte Injection Solution USP](https://www.bbraunusa.com/content/dam/catalog/bbraun/bbraunProductCatalog/S/AEM2015/en-us/b253/lactated-ringer-sinjections.jpeg.transform/1000/image.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -37,7 +37,7 @@ View on <a href="https://thrivingpets.com/products/lactated-ringers-inj-usp-1-li
 
 
 
-## ICU Medical Lactated Ringer's Injection, USP
+## &#x1F7E2; ICU Medical Lactated Ringer's Injection, USP
 
 ![ICU Medical Lactated Ringer's Injection, USP](https://www.icumed.com/media/mbqnclgu/0990-7953-09_350x350.jpg?format=webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -74,7 +74,7 @@ View on <a href="https://www.chewy.com/dp/173585" class="external" target="_blan
 
 
 
-## Vetivex Veterinary DEHP Free Lactated Ringers Electrolyte Injection Solution
+## &#x1F7E2; Vetivex Veterinary DEHP Free Lactated Ringers Electrolyte Injection Solution
 
 ![Vetivex Veterinary DEHP Free Lactated Ringers Electrolyte Injection Solution](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/vetivexlrs_group_0321.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -100,4 +100,4 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 >
 > Well I can't say it's my favorite way to pass the time, but I do feel better and more hydrated after these fluids.
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

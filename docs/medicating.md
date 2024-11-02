@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Medicating"
 layout: default
-nav_order: 29
+nav_order: 30
 ---
 
 # Medicating
@@ -12,7 +12,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
-## Greenies Pill Pockets, Salmon Flavor
+## &#x1F7E2; Greenies Pill Pockets, Salmon Flavor
 
 ![Greenies Pill Pockets, Salmon Flavor](https://www.greenies.com/cdn/shop/files/fgj1dzrzfjdyl8evvhs0.jpg?width=990){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -34,7 +34,7 @@ View on <a href="https://www.amazon.com/dp/B000JOE224/ref=nosim?tag=ckdcatsuppli
 
 
 
-## Nitrile Finger Cots
+## &#x1F7E2; Nitrile Finger Cots
 
 [**Medicating**]({% link docs/medicating.md %})
 {: .label }
@@ -54,7 +54,7 @@ View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsuppli
 
 
 
-## VetOne Pet Piller (12 ct)
+## &#x1F7E2; VetOne Pet Piller (12 ct)
 
 [**Medicating**]({% link docs/medicating.md %})
 {: .label }
@@ -68,4 +68,4 @@ View on <a href="https://www.chewy.com/dp/204481" class="external" target="_blan
 >
 > Ugh I really hate this thing! But occasionally it's a necessary evil. This one works well due to its long length and easily holds size 3-5 capsules.
 
-<!-- Updated 2024-11-01 19:12:06.004679Z -->
+<!-- Updated 2024-11-02 00:28:15.800041Z -->

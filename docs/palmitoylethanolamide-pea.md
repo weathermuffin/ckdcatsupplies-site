@@ -1,10 +1,10 @@
 ---
-title: "&#x1F535; PEA"
+title: "&#x1F535; Palmitoylethanolamide (PEA)"
 layout: default
-nav_order: 39
+nav_order: 40
 ---
 
-# PEA
+# Palmitoylethanolamide (PEA)
 
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
@@ -16,11 +16,13 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 ![Dechra Redonyl Ultra Feline](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/redonyl_ultra_feline_0321.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+The acronym "PEA" used here refers to palmitoylethanolamide, and should not be confused with phenylethylamine.
+
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
-[**PEA**]({% link docs/pea.md %})
-{: .label }
 [**Pain**]({% link docs/pain.md %})
+{: .label }
+[**Palmitoylethanolamide (PEA)**]({% link docs/palmitoylethanolamide-pea.md %})
 {: .label }
 
  <a href="https://www.dechra-us.com/our-products/us/companion-animal/cat/non-prescription/redonyl-ultra-feline" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -44,7 +46,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 * * *
 
 
-# PEA references and resources
+# Palmitoylethanolamide (PEA) references and resources
 
 1.  Cifelli P, Ruffolo G, Ceccanti M, Cambieri C, Libonati L, Palma E, Inghilleri M. Classical and Unexpected Effects of Ultra-Micronized PEA in Neuromuscular Function. Biomolecules. 2022; 12(6):758. doi:<a href="https://doi.org/10.3390/biom12060758" class="external" target="_blank">10.3390/biom12060758&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Paul Clayton, Silma Subah, Ruchitha Venkatesh, Mariko Hill & Nathasha Bogoda (2021) Palmitoylethanolamide: A Potential Alternative to Cannabidiol, Journal of Dietary Supplements, 20:3, 505-530. doi:<a href="https://doi.org/10.1080/19390211.2021.2005733" class="external" target="_blank">10.1080/19390211.2021.2005733&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -55,4 +57,4 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 1.  Noli, C., della Valle, M.F., Miolo, A., Medori, C., Schievano, C. and (2019), Effect of dietary supplementation with ultramicronized palmitoylethanolamide in maintaining remission in cats with nonflea hypersensitivity dermatitis: a double-blind, multicentre, randomized, placebo-controlled study. Vet Dermatol, 30: 387-e117. doi:<a href="https://doi.org/10.1111/vde.12764" class="external" target="_blank">10.1111/vde.12764&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-02 00:28:15.800041Z -->
+<!-- Updated 2024-11-04 00:34:51.772985Z -->

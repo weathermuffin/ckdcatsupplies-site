@@ -253,4 +253,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 1.  Schaer M. Fluid Therapy for Critically Ill Dogs and Cats. World Small Animal Veterinary Association World Congress Proceedings, 2006. <a href="https://www.vin.com/doc/?id=3858919" class="external" target="_blank">https://www.vin.com/doc/?id=3858919&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Syme HM. Cardiovascular and renal manifestations of hyperthyroidism. Vet Clin North Am Small Anim Pract. 2007 Jul;37(4):723-43, vi. doi:<a href="https://doi.org/10.1016/j.cvsm.2007.05.011" class="external" target="_blank">10.1016/j.cvsm.2007.05.011&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-02 00:28:15.800041Z -->
+<!-- Updated 2024-11-04 00:34:51.772985Z -->

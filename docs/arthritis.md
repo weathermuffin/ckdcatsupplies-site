@@ -16,11 +16,13 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 ![Dechra Redonyl Ultra Feline](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/redonyl_ultra_feline_0321.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+The acronym "PEA" used here refers to palmitoylethanolamide, and should not be confused with phenylethylamine.
+
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
-[**PEA**]({% link docs/pea.md %})
-{: .label }
 [**Pain**]({% link docs/pain.md %})
+{: .label }
+[**Palmitoylethanolamide (PEA)**]({% link docs/palmitoylethanolamide-pea.md %})
 {: .label }
 
  <a href="https://www.dechra-us.com/our-products/us/companion-animal/cat/non-prescription/redonyl-ultra-feline" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -311,4 +313,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Richter. Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-02 00:28:15.800041Z -->
+<!-- Updated 2024-11-04 00:34:51.772985Z -->

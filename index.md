@@ -128,10 +128,10 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Otitis**]({% link docs/otitis.md %})
 {: .label }
 
-[**PEA**]({% link docs/pea.md %})
+[**Pain**]({% link docs/pain.md %})
 {: .label }
 
-[**Pain**]({% link docs/pain.md %})
+[**Palmitoylethanolamide (PEA)**]({% link docs/palmitoylethanolamide-pea.md %})
 {: .label }
 
 [**Phosphate binders**]({% link docs/phosphate-binders.md %})
@@ -179,4 +179,4 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2024-11-02 00:28:15.800041Z -->
+<!-- Updated 2024-11-04 00:34:51.772985Z -->

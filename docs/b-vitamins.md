@@ -147,4 +147,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 >
 > Another option for chicken hearts! Yum.
 
-<!-- Updated 2024-11-02 00:28:15.800041Z -->
+<!-- Updated 2024-11-04 00:34:51.772985Z -->

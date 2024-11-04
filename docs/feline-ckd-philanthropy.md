@@ -42,3 +42,20 @@ continues to benefit &mdash; thousands of CKD kitties worldwide.
 ## Morris Animal Foundation
 
 <a href="https://www.morrisanimalfoundation.org" class="external" target="_blank">https://www.morrisanimalfoundation.org&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+
+## Cornell Feline Health Center
+
+<a href="https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center" class="external" target="_blank">https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+
+## Carlson College of Veterinary Medicine, Oregon State University
+
+Select or type in "Veterinary Medicine Biomedical Sciences Department Fund"
+
+<a href="https://vetmed.oregonstate.edu/give" class="external" target="_blank">https://vetmed.oregonstate.edu/give&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+
+## Texas A&M Veterinary Medicine & Biomedical Sciences
+
+<a href="https://vetmed.tamu.edu/giving/" class="external" target="_blank">https://vetmed.tamu.edu/giving/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>

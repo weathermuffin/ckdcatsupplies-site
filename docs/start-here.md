@@ -223,10 +223,10 @@ Browse one of the following CATegories... &#x1F639;
 [**Otitis**]({% link docs/otitis.md %})
 {: .label }
 
-[**PEA**]({% link docs/pea.md %})
+[**Pain**]({% link docs/pain.md %})
 {: .label }
 
-[**Pain**]({% link docs/pain.md %})
+[**Palmitoylethanolamide (PEA)**]({% link docs/palmitoylethanolamide-pea.md %})
 {: .label }
 
 [**Phosphate binders**]({% link docs/phosphate-binders.md %})

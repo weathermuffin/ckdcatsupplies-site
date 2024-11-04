@@ -1,7 +1,7 @@
 ---
 title: "&#x1F535; Pain"
 layout: default
-nav_order: 40
+nav_order: 39
 ---
 
 # Pain
@@ -16,11 +16,13 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 ![Dechra Redonyl Ultra Feline](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/redonyl_ultra_feline_0321.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+The acronym "PEA" used here refers to palmitoylethanolamide, and should not be confused with phenylethylamine.
+
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
-[**PEA**]({% link docs/pea.md %})
-{: .label }
 [**Pain**]({% link docs/pain.md %})
+{: .label }
+[**Palmitoylethanolamide (PEA)**]({% link docs/palmitoylethanolamide-pea.md %})
 {: .label }
 
  <a href="https://www.dechra-us.com/our-products/us/companion-animal/cat/non-prescription/redonyl-ultra-feline" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -88,4 +90,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-02 00:28:15.800041Z -->
+<!-- Updated 2024-11-04 00:34:51.772985Z -->

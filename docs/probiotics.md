@@ -31,4 +31,12 @@ View on <a href="https://www.amazon.com/dp/B001650OE0/ref=nosim?tag=ckdcatsuppli
 
 View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-04 00:34:51.772985Z -->
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Torres-Henderson C, Summers S, Suchodolski J, Lappin MR. Effect of Enterococcus Faecium Strain SF68 on Gastrointestinal Signs and Fecal Microbiome in Cats Administered Amoxicillin-Clavulanate. Top Companion Anim Med. 2017 Sep;32(3):104-108. doi:<a href="https://doi.org/10.1053/j.tcam.2017.11.002" class="external" target="_blank">10.1053/j.tcam.2017.11.002&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Weese JS, Martin H. Assessment of commercial probiotic bacterial contents and label accuracy. Can Vet J. 2011 Jan;52(1):43-6. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003573/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC3003573/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+<!-- Updated 2024-11-10 21:46:51.972489Z -->

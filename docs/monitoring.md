@@ -145,4 +145,23 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 >
 > I'll never understand it, but Dad likes to monitor my litter box habits. (I know, right?!) This tells him when I use the box, what I did (#1 or #2), how long I was in there, and even my weight! Heck, just monitoring my weight day-to-day is extremely valuable. But my dad also geeks out on all the stats and other info. &#x1F913;
 
-<!-- Updated 2024-11-04 00:34:51.772985Z -->
+* * *
+
+
+
+## &#x1F7E2; Vmed Technology vet-dop2
+
+![Vmed Technology vet-dop2](https://www.vmedtechnology.com/wp-content/uploads/2023/09/vet-dop2.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Veterinary Doppler blood pressure system.
+
+[**Blood pressure**]({% link docs/blood-pressure.md %})
+{: .label }
+[**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+ <a href="https://www.vmedtechnology.com/product/vet-dop/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="external" target="_blank">Vmed Technology&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<!-- Updated 2024-11-10 21:46:51.972489Z -->

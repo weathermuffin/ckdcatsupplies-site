@@ -50,9 +50,9 @@ A kidney-penetrating fluoroquinolone antibiotic.
 
 
 
-## &#x1F7E2; Zeniquin marbofloxacin
+## &#x1F7E2; Zeniquin marbofloxacin tablets (25 mg, 1 ct)
 
-![Zeniquin marbofloxacin](https://www.zoetisus.com/content/_assets/images/Petcare/zeniquin_family.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Zeniquin marbofloxacin tablets](https://www.zoetisus.com/content/_assets/images/Petcare/zeniquin_family.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 A kidney-penetrating fluoroquinolone antibiotic.
 
@@ -67,9 +67,12 @@ A kidney-penetrating fluoroquinolone antibiotic.
 
  <a href="https://www.zoetisus.com/products/petcare/zeniquin" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_antibiotics_painkillers.htm#marbofloxacin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+View on <a href="https://www.chewy.com/dp/173148" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 <details markdown="block">
 <summary>References and resources</summary>
 
+1.  Albarellos GA, Montoya L, Landoni MF. Pharmacokinetics of marbofloxacin after single intravenous and repeat oral administration to cats. Vet J. 2005 Sep;170(2):222-9. doi:<a href="https://doi.org/10.1016/j.tvjl.2004.05.011" class="external" target="_blank">10.1016/j.tvjl.2004.05.011&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Freedom of Information Summary, Supplemental Approval for Use in Cats, NADA 141-151: Zeniquin (marbofloxacin) Tablets. Pfizer Inc. 2001. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/668" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/668&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1. _"Adjust dose in moderate or severe CKD (IRIS stages 3 and 4)"_ &mdash;  Sparkes AH, Caney S, Chalhoub S, Elliott J, Finch N, Gajanayake I, Langston C, Lefebvre HP, White J, Quimby J. ISFM Consensus Guidelines on the Diagnosis and Management of Feline Chronic Kidney Disease. J Feline Med Surg. 2016 Mar;18(3):219-39. doi:<a href="https://doi.org/10.1177/1098612X16631234" class="external" target="_blank">10.1177/1098612X16631234&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-04-02)
 1. _"Fluoroquinolones ... are renally cleared. ... they do cause dose-dependent retinal toxicity in cats. Therefore, dosage adjustments for fluoroquinolones may be important in cats with renal insufficiency ... extending the dosing interval may be most appropriate, since fluoroquinolones are also concentration-dependent."_ &mdash;  Trepanier LA. Feline Therapeutics. World Small Animal Veterinary Association World Congress Proceedings, 2013. <a href="https://www.vin.com/doc/?id=5709852" class="external" target="_blank">https://www.vin.com/doc/?id=5709852&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-11-01)
@@ -80,4 +83,4 @@ A kidney-penetrating fluoroquinolone antibiotic.
 
 </details>
 
-<!-- Updated 2024-11-04 00:34:51.772985Z -->
+<!-- Updated 2024-11-10 21:46:51.972489Z -->

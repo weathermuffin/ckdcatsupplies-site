@@ -172,4 +172,4 @@ View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsuppli
 >
 > This works very well for smothering capsules, or even plain as a chaser after those nasty oral medicines. (Gross!) I heard Dad mumble something about low sodium and the cardiologist.
 
-<!-- Updated 2024-11-04 00:34:51.772985Z -->
+<!-- Updated 2024-11-10 21:46:51.972489Z -->

@@ -8,8 +8,6 @@ nav_order: 33
 
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
-&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
-
 
 
 ## &#x1F7E2; Cerenia Maropitant Citrate Tablets (16 mg)
@@ -93,6 +91,23 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 
 * * *
 
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+* * *
+
 
 # Nausea references and resources
 
@@ -100,4 +115,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 1.  Trepanier L. Acute Vomiting in Cats: Rational Treatment Selection. Journal of Feline Medicine and Surgery. 2010;12(3):225-230. doi:<a href="https://doi.org/10.1016/j.jfms.2010.01.005" class="external" target="_blank">10.1016/j.jfms.2010.01.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zajic LB, Herndon AK, Sieberg LG, et al. Assessment of absorption of transdermal ondansetron in normal research cats. Journal of Feline Medicine and Surgery. 2017;19(12):1245-1248. doi:<a href="https://doi.org/10.1177/1098612X16688807" class="external" target="_blank">10.1177/1098612X16688807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-10 21:46:51.972489Z -->
+<!-- Updated 2024-11-12 19:59:10.748477Z -->

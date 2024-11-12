@@ -305,6 +305,23 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 
 * * *
 
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+* * *
+
 
 # Arthritis references and resources
 
@@ -313,4 +330,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Richter. Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-10 21:46:51.972489Z -->
+<!-- Updated 2024-11-12 19:59:10.748477Z -->

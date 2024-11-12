@@ -151,10 +151,27 @@ View on <a href="https://www.chewy.com/dp/173148" class="external" target="_blan
 
 * * *
 
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+* * *
+
 
 # UTI references and resources
 
 1.  Dorsch R, Teichmann-Knorrn S, Sjetne Lund H. Urinary tract infection and subclinical bacteriuria in cats: A clinical update. Journal of Feline Medicine and Surgery. 2019;21(11):1023-1038. doi:<a href="https://doi.org/10.1177/1098612X19880435" class="external" target="_blank">10.1177/1098612X19880435&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  KuKanich, KS. Managing the E coli UTI. Consultant on Call, NAVC Clinician's Brief, August 2011. <a href="https://assets.ctfassets.net/4dmg3l1sxd6g/56kBrmZeTq2VYkVdoNAz31/2f9a999e2d4140cdb46b98a74176480b/managingecoliuti-5302-article.pdf" class="external" target="_blank">https://assets.ctfassets.net/4dmg3l1sxd6g/56kBrmZeTq2VYkVdoNAz31/2f9a999e2d4140cdb46b98a74176480b/managingecoliuti-5302-article.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-10 21:46:51.972489Z -->
+<!-- Updated 2024-11-12 19:59:10.748477Z -->

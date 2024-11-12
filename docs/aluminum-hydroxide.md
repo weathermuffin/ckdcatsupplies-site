@@ -61,6 +61,23 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 
 * * *
 
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+* * *
+
 
 # Aluminum hydroxide references and resources
 
@@ -68,4 +85,4 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 1.  Emmett M. A comparison of clinically useful phosphorus binders for patients with chronic kidney failure. Kidney International. 2004; 66:S32-S25. doi:<a href="https://doi.org/10.1111/j.1523-1755.2004.09005.x" class="external" target="_blank">10.1111/j.1523-1755.2004.09005.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Katopodis KP, Andrikos E, Pappas M, Siamopoulos KC. Effectiveness of Aluminum Hydroxide Timing Administration in Relation to Meals in Controling Hyperphosphatemia in Dialysis Patients. The International Journal of Artificial Organs. 2005;28(8):803-807. doi:<a href="https://doi.org/10.1177/039139880502800806" class="external" target="_blank">10.1177/039139880502800806&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-10 21:46:51.972489Z -->
+<!-- Updated 2024-11-12 19:59:10.748477Z -->

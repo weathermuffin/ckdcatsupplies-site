@@ -62,6 +62,23 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 
 * * *
 
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+* * *
+
 
 # Cystitis references and resources
 
@@ -72,4 +89,4 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 1.  Shinya TAKENOUCHI, Yui KOBAYASHI, Tatsuya SHINOZAKI, Koji KOBAYASHI, Tatsuro NAKAMURA, Tomohiro YONEZAWA, Takahisa MURATA, The urinary lipid profile in cats with idiopathic cystitis, Journal of Veterinary Medical Science, 2022, Volume 84, Issue 5, Pages 689-693. doi:<a href="https://doi.org/10.1292/jvms.22-0049" class="external" target="_blank">10.1292/jvms.22-0049&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wooten S. Feline interstitial cystitis: Its not about the bladder. DVM360. 2017. <a href="https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder" class="external" target="_blank">https://www.dvm360.com/view/feline-interstitial-cystitis-it-s-not-about-bladder&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-10 21:46:51.972489Z -->
+<!-- Updated 2024-11-12 19:59:10.748477Z -->

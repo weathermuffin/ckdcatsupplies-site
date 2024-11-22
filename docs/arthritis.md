@@ -182,6 +182,7 @@ View on <a href="https://www.amazon.com/dp/B0772WG4R8/ref=nosim?tag=ckdcatsuppli
 <details markdown="block">
 <summary>References and resources</summary>
 
+1.  Borrelli F, Capasso F, Capasso R, Ascione V, Aviello G, Longo R, Izzo AA. Effect of Boswellia serrata on intestinal motility in rodents: inhibition of diarrhoea without constipation. Br J Pharmacol. 2006 Jun;148(4):553-60. doi:<a href="https://doi.org/10.1038/sj.bjp.0706740" class="external" target="_blank">10.1038/sj.bjp.0706740&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Richter. Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
@@ -305,6 +306,16 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 
 * * *
 
+
+# Arthritis references and resources
+
+1.  Corbee, R. J. (2022). The efficacy of a nutritional supplement containing green-lipped mussel, curcumin and blackcurrant leaf extract in dogs and cats with osteoarthritis. Veterinary Medicine and Science, 8, 1025-1035. doi:<a href="https://doi.org/10.1002/vms3.779" class="external" target="_blank">10.1002/vms3.779&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Guedes AGP, Meadows JM, Pypendop BH, Johnson EG, Zaffarano B. Assessment of the effects of gabapentin on activity levels and owner-perceived mobility impairment and quality of life in osteoarthritic geriatric cats. J Am Vet Med Assoc. 2018 Sep 1;253(5):579-585. doi:<a href="https://doi.org/10.2460/javma.253.5.579" class="external" target="_blank">10.2460/javma.253.5.579&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Richter. Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -320,14 +331,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Arthritis references and resources
-
-1.  Corbee, R. J. (2022). The efficacy of a nutritional supplement containing green-lipped mussel, curcumin and blackcurrant leaf extract in dogs and cats with osteoarthritis. Veterinary Medicine and Science, 8, 1025-1035. doi:<a href="https://doi.org/10.1002/vms3.779" class="external" target="_blank">10.1002/vms3.779&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Guedes AGP, Meadows JM, Pypendop BH, Johnson EG, Zaffarano B. Assessment of the effects of gabapentin on activity levels and owner-perceived mobility impairment and quality of life in osteoarthritic geriatric cats. J Am Vet Med Assoc. 2018 Sep 1;253(5):579-585. doi:<a href="https://doi.org/10.2460/javma.253.5.579" class="external" target="_blank">10.2460/javma.253.5.579&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Lascelles, B.D.X., DePuy, V., Thomson, A., Hansen, B., Marcellin-Little, D.J., Biourge, V. and Bauer, J.E. (2010), Evaluation of a Therapeutic Diet for Feline Degenerative Joint Disease. Journal of Veterinary Internal Medicine, 24: 487-495. doi:<a href="https://doi.org/10.1111/j.1939-1676.2010.0495.x" class="external" target="_blank">10.1111/j.1939-1676.2010.0495.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Richter. Herbal Therapies for Osteoarthritis. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/" class="external" target="_blank">https://todaysveterinarypractice.com/integrative-alternative-medicine/herbal-therapies-for-osteoarthritis/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

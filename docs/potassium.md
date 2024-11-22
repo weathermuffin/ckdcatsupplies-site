@@ -52,6 +52,17 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 
 * * *
 
+
+# Potassium references and resources
+
+1.  Cook A, Heinz J. Evaluation and Management of the Hypokalemic Patient. Today's Veterinary Practice. 2022. <a href="https://todaysveterinarypractice.com/internal-medicine/evaluation-and-management-of-the-hypokalemic-patient/" class="external" target="_blank">https://todaysveterinarypractice.com/internal-medicine/evaluation-and-management-of-the-hypokalemic-patient/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  De Morais HA. Potassium Disorders in Cats: Myths and Facts. World Small Animal Veterinary Association World Congress Proceedings, 2009. <a href="https://www.vin.com/doc/?id=4252634" class="external" target="_blank">https://www.vin.com/doc/?id=4252634&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  DiBartola SP, De Morais HA. Chapter 5 - Disorders of Potassium: Hypokalemia and Hyperkalemia. Fluid, Electrolyte, and Acid-Base Disorders in Small Animal Practice (Fourth Edition). W.B. Saunders, 2012, Pages 92-119. ISBN 9781437706543. doi:<a href="https://doi.org/10.1016/B978-1-4377-0654-3.00012-3" class="external" target="_blank">10.1016/B978-1-4377-0654-3.00012-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hoehne SN. Management of Potassium Disorders in the Emergency Room. European Veterinary Emergency and Critical Care Congress 2019. <a href="https://www.vin.com/doc/?id=9257727" class="external" target="_blank">https://www.vin.com/doc/?id=9257727&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Kogika MM, de Morais HA. A Quick Reference on Hypokalemia. Vet Clin North Am Small Anim Pract. 2017 Mar;47(2):229-234. doi:<a href="https://doi.org/10.1016/j.cvsm.2016.10.010" class="external" target="_blank">10.1016/j.cvsm.2016.10.010&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -67,15 +78,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Potassium references and resources
-
-1.  Cook A, Heinz J. Evaluation and Management of the Hypokalemic Patient. Today's Veterinary Practice. 2022. <a href="https://todaysveterinarypractice.com/internal-medicine/evaluation-and-management-of-the-hypokalemic-patient/" class="external" target="_blank">https://todaysveterinarypractice.com/internal-medicine/evaluation-and-management-of-the-hypokalemic-patient/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  De Morais HA. Potassium Disorders in Cats: Myths and Facts. World Small Animal Veterinary Association World Congress Proceedings, 2009. <a href="https://www.vin.com/doc/?id=4252634" class="external" target="_blank">https://www.vin.com/doc/?id=4252634&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  DiBartola SP, De Morais HA. Chapter 5 - Disorders of Potassium: Hypokalemia and Hyperkalemia. Fluid, Electrolyte, and Acid-Base Disorders in Small Animal Practice (Fourth Edition). W.B. Saunders, 2012, Pages 92-119. ISBN 9781437706543. doi:<a href="https://doi.org/10.1016/B978-1-4377-0654-3.00012-3" class="external" target="_blank">10.1016/B978-1-4377-0654-3.00012-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Hoehne SN. Management of Potassium Disorders in the Emergency Room. European Veterinary Emergency and Critical Care Congress 2019. <a href="https://www.vin.com/doc/?id=9257727" class="external" target="_blank">https://www.vin.com/doc/?id=9257727&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Kogika MM, de Morais HA. A Quick Reference on Hypokalemia. Vet Clin North Am Small Anim Pract. 2017 Mar;47(2):229-234. doi:<a href="https://doi.org/10.1016/j.cvsm.2016.10.010" class="external" target="_blank">10.1016/j.cvsm.2016.10.010&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

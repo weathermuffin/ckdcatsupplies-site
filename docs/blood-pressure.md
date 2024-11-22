@@ -135,23 +135,6 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 
 * * *
 
-<div id="disqus_thread"></div>
-<script>
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
-    };
-    (function() {
-    var d = document, s = d.createElement('script');
-    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-* * *
-
 
 # Blood pressure references and resources
 
@@ -159,6 +142,7 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 1.  Hypertension, chronic kidney disease and the renin-angiotensin-aldosterone system (2020). American Animal Hospital Association. <a href="https://www.aaha.org/wp-content/uploads/globalassets/05-pet-health-resources/critical-connections_web.pdf" class="external" target="_blank">https://www.aaha.org/wp-content/uploads/globalassets/05-pet-health-resources/critical-connections_web.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Acierno MJ, Brown S, Coleman AE, et al. ACVIM consensus statement: Guidelines for the identification, evaluation, and management of systemic hypertension in dogs and cats. J Vet Intern Med. 2018; 32: 1803–1822. doi:<a href="https://doi.org/10.1111/jvim.15331" class="external" target="_blank">10.1111/jvim.15331&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Adin D, Atkins C, Domenig O, Glahn C, DeFrancesco T, Meurs K. Evaluation of Renin–Angiotensin–Aldosterone System Components and Enzymes in Systemically Hypertensive Cats Receiving Amlodipine. Animals. 2023; 13(22):3479. doi:<a href="https://doi.org/10.3390/ani13223479" class="external" target="_blank">10.3390/ani13223479&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Brown SA, Brown CA, Jacobs G, Stiles J, Hendi RS, Wilson S. Effects of the angiotensin converting enzyme inhibitor benazepril in cats with induced renal insufficiency. Am J Vet Res. 2001 Mar;62(3):375-83. doi:<a href="https://doi.org/10.2460/ajvr.2001.62.375" class="external" target="_blank">10.2460/ajvr.2001.62.375&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Carter J. Hypertensive ocular disease in cats: A guide to fundic lesions to facilitate early diagnosis. Journal of Feline Medicine and Surgery. 2019;21(1):35-45. doi:<a href="https://doi.org/10.1177/1098612X18818668" class="external" target="_blank">10.1177/1098612X18818668&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Coleman AE, Brown SA, Traas AM, Bryson L, Zimmering T, Zimmerman A. Safety and efficacy of orally administered telmisartan for the treatment of systemic hypertension in cats: Results of a double-blind, placebo-controlled, randomized clinical trial. J Vet Intern Med. 2019; 33: 478-488. doi:<a href="https://doi.org/10.1111/jvim.15429" class="external" target="_blank">10.1111/jvim.15429&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Coleman A, Elliott J. Inhibition of the renin-angiotensin-aldosterone system in cats and dogs: The emerging role of angiotensin II receptor blockers. International Renal Interest Society (IRIS). 2022. <a href="http://www.iris-kidney.com/education/renin-anglotensin-aldosterone-system.html" class="external" target="_blank">http://www.iris-kidney.com/education/renin-anglotensin-aldosterone-system.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -181,4 +165,21 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 1.  Thompson J. Management of hypertension in a geriatric cat. Can Vet J. 2004 May;45(5):427-9. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC548629/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC548629/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+* * *
+
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

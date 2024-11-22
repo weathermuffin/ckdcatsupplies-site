@@ -86,6 +86,16 @@ View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blan
 
 * * *
 
+
+# Otitis references and resources
+
+1.  Atwal R, Omar A, Olson M, Butler N, Caberra Y. Antibiofilm Efficacy of Advanced Formula Zymox (R) Otic Plus with 1% Hydrocortisone. Journal of Applied Research in Veterinary Medicine. 2012; 10(4):311-317. <a href="http://www.jarvm.com/articles/Vol10Iss4/index.htm" class="external" target="_blank">http://www.jarvm.com/articles/Vol10Iss4/index.htm&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Brame B, Cain C. Chronic Otitis in Cats: Clinical management of primary, predisposing and perpetuating factors. Journal of Feline Medicine and Surgery. 2021;23(5):433-446. doi:<a href="https://doi.org/10.1177/1098612X211007072" class="external" target="_blank">10.1177/1098612X211007072&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Cytology Reference Guide. Dechra Veterinary Products. 2023. <a href="https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/C230160-Cytology-Reference-Guide.pdf" class="external" target="_blank">https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/C230160-Cytology-Reference-Guide.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Fujimura M. Effects of an enzyme agent containing mutanase and dextranase for treatment of biofilms in bacteria- and yeast-infected canine otitis externa. Polish Journal of Veterinary Sciences. 2022; 25(3):383-389. doi:<a href="https://doi.org/10.24425/pjvs.2022.142021" class="external" target="_blank">10.24425/pjvs.2022.142021&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -101,14 +111,4 @@ View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Otitis references and resources
-
-1.  Atwal R, Omar A, Olson M, Butler N, Caberra Y. Antibiofilm Efficacy of Advanced Formula Zymox (R) Otic Plus with 1% Hydrocortisone. Journal of Applied Research in Veterinary Medicine. 2012; 10(4):311-317. <a href="http://www.jarvm.com/articles/Vol10Iss4/index.htm" class="external" target="_blank">http://www.jarvm.com/articles/Vol10Iss4/index.htm&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Brame B, Cain C. Chronic Otitis in Cats: Clinical management of primary, predisposing and perpetuating factors. Journal of Feline Medicine and Surgery. 2021;23(5):433-446. doi:<a href="https://doi.org/10.1177/1098612X211007072" class="external" target="_blank">10.1177/1098612X211007072&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Cytology Reference Guide. Dechra Veterinary Products. 2023. <a href="https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/C230160-Cytology-Reference-Guide.pdf" class="external" target="_blank">https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/C230160-Cytology-Reference-Guide.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Fujimura M. Effects of an enzyme agent containing mutanase and dextranase for treatment of biofilms in bacteria- and yeast-infected canine otitis externa. Polish Journal of Veterinary Sciences. 2022; 25(3):383-389. doi:<a href="https://doi.org/10.24425/pjvs.2022.142021" class="external" target="_blank">10.24425/pjvs.2022.142021&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

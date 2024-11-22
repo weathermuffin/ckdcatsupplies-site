@@ -60,6 +60,13 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 
 * * *
 
+
+# Enteric dialysis references and resources
+
+1.  Rishniw M, Wynn SG. Azodyl, a synbiotic, fails to alter azotemia in cats with chronic kidney disease when sprinkled onto food. Journal of Feline Medicine and Surgery. 2011;13(6):405-409. doi:<a href="https://doi.org/10.1016/j.jfms.2010.12.015" class="external" target="_blank">10.1016/j.jfms.2010.12.015&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -75,11 +82,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Enteric dialysis references and resources
-
-1.  Rishniw M, Wynn SG. Azodyl, a synbiotic, fails to alter azotemia in cats with chronic kidney disease when sprinkled onto food. Journal of Feline Medicine and Surgery. 2011;13(6):405-409. doi:<a href="https://doi.org/10.1016/j.jfms.2010.12.015" class="external" target="_blank">10.1016/j.jfms.2010.12.015&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

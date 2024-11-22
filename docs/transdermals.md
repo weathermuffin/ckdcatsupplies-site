@@ -105,12 +105,25 @@ View on <a href="https://www.amazon.com/dp/B00028POJ2/ref=nosim?tag=ckdcatsuppli
 [**Transdermals**]({% link docs/transdermals.md %})
 {: .label }
 
+### white, 100 ct
+
 View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
+
+### blue, 100 ct
+
+View on <a href="https://www.amazon.com/dp/B0BS6M54ZQ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
 > Dad wears these when giving me transdermal medications. Can't say I enjoy it, but better that than some gross oral medicine!
+
+* * *
+
+
+# Transdermals references and resources
+
+1.  Marks SL. Where Are We With Transdermal Drug Administration? Waltham Feline Medicine Symposium 2003. <a href="https://www.vin.com/doc/?id=3847278" class="external" target="_blank">https://www.vin.com/doc/?id=3847278&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -129,11 +142,4 @@ View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Transdermals references and resources
-
-1.  Marks SL. Where Are We With Transdermal Drug Administration? Waltham Feline Medicine Symposium 2003. <a href="https://www.vin.com/doc/?id=3847278" class="external" target="_blank">https://www.vin.com/doc/?id=3847278&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

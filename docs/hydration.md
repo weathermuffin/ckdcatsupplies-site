@@ -82,6 +82,15 @@ View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsuppli
 
 * * *
 
+
+# Hydration references and resources
+
+1.  EFSA Panel on Additives and Products or Substances used in Animal Feed (FEEDAP); Bampidis V, Azimonti G, Bastos ML, Christensen H, Dusemund B, Kos Durjava M, Kouba M, López-Alonso M, López Puente S, Marcon F, Mayo B, Pechová A, Petkova M, Ramos F, Sanz Y, Villa RE, Woutersen R, Bories G, Gropp J, Nebbia C, Innocenti ML, Aquilina G. Safety and efficacy of methyl cellulose for all animal species. EFSA J. 2020 Jul 31;18(7):e06212. doi:<a href="https://doi.org/10.2903/j.efsa.2020.6212" class="external" target="_blank">10.2903/j.efsa.2020.6212&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Buckley CMF, Hawthorne A, Colyer A, Stevenson AE. Effect of dietary water intake on urinary output, specific gravity and relative supersaturation for calcium oxalate and struvite in the cat. British Journal of Nutrition. 2011;106(S1):S128-S130. doi:<a href="https://doi.org/10.1017/S0007114511001875" class="external" target="_blank">10.1017/S0007114511001875&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hall JA, Vanchina MA, Ogleby B, Jewell DE. Increased Water Viscosity Enhances Water Intake and Reduces Risk of Calcium Oxalate Stone Formation in Cats. Animals. 2021; 11(7):2110. doi:<a href="https://doi.org/10.3390/ani11072110" class="external" target="_blank">10.3390/ani11072110&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -97,13 +106,4 @@ View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Hydration references and resources
-
-1.  EFSA Panel on Additives and Products or Substances used in Animal Feed (FEEDAP); Bampidis V, Azimonti G, Bastos ML, Christensen H, Dusemund B, Kos Durjava M, Kouba M, López-Alonso M, López Puente S, Marcon F, Mayo B, Pechová A, Petkova M, Ramos F, Sanz Y, Villa RE, Woutersen R, Bories G, Gropp J, Nebbia C, Innocenti ML, Aquilina G. Safety and efficacy of methyl cellulose for all animal species. EFSA J. 2020 Jul 31;18(7):e06212. doi:<a href="https://doi.org/10.2903/j.efsa.2020.6212" class="external" target="_blank">10.2903/j.efsa.2020.6212&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Buckley CMF, Hawthorne A, Colyer A, Stevenson AE. Effect of dietary water intake on urinary output, specific gravity and relative supersaturation for calcium oxalate and struvite in the cat. British Journal of Nutrition. 2011;106(S1):S128-S130. doi:<a href="https://doi.org/10.1017/S0007114511001875" class="external" target="_blank">10.1017/S0007114511001875&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Hall JA, Vanchina MA, Ogleby B, Jewell DE. Increased Water Viscosity Enhances Water Intake and Reduces Risk of Calcium Oxalate Stone Formation in Cats. Animals. 2021; 11(7):2110. doi:<a href="https://doi.org/10.3390/ani11072110" class="external" target="_blank">10.3390/ani11072110&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

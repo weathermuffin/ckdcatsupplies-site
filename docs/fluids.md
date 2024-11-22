@@ -100,6 +100,14 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 
 * * *
 
+
+# Fluids references and resources
+
+1.  Hansen B (2021). Fluid Overload. Front. Vet. Sci. 8:668688. doi:<a href="https://doi.org/10.3389/fvets.2021.668688" class="external" target="_blank">10.3389/fvets.2021.668688&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Schaer M. Fluid Therapy for Critically Ill Dogs and Cats. World Small Animal Veterinary Association World Congress Proceedings, 2006. <a href="https://www.vin.com/doc/?id=3858919" class="external" target="_blank">https://www.vin.com/doc/?id=3858919&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -115,12 +123,4 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Fluids references and resources
-
-1.  Hansen B (2021). Fluid Overload. Front. Vet. Sci. 8:668688. doi:<a href="https://doi.org/10.3389/fvets.2021.668688" class="external" target="_blank">10.3389/fvets.2021.668688&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Schaer M. Fluid Therapy for Critically Ill Dogs and Cats. World Small Animal Veterinary Association World Congress Proceedings, 2006. <a href="https://www.vin.com/doc/?id=3858919" class="external" target="_blank">https://www.vin.com/doc/?id=3858919&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

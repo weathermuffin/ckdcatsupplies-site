@@ -151,6 +151,16 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 
 * * *
 
+
+# Anemia references and resources
+
+1.  Caney S. How do I approach anaemia in feline CKD. <a href="https://d12geb6i3t2qxg.cloudfront.net/webinar_resources/uploads/2017/03/How_Do_I_Approach_Anaemia_In_CKD.pdf" class="external" target="_blank">https://d12geb6i3t2qxg.cloudfront.net/webinar_resources/uploads/2017/03/How_Do_I_Approach_Anaemia_In_CKD.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Charles S, Süssenberger R, Settje T, Langston C, Lainesse C. Use of molidustat, a hypoxia-inducible factor prolyl hydroxylase inhibitor, in chronic kidney disease-associated anemia in cats. J Vet Intern Med. 2024; 38(1): 197-204. doi:<a href="https://doi.org/10.1111/jvim.16807" class="external" target="_blank">10.1111/jvim.16807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Naigamwalla DZ, Webb JA, Giger U. Iron deficiency anemia. Can Vet J. 2012 Mar;53(3):250-6. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3280776/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC3280776/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Winzelberg Olson S, Hohenhaus AE. Feline non-regenerative anemia: Diagnostic and treatment recommendations. Journal of Feline Medicine and Surgery. 2019;21(7):615-631. doi:<a href="https://doi.org/10.1177/1098612X19856178" class="external" target="_blank">10.1177/1098612X19856178&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -166,14 +176,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Anemia references and resources
-
-1.  Caney S. How do I approach anaemia in feline CKD. <a href="https://d12geb6i3t2qxg.cloudfront.net/webinar_resources/uploads/2017/03/How_Do_I_Approach_Anaemia_In_CKD.pdf" class="external" target="_blank">https://d12geb6i3t2qxg.cloudfront.net/webinar_resources/uploads/2017/03/How_Do_I_Approach_Anaemia_In_CKD.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Charles S, Süssenberger R, Settje T, Langston C, Lainesse C. Use of molidustat, a hypoxia-inducible factor prolyl hydroxylase inhibitor, in chronic kidney disease-associated anemia in cats. J Vet Intern Med. 2024; 38(1): 197-204. doi:<a href="https://doi.org/10.1111/jvim.16807" class="external" target="_blank">10.1111/jvim.16807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Naigamwalla DZ, Webb JA, Giger U. Iron deficiency anemia. Can Vet J. 2012 Mar;53(3):250-6. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3280776/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC3280776/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Winzelberg Olson S, Hohenhaus AE. Feline non-regenerative anemia: Diagnostic and treatment recommendations. Journal of Feline Medicine and Surgery. 2019;21(7):615-631. doi:<a href="https://doi.org/10.1177/1098612X19856178" class="external" target="_blank">10.1177/1098612X19856178&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

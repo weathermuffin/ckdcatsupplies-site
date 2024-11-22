@@ -49,6 +49,14 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 
 * * *
 
+
+# GI references and resources
+
+1.  Hall, E. (2002), Rational selection of gastrointestinal drugs for cats and dogs. In Practice, 24: 242-249. doi:<a href="https://doi.org/10.1136/inpract.24.5.242" class="external" target="_blank">10.1136/inpract.24.5.242&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Tobacman JK. Review of harmful gastrointestinal effects of carrageenan in animal experiments. Environ Health Perspect. 2001 Oct;109(10):983-94. doi:<a href="https://doi.org/10.1289/ehp.01109983" class="external" target="_blank">10.1289/ehp.01109983&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -64,12 +72,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# GI references and resources
-
-1.  Hall, E. (2002), Rational selection of gastrointestinal drugs for cats and dogs. In Practice, 24: 242-249. doi:<a href="https://doi.org/10.1136/inpract.24.5.242" class="external" target="_blank">10.1136/inpract.24.5.242&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Tobacman JK. Review of harmful gastrointestinal effects of carrageenan in animal experiments. Environ Health Perspect. 2001 Oct;109(10):983-94. doi:<a href="https://doi.org/10.1289/ehp.01109983" class="external" target="_blank">10.1289/ehp.01109983&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

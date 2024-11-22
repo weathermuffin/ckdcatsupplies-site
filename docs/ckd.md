@@ -86,23 +86,6 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 
 * * *
 
-<div id="disqus_thread"></div>
-<script>
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
-    };
-    (function() {
-    var d = document, s = d.createElement('script');
-    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-* * *
-
 
 # CKD references and resources
 
@@ -130,4 +113,21 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Yu, L., Lacorcia, L. and Johnstone, T., Hyperthyroid cats and their kidneys: a literature review. Aust Vet J. 2022; 100: 415-432. doi:<a href="https://doi.org/10.1111/avj.13179" class="external" target="_blank">10.1111/avj.13179&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+* * *
+
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

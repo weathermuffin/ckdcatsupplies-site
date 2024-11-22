@@ -41,6 +41,38 @@ View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank
 
 * * *
 
+
+
+## &#x1F7E2; visbiome vet
+
+![visbiome vet](https://visbiomevet.com/cdn/shop/files/VisbiomeVetBottleCapsule_Aug2023_1.png?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+High potency veterinary probiotic.
+
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+ <a href="https://felinecrf.org/treatments_waste_products_regulation.htm#visbiome" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 40 capsules
+
+View on <a href="https://www.vetrxdirect.com/product/view/visbiome-vet-high-potency-probiotic-for-dogs-otc" class="external" target="_blank">VetRxDirect&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 80 capsules (2 X 40 ct)
+
+View on <a href="https://www.vetrxdirect.com/product/view/visbiome-vet-high-potency-probiotic-for-dogs-otc" class="external" target="_blank">VetRxDirect&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://visbiomevet.com/products/visbiome-vet-bottle-2-pack?variant=32926933090327" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 160 capsules (4 X 40 ct)
+
+View on <a href="https://visbiomevet.com/products/visbiome-vet-bottle-4-pack?variant=32926933975063" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> These are shipped in special chilled packaging and must be refrigerated as soon as possible upon receipt. Give separately from antibiotics by at least four hours. Capsules my be given directly, or opened to mix the powder into food. Start with 1/2 capsule to see how it is tolerated.
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -56,4 +88,4 @@ View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

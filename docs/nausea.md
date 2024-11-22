@@ -91,6 +91,15 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 
 * * *
 
+
+# Nausea references and resources
+
+1.  Quimby JM, Lunn KF. Mirtazapine as an appetite stimulant and anti-emetic in cats with chronic kidney disease: a masked placebo-controlled crossover clinical trial. Vet J. 2013 Sep;197(3):651-5. doi:<a href="https://doi.org/10.1016/j.tvjl.2013.05.048" class="external" target="_blank">10.1016/j.tvjl.2013.05.048&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Trepanier L. Acute Vomiting in Cats: Rational Treatment Selection. Journal of Feline Medicine and Surgery. 2010;12(3):225-230. doi:<a href="https://doi.org/10.1016/j.jfms.2010.01.005" class="external" target="_blank">10.1016/j.jfms.2010.01.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zajic LB, Herndon AK, Sieberg LG, et al. Assessment of absorption of transdermal ondansetron in normal research cats. Journal of Feline Medicine and Surgery. 2017;19(12):1245-1248. doi:<a href="https://doi.org/10.1177/1098612X16688807" class="external" target="_blank">10.1177/1098612X16688807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -106,13 +115,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-* * *
-
-
-# Nausea references and resources
-
-1.  Quimby JM, Lunn KF. Mirtazapine as an appetite stimulant and anti-emetic in cats with chronic kidney disease: a masked placebo-controlled crossover clinical trial. Vet J. 2013 Sep;197(3):651-5. doi:<a href="https://doi.org/10.1016/j.tvjl.2013.05.048" class="external" target="_blank">10.1016/j.tvjl.2013.05.048&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Trepanier L. Acute Vomiting in Cats: Rational Treatment Selection. Journal of Feline Medicine and Surgery. 2010;12(3):225-230. doi:<a href="https://doi.org/10.1016/j.jfms.2010.01.005" class="external" target="_blank">10.1016/j.jfms.2010.01.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Zajic LB, Herndon AK, Sieberg LG, et al. Assessment of absorption of transdermal ondansetron in normal research cats. Journal of Feline Medicine and Surgery. 2017;19(12):1245-1248. doi:<a href="https://doi.org/10.1177/1098612X16688807" class="external" target="_blank">10.1177/1098612X16688807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

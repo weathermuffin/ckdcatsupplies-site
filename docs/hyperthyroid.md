@@ -36,23 +36,6 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 
 * * *
 
-<div id="disqus_thread"></div>
-<script>
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
-    };
-    (function() {
-    var d = document, s = d.createElement('script');
-    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-* * *
-
 
 # Hyperthyroid references and resources
 
@@ -72,4 +55,21 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 1.  Vaske HH, Schermerhorn T, Grauer GF. Effects of feline hyperthyroidism on kidney function: a review. Journal of Feline Medicine and Surgery. 2016;18(2):55-59. doi:<a href="https://doi.org/10.1177/1098612X15575385" class="external" target="_blank">10.1177/1098612X15575385&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Yu, L., Lacorcia, L. and Johnstone, T., Hyperthyroid cats and their kidneys: a literature review. Aust Vet J. 2022; 100: 415-432. doi:<a href="https://doi.org/10.1111/avj.13179" class="external" target="_blank">10.1111/avj.13179&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-<!-- Updated 2024-11-12 19:59:10.748477Z -->
+* * *
+
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ckdcatsupplies.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<!-- Updated 2024-11-22 21:05:38.913636Z -->

@@ -44,6 +44,13 @@ View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_bla
 
 * * *
 
+
+# Constipation references and resources
+
+1.  Sueyoshi M, Fukunaga M, Mei M, Nakajima A, Tanaka G, Murase T, Narita Y, Hirata S, Kadowaki D. Effects of lactulose on renal function and gut microbiota in adenine-induced chronic kidney disease rats. Clin Exp Nephrol. 2019 Jul;23(7):908-919. doi:<a href="https://doi.org/10.1007/s10157-019-01727-4" class="external" target="_blank">10.1007/s10157-019-01727-4&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -59,4 +66,4 @@ View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-11-22 21:05:38.913636Z -->
+<!-- Updated 2024-12-06 23:54:56.435663Z -->

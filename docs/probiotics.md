@@ -73,6 +73,31 @@ View on <a href="https://visbiomevet.com/products/visbiome-vet-bottle-4-pack?var
 
 * * *
 
+
+
+## &#x1F7E2; VRS flo cat (powder, 90 g)
+
+![VRS flo cat](https://vrshealth.com/wp-content/uploads/sites/8/2024/02/flo-Cat-Page-Images_2_Main-Product.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Promote optimal urinary tract health and function.
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+View on <a href="https://vrshealth.com/product/flocat/" class="external" target="_blank">VRS Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -88,4 +113,4 @@ View on <a href="https://visbiomevet.com/products/visbiome-vet-bottle-4-pack?var
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-11-22 21:05:38.913636Z -->
+<!-- Updated 2024-12-06 23:54:56.435663Z -->

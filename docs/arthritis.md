@@ -73,6 +73,8 @@ View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blan
 
 ## &#x1F7E2; Frisco 18.5 or 24.5 Inch 2-in-1 Cat Stairs
 
+![Frisco 18.5 or 24.5 Inch 2-in-1 Cat Stairs](https://image.chewy.com/is/image/catalog/140154_PT2._AC_SL1200_V1584452301_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
 
@@ -84,10 +86,18 @@ View on <a href="https://www.chewy.com/dp/167090" class="external" target="_blan
 
 ## &#x1F7E2; K&H Heated Cat Bed
 
+![K&H Heated Cat Bed](https://khpet.com/cdn/shop/products/3601_1500x1500_300dpi_2_563x563.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B07HMLT6SF/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
+### Small (18 in)
+
+View on <a href="https://www.amazon.com/dp/B07HMLT6SF/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://khpet.com/collections/indoor-heated-cat-beds/products/thermo-kitty-fashion-splash" class="external" target="_blank">K&H&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### Large (22x16 in)
+
+View on <a href="https://www.amazon.com/dp/B07PF1KYY9/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://khpet.com/collections/indoor-heated-cat-beds/products/thermo-kitty-fashion-splash" class="external" target="_blank">K&H&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -331,4 +341,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-11-22 21:05:38.913636Z -->
+<!-- Updated 2024-12-06 23:54:56.435663Z -->

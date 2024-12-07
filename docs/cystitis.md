@@ -63,6 +63,31 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 * * *
 
 
+
+## &#x1F7E2; VRS flo cat (powder, 90 g)
+
+![VRS flo cat](https://vrshealth.com/wp-content/uploads/sites/8/2024/02/flo-Cat-Page-Images_2_Main-Product.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Promote optimal urinary tract health and function.
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+View on <a href="https://vrshealth.com/product/flocat/" class="external" target="_blank">VRS Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
 # Cystitis references and resources
 
 1.  Buffington, C.A.T. (2011), Idiopathic Cystitis in Domestic Cats—Beyond the Lower Urinary Tract. Journal of Veterinary Internal Medicine, 25: 784-796. doi:<a href="https://doi.org/10.1111/j.1939-1676.2011.0732.x" class="external" target="_blank">10.1111/j.1939-1676.2011.0732.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -89,4 +114,4 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-11-22 21:05:38.913636Z -->
+<!-- Updated 2024-12-06 23:54:56.435663Z -->

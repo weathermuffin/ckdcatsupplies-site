@@ -63,7 +63,9 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 
 # Enteric dialysis references and resources
 
+1.  Cabała S, Ożgo M, Herosimczyk A. The Kidney-Gut Axis as a Novel Target for Nutritional Intervention to Counteract Chronic Kidney Disease Progression. Metabolites. 2024 Jan 22;14(1):78. doi:<a href="https://doi.org/10.3390/metabo14010078" class="external" target="_blank">10.3390/metabo14010078&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rishniw M, Wynn SG. Azodyl, a synbiotic, fails to alter azotemia in cats with chronic kidney disease when sprinkled onto food. Journal of Feline Medicine and Surgery. 2011;13(6):405-409. doi:<a href="https://doi.org/10.1016/j.jfms.2010.12.015" class="external" target="_blank">10.1016/j.jfms.2010.12.015&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sueyoshi M, Fukunaga M, Mei M, Nakajima A, Tanaka G, Murase T, Narita Y, Hirata S, Kadowaki D. Effects of lactulose on renal function and gut microbiota in adenine-induced chronic kidney disease rats. Clin Exp Nephrol. 2019 Jul;23(7):908-919. doi:<a href="https://doi.org/10.1007/s10157-019-01727-4" class="external" target="_blank">10.1007/s10157-019-01727-4&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -82,4 +84,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-11-22 21:05:38.913636Z -->
+<!-- Updated 2024-12-06 23:54:56.435663Z -->

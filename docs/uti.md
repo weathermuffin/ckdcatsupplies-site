@@ -74,6 +74,8 @@ View on <a href="https://www.amazon.com/dp/B0856W45VL/ref=nosim?tag=ckdcatsuppli
 
 ![Kal D-Mannose Powder](https://www.kalvitamins.com/cdn/shop/files/021245167181_4.png?width=1426){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 [**UTI**]({% link docs/uti.md %})
@@ -87,6 +89,35 @@ View on <a href="https://www.amazon.com/dp/B000MTU2Z2/ref=nosim?tag=ckdcatsuppli
 > &#x1F63A; Luna Says
 >
 > Dad says this tastes sweet, but I don't notice it in my food. We're hopeful it's helping to prevent certain kinds of UTIs. I had a UTI not so long ago, and let me tell you, that was no fun!
+
+* * *
+
+
+
+## &#x1F7E2; NOW D-Mannose Powder
+
+![NOW D-Mannose Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-04/2810_vT1_1.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+ <a href="https://felinecrf.org/pyelonephritis_utis.htm#dmannose" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 3 oz
+
+View on <a href="https://www.amazon.com/dp/B000HCMK90/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/now-d-mannose-pure-powder-3-oz" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/d-mannose-pure-powder" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 6 oz
+
+View on <a href="https://www.amazon.com/dp/B00JWKDF6A/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/now-d-mannose-pure-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/d-mannose-pure-powder" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### organic, 10 oz
+
+View on <a href="https://www.amazon.com/dp/B0BTRQWTKN/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
 * * *
 
@@ -111,6 +142,31 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 > &#x1F63A; Luna Says
 >
 > I'll never understand it, but Dad likes to monitor my litter box habits. (I know, right?!) This tells him when I use the box, what I did (#1 or #2), how long I was in there, and even my weight! Heck, just monitoring my weight day-to-day is extremely valuable. But my dad also geeks out on all the stats and other info. &#x1F913;
+
+* * *
+
+
+
+## &#x1F7E2; VRS flo cat (powder, 90 g)
+
+![VRS flo cat](https://vrshealth.com/wp-content/uploads/sites/8/2024/02/flo-Cat-Page-Images_2_Main-Product.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Promote optimal urinary tract health and function.
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+View on <a href="https://vrshealth.com/product/flocat/" class="external" target="_blank">VRS Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -174,4 +230,4 @@ View on <a href="https://www.chewy.com/dp/173148" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-11-22 21:05:38.913636Z -->
+<!-- Updated 2024-12-06 23:54:56.435663Z -->

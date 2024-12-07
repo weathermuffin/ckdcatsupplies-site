@@ -87,6 +87,19 @@ View on <a href="https://www.vetrxdirect.com/product/view/churu-veterinarian-for
 
 
 
+## &#x1F7E2; Easy Pill Giver Cat
+
+![Easy Pill Giver Cat](https://www.easypill.net/wp-content/uploads/2022/12/web_EP_Giver_Cat.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Pilling**]({% link docs/pilling.md %})
+{: .label }
+
+ <a href="https://easypill.net/product/easypill-giver-cat/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; Fractional teaspoons, 1/64 tsp to 1/4 tsp
 
 [**Pilling**]({% link docs/pilling.md %})
@@ -356,4 +369,4 @@ View on <a href="https://www.amazon.com/dp/B095Z5WP43/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-11-22 21:05:38.913636Z -->
+<!-- Updated 2024-12-06 23:54:56.435663Z -->

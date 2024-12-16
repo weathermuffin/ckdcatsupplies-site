@@ -103,6 +103,27 @@ View on <a href="https://www.amazon.com/dp/B003VR6Y18/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; VetFood HemoActiv (60 capsules)
+
+![VetFood HemoActiv](https://vetfood.co.uk/image/cache/catalog/pet-supplements/hemoactiv-1100x1100.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anemia**]({% link docs/anemia.md %})
+{: .label }
+[**B vitamins**]({% link docs/b-vitamins.md %})
+{: .label }
+[**Iron**]({% link docs/iron.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+[**Vitamins**]({% link docs/vitamins.md %})
+{: .label }
+
+View on <a href="https://vetfood.co.uk/HemoActiv" class="external" target="_blank">VetFood&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; Vitacost Vitamin B-12 Methylcobalamin Capsules, 500 mcg (300 ct)
 
 ![Vitacost Vitamin B-12 Methylcobalamin Capsules, 500 mcg](https://www.vitacost.com/Images/Products/500/Vitacost/Vitacost-Vitamin-B-12-Methylcobalamin-835003008827.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -152,6 +173,29 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 * * *
 
 
+
+## &#x1F7E2; Zoetis Pet-Tinic (4 oz bottle)
+
+![Zoetis Pet-Tinic](https://www.zoetisus.com/content/_assets/images/products/Pet-Tinic.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anemia**]({% link docs/anemia.md %})
+{: .label }
+[**B vitamins**]({% link docs/b-vitamins.md %})
+{: .label }
+[**Iron**]({% link docs/iron.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+[**Vitamins**]({% link docs/vitamins.md %})
+{: .label }
+
+ <a href="https://www.zoetisus.com/products/petcare/pet-tinic" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/anaemia.htm#pet-tinic" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/190716" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vetrxdirect.com/product/view/pet-tinic-drops-for-dogs-and-cats-otc" class="external" target="_blank">VetRxDirect&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
 # Anemia references and resources
 
 1.  Caney S. How do I approach anaemia in feline CKD. <a href="https://d12geb6i3t2qxg.cloudfront.net/webinar_resources/uploads/2017/03/How_Do_I_Approach_Anaemia_In_CKD.pdf" class="external" target="_blank">https://d12geb6i3t2qxg.cloudfront.net/webinar_resources/uploads/2017/03/How_Do_I_Approach_Anaemia_In_CKD.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -176,4 +220,4 @@ View on <a href="https://www.chewy.com/dp/793518" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-06 23:54:56.435663Z -->
+<!-- Updated 2024-12-16 23:45:56.637036Z -->

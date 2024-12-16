@@ -34,10 +34,74 @@ View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blan
 1.  Kinobe RT, Miyake Y. Evaluating the anti-inflammatory and analgesic properties of maropitant: A systematic review and meta-analysis. Vet J. 2020 May-Jun;259-260:105471. doi:<a href="https://doi.org/10.1016/j.tvjl.2020.105471" class="external" target="_blank">10.1016/j.tvjl.2020.105471&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Love L. Is Maropitant Analgesic? North American Veterinary Anesthesia Society (NAVAS). 2021. <a href="https://www.mynavas.org/post/is-maropitant-analgesic" class="external" target="_blank">https://www.mynavas.org/post/is-maropitant-analgesic&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Brock WT, Moses K, Bolotin D, Patricelli K. Chronic use of maropitant for the management of vomiting and inappetence in cats with chronic kidney disease: a blinded, placebo-controlled clinical trial. Journal of Feline Medicine and Surgery. 2015;17(8):692-697. doi:<a href="https://doi.org/10.1177/1098612X14555441" class="external" target="_blank">10.1177/1098612X14555441&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quimby JM. Maropitant Use in Cats. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/" class="external" target="_blank">https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  SEDLACEK, H.S., RAMSEY, D.S., BOUCHER, J.F., EAGLESON, J.S., CONDER, G.A. and CLEMENCE, R.G. (2008), Comparative efficacy of maropitant and selected drugs in preventing emesis induced by centrally or peripherally acting emetogens in dogs. Journal of Veterinary Pharmacology and Therapeutics, 31: 533-537. doi:<a href="https://doi.org/10.1111/j.1365-2885.2008.00991.x" class="external" target="_blank">10.1111/j.1365-2885.2008.00991.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Cerenia Tablets and Injectable Solution Package Insert. Zoetis. 2022. <a href="https://www.zoetisus.com/content/_assets/docs/Petcare/Cerenia/Cerenia-Tablets-and-Injectable-Solution-Combined-Marketing-Package-Insert.pdf" class="external" target="_blank">https://www.zoetisus.com/content/_assets/docs/Petcare/Cerenia/Cerenia-Tablets-and-Injectable-Solution-Combined-Marketing-Package-Insert.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
+
+* * *
+
+
+
+## &#x1F7E2; Dechra Mirataz (mirtazapine transdermal ointment)
+
+![Dechra Mirataz (mirtazapine transdermal ointment)](https://mirataz.com/wp-content/uploads/2021/01/mirataz-product-new.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Appetite**]({% link docs/appetite.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Transdermals**]({% link docs/transdermals.md %})
+{: .label }
+
+ <a href="https://mirataz.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/persuading_cat_to_eat.htm#mirtazapine" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.chewy.com/dp/206276" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> While effective, Dad didn't like the squeeze tube dispenser. He said getting a consistent dose was difficult, and given the potential adverse reactions, it was important to him to get an accurate dose. We much prefer the click-to-dose dispenser style for this reason.
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Buhles W, Quimby JM, Labelle D, Williams VS. Single and multiple dose pharmacokinetics of a novel mirtazapine transdermal ointment in cats. J vet Pharmacol Therap. 2018; 41: 644-651. doi:<a href="https://doi.org/10.1111/jvp.12691" class="external" target="_blank">10.1111/jvp.12691&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Fantinati M, Trnka J, Signor A, et al. Appetite-stimulating effect of gabapentin vs mirtazapine in healthy cats post-ovariectomy. Journal of Feline Medicine and Surgery. 2020;22(12):1176-1183. doi:<a href="https://doi.org/10.1177/1098612X20916391" class="external" target="_blank">10.1177/1098612X20916391&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Ferguson LE, McLean MK, Bates JA, Quimby JM. Mirtazapine toxicity in cats: retrospective study of 84 cases (2006-2011). Journal of Feline Medicine and Surgery. 2016;18(11):868-874. doi:<a href="https://doi.org/10.1177/1098612X15599026" class="external" target="_blank">10.1177/1098612X15599026&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Ferro L, Ciccarelli S, Stanzani G, Nappi L, Angelini F, Leo C. Appetite Stimulant and Anti-Emetic Effect of Mirtazapine Transdermal Ointment in Cats Affected by Lymphoma Following Chemotherapy Administration: A Multi-Centre Retrospective Study. Animals. 2022; 12(2):155. doi:<a href="https://doi.org/10.3390/ani12020155" class="external" target="_blank">10.3390/ani12020155&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Mirataz (mirtazapine transdermal ointment) product insert. Dechra Veterinary Products. 2020. <a href="https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/dechra-mirataz-full-pi-0521.pdf" class="external" target="_blank">https://www.dechra-us.com/Files/Files/SupportMaterialDownloads/US/dechra-mirataz-full-pi-0521.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Poole M, Quimby JM, Hu T, Labelle D, Buhles W. A double-blind, placebo-controlled, randomized study to evaluate the weight gain drug, mirtazapine transdermal ointment, in cats with unintended weight loss. J vet Pharmacol Therap. 2019; 42: 179-188. doi:<a href="https://doi.org/10.1111/jvp.12738" class="external" target="_blank">10.1111/jvp.12738&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quimby, J.M., Gustafson, D.L. and Lunn, K.F. (2011), The Pharmacokinetics of Mirtazapine in Cats with Chronic Kidney Disease and In Age-Matched Control Cats. J Vet Intern Med, 25: 985-989. doi:<a href="https://doi.org/10.1111/j.1939-1676.2011.00780.x" class="external" target="_blank">10.1111/j.1939-1676.2011.00780.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quimby JM, Lunn KF. Mirtazapine as an appetite stimulant and anti-emetic in cats with chronic kidney disease: a masked placebo-controlled crossover clinical trial. Vet J. 2013 Sep;197(3):651-5. doi:<a href="https://doi.org/10.1016/j.tvjl.2013.05.048" class="external" target="_blank">10.1016/j.tvjl.2013.05.048&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quimby JM, Benson KK, Summers SC, et al. Assessment of compounded transdermal mirtazapine as an appetite stimulant in cats with chronic kidney disease. Journal of Feline Medicine and Surgery. 2020;22(4):376-383. doi:<a href="https://doi.org/10.1177/1098612X19851303" class="external" target="_blank">10.1177/1098612X19851303&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Riechelmann RP, Burman D, Tannock IF, Rodin G, Zimmermann C. Phase II Trial of Mirtazapine for Cancer-Related Cachexia and Anorexia. American Journal of Hospice and Palliative Medicine®. 2010;27(2):106-110. doi:<a href="https://doi.org/10.1177/1049909109345685" class="external" target="_blank">10.1177/1049909109345685&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sparkes AH, Caney S, Chalhoub S, Elliott J, Finch N, Gajanayake I, Langston C, Lefebvre HP, White J, Quimby J. ISFM Consensus Guidelines on the Diagnosis and Management of Feline Chronic Kidney Disease. J Feline Med Surg. 2016 Mar;18(3):219-39. doi:<a href="https://doi.org/10.1177/1098612X16631234" class="external" target="_blank">10.1177/1098612X16631234&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
+## &#x1F7E2; Elanco Elura (capromorelin oral solution)
+
+![Elanco Elura (capromorelin oral solution)](https://assets.elanco.com/0cec44ed-3eaa-0009-2029-666567e7e4de/888c3aeb-444d-4e71-9992-ea6336f02040/Elura_Packshot_Camera_Left_840px.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Appetite**]({% link docs/appetite.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+
+ <a href="https://my.elanco.com/us/elura" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/persuading_cat_to_eat.htm#capromorelin" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.chewy.com/dp/316892" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vetrxdirect.com/product/view/elura-capromorelin-oral-solution-for-weight-gain-in-cats-rx" class="external" target="_blank">VetRxDirect&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> We tried this, but it was so vile I threw a fit harder and harder each time until Dad gave up. Apparently some folks have had better luck putting the liquid into a gelatin capsule so kitty can't taste it. We're going to stick to mirtazapine.
 
 * * *
 
@@ -170,6 +234,8 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 [**Transdermals**]({% link docs/transdermals.md %})
 {: .label }
 
+ <a href="https://felinecrf.org/persuading_cat_to_eat.htm#mirtazapine" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
 View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 <details markdown="block">
@@ -184,6 +250,7 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 1.  Quimby JM, Lunn KF. Mirtazapine as an appetite stimulant and anti-emetic in cats with chronic kidney disease: a masked placebo-controlled crossover clinical trial. Vet J. 2013 Sep;197(3):651-5. doi:<a href="https://doi.org/10.1016/j.tvjl.2013.05.048" class="external" target="_blank">10.1016/j.tvjl.2013.05.048&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Benson KK, Summers SC, et al. Assessment of compounded transdermal mirtazapine as an appetite stimulant in cats with chronic kidney disease. Journal of Feline Medicine and Surgery. 2020;22(4):376-383. doi:<a href="https://doi.org/10.1177/1098612X19851303" class="external" target="_blank">10.1177/1098612X19851303&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Riechelmann RP, Burman D, Tannock IF, Rodin G, Zimmermann C. Phase II Trial of Mirtazapine for Cancer-Related Cachexia and Anorexia. American Journal of Hospice and Palliative Medicine®. 2010;27(2):106-110. doi:<a href="https://doi.org/10.1177/1049909109345685" class="external" target="_blank">10.1177/1049909109345685&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sparkes AH, Caney S, Chalhoub S, Elliott J, Finch N, Gajanayake I, Langston C, Lefebvre HP, White J, Quimby J. ISFM Consensus Guidelines on the Diagnosis and Management of Feline Chronic Kidney Disease. J Feline Med Surg. 2016 Mar;18(3):219-39. doi:<a href="https://doi.org/10.1177/1098612X16631234" class="external" target="_blank">10.1177/1098612X16631234&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -201,6 +268,8 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 {: .label }
 [**Nausea**]({% link docs/nausea.md %})
 {: .label }
+
+ <a href="https://felinecrf.org/appetite_loss_nausea_vomiting.htm#ondansetron" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
@@ -333,4 +402,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-06 23:54:56.435663Z -->
+<!-- Updated 2024-12-16 23:45:56.637036Z -->

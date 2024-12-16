@@ -56,4 +56,4 @@ View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-06 23:54:56.435663Z -->
+<!-- Updated 2024-12-16 23:45:56.637036Z -->

@@ -85,6 +85,7 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  KuKanich B. Outpatient oral analgesics in dogs and cats beyond nonsteroidal antiinflammatory drugs: an evidence-based approach. Vet Clin North Am Small Anim Pract. 2013 Sep;43(5):1109-25. doi:<a href="https://doi.org/10.1016/j.cvsm.2013.04.007" class="external" target="_blank">10.1016/j.cvsm.2013.04.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Monteiro BP, Steagall PV. Chronic pain in cats: Recent advances in clinical assessment. Journal of Feline Medicine and Surgery. 2019;21(7):601-614. doi:<a href="https://doi.org/10.1177/1098612X19856179" class="external" target="_blank">10.1177/1098612X19856179&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Monteiro, B.P., Lascelles, B.D.X., Murrell, J., Robertson, S., Steagall, P.V.M. and Wright, B. (2023), 2022 WSAVA guidelines for the recognition, assessment and treatment of pain. J Small Anim Pract, 64: 177-254. doi:<a href="https://doi.org/10.1111/jsap.13566" class="external" target="_blank">10.1111/jsap.13566&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quimby JM. Maropitant Use in Cats. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/" class="external" target="_blank">https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
@@ -105,4 +106,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-06 23:54:56.435663Z -->
+<!-- Updated 2024-12-16 23:45:56.637036Z -->

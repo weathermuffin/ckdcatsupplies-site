@@ -34,6 +34,7 @@ View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blan
 1.  Kinobe RT, Miyake Y. Evaluating the anti-inflammatory and analgesic properties of maropitant: A systematic review and meta-analysis. Vet J. 2020 May-Jun;259-260:105471. doi:<a href="https://doi.org/10.1016/j.tvjl.2020.105471" class="external" target="_blank">10.1016/j.tvjl.2020.105471&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Love L. Is Maropitant Analgesic? North American Veterinary Anesthesia Society (NAVAS). 2021. <a href="https://www.mynavas.org/post/is-maropitant-analgesic" class="external" target="_blank">https://www.mynavas.org/post/is-maropitant-analgesic&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Brock WT, Moses K, Bolotin D, Patricelli K. Chronic use of maropitant for the management of vomiting and inappetence in cats with chronic kidney disease: a blinded, placebo-controlled clinical trial. Journal of Feline Medicine and Surgery. 2015;17(8):692-697. doi:<a href="https://doi.org/10.1177/1098612X14555441" class="external" target="_blank">10.1177/1098612X14555441&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quimby JM. Maropitant Use in Cats. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/" class="external" target="_blank">https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  SEDLACEK, H.S., RAMSEY, D.S., BOUCHER, J.F., EAGLESON, J.S., CONDER, G.A. and CLEMENCE, R.G. (2008), Comparative efficacy of maropitant and selected drugs in preventing emesis induced by centrally or peripherally acting emetogens in dogs. Journal of Veterinary Pharmacology and Therapeutics, 31: 533-537. doi:<a href="https://doi.org/10.1111/j.1365-2885.2008.00991.x" class="external" target="_blank">10.1111/j.1365-2885.2008.00991.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Cerenia Tablets and Injectable Solution Package Insert. Zoetis. 2022. <a href="https://www.zoetisus.com/content/_assets/docs/Petcare/Cerenia/Cerenia-Tablets-and-Injectable-Solution-Combined-Marketing-Package-Insert.pdf" class="external" target="_blank">https://www.zoetisus.com/content/_assets/docs/Petcare/Cerenia/Cerenia-Tablets-and-Injectable-Solution-Combined-Marketing-Package-Insert.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
@@ -53,6 +54,8 @@ View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blan
 {: .label }
 [**Nausea**]({% link docs/nausea.md %})
 {: .label }
+
+ <a href="https://felinecrf.org/appetite_loss_nausea_vomiting.htm#ondansetron" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
@@ -95,6 +98,7 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 # Nausea references and resources
 
 1.  Quimby JM, Lunn KF. Mirtazapine as an appetite stimulant and anti-emetic in cats with chronic kidney disease: a masked placebo-controlled crossover clinical trial. Vet J. 2013 Sep;197(3):651-5. doi:<a href="https://doi.org/10.1016/j.tvjl.2013.05.048" class="external" target="_blank">10.1016/j.tvjl.2013.05.048&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quimby JM. Maropitant Use in Cats. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/" class="external" target="_blank">https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Trepanier L. Acute Vomiting in Cats: Rational Treatment Selection. Journal of Feline Medicine and Surgery. 2010;12(3):225-230. doi:<a href="https://doi.org/10.1016/j.jfms.2010.01.005" class="external" target="_blank">10.1016/j.jfms.2010.01.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zajic LB, Herndon AK, Sieberg LG, et al. Assessment of absorption of transdermal ondansetron in normal research cats. Journal of Feline Medicine and Surgery. 2017;19(12):1245-1248. doi:<a href="https://doi.org/10.1177/1098612X16688807" class="external" target="_blank">10.1177/1098612X16688807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
@@ -115,4 +119,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-06 23:54:56.435663Z -->
+<!-- Updated 2024-12-16 23:45:56.637036Z -->

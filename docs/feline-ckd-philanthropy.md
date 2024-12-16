@@ -14,7 +14,7 @@ GENERATED FILE - DO NOT EDIT
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
-> Neither Dad nor I have any affiliation with or relation to the following organizations, although we have personally donated to some. We just happen to think these are good options for payingit forward and helping advance the cause of CKD kitties.
+> Neither Dad nor I have any affiliation with or relation to the following organizations, although we have personally donated to some. We just happen to think these are good options for paying it forward and helping advance the cause of CKD kitties.
 
 
 ## Buttons Feline Kidney Research Fund, Ohio State University

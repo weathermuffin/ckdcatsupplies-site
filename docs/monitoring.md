@@ -26,7 +26,7 @@ View on <a href="https://www.amazon.com/dp/B01HP0JU2G/ref=nosim?tag=ckdcatsuppli
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
-> Well we haven't had a chance to try this yet, but I'm virtually certain it beats a thermometer in my hind end!
+> This works well when I feel like cooperating and holding still... which you'd think I'd be more inclined to do given it beats a thermometer in my hind end!
 
 * * *
 
@@ -181,4 +181,4 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-16 23:45:56.637036Z -->
+<!-- Updated 2024-12-17 00:07:13.411459Z -->

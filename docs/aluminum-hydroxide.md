@@ -14,22 +14,22 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 ## &#x1F7E2; Rx Vitamins Phos-Bind
 
-![Rx Vitamins Phos-Bind](https://www.rxvitamins.com/rxvitaminsforpet/wp-content/uploads/2016/08/Phos-Bind-COMBO-1024x1024.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Rx Vitamins Phos-Bind](https://rxvitamins.com/cdn/shop/files/8926Phos-Bind35g.png?width=1220){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Aluminum hydroxide**]({% link docs/aluminum-hydroxide.md %})
 {: .label }
 [**Phosphate binders**]({% link docs/phosphate-binders.md %})
 {: .label }
 
- <a href="https://www.rxvitamins.com/rxvitaminsforpet/product-category/kidney-health-products/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/phosphorus_binders.htm#aloh_formulations" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://felinecrf.org/phosphorus_binders.htm#aloh_formulations" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 35 g
 
-View on <a href="https://www.amazon.com/dp/B0CX73HXPF/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/848134" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0CX73HXPF/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/848134" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://rxvitamins.com/products/phos-bind-35-gm?variant=53425113006239" class="external" target="_blank">Rx Vitamins&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 200 g
 
-View on <a href="https://www.amazon.com/dp/B0D2PKNP51/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/186061" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0D2PKNP51/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/186061" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://rxvitamins.com/products/phos-bind-200-gm?variant=53424851189919" class="external" target="_blank">Rx Vitamins&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -85,4 +85,4 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-16 23:45:56.637036Z -->
+<!-- Updated 2024-12-17 00:07:13.411459Z -->

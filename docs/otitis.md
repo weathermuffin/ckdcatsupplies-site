@@ -14,6 +14,8 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 ![Tresaderm thiabendazole, dexamethasone, neomycin sulfate solution](https://bi-animalhealth.com/pets/sites/default/files/styles/2400x900_scale/public/2021-09/Tresaderm-Hero.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+[**Ears**]({% link docs/ears.md %})
+{: .label }
 [**Otitis**]({% link docs/otitis.md %})
 {: .label }
 
@@ -111,4 +113,4 @@ View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-16 23:45:56.637036Z -->
+<!-- Updated 2024-12-17 00:07:13.411459Z -->

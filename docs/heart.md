@@ -14,7 +14,7 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 ## &#x1F7E2; Doctor's Best Nattokinase 2,000 FU (90 ct)
 
-![Doctor's Best Nattokinase 2,000 FU](https://www.doctorsbest.com/cdn/shop/files/753950001251-BFP-V6-040324_9e2dcd51-86fe-4ec2-bc21-b78359e2b1b3.jpg?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Doctor's Best Nattokinase 2,000 FU](https://www.doctorsbest.com/cdn/shop/files/753950001251-BFP-V6-040324_f6218f4e-c8b7-4879-aff7-5280dd9f8079.jpg?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Heart**]({% link docs/heart.md %})
 {: .label }
@@ -152,7 +152,7 @@ View on <a href="https://www.amazon.com/dp/B000BQSQ68/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Rx Vitamins Formula CV Capsules Heart Supplement (90 ct)
 
-![Rx Vitamins Formula CV Capsules Heart Supplement](https://www.rxvitamins.com/rxvitaminsforpet/wp-content/uploads/2016/08/8100-Formula-CV-1024x1024.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Rx Vitamins Formula CV Capsules Heart Supplement](https://rxvitamins.com/cdn/shop/files/8100FormulaCV.png?width=1220){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 &#x1F6D1; This item has cautions. See the references and resources.
 
@@ -161,9 +161,7 @@ View on <a href="https://www.amazon.com/dp/B000BQSQ68/ref=nosim?tag=ckdcatsuppli
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
- <a href="https://www.rxvitamins.com/rxvitaminsforpet/product-category/cardiovascular-health-products/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.amazon.com/dp/B01GL01D6C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/192751" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vetrxdirect.com/product/view/formula-cv-for-dogs-and-cats-otc" class="external" target="_blank">VetRxDirect&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B01GL01D6C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/192751" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vetrxdirect.com/product/view/formula-cv-for-dogs-and-cats-otc" class="external" target="_blank">VetRxDirect&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://rxvitamins.com/products/formula-cv-1?variant=53415541211295" class="external" target="_blank">Rx Vitamins&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 <details markdown="block">
 <summary>References and resources</summary>
@@ -270,4 +268,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-16 23:45:56.637036Z -->
+<!-- Updated 2024-12-17 00:07:13.411459Z -->

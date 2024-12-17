@@ -153,32 +153,6 @@ View on <a href="https://www.amazon.com/dp/B000JOE224/ref=nosim?tag=ckdcatsuppli
 
 
 
-## &#x1F7E2; Nitrile Finger Cots
-
-[**Medicating**]({% link docs/medicating.md %})
-{: .label }
-[**Pilling**]({% link docs/pilling.md %})
-{: .label }
-[**Transdermals**]({% link docs/transdermals.md %})
-{: .label }
-
-### white, 100 ct
-
-View on <a href="https://www.amazon.com/dp/B0BS6MDCT5/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
-
-### blue, 100 ct
-
-View on <a href="https://www.amazon.com/dp/B0BS6M54ZQ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> Dad wears these when giving me transdermal medications. Can't say I enjoy it, but better that than some gross oral medicine!
-
-* * *
-
-
-
 ## &#x1F7E2; Single Capsule Scoop (Size 5)
 
 [**Capsules**]({% link docs/capsules.md %})
@@ -369,4 +343,4 @@ View on <a href="https://www.amazon.com/dp/B095Z5WP43/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-16 23:45:56.637036Z -->
+<!-- Updated 2024-12-17 00:07:13.411459Z -->

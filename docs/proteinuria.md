@@ -2,10 +2,15 @@
 title: "&#x1F535; Proteinuria"
 layout: default
 nav_order: 45
+seo:
+  headline: "Proteinuria"
+  name: "Proteinuria"
+  date_modified: "2024-12-29T22:15:18.705876Z"
 ---
 
 # Proteinuria
 
+Updated December 29, 2024.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -81,4 +86,4 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-29 19:51:31.707324Z -->
+<!-- Updated 2024-12-29 22:15:18.705876Z -->

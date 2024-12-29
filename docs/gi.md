@@ -2,10 +2,15 @@
 title: "&#x1F535; GI"
 layout: default
 nav_order: 22
+seo:
+  headline: "GI"
+  name: "GI"
+  date_modified: "2024-12-29T22:15:18.705876Z"
 ---
 
 # GI
 
+Updated December 29, 2024.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -73,4 +78,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-29 19:51:31.707324Z -->
+<!-- Updated 2024-12-29 22:15:18.705876Z -->

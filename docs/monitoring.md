@@ -32,6 +32,25 @@ View on <a href="https://www.amazon.com/dp/B01HP0JU2G/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; CheckUp Urine Test Strips
+
+![CheckUp Urine Test Strips](https://checkupkit.com/wp-content/uploads/2020/10/strips-10-a.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+ <a href="https://checkupkit.com/check-up-strips-2/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/283322" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor
 
 ![CONTEC 08A-VET Veterinary/Animal Blood Pressure Monitor](https://contechealth.com/cdn/shop/products/20_1024x1024.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -181,4 +200,4 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-17 00:07:13.411459Z -->
+<!-- Updated 2024-12-29 19:51:31.707324Z -->

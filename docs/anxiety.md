@@ -113,6 +113,11 @@ Promote optimal urinary tract health and function.
 
 View on <a href="https://vrshealth.com/product/flocat/" class="external" target="_blank">VRS Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Please be aware this product contains a small amount of <a href="https://felinecrf.org/holistic_treatments.htm#cranberry">cranberry</a>.
+
 * * *
 
 
@@ -137,4 +142,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-17 00:07:13.411459Z -->
+<!-- Updated 2024-12-29 19:51:31.707324Z -->

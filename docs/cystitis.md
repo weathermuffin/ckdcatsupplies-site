@@ -12,6 +12,25 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
+## &#x1F7E2; CheckUp Urine Test Strips
+
+![CheckUp Urine Test Strips](https://checkupkit.com/wp-content/uploads/2020/10/strips-10-a.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+ <a href="https://checkupkit.com/check-up-strips-2/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/283322" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; Feliway Cystease Advanced Urinary Tract Support for Cats (30 ct)
 
 ![Feliway Cystease Advanced Urinary Tract Support for Cats](https://www.feliway.co.uk/cdn/shop/files/KWP0136_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -20,6 +39,8 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 {: .label }
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
+
+ <a href="https://www.feliway.co.uk/products/cystease?variant=46525690577174" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
@@ -85,6 +106,11 @@ Promote optimal urinary tract health and function.
 
 View on <a href="https://vrshealth.com/product/flocat/" class="external" target="_blank">VRS Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Please be aware this product contains a small amount of <a href="https://felinecrf.org/holistic_treatments.htm#cranberry">cranberry</a>.
+
 * * *
 
 
@@ -114,4 +140,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-17 00:07:13.411459Z -->
+<!-- Updated 2024-12-29 19:51:31.707324Z -->

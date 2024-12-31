@@ -5,12 +5,12 @@ nav_order: 25
 seo:
   headline: "Hydration"
   name: "Hydration"
-  date_modified: "2024-12-29T22:15:18.705876Z"
+  date_modified: "2024-12-31T20:10:56.205270Z"
 ---
 
 # Hydration
 
-Updated December 29, 2024.
+Updated December 31, 2024.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -111,4 +111,4 @@ View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-29 22:15:18.705876Z -->
+<!-- Updated 2024-12-31 20:10:56.205270Z -->

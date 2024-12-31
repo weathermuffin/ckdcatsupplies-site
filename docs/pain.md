@@ -5,12 +5,12 @@ nav_order: 39
 seo:
   headline: "Pain"
   name: "Pain"
-  date_modified: "2024-12-29T22:15:18.705876Z"
+  date_modified: "2024-12-31T20:10:56.205270Z"
 ---
 
 # Pain
 
-Updated December 29, 2024.
+Updated December 31, 2024.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -70,11 +70,13 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  Di Cesare F, Negro V, Ravasio G, Villa R, Draghi S, Cagnardi P. Gabapentin: Clinical Use and Pharmacokinetics in Dogs, Cats, and Horses. Animals. 2023; 13(12):2045. doi:<a href="https://doi.org/10.3390/ani13122045" class="external" target="_blank">10.3390/ani13122045&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fantinati M, Trnka J, Signor A, et al. Appetite-stimulating effect of gabapentin vs mirtazapine in healthy cats post-ovariectomy. Journal of Feline Medicine and Surgery. 2020;22(12):1176-1183. doi:<a href="https://doi.org/10.1177/1098612X20916391" class="external" target="_blank">10.1177/1098612X20916391&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Guedes AGP, Meadows JM, Pypendop BH, Johnson EG, Zaffarano B. Assessment of the effects of gabapentin on activity levels and owner-perceived mobility impairment and quality of life in osteoarthritic geriatric cats. J Am Vet Med Assoc. 2018 Sep 1;253(5):579-585. doi:<a href="https://doi.org/10.2460/javma.253.5.579" class="external" target="_blank">10.2460/javma.253.5.579&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Madan RD, Cenani A, Montgomery E, Azevedo T, Vernau KM, Brosnan RJ. Pregabalin produces similar effects as gabapentin for preanesthetic sedation in cats. J Am Vet Med Assoc. 2023 Dec 22;262(3):359-363. doi:<a href="https://doi.org/10.2460/javma.23.09.0493" class="external" target="_blank">10.2460/javma.23.09.0493&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Lorbach SK, Saffire A, et al. Serum concentrations of gabapentin in cats with chronic kidney disease. Journal of Feline Medicine and Surgery. 2022;24(12):1260-1266. doi:<a href="https://doi.org/10.1177/1098612X221077017" class="external" target="_blank">10.1177/1098612X221077017&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Jones SE, Saffire A, et al. Assessment of the effect of gabapentin on blood pressure in cats with and without chronic kidney disease. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241240326" class="external" target="_blank">10.1177/1098612X241240326&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Siao KT, Pypendop BH, Ilkiw JE. Pharmacokinetics of gabapentin in cats. Am J Vet Res. 2010 Jul;71(7):817-21. doi:<a href="https://doi.org/10.2460/ajvr.71.7.817" class="external" target="_blank">10.2460/ajvr.71.7.817&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zand L, McKian KP, Qian Q. Gabapentin toxicity in patients with chronic kidney disease: a preventable cause of morbidity. Am J Med. 2010 Apr;123(4):367-73. doi:<a href="https://doi.org/10.1016/j.amjmed.2009.09.030" class="external" target="_blank">10.1016/j.amjmed.2009.09.030&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zour E, Lodhi SA, Nesbitt RU, Silbering SB, Chaturvedi PR. Stability studies of gabapentin in aqueous solutions. Pharm Res. 1992 May;9(5):595-600. doi:<a href="https://doi.org/10.1023/a:1015833622943" class="external" target="_blank">10.1023/a:1015833622943&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
@@ -111,4 +113,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-29 22:15:18.705876Z -->
+<!-- Updated 2024-12-31 20:10:56.205270Z -->

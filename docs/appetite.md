@@ -5,13 +5,38 @@ nav_order: 7
 seo:
   headline: "Appetite"
   name: "Appetite"
-  date_modified: "2024-12-31T20:10:56.205270Z"
+  date_modified: "2025-01-11T01:42:35.755528Z"
 ---
 
 # Appetite
 
-Updated December 31, 2024.
+Updated January 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
+
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
+
+## &#x1F7E2; Bluebonnet Brewer's Yeast Powder
+
+![Bluebonnet Brewer's Yeast Powder](https://bluebonnetnutrition.com/cdn/shop/files/743715012004O_afront-side.jpg?width=1000){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Appetite**]({% link docs/appetite.md %})
+{: .label }
+[**B vitamins**]({% link docs/b-vitamins.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+### 1 lb
+
+View on <a href="https://www.amazon.com/dp/B000POWM52/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/bluebonnet-nutrition-super-earth-brewers-yeast-powder-non-bitter" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://bluebonnetnutrition.com/products/super-earth-brewers-yeast-powder?variant=43718728155446" class="external" target="_blank">Bluebonnet&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 2 lb
+
+View on <a href="https://www.amazon.com/dp/B000BD0S1W/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/bluebonnet-nutrition-super-earth-brewers-yeast-powder-unflavored" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://bluebonnetnutrition.com/products/super-earth-brewers-yeast-powder?variant=43718728188214" class="external" target="_blank">Bluebonnet&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/9984" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
 
 
 
@@ -210,4 +235,4 @@ View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-31 20:10:56.205270Z -->
+<!-- Updated 2025-01-11 01:42:35.755528Z -->

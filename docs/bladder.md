@@ -5,12 +5,12 @@ nav_order: 10
 seo:
   headline: "Bladder"
   name: "Bladder"
-  date_modified: "2024-12-31T20:10:56.205270Z"
+  date_modified: "2025-01-11T01:42:35.755528Z"
 ---
 
 # Bladder
 
-Updated December 31, 2024.
+Updated January 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -52,7 +52,7 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 <details markdown="block">
 <summary>References and resources</summary>
 
-1.  Gunn-Moore DA, Cameron ME. A pilot study using synthetic feline facial pheromone for the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(3):133-138. doi:<a href="https://doi.org/10.1016/j.jfms.2004.01.006" class="external" target="_blank">10.1016/j.jfms.2004.01.006&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Gunn-Moore DA, Shenoy CM. Oral glucosamine and the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(4):219-225. doi:<a href="https://doi.org/10.1016/j.jfms.2003.09.007" class="external" target="_blank">10.1016/j.jfms.2003.09.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -84,11 +84,32 @@ View on <a href="https://www.amazon.com/dp/B000MTU2Z2/ref=nosim?tag=ckdcatsuppli
 
 
 
-## &#x1F7E2; Nature's Way Corn Silk 1,200 mg Capsules (100 ct)
+## &#x1F7E2; Nature's Answer Cornsilk Liquid Extract, Alcohol-Free (1 oz)
 
-![Nature's Way Corn Silk 1,200 mg Capsules](https://naturesway.com/cdn/shop/products/sholynzn2ahbfqstq0yq.png?height=500){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Nature's Answer Cornsilk Liquid Extract, Alcohol-Free](https://www.naturesanswer.com/wp-content/uploads/2021/02/Cornsilk-AF44-01.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B000Z96GFY/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/natures-answer-cornsilk-alcohol-free-2000-mg-1-fl-oz" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.naturesanswer.com/product/cornsilk-alcohol-free-1oz/" class="external" target="_blank">Nature's Answer&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/8014" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
+## &#x1F7E2; Nature's Way Corn Silk 1,200 mg Capsules (100 ct)
+
+![Nature's Way Corn Silk 1,200 mg Capsules](https://naturesway.com/cdn/shop/files/jnnbzvuoycdasscr3ctu.png?height=500){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/natures-way-corn-silk-1-200-mg-per-serving-traditional-urinary-health" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://naturesway.com/products/corn-silk" class="external" target="_blank">Nature's Way&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -199,4 +220,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-31 20:10:56.205270Z -->
+<!-- Updated 2025-01-11 01:42:35.755528Z -->

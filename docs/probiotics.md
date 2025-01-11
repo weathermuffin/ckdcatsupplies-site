@@ -5,15 +5,45 @@ nav_order: 44
 seo:
   headline: "Probiotics"
   name: "Probiotics"
-  date_modified: "2024-12-31T20:10:56.205270Z"
+  date_modified: "2025-01-11T01:42:35.755528Z"
 ---
 
 # Probiotics
 
-Updated December 31, 2024.
+Updated January 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
+
+## &#x1F7E2; Purina Calming Care (30 ct)
+
+![Purina Calming Care](https://www.purina.com/.netlify/images?url=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-08%2Fcalming_care_feline_1_1000x1000_0.png&cd=cdd5ac39fc022def8ea5ce43b683ec00&w=1000&h=1000&fm=avif&q=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+ <a href="https://www.purina.com/cats/shop/pro-plan-veterinary-supplements-calming-care" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B0BGVF6PGW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/335319" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Davis H, Franco P, Gagne J, McGowan RTS, Hawley J, Lappin M. Effect of Bifidobacterium longum 999 supplementation on stress associated findings in cats with FHV-1 infection. In: 2021 ACVIM Forum Research Abstract Program. J Vet Intern Med. 2021 Nov;35(6):2943-3204. doi:<a href="https://doi.org/10.1111/jvim.16220" class="external" target="_blank">10.1111/jvim.16220&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lilly ML. Nutritional Intervention for Feline Stress. Today's Veterinary Practice. 2022. <a href="https://todaysveterinarypractice.com/nutrition/feline-stress-nutrition/" class="external" target="_blank">https://todaysveterinarypractice.com/nutrition/feline-stress-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  McGowan RTS, Barnett HR, Czarnecki-Maulden G, et al. Tapping into the "gut feelings": impact of BL999 (Bifidobacterium longum) on anxiety in dogs. Nestlé Purina Research. 2018. <a href="https://fearfreepets.com/wp-content/uploads/delightful-downloads/2018/11/Ragen-McGowan-2018-VBS-Abstract.pdf" class="external" target="_blank">https://fearfreepets.com/wp-content/uploads/delightful-downloads/2018/11/Ragen-McGowan-2018-VBS-Abstract.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
 
 
 
@@ -125,4 +155,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-31 20:10:56.205270Z -->
+<!-- Updated 2025-01-11 01:42:35.755528Z -->

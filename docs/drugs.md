@@ -5,12 +5,12 @@ nav_order: 18
 seo:
   headline: "Drugs"
   name: "Drugs"
-  date_modified: "2024-12-31T20:10:56.205270Z"
+  date_modified: "2025-01-11T01:42:35.755528Z"
 ---
 
 # Drugs
 
-Updated December 31, 2024.
+Updated January 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -159,6 +159,7 @@ View on <a href="https://www.chewy.com/dp/1028494" class="external" target="_bla
 <details markdown="block">
 <summary>References and resources</summary>
 
+1. _"One cat was prescribed budesonide administered PO due to the presence of complete heart block with 4-chamber dilation and concerns for provoking heart failure; the clinician cited anecdotal evidence that budesonide might cause less plasma volume expansion than prednisolone. After steroid administration, NT-proBNP in this cat increased by 93% (707-1367 pmol/L). Four months after the study ended and while still receiving budesonide, the cat developed a large volume of abdominal effusion. The cause of effusion was not determined. At the time of writing, no other cats had developed signs consistent with CHF."_ &mdash;  Block CL, Oyama MA. Echocardiographic and biomarker evidence of plasma volume expansion after short-term steroids administered orally in cats. J Vet Intern Med. 2020 Jan;34(1):29-34. doi:<a href="https://doi.org/10.1111/jvim.15678" class="external" target="_blank">10.1111/jvim.15678&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2025-01-10)
 1.  Silverman J, Otley A. Budesonide in the treatment of inflammatory bowel disease. Expert Rev Clin Immunol. 2011 Jul;7(4):419-28. doi:<a href="https://doi.org/10.1586/eci.11.34" class="external" target="_blank">10.1586/eci.11.34&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
@@ -184,6 +185,7 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 <summary>References and resources</summary>
 
 1.  Adrian D, Papich MG, Baynes R, Stafford E, Lascelles BDX. The pharmacokinetics of gabapentin in cats. J Vet Intern Med. 2018; 32: 1996-2002. doi:<a href="https://doi.org/10.1111/jvim.15313" class="external" target="_blank">10.1111/jvim.15313&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Buckley C, Griffin C, Anderson H, Moore SA. Presumed gabapentin-induced myoclonus in two cats. JFMS Open Rep. 2024 Nov 28;10(2):20551169241273634. doi:<a href="https://doi.org/10.1177/20551169241273634" class="external" target="_blank">10.1177/20551169241273634&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Di Cesare F, Negro V, Ravasio G, Villa R, Draghi S, Cagnardi P. Gabapentin: Clinical Use and Pharmacokinetics in Dogs, Cats, and Horses. Animals. 2023; 13(12):2045. doi:<a href="https://doi.org/10.3390/ani13122045" class="external" target="_blank">10.3390/ani13122045&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fantinati M, Trnka J, Signor A, et al. Appetite-stimulating effect of gabapentin vs mirtazapine in healthy cats post-ovariectomy. Journal of Feline Medicine and Surgery. 2020;22(12):1176-1183. doi:<a href="https://doi.org/10.1177/1098612X20916391" class="external" target="_blank">10.1177/1098612X20916391&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Guedes AGP, Meadows JM, Pypendop BH, Johnson EG, Zaffarano B. Assessment of the effects of gabapentin on activity levels and owner-perceived mobility impairment and quality of life in osteoarthritic geriatric cats. J Am Vet Med Assoc. 2018 Sep 1;253(5):579-585. doi:<a href="https://doi.org/10.2460/javma.253.5.579" class="external" target="_blank">10.2460/javma.253.5.579&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -364,6 +366,17 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 
 
 
+## &#x1F7E2; Rapamycin for Cats
+
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+
+View on <a href="https://helpingpetslivelonger.com/products/rapamycin-for-cats" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; Vetmedin Pimobendan Chewable Tablets
 
 ![Vetmedin Pimobendan Chewable Tablets](https://image.chewy.com/is/image/catalog/146420_MAIN._AC_SL600_V1706298829_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -409,4 +422,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-31 20:10:56.205270Z -->
+<!-- Updated 2025-01-11 01:42:35.755528Z -->

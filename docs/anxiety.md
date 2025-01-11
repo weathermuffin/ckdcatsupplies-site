@@ -5,13 +5,15 @@ nav_order: 6
 seo:
   headline: "Anxiety"
   name: "Anxiety"
-  date_modified: "2024-12-31T20:10:56.205270Z"
+  date_modified: "2025-01-11T01:42:35.755528Z"
 ---
 
 # Anxiety
 
-Updated December 31, 2024.
+Updated January 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
+
+&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
 
@@ -20,6 +22,8 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 ![Feliway Classic Calming Diffuser Refill](https://us.feliway.com/cdn/shop/products/02Amazon_FeliwayClassicRefill_967x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
 ### 1 ct
@@ -44,8 +48,17 @@ View on <a href="https://www.chewy.com/dp/141899" class="external" target="_blan
 
 [**Anxiety**]({% link docs/anxiety.md %})
 {: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
 
 View on <a href="https://www.chewy.com/dp/57066" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-starter-set" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Gunn-Moore DA, Cameron ME. A pilot study using synthetic feline facial pheromone for the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(3):133-138. doi:<a href="https://doi.org/10.1016/j.jfms.2004.01.006" class="external" target="_blank">10.1016/j.jfms.2004.01.006&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
 
 * * *
 
@@ -56,6 +69,8 @@ View on <a href="https://www.chewy.com/dp/57066" class="external" target="_blank
 ![Feliway Classic Calming Spray](https://us.feliway.com/cdn/shop/products/FELIWAY_CLASSIC_SPRAY_60ML_US_PACKAGE-PRODUCT_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/141900" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-spray-60ml" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -81,6 +96,7 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 <summary>References and resources</summary>
 
 1.  Adrian D, Papich MG, Baynes R, Stafford E, Lascelles BDX. The pharmacokinetics of gabapentin in cats. J Vet Intern Med. 2018; 32: 1996-2002. doi:<a href="https://doi.org/10.1111/jvim.15313" class="external" target="_blank">10.1111/jvim.15313&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Buckley C, Griffin C, Anderson H, Moore SA. Presumed gabapentin-induced myoclonus in two cats. JFMS Open Rep. 2024 Nov 28;10(2):20551169241273634. doi:<a href="https://doi.org/10.1177/20551169241273634" class="external" target="_blank">10.1177/20551169241273634&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Di Cesare F, Negro V, Ravasio G, Villa R, Draghi S, Cagnardi P. Gabapentin: Clinical Use and Pharmacokinetics in Dogs, Cats, and Horses. Animals. 2023; 13(12):2045. doi:<a href="https://doi.org/10.3390/ani13122045" class="external" target="_blank">10.3390/ani13122045&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fantinati M, Trnka J, Signor A, et al. Appetite-stimulating effect of gabapentin vs mirtazapine in healthy cats post-ovariectomy. Journal of Feline Medicine and Surgery. 2020;22(12):1176-1183. doi:<a href="https://doi.org/10.1177/1098612X20916391" class="external" target="_blank">10.1177/1098612X20916391&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Guedes AGP, Meadows JM, Pypendop BH, Johnson EG, Zaffarano B. Assessment of the effects of gabapentin on activity levels and owner-perceived mobility impairment and quality of life in osteoarthritic geriatric cats. J Am Vet Med Assoc. 2018 Sep 1;253(5):579-585. doi:<a href="https://doi.org/10.2460/javma.253.5.579" class="external" target="_blank">10.2460/javma.253.5.579&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -92,6 +108,77 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zand L, McKian KP, Qian Q. Gabapentin toxicity in patients with chronic kidney disease: a preventable cause of morbidity. Am J Med. 2010 Apr;123(4):367-73. doi:<a href="https://doi.org/10.1016/j.amjmed.2009.09.030" class="external" target="_blank">10.1016/j.amjmed.2009.09.030&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zour E, Lodhi SA, Nesbitt RU, Silbering SB, Chaturvedi PR. Stability studies of gabapentin in aqueous solutions. Pharm Res. 1992 May;9(5):595-600. doi:<a href="https://doi.org/10.1023/a:1015833622943" class="external" target="_blank">10.1023/a:1015833622943&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
+## &#x1F7E2; Purina Calming Care (30 ct)
+
+![Purina Calming Care](https://www.purina.com/.netlify/images?url=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-08%2Fcalming_care_feline_1_1000x1000_0.png&cd=cdd5ac39fc022def8ea5ce43b683ec00&w=1000&h=1000&fm=avif&q=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+ <a href="https://www.purina.com/cats/shop/pro-plan-veterinary-supplements-calming-care" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B0BGVF6PGW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/335319" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Davis H, Franco P, Gagne J, McGowan RTS, Hawley J, Lappin M. Effect of Bifidobacterium longum 999 supplementation on stress associated findings in cats with FHV-1 infection. In: 2021 ACVIM Forum Research Abstract Program. J Vet Intern Med. 2021 Nov;35(6):2943-3204. doi:<a href="https://doi.org/10.1111/jvim.16220" class="external" target="_blank">10.1111/jvim.16220&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lilly ML. Nutritional Intervention for Feline Stress. Today's Veterinary Practice. 2022. <a href="https://todaysveterinarypractice.com/nutrition/feline-stress-nutrition/" class="external" target="_blank">https://todaysveterinarypractice.com/nutrition/feline-stress-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  McGowan RTS, Barnett HR, Czarnecki-Maulden G, et al. Tapping into the "gut feelings": impact of BL999 (Bifidobacterium longum) on anxiety in dogs. Nestlé Purina Research. 2018. <a href="https://fearfreepets.com/wp-content/uploads/delightful-downloads/2018/11/Ragen-McGowan-2018-VBS-Abstract.pdf" class="external" target="_blank">https://fearfreepets.com/wp-content/uploads/delightful-downloads/2018/11/Ragen-McGowan-2018-VBS-Abstract.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
+## &#x1F7E2; Vetoquinol Zylkene Calming Supplement (75 mg)
+
+![Vetoquinol Zylkene Calming Supplement (75 mg)](https://zylkeneusa.com/wp-content/uploads/zylkene-group.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+ <a href="https://zylkeneusa.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 14 ct
+
+View on <a href="https://www.amazon.com/dp/B01M0P5SMW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/145675" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 30 ct
+
+View on <a href="https://www.amazon.com/dp/B07S5KTWLQ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/121053" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 60 ct
+
+View on <a href="https://www.chewy.com/dp/322179" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 120 ct
+
+View on <a href="https://www.amazon.com/dp/B01M01AD0U/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/536670" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Beata C, Beaumont-Graff E, Coll V, Cordel J, Marion M, Massal N, Marlois N, Tauzin J. Effect of alpha-casozepine (Zylkene) on anxiety in cats. Journal of Veterinary Behavior. 2007;2(2):40-46. doi:<a href="https://doi.org/10.1016/j.jveb.2007.02.002" class="external" target="_blank">10.1016/j.jveb.2007.02.002&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Landsberg G, Milgram B, Mougeot I, Kelly S, de Rivera C. Therapeutic effects of an alpha-casozepine and L-tryptophan supplemented diet on fear and anxiety in the cat. J Feline Med Surg. 2017 Jun;19(6):594-602. doi:<a href="https://doi.org/10.1177/1098612X16669399" class="external" target="_blank">10.1177/1098612X16669399&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -130,6 +217,10 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 
 # Anxiety references and resources
 
+1.  Davis H, Franco P, Gagne J, McGowan RTS, Hawley J, Lappin M. Effect of Bifidobacterium longum 999 supplementation on stress associated findings in cats with FHV-1 infection. In: 2021 ACVIM Forum Research Abstract Program. J Vet Intern Med. 2021 Nov;35(6):2943-3204. doi:<a href="https://doi.org/10.1111/jvim.16220" class="external" target="_blank">10.1111/jvim.16220&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Beata C, Beaumont-Graff E, Coll V, Cordel J, Marion M, Massal N, Marlois N, Tauzin J. Effect of alpha-casozepine (Zylkene) on anxiety in cats. Journal of Veterinary Behavior. 2007;2(2):40-46. doi:<a href="https://doi.org/10.1016/j.jveb.2007.02.002" class="external" target="_blank">10.1016/j.jveb.2007.02.002&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lilly ML. Nutritional Intervention for Feline Stress. Today's Veterinary Practice. 2022. <a href="https://todaysveterinarypractice.com/nutrition/feline-stress-nutrition/" class="external" target="_blank">https://todaysveterinarypractice.com/nutrition/feline-stress-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  McGowan RTS, Barnett HR, Czarnecki-Maulden G, et al. Tapping into the "gut feelings": impact of BL999 (Bifidobacterium longum) on anxiety in dogs. Nestlé Purina Research. 2018. <a href="https://fearfreepets.com/wp-content/uploads/delightful-downloads/2018/11/Ragen-McGowan-2018-VBS-Abstract.pdf" class="external" target="_blank">https://fearfreepets.com/wp-content/uploads/delightful-downloads/2018/11/Ragen-McGowan-2018-VBS-Abstract.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
@@ -149,4 +240,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-31 20:10:56.205270Z -->
+<!-- Updated 2025-01-11 01:42:35.755528Z -->

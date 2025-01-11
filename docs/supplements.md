@@ -5,15 +5,38 @@ nav_order: 50
 seo:
   headline: "Supplements"
   name: "Supplements"
-  date_modified: "2024-12-31T20:10:56.205270Z"
+  date_modified: "2025-01-11T01:42:35.755528Z"
 ---
 
 # Supplements
 
-Updated December 31, 2024.
+Updated January 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
+
+## &#x1F7E2; Bluebonnet Brewer's Yeast Powder
+
+![Bluebonnet Brewer's Yeast Powder](https://bluebonnetnutrition.com/cdn/shop/files/743715012004O_afront-side.jpg?width=1000){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Appetite**]({% link docs/appetite.md %})
+{: .label }
+[**B vitamins**]({% link docs/b-vitamins.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+### 1 lb
+
+View on <a href="https://www.amazon.com/dp/B000POWM52/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/bluebonnet-nutrition-super-earth-brewers-yeast-powder-non-bitter" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://bluebonnetnutrition.com/products/super-earth-brewers-yeast-powder?variant=43718728155446" class="external" target="_blank">Bluebonnet&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 2 lb
+
+View on <a href="https://www.amazon.com/dp/B000BD0S1W/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/bluebonnet-nutrition-super-earth-brewers-yeast-powder-unflavored" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://bluebonnetnutrition.com/products/super-earth-brewers-yeast-powder?variant=43718728188214" class="external" target="_blank">Bluebonnet&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/9984" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
 
 
 
@@ -117,6 +140,40 @@ View on <a href="https://www.amazon.com/dp/B000LLXNAM/ref=nosim?tag=ckdcatsuppli
 1.  Hall JA, Jewell DE, Ephraim E (2022). Feeding cats with chronic kidney disease food supplemented with betaine and prebiotics increases total body mass and reduces uremic toxins. PLOS ONE 17(5): e0268624. doi:<a href="https://doi.org/10.1371/journal.pone.0268624" class="external" target="_blank">10.1371/journal.pone.0268624&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
+
+* * *
+
+
+
+## &#x1F7E2; Nature's Answer Cornsilk Liquid Extract, Alcohol-Free (1 oz)
+
+![Nature's Answer Cornsilk Liquid Extract, Alcohol-Free](https://www.naturesanswer.com/wp-content/uploads/2021/02/Cornsilk-AF44-01.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B000Z96GFY/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/natures-answer-cornsilk-alcohol-free-2000-mg-1-fl-oz" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.naturesanswer.com/product/cornsilk-alcohol-free-1oz/" class="external" target="_blank">Nature's Answer&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/8014" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
+## &#x1F7E2; Nature's Way Corn Silk 1,200 mg Capsules (100 ct)
+
+![Nature's Way Corn Silk 1,200 mg Capsules](https://naturesway.com/cdn/shop/files/jnnbzvuoycdasscr3ctu.png?height=500){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/natures-way-corn-silk-1-200-mg-per-serving-traditional-urinary-health" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://naturesway.com/products/corn-silk" class="external" target="_blank">Nature's Way&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -502,6 +559,36 @@ View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chi
 
 
 
+## &#x1F7E2; Purina Calming Care (30 ct)
+
+![Purina Calming Care](https://www.purina.com/.netlify/images?url=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-08%2Fcalming_care_feline_1_1000x1000_0.png&cd=cdd5ac39fc022def8ea5ce43b683ec00&w=1000&h=1000&fm=avif&q=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+ <a href="https://www.purina.com/cats/shop/pro-plan-veterinary-supplements-calming-care" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B0BGVF6PGW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/335319" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Davis H, Franco P, Gagne J, McGowan RTS, Hawley J, Lappin M. Effect of Bifidobacterium longum 999 supplementation on stress associated findings in cats with FHV-1 infection. In: 2021 ACVIM Forum Research Abstract Program. J Vet Intern Med. 2021 Nov;35(6):2943-3204. doi:<a href="https://doi.org/10.1111/jvim.16220" class="external" target="_blank">10.1111/jvim.16220&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lilly ML. Nutritional Intervention for Feline Stress. Today's Veterinary Practice. 2022. <a href="https://todaysveterinarypractice.com/nutrition/feline-stress-nutrition/" class="external" target="_blank">https://todaysveterinarypractice.com/nutrition/feline-stress-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  McGowan RTS, Barnett HR, Czarnecki-Maulden G, et al. Tapping into the "gut feelings": impact of BL999 (Bifidobacterium longum) on anxiety in dogs. Nestlé Purina Research. 2018. <a href="https://fearfreepets.com/wp-content/uploads/delightful-downloads/2018/11/Ragen-McGowan-2018-VBS-Abstract.pdf" class="external" target="_blank">https://fearfreepets.com/wp-content/uploads/delightful-downloads/2018/11/Ragen-McGowan-2018-VBS-Abstract.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
 ## &#x1F7E2; Purina Hydra Care, 3 oz
 
 ![Purina Hydra Care, 3 oz](https://www.purina.com/_gatsby/image/05751f1ef9a850df7548f30a7ace8ddd/c36b855aa1f5fb641ad91723b483f8b5/main-pack-shot_1000x1000_0.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2022-10%2Fmain-pack-shot_1000x1000_0.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=aabb95682ce0d48c6872ff8d6620cbed){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -669,9 +756,50 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 
 
 
+## &#x1F7E2; Vetoquinol Zylkene Calming Supplement (75 mg)
+
+![Vetoquinol Zylkene Calming Supplement (75 mg)](https://zylkeneusa.com/wp-content/uploads/zylkene-group.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+ <a href="https://zylkeneusa.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 14 ct
+
+View on <a href="https://www.amazon.com/dp/B01M0P5SMW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/145675" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 30 ct
+
+View on <a href="https://www.amazon.com/dp/B07S5KTWLQ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/121053" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 60 ct
+
+View on <a href="https://www.chewy.com/dp/322179" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 120 ct
+
+View on <a href="https://www.amazon.com/dp/B01M01AD0U/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/536670" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Beata C, Beaumont-Graff E, Coll V, Cordel J, Marion M, Massal N, Marlois N, Tauzin J. Effect of alpha-casozepine (Zylkene) on anxiety in cats. Journal of Veterinary Behavior. 2007;2(2):40-46. doi:<a href="https://doi.org/10.1016/j.jveb.2007.02.002" class="external" target="_blank">10.1016/j.jveb.2007.02.002&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Landsberg G, Milgram B, Mougeot I, Kelly S, de Rivera C. Therapeutic effects of an alpha-casozepine and L-tryptophan supplemented diet on fear and anxiety in the cat. J Feline Med Surg. 2017 Jun;19(6):594-602. doi:<a href="https://doi.org/10.1177/1098612X16669399" class="external" target="_blank">10.1177/1098612X16669399&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
 ## &#x1F7E2; Vital Essentials Freeze-Dried Raw Chicken Hearts
 
-![Vital Essentials Freeze-Dried Raw Chicken Hearts](https://www.vitalessentials.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0472%2F5922%2F2175%2Fproducts%2Fev58vqtytj61swbtngip.png%3Fv%3D1680588154&w=3840&q=85){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Vital Essentials Freeze-Dried Raw Chicken Hearts](https://www.vitalessentials.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0472%2F5922%2F2175%2Ffiles%2Fyricvbqyxombgpja9zae.png&w=3840&q=85){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Anemia**]({% link docs/anemia.md %})
 {: .label }
@@ -798,4 +926,4 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-31 20:10:56.205270Z -->
+<!-- Updated 2025-01-11 01:42:35.755528Z -->

@@ -5,12 +5,12 @@ nav_order: 11
 seo:
   headline: "Blood pressure"
   name: "Blood pressure"
-  date_modified: "2024-12-31T20:10:56.205270Z"
+  date_modified: "2025-01-11T01:42:35.755528Z"
 ---
 
 # Blood pressure
 
-Updated December 31, 2024.
+Updated January 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -158,6 +158,7 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 1.  Jepson, R.E., Syme, H.M. and Elliott, J. (2014), Plasma Renin Activity and Aldosterone Concentrations in Hypertensive Cats with and without Azotemia and in Response to Treatment with Amlodipine Besylate. J Vet Intern Med, 28: 144-153. doi:<a href="https://doi.org/10.1111/jvim.12240" class="external" target="_blank">10.1111/jvim.12240&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kobori H, Mori H, Masaki T, Nishiyama A. Angiotensin II blockade and renal protection. Curr Pharm Des. 2013;19(17):3033-42. doi:<a href="https://doi.org/10.2174/1381612811319170009" class="external" target="_blank">10.2174/1381612811319170009&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kothari N, Ganguly B (2014). Potential Drug-Drug Interactions among Medications Prescribed to Hypertensive Patients. J Clin of Diagn Res. 8(11), HC01-HC04. doi:<a href="https://doi.org/10.7860/JCDR/2014/10032.5091" class="external" target="_blank">10.7860/JCDR/2014/10032.5091&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lalor SM, Connolly DJ, Elliott J, Syme HM. Plasma concentrations of natriuretic peptides in normal cats and normotensive and hypertensive cats with chronic kidney disease. J Vet Cardiol. 2009 May;11 Suppl 1:S71-9. doi:<a href="https://doi.org/10.1016/j.jvc.2009.01.004" class="external" target="_blank">10.1016/j.jvc.2009.01.004&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Lawson JS, Jepson RE. Feline comorbidities: The intermingled relationship between chronic kidney disease and hypertension. Journal of Feline Medicine and Surgery. 2021;23(9):812-822. doi:<a href="https://doi.org/10.1177/1098612X211037872" class="external" target="_blank">10.1177/1098612X211037872&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Linek J. Iris aneurysm in feline hypertensive oculopathy. Vet Ophthalmol. 2020; 23: 436-441. doi:<a href="https://doi.org/10.1111/vop.12738" class="external" target="_blank">10.1111/vop.12738&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Maggio F, DeFrancesco TC, Atkins CE, Pizzirani S, Gilger BC, Davidson MG. Ocular lesions associated with systemic hypertension in cats: 69 cases (1985-1998). J Am Vet Med Assoc. 2000 Sep 1;217(5):695-702. doi:<a href="https://doi.org/10.2460/javma.2000.217.695" class="external" target="_blank">10.2460/javma.2000.217.695&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -188,4 +189,4 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-31 20:10:56.205270Z -->
+<!-- Updated 2025-01-11 01:42:35.755528Z -->

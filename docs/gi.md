@@ -5,12 +5,12 @@ nav_order: 22
 seo:
   headline: "GI"
   name: "GI"
-  date_modified: "2024-12-31T20:10:56.205270Z"
+  date_modified: "2025-01-11T01:42:35.755528Z"
 ---
 
 # GI
 
-Updated December 31, 2024.
+Updated January 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -29,6 +29,7 @@ View on <a href="https://www.chewy.com/dp/1028494" class="external" target="_bla
 <details markdown="block">
 <summary>References and resources</summary>
 
+1. _"One cat was prescribed budesonide administered PO due to the presence of complete heart block with 4-chamber dilation and concerns for provoking heart failure; the clinician cited anecdotal evidence that budesonide might cause less plasma volume expansion than prednisolone. After steroid administration, NT-proBNP in this cat increased by 93% (707-1367 pmol/L). Four months after the study ended and while still receiving budesonide, the cat developed a large volume of abdominal effusion. The cause of effusion was not determined. At the time of writing, no other cats had developed signs consistent with CHF."_ &mdash;  Block CL, Oyama MA. Echocardiographic and biomarker evidence of plasma volume expansion after short-term steroids administered orally in cats. J Vet Intern Med. 2020 Jan;34(1):29-34. doi:<a href="https://doi.org/10.1111/jvim.15678" class="external" target="_blank">10.1111/jvim.15678&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2025-01-10)
 1.  Silverman J, Otley A. Budesonide in the treatment of inflammatory bowel disease. Expert Rev Clin Immunol. 2011 Jul;7(4):419-28. doi:<a href="https://doi.org/10.1586/eci.11.34" class="external" target="_blank">10.1586/eci.11.34&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
@@ -78,4 +79,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2024-12-31 20:10:56.205270Z -->
+<!-- Updated 2025-01-11 01:42:35.755528Z -->

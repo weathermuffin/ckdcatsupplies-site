@@ -5,12 +5,12 @@ nav_order: 47
 seo:
   headline: "Renal"
   name: "Renal"
-  date_modified: "2025-01-11T01:42:35.755528Z"
+  date_modified: "2025-01-12T19:58:06.261949Z"
 ---
 
 # Renal
 
-Updated January 11, 2025.
+Updated January 12, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -88,4 +88,4 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-11 01:42:35.755528Z -->
+<!-- Updated 2025-01-12 19:58:06.261949Z -->

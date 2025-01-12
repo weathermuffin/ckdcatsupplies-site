@@ -5,12 +5,12 @@ nav_order: 8
 seo:
   headline: "Arthritis"
   name: "Arthritis"
-  date_modified: "2025-01-11T01:42:35.755528Z"
+  date_modified: "2025-01-12T19:58:06.261949Z"
 ---
 
 # Arthritis
 
-Updated January 11, 2025.
+Updated January 12, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -84,6 +84,30 @@ View on <a href="https://www.chewy.com/dp/110917" class="external" target="_blan
 {: .label }
 
 View on <a href="https://www.chewy.com/dp/167090" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
+## &#x1F7E2; Frisco Senior Litter Box
+
+![Frisco Senior Litter Box](https://image.chewy.com/is/image/catalog/580974_MAIN._AC_SL600_V1665518938_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Arthritis**]({% link docs/arthritis.md %})
+{: .label }
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+
+View on <a href="https://www.chewy.com/dp/580974" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> The low sides make getting in and out easy on my arthritic joints. Having pain-free access nearby helps with my cystitis. The large area means less difficulty and anxiety finding the perfect spot for a deposit. And Dad says it works great with the Petivity litter box monitor.
 
 * * *
 
@@ -346,4 +370,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-11 01:42:35.755528Z -->
+<!-- Updated 2025-01-12 19:58:06.261949Z -->

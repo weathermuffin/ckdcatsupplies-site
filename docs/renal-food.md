@@ -5,12 +5,12 @@ nav_order: 48
 seo:
   headline: "Renal food"
   name: "Renal food"
-  date_modified: "2025-01-11T01:42:35.755528Z"
+  date_modified: "2025-01-12T19:58:06.261949Z"
 ---
 
 # Renal food
 
-Updated January 11, 2025.
+Updated January 12, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -93,7 +93,7 @@ View on <a href="https://www.chewy.com/dp/297392" class="external" target="_blan
 
 ## &#x1F7E2; Weruva Wx Phos-Focused Chicken Variety Pack Wet Food, 3 oz, case of 12
 
-![Weruva Wx Phos-Focused Chicken Variety Pack Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/products/810028243538_WX-CAN-CHX-FORMULAS_VP_3OZ_2300X2300_V1R1_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Weruva Wx Phos-Focused Chicken Variety Pack Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/files/810028243538_WX-CAN-CHX-FORMULAS_VP_3OZ_2300X2300_V1R1_1_82db467b-5b1c-4cf1-bc99-2b348073b1ec.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Renal food**]({% link docs/renal-food.md %})
 {: .label }
@@ -106,7 +106,7 @@ View on <a href="https://www.chewy.com/dp/578142" class="external" target="_blan
 
 ## &#x1F7E2; Weruva Wx Phos-Focused Gravy-Style Wet Food, 3 oz, case of 12
 
-![Weruva Wx Phos-Focused Gravy-Style Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/products/810028242678_WX-CAN-CHX-GRAVY_3OZ_2300X2300_V1R1_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Weruva Wx Phos-Focused Gravy-Style Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/files/810028242678_WX-CAN-CHX-GRAVY_3OZ_2300X2300_V1R2_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Renal food**]({% link docs/renal-food.md %})
 {: .label }
@@ -130,7 +130,7 @@ View on <a href="https://www.chewy.com/dp/578102" class="external" target="_blan
 
 ## &#x1F7E2; Weruva Wx Phos-Focused Puree-Style Wet Food, 3 oz, case of 12
 
-![Weruva Wx Phos-Focused Puree-Style Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/products/810028242647_WX-CAN-CHX-PUREE_3OZ_2300X2300_V1R15_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Weruva Wx Phos-Focused Puree-Style Wet Food, 3 oz, case of 12](https://www.weruva.com/cdn/shop/files/810028242647_WX-CAN-CHX-PUREE_3OZ_2300X2300_V1R16_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Renal food**]({% link docs/renal-food.md %})
 {: .label }
@@ -173,4 +173,4 @@ View on <a href="https://www.chewy.com/dp/578126" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-11 01:42:35.755528Z -->
+<!-- Updated 2025-01-12 19:58:06.261949Z -->

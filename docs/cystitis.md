@@ -5,12 +5,12 @@ nav_order: 15
 seo:
   headline: "Cystitis"
   name: "Cystitis"
-  date_modified: "2025-01-11T01:42:35.755528Z"
+  date_modified: "2025-01-12T19:58:06.261949Z"
 ---
 
 # Cystitis
 
-Updated January 11, 2025.
+Updated January 12, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -36,69 +36,7 @@ View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsuppli
 
 
 
-## &#x1F7E2; Feliway Classic Calming Diffuser Refill
-
-![Feliway Classic Calming Diffuser Refill](https://us.feliway.com/cdn/shop/products/02Amazon_FeliwayClassicRefill_967x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Anxiety**]({% link docs/anxiety.md %})
-{: .label }
-[**Cystitis**]({% link docs/cystitis.md %})
-{: .label }
-
-### 1 ct
-
-View on <a href="https://www.chewy.com/dp/57068" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607645831" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-### 3 ct
-
-View on <a href="https://www.chewy.com/dp/179225" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607678599" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-### 6 ct
-
-View on <a href="https://www.chewy.com/dp/141899" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-refill?variant=39848607711367" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-* * *
-
-
-
-## &#x1F7E2; Feliway Classic Calming Diffuser Starter Kit
-
-![Feliway Classic Calming Diffuser Starter Kit](https://us.feliway.com/cdn/shop/products/02AmazonFeliwayDiffuser_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Anxiety**]({% link docs/anxiety.md %})
-{: .label }
-[**Cystitis**]({% link docs/cystitis.md %})
-{: .label }
-
-View on <a href="https://www.chewy.com/dp/57066" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-starter-set" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<details markdown="block">
-<summary>References and resources</summary>
-
-1.  Gunn-Moore DA, Cameron ME. A pilot study using synthetic feline facial pheromone for the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(3):133-138. doi:<a href="https://doi.org/10.1016/j.jfms.2004.01.006" class="external" target="_blank">10.1016/j.jfms.2004.01.006&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-</details>
-
-* * *
-
-
-
-## &#x1F7E2; Feliway Classic Calming Spray (60 mL)
-
-![Feliway Classic Calming Spray](https://us.feliway.com/cdn/shop/products/FELIWAY_CLASSIC_SPRAY_60ML_US_PACKAGE-PRODUCT_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Anxiety**]({% link docs/anxiety.md %})
-{: .label }
-[**Cystitis**]({% link docs/cystitis.md %})
-{: .label }
-
-View on <a href="https://www.chewy.com/dp/141900" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-classic-spray-60ml" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-* * *
-
-
-
-## &#x1F7E2; Feliway Cystease Advanced Urinary Tract Support for Cats (30 ct)
+## &#x1F7E2; Feliway Cystease Advanced Urinary Tract Support for Cats
 
 ![Feliway Cystease Advanced Urinary Tract Support for Cats](https://www.feliway.co.uk/cdn/shop/files/KWP0136_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
@@ -109,7 +47,13 @@ View on <a href="https://www.chewy.com/dp/141900" class="external" target="_blan
 
  <a href="https://www.feliway.co.uk/products/cystease?variant=46525690577174" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
+### 30 ct
+
 View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
+
+### 300 ct
+
+View on <a href="https://www.amazon.com/dp/B00IR7MXY4/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
 <details markdown="block">
 <summary>References and resources</summary>
@@ -117,6 +61,80 @@ View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsuppli
 1.  Gunn-Moore DA, Shenoy CM. Oral glucosamine and the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(4):219-225. doi:<a href="https://doi.org/10.1016/j.jfms.2003.09.007" class="external" target="_blank">10.1016/j.jfms.2003.09.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
+
+* * *
+
+
+
+## &#x1F7E2; Feliway Optimum Enhanced Calming Pheromone Diffuser Refill
+
+![Feliway Optimum Enhanced Calming Pheromone Diffuser Refill](https://us.feliway.com/cdn/shop/files/FeliwayOptimumRefill1-packPackageonly-satisfactionguarantee_967x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+
+### 1 ct
+
+View on <a href="https://www.amazon.com/dp/B09885JMHL/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/341465" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-optimum-refill-48ml-30-day?variant=39848510849159" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 3 ct
+
+View on <a href="https://www.amazon.com/dp/B09V9VSY53/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.amazon.com/dp/B09MKQPHRD/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/755966" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-optimum-refill-48ml-30-day?variant=39848510881927" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 6 ct
+
+View on <a href="https://www.amazon.com/dp/B09V9WC1S1/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/755982" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-optimum-refill-48ml-30-day?variant=39848510914695" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> We've found that this works better than the Feliway "Classic" variety for managing my cystitis.
+
+* * *
+
+
+
+## &#x1F7E2; Feliway Optimum Enhanced Calming Pheromone Diffuser Starter Kit
+
+![Feliway Optimum Enhanced Calming Pheromone Diffuser Starter Kit](https://us.feliway.com/cdn/shop/files/FeliwayOptimumDiffuserKitwithproduct-satisfactionguarantee_967x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B097W651NJ/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/341462" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://us.feliway.com/products/feliway-optimum-diffuser-refill-kit-48ml-30-day?variant=39847905394823" class="external" target="_blank">Feliway&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> We've found that this works better than the Feliway "Classic" variety for managing my cystitis.
+
+* * *
+
+
+
+## &#x1F7E2; Frisco Senior Litter Box
+
+![Frisco Senior Litter Box](https://image.chewy.com/is/image/catalog/580974_MAIN._AC_SL600_V1665518938_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Arthritis**]({% link docs/arthritis.md %})
+{: .label }
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+
+View on <a href="https://www.chewy.com/dp/580974" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> The low sides make getting in and out easy on my arthritic joints. Having pain-free access nearby helps with my cystitis. The large area means less difficulty and anxiety finding the perfect spot for a deposit. And Dad says it works great with the Petivity litter box monitor.
 
 * * *
 
@@ -317,4 +335,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-11 01:42:35.755528Z -->
+<!-- Updated 2025-01-12 19:58:06.261949Z -->

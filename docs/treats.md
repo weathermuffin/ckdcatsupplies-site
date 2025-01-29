@@ -5,12 +5,12 @@ nav_order: 53
 seo:
   headline: "Treats"
   name: "Treats"
-  date_modified: "2025-01-12T19:58:06.261949Z"
+  date_modified: "2025-01-29T20:01:08.934541Z"
 ---
 
 # Treats
 
-Updated January 12, 2025.
+Updated January 29, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -107,6 +107,21 @@ View on <a href="https://www.vetrxdirect.com/product/view/churu-veterinarian-for
 
 
 
+## &#x1F7E2; Dechra Add One
+
+![Dechra Add One](https://www.dechra.es/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/ES/Add-One_Salmon_ES-HR-PT-SI.png&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Pilling**]({% link docs/pilling.md %})
+{: .label }
+[**Treats**]({% link docs/treats.md %})
+{: .label }
+
+ <a href="https://www.porus-one.com/add-one" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; Greenies Pill Pockets, Salmon Flavor
 
 ![Greenies Pill Pockets, Salmon Flavor](https://www.greenies.com/cdn/shop/files/fgj1dzrzfjdyl8evvhs0.jpg?width=990){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -131,7 +146,7 @@ View on <a href="https://www.amazon.com/dp/B000JOE224/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag
 
-![Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag](https://www.temptationstreats.com/cdn-cgi/image/width=600,height=600,f=auto,quality=90/sites/g/files/fnmzdf3061/files/migrate-product-files/images/fl2swyjkaed60fmbouc2.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag](https://www.temptationstreats.com/cdn-cgi/image/width=600,height=600,f=auto,quality=90/sites/g/files/fnmzdf3061/files/migrate-product-files/images/jsupbyrbz4xbgtizdxer.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Pilling**]({% link docs/pilling.md %})
 {: .label }
@@ -194,4 +209,4 @@ View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-12 19:58:06.261949Z -->
+<!-- Updated 2025-01-29 20:01:08.934541Z -->

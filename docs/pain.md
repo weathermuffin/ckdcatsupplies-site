@@ -5,12 +5,12 @@ nav_order: 39
 seo:
   headline: "Pain"
   name: "Pain"
-  date_modified: "2025-01-12T19:58:06.261949Z"
+  date_modified: "2025-01-29T20:01:08.934541Z"
 ---
 
 # Pain
 
-Updated January 12, 2025.
+Updated January 29, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -71,7 +71,9 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  Di Cesare F, Negro V, Ravasio G, Villa R, Draghi S, Cagnardi P. Gabapentin: Clinical Use and Pharmacokinetics in Dogs, Cats, and Horses. Animals. 2023; 13(12):2045. doi:<a href="https://doi.org/10.3390/ani13122045" class="external" target="_blank">10.3390/ani13122045&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fantinati M, Trnka J, Signor A, et al. Appetite-stimulating effect of gabapentin vs mirtazapine in healthy cats post-ovariectomy. Journal of Feline Medicine and Surgery. 2020;22(12):1176-1183. doi:<a href="https://doi.org/10.1177/1098612X20916391" class="external" target="_blank">10.1177/1098612X20916391&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Guedes AGP, Meadows JM, Pypendop BH, Johnson EG, Zaffarano B. Assessment of the effects of gabapentin on activity levels and owner-perceived mobility impairment and quality of life in osteoarthritic geriatric cats. J Am Vet Med Assoc. 2018 Sep 1;253(5):579-585. doi:<a href="https://doi.org/10.2460/javma.253.5.579" class="external" target="_blank">10.2460/javma.253.5.579&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Kaufman KR, Parikh A, Chan L, Bridgeman M, Shah M. Myoclonus in renal failure: Two cases of gabapentin toxicity. Epilepsy Behav Case Rep. 2013 Dec 29;2:8-10. doi:<a href="https://doi.org/10.1016/j.ebcr.2013.12.002" class="external" target="_blank">10.1016/j.ebcr.2013.12.002&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Madan RD, Cenani A, Montgomery E, Azevedo T, Vernau KM, Brosnan RJ. Pregabalin produces similar effects as gabapentin for preanesthetic sedation in cats. J Am Vet Med Assoc. 2023 Dec 22;262(3):359-363. doi:<a href="https://doi.org/10.2460/javma.23.09.0493" class="external" target="_blank">10.2460/javma.23.09.0493&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Miller A, Price G. Gabapentin toxicity in renal failure: the importance of dose adjustment. Pain Med. 2009 Jan;10(1):190-2. doi:<a href="https://doi.org/10.1111/j.1526-4637.2008.00492.x" class="external" target="_blank">10.1111/j.1526-4637.2008.00492.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Lorbach SK, Saffire A, et al. Serum concentrations of gabapentin in cats with chronic kidney disease. Journal of Feline Medicine and Surgery. 2022;24(12):1260-1266. doi:<a href="https://doi.org/10.1177/1098612X221077017" class="external" target="_blank">10.1177/1098612X221077017&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Jones SE, Saffire A, et al. Assessment of the effect of gabapentin on blood pressure in cats with and without chronic kidney disease. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241240326" class="external" target="_blank">10.1177/1098612X241240326&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -114,4 +116,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-12 19:58:06.261949Z -->
+<!-- Updated 2025-01-29 20:01:08.934541Z -->

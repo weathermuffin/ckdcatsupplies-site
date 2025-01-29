@@ -5,12 +5,12 @@ nav_order: 12
 seo:
   headline: "CKD"
   name: "CKD"
-  date_modified: "2025-01-12T19:58:06.261949Z"
+  date_modified: "2025-01-29T20:01:08.934541Z"
 ---
 
 # CKD
 
-Updated January 12, 2025.
+Updated January 29, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -97,11 +97,13 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 1.  Hypertension, chronic kidney disease and the renin-angiotensin-aldosterone system (2020). American Animal Hospital Association. <a href="https://www.aaha.org/wp-content/uploads/globalassets/05-pet-health-resources/critical-connections_web.pdf" class="external" target="_blank">https://www.aaha.org/wp-content/uploads/globalassets/05-pet-health-resources/critical-connections_web.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Broome M. Feline Hyperthyroidism - Avoiding Further Renal Injury. 2010. <a href="https://www.researchgate.net/publication/265349615_Feline_Hyperthyroidism_-Avoiding_Further_Renal_Injury" class="external" target="_blank">https://www.researchgate.net/publication/265349615_Feline_Hyperthyroidism_-Avoiding_Further_Renal_Injury&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Cabała S, Ożgo M, Herosimczyk A. The Kidney-Gut Axis as a Novel Target for Nutritional Intervention to Counteract Chronic Kidney Disease Progression. Metabolites. 2024 Jan 22;14(1):78. doi:<a href="https://doi.org/10.3390/metabo14010078" class="external" target="_blank">10.3390/metabo14010078&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Cline MG. Nutritional Management of Chronic Kidney Disease in Cats & Dogs. Today's Veterinary Practice. 2016. <a href="https://todaysveterinarypractice.com/nutrition/acvn-nutrition-notesnutritional-management-of-chronic-kidney-disease-in-cats-dogs" class="external" target="_blank">https://todaysveterinarypractice.com/nutrition/acvn-nutrition-notesnutritional-management-of-chronic-kidney-disease-in-cats-dogs&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Coleman A, Elliott J. Inhibition of the renin-angiotensin-aldosterone system in cats and dogs: The emerging role of angiotensin II receptor blockers. International Renal Interest Society (IRIS). 2022. <a href="http://www.iris-kidney.com/education/renin-anglotensin-aldosterone-system.html" class="external" target="_blank">http://www.iris-kidney.com/education/renin-anglotensin-aldosterone-system.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Cook A, Saunders A. Finding the Balance in Your Patients with Cardiovascular and Renal Disease. Today's Veterinary Practice. 2018. <a href="https://todaysveterinarypractice.com/cardiology/veterinary-patients-with-cardiovascular-and-renal-disease/" class="external" target="_blank">https://todaysveterinarypractice.com/cardiology/veterinary-patients-with-cardiovascular-and-renal-disease/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Daminet S. How to Treat a Cat with Hyperthyroidism and Concurrent Renal Insufficiency? World Small Animal Veterinary Association World Congress Proceedings, 2010. <a href="https://www.vin.com/doc/?id=4516305" class="external" target="_blank">https://www.vin.com/doc/?id=4516305&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Chronic Kidney Disease/Hyperthyroidism/Iodine 131: Considerations and therapeutic options that enhance our success. Feline Hyperthyroid Treatment Center. 2014. <a href="https://www.felinehtc.com/documents/Chronic-Kidney-Disease_Hyperthyroidism_Iodine-131-Fall-2014.pdf" class="external" target="_blank">https://www.felinehtc.com/documents/Chronic-Kidney-Disease_Hyperthyroidism_Iodine-131-Fall-2014.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fitzpatrick, R. L., Wittenburg, L. A., Hansen, R. J., Gustafson, D. L., Quimby, J. M. Limited sampling pharmacokinetics of subcutaneous ondansetron in healthy geriatric cats, cats with chronic kidney disease, and cats with liver disease. J. vet. Pharmacol. Therap. doi:<a href="https://doi.org/10.1111/jvp.12286" class="external" target="_blank">10.1111/jvp.12286&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Heine GH, Seiler S, Fliser D. FGF-23: the rise of a novel cardiovascular risk marker in CKD. Nephrol Dial Transplant. 2012 Aug;27(8):3072-81. doi:<a href="https://doi.org/10.1093/ndt/gfs259" class="external" target="_blank">10.1093/ndt/gfs259&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Ishikawa, A., Kawarazaki, H., Ando, K. et al. Renal preservation effect of ubiquinol, the reduced form of coenzyme Q10. Clin Exp Nephrol 15, 30-33 (2011). doi:<a href="https://doi.org/10.1007/s10157-010-0350-8" class="external" target="_blank">10.1007/s10157-010-0350-8&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Izuhara Y, Nangaku M, Inagi R, Tominaga N, Aizawa T, Kurokawa K, van Ypersele de Strihou C, Miyata T. Renoprotective properties of angiotensin receptor blockers beyond blood pressure lowering. J Am Soc Nephrol. 2005 Dec;16(12):3631-41. doi:<a href="https://doi.org/10.1681/ASN.2005050522" class="external" target="_blank">10.1681/ASN.2005050522&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kobori H, Mori H, Masaki T, Nishiyama A. Angiotensin II blockade and renal protection. Curr Pharm Des. 2013;19(17):3033-42. doi:<a href="https://doi.org/10.2174/1381612811319170009" class="external" target="_blank">10.2174/1381612811319170009&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -138,4 +140,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-12 19:58:06.261949Z -->
+<!-- Updated 2025-01-29 20:01:08.934541Z -->

@@ -5,12 +5,12 @@ nav_order: 24
 seo:
   headline: "Heart"
   name: "Heart"
-  date_modified: "2025-01-12T19:58:06.261949Z"
+  date_modified: "2025-01-29T20:01:08.934541Z"
 ---
 
 # Heart
 
-Updated January 12, 2025.
+Updated January 29, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -248,6 +248,7 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Cook A, Saunders A. Finding the Balance in Your Patients with Cardiovascular and Renal Disease. Today's Veterinary Practice. 2018. <a href="https://todaysveterinarypractice.com/cardiology/veterinary-patients-with-cardiovascular-and-renal-disease/" class="external" target="_blank">https://todaysveterinarypractice.com/cardiology/veterinary-patients-with-cardiovascular-and-renal-disease/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Hansen B (2021). Fluid Overload. Front. Vet. Sci. 8:668688. doi:<a href="https://doi.org/10.3389/fvets.2021.668688" class="external" target="_blank">10.3389/fvets.2021.668688&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Heine GH, Seiler S, Fliser D. FGF-23: the rise of a novel cardiovascular risk marker in CKD. Nephrol Dial Transplant. 2012 Aug;27(8):3072-81. doi:<a href="https://doi.org/10.1093/ndt/gfs259" class="external" target="_blank">10.1093/ndt/gfs259&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Iqbal MA, Gupta M. Cardiogenic Pulmonary Edema. [Updated 2023 Apr 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. <a href="https://www.ncbi.nlm.nih.gov/books/NBK544260/" class="external" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK544260/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kittleson M. Treatment of Feline Hypertrophic Cardiomyopathy - Lost Dreams. World Small Animal Veterinary Association World Congress Proceedings, 2014. <a href="https://www.vin.com/doc/?id=7054765" class="external" target="_blank">https://www.vin.com/doc/?id=7054765&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Page RL 2nd, O'Bryant CL, Cheng D, Dow TJ, Ky B, Stein CM, Spencer AP, Trupp RJ, Lindenfeld J; American Heart Association Clinical Pharmacology and Heart Failure and Transplantation Committees of the Council on Clinical Cardiology; Council on Cardiovascular Surgery and Anesthesia; Council on Cardiovascular and Stroke Nursing; and Council on Quality of Care and Outcomes Research. Drugs That May Cause or Exacerbate Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2016 Aug 9;134(6):e32-69. doi:<a href="https://doi.org/10.1161/CIR.0000000000000426" class="external" target="_blank">10.1161/CIR.0000000000000426&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -273,4 +274,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-12 19:58:06.261949Z -->
+<!-- Updated 2025-01-29 20:01:08.934541Z -->

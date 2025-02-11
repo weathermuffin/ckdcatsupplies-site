@@ -5,12 +5,12 @@ nav_order: 2
 seo:
   headline: "Aluminum hydroxide"
   name: "Aluminum hydroxide"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Aluminum hydroxide
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -90,4 +90,4 @@ View on <a href="https://thrivingpets.com/products/aluminum-hydroxide-powder-usp
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

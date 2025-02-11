@@ -5,12 +5,12 @@ nav_order: 26
 seo:
   headline: "Hyperthyroid"
   name: "Hyperthyroid"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Hyperthyroid
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -77,4 +77,4 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

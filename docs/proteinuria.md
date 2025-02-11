@@ -5,12 +5,12 @@ nav_order: 45
 seo:
   headline: "Proteinuria"
   name: "Proteinuria"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Proteinuria
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -46,6 +46,7 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Lewis EJ, Hunsicker LG, Clarke WR, Berl T, Pohl MA, Lewis JB, Ritz E, Atkins RC, Rohde R, Raz I; Collaborative Study Group. Renoprotective effect of the angiotensin-receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes. N Engl J Med. 2001 Sep 20;345(12):851-60. doi:<a href="https://doi.org/10.1056/NEJMoa011303" class="external" target="_blank">10.1056/NEJMoa011303&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Sent, U., Gössl, R., Elliott, J., Syme, H.M. and Zimmering, T. (2015), Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med, 29: 1479-1487. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -68,6 +69,7 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Vaden SL, Elliott J. Management of Proteinuria in Dogs and Cats with Chronic Kidney Disease. Vet Clin North Am Small Anim Pract. 2016 Nov;46(6):1115-30. doi:<a href="https://doi.org/10.1016/j.cvsm.2016.06.009" class="external" target="_blank">10.1016/j.cvsm.2016.06.009&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vientós-Plotts AI, Behrend EN, Welles EG, Chew DJ, Gaillard PR, Busler JN, Lee HP. Effect of blood contamination on results of dipstick evaluation and urine protein-to-urine creatinine ratio for urine samples from dogs and cats. Am J Vet Res. 2018 May;79(5):525-531. doi:<a href="https://doi.org/10.2460/ajvr.79.5.525" class="external" target="_blank">10.2460/ajvr.79.5.525&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  White JD, Norris JM, Bosward KL, Fleay R, Lauer C, Malik R. Persistent haematuria and proteinuria due to glomerular disease in related Abyssinian cats. Journal of Feline Medicine and Surgery. 2008;10(3):219-229. doi:<a href="https://doi.org/10.1016/j.jfms.2007.11.007" class="external" target="_blank">10.1016/j.jfms.2007.11.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -86,4 +88,4 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

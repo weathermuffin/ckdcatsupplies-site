@@ -5,12 +5,12 @@ nav_order: 12
 seo:
   headline: "CKD"
   name: "CKD"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # CKD
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -120,8 +120,10 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 1.  Sueyoshi M, Fukunaga M, Mei M, Nakajima A, Tanaka G, Murase T, Narita Y, Hirata S, Kadowaki D. Effects of lactulose on renal function and gut microbiota in adenine-induced chronic kidney disease rats. Clin Exp Nephrol. 2019 Jul;23(7):908-919. doi:<a href="https://doi.org/10.1007/s10157-019-01727-4" class="external" target="_blank">10.1007/s10157-019-01727-4&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Syme HM. Cardiovascular and renal manifestations of hyperthyroidism. Vet Clin North Am Small Anim Pract. 2007 Jul;37(4):723-43, vi. doi:<a href="https://doi.org/10.1016/j.cvsm.2007.05.011" class="external" target="_blank">10.1016/j.cvsm.2007.05.011&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Vaske HH, Schermerhorn T, Grauer GF. Effects of feline hyperthyroidism on kidney function: a review. Journal of Feline Medicine and Surgery. 2016;18(2):55-59. doi:<a href="https://doi.org/10.1177/1098612X15575385" class="external" target="_blank">10.1177/1098612X15575385&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Wohlfahrt P, Melenovsky V, Kotrc M, Benes J, Jabor A, Franekova J, Lemaire S, Kautzner J, Jarolim P. Association of Fibroblast Growth Factor-23 Levels and Angiotensin-Converting Enzyme Inhibition in Chronic Systolic Heart Failure. JACC Heart Fail. 2015 Oct;3(10):829-39. doi:<a href="https://doi.org/10.1016/j.jchf.2015.05.012" class="external" target="_blank">10.1016/j.jchf.2015.05.012&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Yu, L., Lacorcia, L. and Johnstone, T., Hyperthyroid cats and their kidneys: a literature review. Aust Vet J. 2022; 100: 415-432. doi:<a href="https://doi.org/10.1111/avj.13179" class="external" target="_blank">10.1111/avj.13179&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -140,4 +142,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

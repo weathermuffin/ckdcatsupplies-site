@@ -5,12 +5,12 @@ nav_order: 43
 seo:
   headline: "Potassium"
   name: "Potassium"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Potassium
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -68,6 +68,7 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 1.  Kogika MM, de Morais HA. A Quick Reference on Hypokalemia. Vet Clin North Am Small Anim Pract. 2017 Mar;47(2):229-234. doi:<a href="https://doi.org/10.1016/j.cvsm.2016.10.010" class="external" target="_blank">10.1016/j.cvsm.2016.10.010&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Parsons CL, Greenberger M, Gabal L, Bidair M, Barme G. The role of urinary potassium in the pathogenesis and diagnosis of interstitial cystitis. J Urol. 1998 Jun;159(6):1862-6; discussion 1866-7. doi:<a href="https://doi.org/10.1016/S0022-5347(01)63178-1" class="external" target="_blank">10.1016/S0022-5347(01)63178-1&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Sieberg LG, Quimby JM. Retrospective study of the efficacy of oral potassium supplementation in cats with kidney disease. J Feline Med Surg. 2020 Jun;22(6):539-543. doi:<a href="https://doi.org/10.1177/1098612X19862084" class="external" target="_blank">10.1177/1098612X19862084&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -86,4 +87,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

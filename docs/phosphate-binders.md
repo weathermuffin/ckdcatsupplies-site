@@ -5,12 +5,12 @@ nav_order: 41
 seo:
   headline: "Phosphate binders"
   name: "Phosphate binders"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Phosphate binders
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -99,6 +99,7 @@ View on <a href="https://www.chewy.com/dp/102190" class="external" target="_blan
 
 # Phosphate binders references and resources
 
+1.  Cargill RW, Dutkowskij M, Prescott A, Fleming LW, Stewart WK. Chemical reactivity of aluminium-based pharmaceutical compounds used as phosphate-binders. J Pharm Pharmacol. 1989 Jan;41(1):11-6. doi:<a href="https://doi.org/10.1111/j.2042-7158.1989.tb06320.x" class="external" target="_blank">10.1111/j.2042-7158.1989.tb06320.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Daugirdas, J.T., Finn, W.F., Emmett, M., Chertow, G.M. and (2011), The Phosphate Binder Equivalent Dose. Seminars in Dialysis, 24: 41-49. doi:<a href="https://doi.org/10.1111/j.1525-139X.2011.00849.x" class="external" target="_blank">10.1111/j.1525-139X.2011.00849.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Emmett M. A comparison of clinically useful phosphorus binders for patients with chronic kidney failure. Kidney International. 2004; 66:S32-S25. doi:<a href="https://doi.org/10.1111/j.1523-1755.2004.09005.x" class="external" target="_blank">10.1111/j.1523-1755.2004.09005.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Laflamme D, Backus R, Brown S, et al. A review of phosphorus homeostasis and the impact of different types and amounts of dietary phosphate on metabolism and renal health in cats. J Vet Intern Med. 2020; 34: 2187-2196. doi:<a href="https://doi.org/10.1111/jvim.15961" class="external" target="_blank">10.1111/jvim.15961&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -122,4 +123,4 @@ View on <a href="https://www.chewy.com/dp/102190" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

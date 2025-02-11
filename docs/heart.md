@@ -5,12 +5,12 @@ nav_order: 24
 seo:
   headline: "Heart"
   name: "Heart"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Heart
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -256,6 +256,8 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 1.  Rivas VN, Kaplan JL, Kennedy SA, Fitzgerald S, Crofton AE, Farrell A, Grubb L, Jauregui CE, Grigorean G, Choi E, et al. Multi-Omic, Histopathologic, and Clinicopathologic Effects of Once-Weekly Oral Rapamycin in a Naturally Occurring Feline Model of Hypertrophic Cardiomyopathy: A Pilot Study. Animals. 2023; 13(20):3184. doi:<a href="https://doi.org/10.3390/ani13203184" class="external" target="_blank">10.3390/ani13203184&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Schaer M. Fluid Therapy for Critically Ill Dogs and Cats. World Small Animal Veterinary Association World Congress Proceedings, 2006. <a href="https://www.vin.com/doc/?id=3858919" class="external" target="_blank">https://www.vin.com/doc/?id=3858919&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Syme HM. Cardiovascular and renal manifestations of hyperthyroidism. Vet Clin North Am Small Anim Pract. 2007 Jul;37(4):723-43, vi. doi:<a href="https://doi.org/10.1016/j.cvsm.2007.05.011" class="external" target="_blank">10.1016/j.cvsm.2007.05.011&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Wohlfahrt P, Melenovsky V, Kotrc M, Benes J, Jabor A, Franekova J, Lemaire S, Kautzner J, Jarolim P. Association of Fibroblast Growth Factor-23 Levels and Angiotensin-Converting Enzyme Inhibition in Chronic Systolic Heart Failure. JACC Heart Fail. 2015 Oct;3(10):829-39. doi:<a href="https://doi.org/10.1016/j.jchf.2015.05.012" class="external" target="_blank">10.1016/j.jchf.2015.05.012&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -274,4 +276,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

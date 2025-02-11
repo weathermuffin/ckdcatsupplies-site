@@ -5,12 +5,12 @@ nav_order: 18
 seo:
   headline: "Drugs"
   name: "Drugs"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Drugs
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -295,6 +295,7 @@ View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_bla
 1.  Santos LC, Ludders JW, Erb HN, Martin-Flores M, Basher KL, Kirch P. A randomized, blinded, controlled trial of the antiemetic effect of ondansetron on dexmedetomidine-induced emesis in cats. Vet Anaesth Analg. 2011 Jul;38(4):320-7. doi:<a href="https://doi.org/10.1111/j.1467-2995.2011.00619.x" class="external" target="_blank">10.1111/j.1467-2995.2011.00619.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  SEDLACEK, H.S., RAMSEY, D.S., BOUCHER, J.F., EAGLESON, J.S., CONDER, G.A. and CLEMENCE, R.G. (2008), Comparative efficacy of maropitant and selected drugs in preventing emesis induced by centrally or peripherally acting emetogens in dogs. Journal of Veterinary Pharmacology and Therapeutics, 31: 533-537. doi:<a href="https://doi.org/10.1111/j.1365-2885.2008.00991.x" class="external" target="_blank">10.1111/j.1365-2885.2008.00991.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Trepanier L. Acute Vomiting in Cats: Rational Treatment Selection. Journal of Feline Medicine and Surgery. 2010;12(3):225-230. doi:<a href="https://doi.org/10.1016/j.jfms.2010.01.005" class="external" target="_blank">10.1016/j.jfms.2010.01.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zajic LB, Herndon AK, Sieberg LG, et al. Assessment of absorption of transdermal ondansetron in normal research cats. Journal of Feline Medicine and Surgery. 2017;19(12):1245-1248. doi:<a href="https://doi.org/10.1177/1098612X16688807" class="external" target="_blank">10.1177/1098612X16688807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -361,6 +362,7 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Lewis EJ, Hunsicker LG, Clarke WR, Berl T, Pohl MA, Lewis JB, Ritz E, Atkins RC, Rohde R, Raz I; Collaborative Study Group. Renoprotective effect of the angiotensin-receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes. N Engl J Med. 2001 Sep 20;345(12):851-60. doi:<a href="https://doi.org/10.1056/NEJMoa011303" class="external" target="_blank">10.1056/NEJMoa011303&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Sent, U., Gössl, R., Elliott, J., Syme, H.M. and Zimmering, T. (2015), Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med, 29: 1479-1487. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -409,6 +411,36 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 
 * * *
 
+
+
+## &#x1F7E2; Zoetis Solensia
+
+![Zoetis Solensia](https://www.solensiavetteam.com/assets/images/Solensia-Product-Shot.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Arthritis**]({% link docs/arthritis.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Pain**]({% link docs/pain.md %})
+{: .label }
+
+ <a href="https://www.solensiavetteam.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_frunevetmab" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Committee for Medicinal Products for Veterinary Use. CVMP assessment report for Solensia (Common name: frunevetmab). European Medicines Agency. 2021. <a href="https://medicines.health.europa.eu/veterinary/fr/documents/download/e4618d2b-2d4f-411c-be83-5295aed8d8a1" class="external" target="_blank">https://medicines.health.europa.eu/veterinary/fr/documents/download/e4618d2b-2d4f-411c-be83-5295aed8d8a1&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Gruen ME, Myers JAE, Lascelles BDX. Efficacy and Safety of an Anti-nerve Growth Factor Antibody (Frunevetmab) for the Treatment of Degenerative Joint Disease-Associated Chronic Pain in Cats: A Multisite Pilot Field Study. Front Vet Sci. 2021 May 28;8:610028. doi:<a href="https://doi.org/10.3389/fvets.2021.610028" class="external" target="_blank">10.3389/fvets.2021.610028&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Menges S, Michaelis M, Kleinschmidt-Dörr K. Anti-NGF treatment worsens subchondral bone and cartilage measures while improving symptoms in floor-housed rabbits with osteoarthritis. Front Physiol. 2023 Jun 26;14:1201328. doi:<a href="https://doi.org/10.3389/fphys.2023.1201328" class="external" target="_blank">10.3389/fphys.2023.1201328&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Miller RE, Block JA, Malfait AM. Nerve growth factor blockade for the management of osteoarthritis pain: what can we learn from clinical trials and preclinical models? Curr Opin Rheumatol. 2017 Jan;29(1):110-118. doi:<a href="https://doi.org/10.1097/BOR.0000000000000354" class="external" target="_blank">10.1097/BOR.0000000000000354&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Storrer A, Mackie JT, Gunew MN, Aslan J. Cutaneous lesions and clinical outcomes in five cats after frunevetmab injections. J Feline Med Surg. 2023 Nov;25(11):1098612X231198416. doi:<a href="https://doi.org/10.1177/1098612X231198416" class="external" target="_blank">10.1177/1098612X231198416&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Solensia (frunevetmab injection) Product Insert. Zoeits. August 2021. <a href="https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/solensia-prescribing-information.pdf" class="external" target="_blank">https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/solensia-prescribing-information.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Freedom of Information Summary, Original New Animal Drug Application, NADA 141-546: Solensia (frunevetmab) Injectable Solution for Cats. Zoetis Inc. 2022. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/11817" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/11817&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -424,4 +456,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

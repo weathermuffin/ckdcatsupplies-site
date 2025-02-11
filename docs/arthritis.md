@@ -5,12 +5,12 @@ nav_order: 8
 seo:
   headline: "Arthritis"
   name: "Arthritis"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Arthritis
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -346,6 +346,36 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 * * *
 
 
+
+## &#x1F7E2; Zoetis Solensia
+
+![Zoetis Solensia](https://www.solensiavetteam.com/assets/images/Solensia-Product-Shot.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Arthritis**]({% link docs/arthritis.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Pain**]({% link docs/pain.md %})
+{: .label }
+
+ <a href="https://www.solensiavetteam.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/treatments_general_health.htm#arthritis_frunevetmab" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Committee for Medicinal Products for Veterinary Use. CVMP assessment report for Solensia (Common name: frunevetmab). European Medicines Agency. 2021. <a href="https://medicines.health.europa.eu/veterinary/fr/documents/download/e4618d2b-2d4f-411c-be83-5295aed8d8a1" class="external" target="_blank">https://medicines.health.europa.eu/veterinary/fr/documents/download/e4618d2b-2d4f-411c-be83-5295aed8d8a1&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Gruen ME, Myers JAE, Lascelles BDX. Efficacy and Safety of an Anti-nerve Growth Factor Antibody (Frunevetmab) for the Treatment of Degenerative Joint Disease-Associated Chronic Pain in Cats: A Multisite Pilot Field Study. Front Vet Sci. 2021 May 28;8:610028. doi:<a href="https://doi.org/10.3389/fvets.2021.610028" class="external" target="_blank">10.3389/fvets.2021.610028&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Menges S, Michaelis M, Kleinschmidt-Dörr K. Anti-NGF treatment worsens subchondral bone and cartilage measures while improving symptoms in floor-housed rabbits with osteoarthritis. Front Physiol. 2023 Jun 26;14:1201328. doi:<a href="https://doi.org/10.3389/fphys.2023.1201328" class="external" target="_blank">10.3389/fphys.2023.1201328&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Miller RE, Block JA, Malfait AM. Nerve growth factor blockade for the management of osteoarthritis pain: what can we learn from clinical trials and preclinical models? Curr Opin Rheumatol. 2017 Jan;29(1):110-118. doi:<a href="https://doi.org/10.1097/BOR.0000000000000354" class="external" target="_blank">10.1097/BOR.0000000000000354&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Storrer A, Mackie JT, Gunew MN, Aslan J. Cutaneous lesions and clinical outcomes in five cats after frunevetmab injections. J Feline Med Surg. 2023 Nov;25(11):1098612X231198416. doi:<a href="https://doi.org/10.1177/1098612X231198416" class="external" target="_blank">10.1177/1098612X231198416&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Solensia (frunevetmab injection) Product Insert. Zoeits. August 2021. <a href="https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/solensia-prescribing-information.pdf" class="external" target="_blank">https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/solensia-prescribing-information.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Freedom of Information Summary, Original New Animal Drug Application, NADA 141-546: Solensia (frunevetmab) Injectable Solution for Cats. Zoetis Inc. 2022. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/11817" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/11817&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
 # Arthritis references and resources
 
 1.  Corbee, R. J. (2022). The efficacy of a nutritional supplement containing green-lipped mussel, curcumin and blackcurrant leaf extract in dogs and cats with osteoarthritis. Veterinary Medicine and Science, 8, 1025-1035. doi:<a href="https://doi.org/10.1002/vms3.779" class="external" target="_blank">10.1002/vms3.779&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -370,4 +400,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

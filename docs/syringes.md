@@ -5,12 +5,12 @@ nav_order: 51
 seo:
   headline: "Syringes"
   name: "Syringes"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Syringes
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -48,12 +48,14 @@ View on <a href="https://www.amazon.com/dp/B08B7DVLY1/ref=nosim?tag=ckdcatsuppli
 
 
 
-## &#x1F7E2; Exel 1cc Tuberculin Syringes, Luer Slip, with Cap #26048
+## &#x1F7E2; Exel 1 cc Syringes, Luer Slip, with Cap #26048
 
 [**Syringes**]({% link docs/syringes.md %})
 {: .label }
 
  <a href="https://exelint.com/products/human-products/syringes/1cc-tuberculin-syringes" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.net32.com/ec/exelint-1cc-tuberculin-syringe-w-o-needle-d-99049" class="external" target="_blank">Net32&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -77,4 +79,4 @@ View on <a href="https://www.amazon.com/dp/B08B7DVLY1/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

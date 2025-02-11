@@ -5,12 +5,12 @@ nav_order: 7
 seo:
   headline: "Appetite"
   name: "Appetite"
-  date_modified: "2025-01-29T20:01:08.934541Z"
+  date_modified: "2025-02-11T00:35:31.243643Z"
 ---
 
 # Appetite
 
-Updated January 29, 2025.
+Updated February 11, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -198,6 +198,7 @@ View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_bla
 1.  Santos LC, Ludders JW, Erb HN, Martin-Flores M, Basher KL, Kirch P. A randomized, blinded, controlled trial of the antiemetic effect of ondansetron on dexmedetomidine-induced emesis in cats. Vet Anaesth Analg. 2011 Jul;38(4):320-7. doi:<a href="https://doi.org/10.1111/j.1467-2995.2011.00619.x" class="external" target="_blank">10.1111/j.1467-2995.2011.00619.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  SEDLACEK, H.S., RAMSEY, D.S., BOUCHER, J.F., EAGLESON, J.S., CONDER, G.A. and CLEMENCE, R.G. (2008), Comparative efficacy of maropitant and selected drugs in preventing emesis induced by centrally or peripherally acting emetogens in dogs. Journal of Veterinary Pharmacology and Therapeutics, 31: 533-537. doi:<a href="https://doi.org/10.1111/j.1365-2885.2008.00991.x" class="external" target="_blank">10.1111/j.1365-2885.2008.00991.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Trepanier L. Acute Vomiting in Cats: Rational Treatment Selection. Journal of Feline Medicine and Surgery. 2010;12(3):225-230. doi:<a href="https://doi.org/10.1016/j.jfms.2010.01.005" class="external" target="_blank">10.1016/j.jfms.2010.01.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zajic LB, Herndon AK, Sieberg LG, et al. Assessment of absorption of transdermal ondansetron in normal research cats. Journal of Feline Medicine and Surgery. 2017;19(12):1245-1248. doi:<a href="https://doi.org/10.1177/1098612X16688807" class="external" target="_blank">10.1177/1098612X16688807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -235,4 +236,4 @@ View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-01-29 20:01:08.934541Z -->
+<!-- Updated 2025-02-11 00:35:31.243643Z -->

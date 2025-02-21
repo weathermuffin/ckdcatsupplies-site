@@ -5,13 +5,35 @@ nav_order: 34
 seo:
   headline: "Needles"
   name: "Needles"
-  date_modified: "2025-02-11T00:35:31.243643Z"
+  date_modified: "2025-02-21T22:20:01.434731Z"
 ---
 
 # Needles
 
-Updated February 11, 2025.
+Updated February 21, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
+
+
+
+## &#x1F7E2; Terumo SUR-VET Hypodermic Syringes with Removable Needle (1cc Luer Slip syringe w/ 25G x 5/8" needle)
+
+![Terumo SUR-VET Hypodermic Syringes with Removable Needle](https://www.terumotmp.com/content/terumo-tmp-www/en_us/home/products/veterinary/sur-vet-hypodermic-syringes/_jcr_content/content-par/layout_container/grid-content-par/columncontainer_191691442/column1_par/columncontainer_1523/column1_par/image.img.jpg/1669278097423.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Medicating**]({% link docs/medicating.md %})
+{: .label }
+[**Needles**]({% link docs/needles.md %})
+{: .label }
+
+ <a href="https://www.terumotmp.com/products/veterinary/sur-vet-hypodermic-syringes.html" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.scahealth.com/p/sur-vet-hypodermic-syringes-with-removable-needle" class="external" target="_blank">SCA Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> We used these for subcutaneous ondansetron. Not my favorite, but slow with the plunger makes all the difference.
+
+* * *
 
 
 
@@ -84,4 +106,4 @@ View on <a href="https://thrivingpets.com/products/terumo-needles-thin-wall-21-g
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-11 00:35:31.243643Z -->
+<!-- Updated 2025-02-21 22:20:01.434731Z -->

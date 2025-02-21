@@ -5,15 +5,28 @@ nav_order: 41
 seo:
   headline: "Phosphate binders"
   name: "Phosphate binders"
-  date_modified: "2025-02-11T00:35:31.243643Z"
+  date_modified: "2025-02-21T22:20:01.434731Z"
 ---
 
 # Phosphate binders
 
-Updated February 11, 2025.
+Updated February 21, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
+
+## &#x1F7E2; Dechra Catney One
+
+![Dechra Catney One](https://www.porus-one.com/admin/public/getimage.ashx?Image=/Files/Images/Porusone/Catney%20One/Catney-One-Available-at-your-vet.jpg&Width=1920&Height=1440&Format=webp&Quality=75&Crop=0){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Phosphate binders**]({% link docs/phosphate-binders.md %})
+{: .label }
+
+ <a href="https://www.porus-one.com/products/catney-one" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
 
 
 
@@ -123,4 +136,4 @@ View on <a href="https://www.chewy.com/dp/102190" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-11 00:35:31.243643Z -->
+<!-- Updated 2025-02-21 22:20:01.434731Z -->

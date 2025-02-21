@@ -5,13 +5,47 @@ nav_order: 33
 seo:
   headline: "Nausea"
   name: "Nausea"
-  date_modified: "2025-02-11T00:35:31.243643Z"
+  date_modified: "2025-02-21T22:20:01.434731Z"
 ---
 
 # Nausea
 
-Updated February 11, 2025.
+Updated February 21, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
+
+
+
+## &#x1F7E2; Aurobindo Pharma Ondansetron (Generic) Tablets
+
+![Aurobindo Pharma Ondansetron (Generic) Tablets](https://image.chewy.com/is/image/catalog/205219_MAIN._AC_SL600_V1633037204_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Appetite**]({% link docs/appetite.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Nausea**]({% link docs/nausea.md %})
+{: .label }
+
+ <a href="https://www.aurobindousa.com/products/ondansetron-tablets-4-mg-30-bottle/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/appetite_loss_nausea_vomiting.htm#ondansetron" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Acevedo A, Muñoz KA, Stec M, Pitt K, Jones SA, Manfredi JM. Effect of preoperative ondansetron on postoperative nausea in healthy dogs undergoing laparoscopic gastropexy and castration. Vet Anaesth Analg. 2024 May-Jun;51(3):235-243. doi:<a href="https://doi.org/10.1016/j.vaa.2024.01.004" class="external" target="_blank">10.1016/j.vaa.2024.01.004&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Fitzpatrick, R. L., Wittenburg, L. A., Hansen, R. J., Gustafson, D. L., Quimby, J. M. Limited sampling pharmacokinetics of subcutaneous ondansetron in healthy geriatric cats, cats with chronic kidney disease, and cats with liver disease. J. vet. Pharmacol. Therap. doi:<a href="https://doi.org/10.1111/jvp.12286" class="external" target="_blank">10.1111/jvp.12286&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hall, E. (2002), Rational selection of gastrointestinal drugs for cats and dogs. In Practice, 24: 242-249. doi:<a href="https://doi.org/10.1136/inpract.24.5.242" class="external" target="_blank">10.1136/inpract.24.5.242&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zofran Product Monograph. Novartis Pharmaceuticals Canada. 2015. <a href="https://www.novartis.com/ca-en/sites/novartis_ca/files/zofran_scrip_e.pdf" class="external" target="_blank">https://www.novartis.com/ca-en/sites/novartis_ca/files/zofran_scrip_e.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Quimby, J. M., Lake, R. C., Hansen, R. J., Lunghofer, P. J., Gustafson, D. L. Oral, subcutaneous, and intravenous pharmacokinetics of ondansetron in healthy cats. J. vet. Pharmacol. Therap. 37, 348-353. doi:<a href="https://doi.org/10.1111/jvp.12094" class="external" target="_blank">10.1111/jvp.12094&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Santos LC, Ludders JW, Erb HN, Martin-Flores M, Basher KL, Kirch P. A randomized, blinded, controlled trial of the antiemetic effect of ondansetron on dexmedetomidine-induced emesis in cats. Vet Anaesth Analg. 2011 Jul;38(4):320-7. doi:<a href="https://doi.org/10.1111/j.1467-2995.2011.00619.x" class="external" target="_blank">10.1111/j.1467-2995.2011.00619.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  SEDLACEK, H.S., RAMSEY, D.S., BOUCHER, J.F., EAGLESON, J.S., CONDER, G.A. and CLEMENCE, R.G. (2008), Comparative efficacy of maropitant and selected drugs in preventing emesis induced by centrally or peripherally acting emetogens in dogs. Journal of Veterinary Pharmacology and Therapeutics, 31: 533-537. doi:<a href="https://doi.org/10.1111/j.1365-2885.2008.00991.x" class="external" target="_blank">10.1111/j.1365-2885.2008.00991.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Trepanier L. Acute Vomiting in Cats: Rational Treatment Selection. Journal of Feline Medicine and Surgery. 2010;12(3):225-230. doi:<a href="https://doi.org/10.1016/j.jfms.2010.01.005" class="external" target="_blank">10.1016/j.jfms.2010.01.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Zajic LB, Herndon AK, Sieberg LG, et al. Assessment of absorption of transdermal ondansetron in normal research cats. Journal of Feline Medicine and Surgery. 2017;19(12):1245-1248. doi:<a href="https://doi.org/10.1177/1098612X16688807" class="external" target="_blank">10.1177/1098612X16688807&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
 
 
 
@@ -49,9 +83,9 @@ View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blan
 
 
 
-## &#x1F7E2; Generic Ondansetron Tablets
+## &#x1F7E2; Fosun Pharma Ondansetron (Generic) Injection, 2 mg/mL, 20 mL
 
-![Generic Ondansetron Tablets](https://image.chewy.com/is/image/catalog/205219_MAIN._AC_SL600_V1633037204_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Fosun Pharma Ondansetron (Generic) Injection, 2 mg/mL, 20 mL](https://fosunpharmausa.com/wp-content/uploads/2019/10/Ondensetron-40mg.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Appetite**]({% link docs/appetite.md %})
 {: .label }
@@ -60,9 +94,9 @@ View on <a href="https://www.chewy.com/dp/323192" class="external" target="_blan
 [**Nausea**]({% link docs/nausea.md %})
 {: .label }
 
- <a href="https://felinecrf.org/appetite_loss_nausea_vomiting.htm#ondansetron" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://fosunpharmausa.com/our-products/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/appetite_loss_nausea_vomiting.htm#ondansetron" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-View on <a href="https://www.chewy.com/dp/1068854" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/336791" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 <details markdown="block">
 <summary>References and resources</summary>
@@ -125,4 +159,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-11 00:35:31.243643Z -->
+<!-- Updated 2025-02-21 22:20:01.434731Z -->

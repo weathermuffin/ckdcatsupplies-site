@@ -5,12 +5,12 @@ nav_order: 17
 seo:
   headline: "Diarrhea"
   name: "Diarrhea"
-  date_modified: "2025-02-11T00:35:31.243643Z"
+  date_modified: "2025-02-21T22:20:01.434731Z"
 ---
 
 # Diarrhea
 
-Updated February 11, 2025.
+Updated February 21, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -95,4 +95,4 @@ View on <a href="https://visbiomevet.com/products/visbiome-vet-bottle-4-pack?var
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-11 00:35:31.243643Z -->
+<!-- Updated 2025-02-21 22:20:01.434731Z -->

@@ -5,12 +5,12 @@ nav_order: 54
 seo:
   headline: "UTI"
   name: "UTI"
-  date_modified: "2025-02-11T00:35:31.243643Z"
+  date_modified: "2025-02-21T22:20:01.434731Z"
 ---
 
 # UTI
 
-Updated February 11, 2025.
+Updated February 21, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -152,6 +152,28 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; RapidBac Vet Urine Bacteria Test
+
+![RapidBac Vet Urine Bacteria Test](https://www.rapidbacvet.com/wp-content/uploads/2023/03/RapidBac-Vet-2.0-Test-Kit-Box-1000-x-750-1.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Pyelonephritis**]({% link docs/pyelonephritis.md %})
+{: .label }
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+ <a href="https://www.rapidbacvet.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/pyelonephritis_utis.htm#diagnosis_culture_sensitivity" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://store.silverlakeresearch.com/product/rapidbac-vet-2-0-test-kits-box-of-10-tests/" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Use the link on felinecrf.org for a 20% discount.
+
+* * *
+
+
+
 ## &#x1F7E2; VRS flo cat (powder, 90 g)
 
 ![VRS flo cat](https://vrshealth.com/wp-content/uploads/sites/8/2024/02/flo-Cat-Page-Images_2_Main-Product.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -240,4 +262,4 @@ View on <a href="https://www.chewy.com/dp/173148" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-11 00:35:31.243643Z -->
+<!-- Updated 2025-02-21 22:20:01.434731Z -->

@@ -5,12 +5,12 @@ nav_order: 12
 seo:
   headline: "CKD"
   name: "CKD"
-  date_modified: "2025-02-21T22:20:01.434731Z"
+  date_modified: "2025-02-27T18:34:27.499573Z"
 ---
 
 # CKD
 
-Updated February 21, 2025.
+Updated February 27, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -131,6 +131,7 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 1.  Lawson JS, Jepson RE. Feline comorbidities: The intermingled relationship between chronic kidney disease and hypertension. Journal of Feline Medicine and Surgery. 2021;23(9):812-822. doi:<a href="https://doi.org/10.1177/1098612X211037872" class="external" target="_blank">10.1177/1098612X211037872&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Le Garreres A, Laroute V, De La Farge F, Boudet KG, Lefebvre HP. Disposition of plasma creatinine in non-azotaemic and moderately azotaemic cats. Journal of Feline Medicine and Surgery. 2007;9(2):89-96. doi:<a href="https://doi.org/10.1016/j.jfms.2006.08.003" class="external" target="_blank">10.1016/j.jfms.2006.08.003&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Mancia G, De Backer G, Dominiczak A, Cifkova R, Fagard R, Germano G, Grassi G, Heagerty AM, Kjeldsen SE, Laurent S, Narkiewicz K, Ruilope L, Rynkiewicz A, Schmieder RE, Boudier HA, Zanchetti A, Vahanian A, Camm J, De Caterina R, Dean V, Dickstein K, Filippatos G, Funck-Brentano C, Hellemans I, Kristensen SD, McGregor K, Sechtem U, Silber S, Tendera M, Widimsky P, Zamorano JL, Erdine S, Kiowski W, Agabiti-Rosei E, Ambrosioni E, Lindholm LH, Viigimaa M, Adamopoulos S, Agabiti-Rosei E, Ambrosioni E, Bertomeu V, Clement D, Erdine S, Farsang C, Gaita D, Lip G, Mallion JM, Manolis AJ, Nilsson PM, O'Brien E, Ponikowski P, Redon J, Ruschitzka F, Tamargo J, van Zwieten P, Waeber B, Williams B; Management of Arterial Hypertension of the European Society of Hypertension; European Society of Cardiology. 2007 Guidelines for the Management of Arterial Hypertension: The Task Force for the Management of Arterial Hypertension of the European Society of Hypertension (ESH) and of the European Society of Cardiology (ESC). J Hypertens. 2007 Jun;25(6):1105-87. doi:<a href="https://doi.org/10.1097/HJH.0b013e3281fc975a" class="external" target="_blank">10.1097/HJH.0b013e3281fc975a&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Nambulli S, Rennick LJ, Acciardo AS, Tilston-Lunel NL, Ho G, Crossland NA, Hardcastle K, Nieto B, Bainbridge G, Williams T, Sharp CR, Duprex WP. FeMV is a cathepsin-dependent unique morbillivirus infecting the kidneys of domestic cats. Proc Natl Acad Sci U S A. 2022 Oct 25;119(43):e2209405119. doi:<a href="https://doi.org/10.1073/pnas.2209405119" class="external" target="_blank">10.1073/pnas.2209405119&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Peterson ME. Dietary Management of Cats with Kidney Disease After Treatment with Radioiodine for Hyperthyroidism. Animal Endocrine Clinic and Hypurrcat. 2015. <a href="https://www.animalendocrine.com/wp-content/uploads/2015/05/Dietary-Management-of-Cats-with-Hyperthyroidism-Concurrent-Renal-Disease-Final.pdf" class="external" target="_blank">https://www.animalendocrine.com/wp-content/uploads/2015/05/Dietary-Management-of-Cats-with-Hyperthyroidism-Concurrent-Renal-Disease-Final.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby, J.M., Gustafson, D.L. and Lunn, K.F. (2011), The Pharmacokinetics of Mirtazapine in Cats with Chronic Kidney Disease and In Age-Matched Control Cats. J Vet Intern Med, 25: 985-989. doi:<a href="https://doi.org/10.1111/j.1939-1676.2011.00780.x" class="external" target="_blank">10.1111/j.1939-1676.2011.00780.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Lunn KF. Mirtazapine as an appetite stimulant and anti-emetic in cats with chronic kidney disease: a masked placebo-controlled crossover clinical trial. Vet J. 2013 Sep;197(3):651-5. doi:<a href="https://doi.org/10.1016/j.tvjl.2013.05.048" class="external" target="_blank">10.1016/j.tvjl.2013.05.048&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -163,4 +164,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-21 22:20:01.434731Z -->
+<!-- Updated 2025-02-27 18:34:27.499573Z -->

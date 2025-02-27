@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; Potassium"
 layout: default
-nav_order: 43
+nav_order: 44
 seo:
   headline: "Potassium"
   name: "Potassium"
-  date_modified: "2025-02-21T22:20:01.434731Z"
+  date_modified: "2025-02-27T18:34:27.499573Z"
 ---
 
 # Potassium
 
-Updated February 21, 2025.
+Updated February 27, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -60,14 +60,17 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 
 # Potassium references and resources
 
+1.  Clase CM, Carrero JJ, Ellison DH, Grams ME, Hemmelgarn BR, Jardine MJ, Kovesdy CP, Kline GA, Lindner G, Obrador GT, Palmer BF, Cheung M, Wheeler DC, Winkelmayer WC, Pecoits-Filho R; Conference Participants. Potassium homeostasis and management of dyskalemia in kidney diseases: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference. Kidney Int. 2020 Jan;97(1):42-61. doi:<a href="https://doi.org/10.1016/j.kint.2019.09.018" class="external" target="_blank">10.1016/j.kint.2019.09.018&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Cook A, Heinz J. Evaluation and Management of the Hypokalemic Patient. Today's Veterinary Practice. 2022. <a href="https://todaysveterinarypractice.com/internal-medicine/evaluation-and-management-of-the-hypokalemic-patient/" class="external" target="_blank">https://todaysveterinarypractice.com/internal-medicine/evaluation-and-management-of-the-hypokalemic-patient/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Deguchi E, Akuzawa M. Renal clearance of endogenous creatinine, urea, sodium, and potassium in normal cats and cats with chronic renal failure. J Vet Med Sci. 1997 Jul;59(7):509-12. doi:<a href="https://doi.org/10.1292/jvms.59.509" class="external" target="_blank">10.1292/jvms.59.509&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  De Morais HA. Potassium Disorders in Cats: Myths and Facts. World Small Animal Veterinary Association World Congress Proceedings, 2009. <a href="https://www.vin.com/doc/?id=4252634" class="external" target="_blank">https://www.vin.com/doc/?id=4252634&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  DiBartola SP, De Morais HA. Chapter 5 - Disorders of Potassium: Hypokalemia and Hyperkalemia. Fluid, Electrolyte, and Acid-Base Disorders in Small Animal Practice (Fourth Edition). W.B. Saunders, 2012, Pages 92-119. ISBN 9781437706543. doi:<a href="https://doi.org/10.1016/B978-1-4377-0654-3.00012-3" class="external" target="_blank">10.1016/B978-1-4377-0654-3.00012-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Hoehne SN. Management of Potassium Disorders in the Emergency Room. European Veterinary Emergency and Critical Care Congress 2019. <a href="https://www.vin.com/doc/?id=9257727" class="external" target="_blank">https://www.vin.com/doc/?id=9257727&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Hutter T, Collings TS, Kostova G, Karet Frankl FE. Point-of-care and self-testing for potassium: recent advances. Sens Diagn. 2022 Jun 6;1(4):614-626. doi:<a href="https://doi.org/10.1039/d2sd00062h" class="external" target="_blank">10.1039/d2sd00062h&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kogika MM, de Morais HA. A Quick Reference on Hypokalemia. Vet Clin North Am Small Anim Pract. 2017 Mar;47(2):229-234. doi:<a href="https://doi.org/10.1016/j.cvsm.2016.10.010" class="external" target="_blank">10.1016/j.cvsm.2016.10.010&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Parsons CL, Greenberger M, Gabal L, Bidair M, Barme G. The role of urinary potassium in the pathogenesis and diagnosis of interstitial cystitis. J Urol. 1998 Jun;159(6):1862-6; discussion 1866-7. doi:<a href="https://doi.org/10.1016/S0022-5347(01)63178-1" class="external" target="_blank">10.1016/S0022-5347(01)63178-1&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Sieberg LG, Quimby JM. Retrospective study of the efficacy of oral potassium supplementation in cats with kidney disease. J Feline Med Surg. 2020 Jun;22(6):539-543. doi:<a href="https://doi.org/10.1177/1098612X19862084" class="external" target="_blank">10.1177/1098612X19862084&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Ueda Y, Ookawara S, Ito K, Miyazawa H, Kaku Y, Hoshino T, Tabei K, Morishita Y. Changes in urinary potassium excretion in patients with chronic kidney disease. Kidney Res Clin Pract. 2016 Jun;35(2):78-83. doi:<a href="https://doi.org/10.1016/j.krcp.2016.02.001" class="external" target="_blank">10.1016/j.krcp.2016.02.001&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
@@ -87,4 +90,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-21 22:20:01.434731Z -->
+<!-- Updated 2025-02-27 18:34:27.499573Z -->

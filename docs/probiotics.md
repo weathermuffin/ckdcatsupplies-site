@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; Probiotics"
 layout: default
-nav_order: 44
+nav_order: 45
 seo:
   headline: "Probiotics"
   name: "Probiotics"
-  date_modified: "2025-02-21T22:20:01.434731Z"
+  date_modified: "2025-02-27T18:34:27.499573Z"
 ---
 
 # Probiotics
 
-Updated February 21, 2025.
+Updated February 27, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -155,4 +155,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-21 22:20:01.434731Z -->
+<!-- Updated 2025-02-27 18:34:27.499573Z -->

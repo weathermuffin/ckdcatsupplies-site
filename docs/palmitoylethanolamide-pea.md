@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; Palmitoylethanolamide (PEA)"
 layout: default
-nav_order: 40
+nav_order: 41
 seo:
   headline: "Palmitoylethanolamide (PEA)"
   name: "Palmitoylethanolamide (PEA)"
-  date_modified: "2025-02-21T22:20:01.434731Z"
+  date_modified: "2025-02-27T18:34:27.499573Z"
 ---
 
 # Palmitoylethanolamide (PEA)
 
-Updated February 21, 2025.
+Updated February 27, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -80,4 +80,4 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-21 22:20:01.434731Z -->
+<!-- Updated 2025-02-27 18:34:27.499573Z -->

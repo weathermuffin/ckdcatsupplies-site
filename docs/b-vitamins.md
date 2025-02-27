@@ -5,12 +5,12 @@ nav_order: 9
 seo:
   headline: "B vitamins"
   name: "B vitamins"
-  date_modified: "2025-02-21T22:20:01.434731Z"
+  date_modified: "2025-02-27T18:34:27.499573Z"
 ---
 
 # B vitamins
 
-Updated February 21, 2025.
+Updated February 27, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -221,6 +221,13 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 
 * * *
 
+
+# B vitamins references and resources
+
+1.  Siani G, Mercaldo B, Alterisio MC, Di Loria A. Vitamin B12 in Cats: Nutrition, Metabolism, and Disease. Animals (Basel). 2023 Apr 26;13(9):1474. doi:<a href="https://doi.org/10.3390/ani13091474" class="external" target="_blank">10.3390/ani13091474&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -236,4 +243,4 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-21 22:20:01.434731Z -->
+<!-- Updated 2025-02-27 18:34:27.499573Z -->

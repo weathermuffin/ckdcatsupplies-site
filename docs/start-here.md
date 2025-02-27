@@ -181,6 +181,9 @@ Browse one of the following CATegories... &#x1F639;
 [**Heart**]({% link docs/heart.md %})
 {: .label }
 
+[**Hematuria**]({% link docs/hematuria.md %})
+{: .label }
+
 [**Hydration**]({% link docs/hydration.md %})
 {: .label }
 

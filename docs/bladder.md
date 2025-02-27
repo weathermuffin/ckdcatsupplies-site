@@ -5,12 +5,12 @@ nav_order: 10
 seo:
   headline: "Bladder"
   name: "Bladder"
-  date_modified: "2025-02-21T22:20:01.434731Z"
+  date_modified: "2025-02-27T18:34:27.499573Z"
 ---
 
 # Bladder
 
-Updated February 21, 2025.
+Updated February 27, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -24,6 +24,8 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
 [**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**Hematuria**]({% link docs/hematuria.md %})
 {: .label }
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
@@ -250,4 +252,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-21 22:20:01.434731Z -->
+<!-- Updated 2025-02-27 18:34:27.499573Z -->

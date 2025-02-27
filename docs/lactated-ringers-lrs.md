@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; Lactated Ringer's (LRS)"
 layout: default
-nav_order: 29
+nav_order: 30
 seo:
   headline: "Lactated Ringer's (LRS)"
   name: "Lactated Ringer's (LRS)"
-  date_modified: "2025-02-21T22:20:01.434731Z"
+  date_modified: "2025-02-27T18:34:27.499573Z"
 ---
 
 # Lactated Ringer's (LRS)
 
-Updated February 21, 2025.
+Updated February 27, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -120,4 +120,4 @@ View on <a href="https://www.chewy.com/dp/179220" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-21 22:20:01.434731Z -->
+<!-- Updated 2025-02-27 18:34:27.499573Z -->

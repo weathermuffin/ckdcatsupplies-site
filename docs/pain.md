@@ -5,12 +5,12 @@ nav_order: 40
 seo:
   headline: "Pain"
   name: "Pain"
-  date_modified: "2025-02-27T18:34:27.499573Z"
+  date_modified: "2025-03-03T02:09:37.731373Z"
 ---
 
 # Pain
 
-Updated February 27, 2025.
+Updated March 3, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -20,6 +20,8 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 ![Dechra Redonyl Ultra Feline](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/redonyl_ultra_feline_0321.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 The acronym "PEA" used here refers to palmitoylethanolamide, and should not be confused with phenylethylamine.
+
+&#x1F6D1; This item has cautions. See the references and resources.
 
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
@@ -41,6 +43,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 <summary>References and resources</summary>
 
 1.  Cifelli P, Ruffolo G, Ceccanti M, Cambieri C, Libonati L, Palma E, Inghilleri M. Classical and Unexpected Effects of Ultra-Micronized PEA in Neuromuscular Function. Biomolecules. 2022; 12(6):758. doi:<a href="https://doi.org/10.3390/biom12060758" class="external" target="_blank">10.3390/biom12060758&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1. _"Contains boric acid < 0.1% by weight."_ &mdash;  Redonyl Ultra Feline Powder Safety Data Sheet. Dechra. 2020. <a href="https://www.dechra-us.com/Admin/Public/Download.aspx?file=Files%2FFiles%2FProductDownloads%2FUS%2FRedonyl_Feline_SDS.pdf" class="external" target="_blank">https://www.dechra-us.com/Admin/Public/Download.aspx?file=Files%2FFiles%2FProductDownloads%2FUS%2FRedonyl_Feline_SDS.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2025-03-02)
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1. _"Due to the patents held on Redonyl Ultra, no other animal health nutraceutical can contain micronized or ultramicronized PEA."_ &mdash;  Dechra unveils skin-supporting Redonyl Ultra Feline (2022) <a href="https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/" class="external" target="_blank">https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-10-20)
 
@@ -81,6 +84,32 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 1.  Vanderhoof C. Gabapentin for Cats: A Common Option for Pain and Anxiety. GoodRx. 2024. <a href="https://www.goodrx.com/pet-health/cat/gabapentin-for-cats" class="external" target="_blank">https://www.goodrx.com/pet-health/cat/gabapentin-for-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zand L, McKian KP, Qian Q. Gabapentin toxicity in patients with chronic kidney disease: a preventable cause of morbidity. Am J Med. 2010 Apr;123(4):367-73. doi:<a href="https://doi.org/10.1016/j.amjmed.2009.09.030" class="external" target="_blank">10.1016/j.amjmed.2009.09.030&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zour E, Lodhi SA, Nesbitt RU, Silbering SB, Chaturvedi PR. Stability studies of gabapentin in aqueous solutions. Pharm Res. 1992 May;9(5):595-600. doi:<a href="https://doi.org/10.1023/a:1015833622943" class="external" target="_blank">10.1023/a:1015833622943&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
+## &#x1F7E2; Zoetis Bonqat
+
+![Zoetis Bonqat](https://www.zoetisus.com/content/pages/Products/Cats/Bonqat-Resources/Images/Bonqat-Box-Vial.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Pain**]({% link docs/pain.md %})
+{: .label }
+
+ <a href="https://www.zoetisus.com/products/cats/bonqat" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Lamminen T, Doedée A, Hyttilä-Hopponen M, Kaskinoro J. Pharmacokinetics of single and repeated oral doses of pregabalin oral solution formulation in cats. J Vet Pharmacol Ther. 2022 Jul;45(4):385-391. doi:<a href="https://doi.org/10.1111/jvp.13061" class="external" target="_blank">10.1111/jvp.13061&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Mayoral V, Galvez R, Ferrándiz M, Miguéns Vázquez X, Cordero-García C, Alcántara Montero A, Pérez C, Pérez-Páramo M. Pregabalin vs. gabapentin in the treatment of neuropathic pain: a comprehensive systematic review and meta-analysis of effectiveness and safety. Front Pain Res (Lausanne). 2025 Jan 7;5:1513597. doi:<a href="https://doi.org/10.3389/fpain.2024.1513597" class="external" target="_blank">10.3389/fpain.2024.1513597&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Rusbridge C. Pregabalin - 5 things you should know about prescribing in dogs and cats. 2023. <a href="https://youtu.be/fr3gu6S6guE" class="external" target="_blank">https://youtu.be/fr3gu6S6guE&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -146,4 +175,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-27 18:34:27.499573Z -->
+<!-- Updated 2025-03-03 02:09:37.731373Z -->

@@ -5,12 +5,12 @@ nav_order: 6
 seo:
   headline: "Anxiety"
   name: "Anxiety"
-  date_modified: "2025-02-27T18:34:27.499573Z"
+  date_modified: "2025-03-03T02:09:37.731373Z"
 ---
 
 # Anxiety
 
-Updated February 27, 2025.
+Updated March 3, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -285,6 +285,32 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 * * *
 
 
+
+## &#x1F7E2; Zoetis Bonqat
+
+![Zoetis Bonqat](https://www.zoetisus.com/content/pages/Products/Cats/Bonqat-Resources/Images/Bonqat-Box-Vial.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Anxiety**]({% link docs/anxiety.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Pain**]({% link docs/pain.md %})
+{: .label }
+
+ <a href="https://www.zoetisus.com/products/cats/bonqat" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Lamminen T, Doedée A, Hyttilä-Hopponen M, Kaskinoro J. Pharmacokinetics of single and repeated oral doses of pregabalin oral solution formulation in cats. J Vet Pharmacol Ther. 2022 Jul;45(4):385-391. doi:<a href="https://doi.org/10.1111/jvp.13061" class="external" target="_blank">10.1111/jvp.13061&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Mayoral V, Galvez R, Ferrándiz M, Miguéns Vázquez X, Cordero-García C, Alcántara Montero A, Pérez C, Pérez-Páramo M. Pregabalin vs. gabapentin in the treatment of neuropathic pain: a comprehensive systematic review and meta-analysis of effectiveness and safety. Front Pain Res (Lausanne). 2025 Jan 7;5:1513597. doi:<a href="https://doi.org/10.3389/fpain.2024.1513597" class="external" target="_blank">10.3389/fpain.2024.1513597&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Rusbridge C. Pregabalin - 5 things you should know about prescribing in dogs and cats. 2023. <a href="https://youtu.be/fr3gu6S6guE" class="external" target="_blank">https://youtu.be/fr3gu6S6guE&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
 # Anxiety references and resources
 
 1.  Davis H, Franco P, Gagne J, McGowan RTS, Hawley J, Lappin M. Effect of Bifidobacterium longum 999 supplementation on stress associated findings in cats with FHV-1 infection. In: 2021 ACVIM Forum Research Abstract Program. J Vet Intern Med. 2021 Nov;35(6):2943-3204. doi:<a href="https://doi.org/10.1111/jvim.16220" class="external" target="_blank">10.1111/jvim.16220&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -311,4 +337,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-02-27 18:34:27.499573Z -->
+<!-- Updated 2025-03-03 02:09:37.731373Z -->

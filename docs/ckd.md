@@ -5,12 +5,12 @@ nav_order: 12
 seo:
   headline: "CKD"
   name: "CKD"
-  date_modified: "2025-03-03T02:09:37.731373Z"
+  date_modified: "2025-03-04T19:09:35.032932Z"
 ---
 
 # CKD
 
-Updated March 3, 2025.
+Updated March 4, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -66,6 +66,28 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 > &#x1F63A; Luna Says
 >
 > I'll never understand it, but Dad likes to monitor my litter box habits. (I know, right?!) This tells him when I use the box, what I did (#1 or #2), how long I was in there, and even my weight! Heck, just monitoring my weight day-to-day is extremely valuable. But my dad also geeks out on all the stats and other info. &#x1F913;
+
+* * *
+
+
+
+## &#x1F7E2; Rapamycin for Cats
+
+[**CKD**]({% link docs/ckd.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+
+View on <a href="https://helpingpetslivelonger.com/products/rapamycin-for-cats" class="external" target="_blank">Helping Pets Live Longer&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Kaplan JL, Rivas VN, Walker AL, Grubb L, Farrell A, Fitzgerald S, Kennedy S, Jauregui CE, Crofton AE, McLaughlin C, Van Zile R, DeFrancesco TC, Meurs KM, Stern JA. Delayed-release rapamycin halts progression of left ventricular hypertrophy in subclinical feline hypertrophic cardiomyopathy: results of the RAPACAT trial. J Am Vet Med Assoc. 2023 Jul 26;261(11):1628-1637. doi:<a href="https://doi.org/10.2460/javma.23.04.0187" class="external" target="_blank">10.2460/javma.23.04.0187&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
 
 * * *
 
@@ -164,4 +186,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-03 02:09:37.731373Z -->
+<!-- Updated 2025-03-04 19:09:35.032932Z -->

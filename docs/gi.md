@@ -5,12 +5,12 @@ nav_order: 22
 seo:
   headline: "GI"
   name: "GI"
-  date_modified: "2025-03-03T02:09:37.731373Z"
+  date_modified: "2025-03-04T19:09:35.032932Z"
 ---
 
 # GI
 
-Updated March 3, 2025.
+Updated March 4, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
@@ -79,4 +79,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-03 02:09:37.731373Z -->
+<!-- Updated 2025-03-04 19:09:35.032932Z -->

@@ -5,12 +5,12 @@ nav_order: 24
 seo:
   headline: "Heart"
   name: "Heart"
-  date_modified: "2025-03-03T02:09:37.731373Z"
+  date_modified: "2025-03-04T19:09:35.032932Z"
 ---
 
 # Heart
 
-Updated March 3, 2025.
+Updated March 4, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -155,6 +155,28 @@ View on <a href="https://www.amazon.com/dp/B000BQSQ68/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; Rapamycin for Cats
+
+[**CKD**]({% link docs/ckd.md %})
+{: .label }
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+
+View on <a href="https://helpingpetslivelonger.com/products/rapamycin-for-cats" class="external" target="_blank">Helping Pets Live Longer&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Kaplan JL, Rivas VN, Walker AL, Grubb L, Farrell A, Fitzgerald S, Kennedy S, Jauregui CE, Crofton AE, McLaughlin C, Van Zile R, DeFrancesco TC, Meurs KM, Stern JA. Delayed-release rapamycin halts progression of left ventricular hypertrophy in subclinical feline hypertrophic cardiomyopathy: results of the RAPACAT trial. J Am Vet Med Assoc. 2023 Jul 26;261(11):1628-1637. doi:<a href="https://doi.org/10.2460/javma.23.04.0187" class="external" target="_blank">10.2460/javma.23.04.0187&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
 ## &#x1F7E2; Rx Vitamins Formula CV Capsules Heart Supplement (90 ct)
 
 ![Rx Vitamins Formula CV Capsules Heart Supplement](https://rxvitamins.com/cdn/shop/files/8100FormulaCV.png?width=1220){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -250,6 +272,7 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 1.  Hansen B (2021). Fluid Overload. Front. Vet. Sci. 8:668688. doi:<a href="https://doi.org/10.3389/fvets.2021.668688" class="external" target="_blank">10.3389/fvets.2021.668688&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Heine GH, Seiler S, Fliser D. FGF-23: the rise of a novel cardiovascular risk marker in CKD. Nephrol Dial Transplant. 2012 Aug;27(8):3072-81. doi:<a href="https://doi.org/10.1093/ndt/gfs259" class="external" target="_blank">10.1093/ndt/gfs259&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Iqbal MA, Gupta M. Cardiogenic Pulmonary Edema. [Updated 2023 Apr 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. <a href="https://www.ncbi.nlm.nih.gov/books/NBK544260/" class="external" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK544260/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Kaplan JL, Rivas VN, Walker AL, Grubb L, Farrell A, Fitzgerald S, Kennedy S, Jauregui CE, Crofton AE, McLaughlin C, Van Zile R, DeFrancesco TC, Meurs KM, Stern JA. Delayed-release rapamycin halts progression of left ventricular hypertrophy in subclinical feline hypertrophic cardiomyopathy: results of the RAPACAT trial. J Am Vet Med Assoc. 2023 Jul 26;261(11):1628-1637. doi:<a href="https://doi.org/10.2460/javma.23.04.0187" class="external" target="_blank">10.2460/javma.23.04.0187&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kittleson M. Treatment of Feline Hypertrophic Cardiomyopathy - Lost Dreams. World Small Animal Veterinary Association World Congress Proceedings, 2014. <a href="https://www.vin.com/doc/?id=7054765" class="external" target="_blank">https://www.vin.com/doc/?id=7054765&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Page RL 2nd, O'Bryant CL, Cheng D, Dow TJ, Ky B, Stein CM, Spencer AP, Trupp RJ, Lindenfeld J; American Heart Association Clinical Pharmacology and Heart Failure and Transplantation Committees of the Council on Clinical Cardiology; Council on Cardiovascular Surgery and Anesthesia; Council on Cardiovascular and Stroke Nursing; and Council on Quality of Care and Outcomes Research. Drugs That May Cause or Exacerbate Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2016 Aug 9;134(6):e32-69. doi:<a href="https://doi.org/10.1161/CIR.0000000000000426" class="external" target="_blank">10.1161/CIR.0000000000000426&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Pierce, K.V., Rush, J.E., Freeman, L.M., Cunningham, S.M. and Yang, V.K. (2017), Association between Survival Time and Changes in NT-proBNP in Cats Treated for Congestive Heart Failure. J Vet Intern Med, 31: 678-684. doi:<a href="https://doi.org/10.1111/jvim.14690" class="external" target="_blank">10.1111/jvim.14690&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -276,4 +299,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-03 02:09:37.731373Z -->
+<!-- Updated 2025-03-04 19:09:35.032932Z -->

@@ -1,17 +1,16 @@
 ---
 title: "&#x1F535; Needles"
 layout: default
-nav_order: 35
+nav_order: 133
 seo:
   headline: "Needles"
   name: "Needles"
-  date_modified: "2025-03-08T20:27:19.085210Z"
+  date_modified: "2025-03-08T20:36:28.353807Z"
 ---
 
 # Needles
 
 Updated March 8, 2025.
-First time visitor? [Start here.]({% link docs/start-here.md %})
 
 
 
@@ -106,4 +105,4 @@ View on <a href="https://thrivingpets.com/products/terumo-needles-thin-wall-21-g
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-08 20:27:19.085210Z -->
+<!-- Updated 2025-03-08 20:36:28.353807Z -->

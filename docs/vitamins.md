@@ -1,19 +1,16 @@
 ---
 title: "&#x1F535; Vitamins"
 layout: default
-nav_order: 56
+nav_order: 154
 seo:
   headline: "Vitamins"
   name: "Vitamins"
-  date_modified: "2025-03-08T20:27:19.085210Z"
+  date_modified: "2025-03-08T20:36:28.353807Z"
 ---
 
 # Vitamins
 
 Updated March 8, 2025.
-First time visitor? [Start here.]({% link docs/start-here.md %})
-
-&#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
 
@@ -186,4 +183,9 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-08 20:27:19.085210Z -->
+* * *
+
+&#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
+<!-- Updated 2025-03-08 20:36:28.353807Z -->

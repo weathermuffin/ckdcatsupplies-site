@@ -5,7 +5,7 @@ nav_order: 27
 seo:
   headline: "Hyperthyroid"
   name: "Hyperthyroid"
-  date_modified: "2025-03-08T20:25:54.684994Z"
+  date_modified: "2025-03-08T20:27:19.085210Z"
 ---
 
 # Hyperthyroid
@@ -77,4 +77,4 @@ View on <a href="https://www.chewy.com/dp/273275" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-08 20:25:54.684994Z -->
+<!-- Updated 2025-03-08 20:27:19.085210Z -->

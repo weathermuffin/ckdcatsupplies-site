@@ -5,7 +5,7 @@ nav_order: 10
 seo:
   headline: "Bladder"
   name: "Bladder"
-  date_modified: "2025-03-08T20:25:54.684994Z"
+  date_modified: "2025-03-08T20:27:19.085210Z"
 ---
 
 # Bladder
@@ -257,4 +257,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-08 20:25:54.684994Z -->
+<!-- Updated 2025-03-08 20:27:19.085210Z -->

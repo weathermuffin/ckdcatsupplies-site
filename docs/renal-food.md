@@ -5,7 +5,7 @@ nav_order: 49
 seo:
   headline: "Renal food"
   name: "Renal food"
-  date_modified: "2025-03-08T20:25:54.684994Z"
+  date_modified: "2025-03-08T20:27:19.085210Z"
 ---
 
 # Renal food
@@ -173,4 +173,4 @@ View on <a href="https://www.chewy.com/dp/578126" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-08 20:25:54.684994Z -->
+<!-- Updated 2025-03-08 20:27:19.085210Z -->

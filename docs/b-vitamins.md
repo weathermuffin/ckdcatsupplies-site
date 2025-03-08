@@ -5,7 +5,7 @@ nav_order: 9
 seo:
   headline: "B vitamins"
   name: "B vitamins"
-  date_modified: "2025-03-08T20:25:54.684994Z"
+  date_modified: "2025-03-08T20:27:19.085210Z"
 ---
 
 # B vitamins
@@ -243,4 +243,4 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-08 20:25:54.684994Z -->
+<!-- Updated 2025-03-08 20:27:19.085210Z -->

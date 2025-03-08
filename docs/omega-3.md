@@ -5,7 +5,7 @@ nav_order: 37
 seo:
   headline: "Omega-3"
   name: "Omega-3"
-  date_modified: "2025-03-08T20:25:54.684994Z"
+  date_modified: "2025-03-08T20:27:19.085210Z"
 ---
 
 # Omega-3
@@ -91,4 +91,4 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-08 20:25:54.684994Z -->
+<!-- Updated 2025-03-08 20:27:19.085210Z -->

@@ -5,12 +5,12 @@ nav_order: 7
 seo:
   headline: "Appetite"
   name: "Appetite"
-  date_modified: "2025-03-04T19:09:35.032932Z"
+  date_modified: "2025-03-08T20:25:54.684994Z"
 ---
 
 # Appetite
 
-Updated March 4, 2025.
+Updated March 8, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -270,4 +270,4 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-04 19:09:35.032932Z -->
+<!-- Updated 2025-03-08 20:25:54.684994Z -->

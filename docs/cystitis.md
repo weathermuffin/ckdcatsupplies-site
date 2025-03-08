@@ -5,12 +5,12 @@ nav_order: 15
 seo:
   headline: "Cystitis"
   name: "Cystitis"
-  date_modified: "2025-03-04T19:09:35.032932Z"
+  date_modified: "2025-03-08T20:25:54.684994Z"
 ---
 
 # Cystitis
 
-Updated March 4, 2025.
+Updated March 8, 2025.
 First time visitor? [Start here.]({% link docs/start-here.md %})
 
 &#x1F449; Links on this page marked with a &#x1f4b2; may earn the site a modest commission.
@@ -51,11 +51,16 @@ View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsuppli
 
 ### 30 ct
 
-View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
+View on <a href="https://www.amazon.com/dp/B00BWTP7QA/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.gosupps.com/feliway-cystease-advanced-urinary-tract-support-for-cats-pot-size-30-tablets.html" class="external" target="_blank">GoSupps&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ### 300 ct
 
-View on <a href="https://www.amazon.com/dp/B00IR7MXY4/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
+View on <a href="https://www.amazon.com/dp/B00IR7MXY4/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.gosupps.com/feliway-cystease-for-stress-related-bladder-problems-in-cats-300-capsules-single.html" class="external" target="_blank">GoSupps&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> While this product has worked wonders for my FIC, it's made in the U.K. and can be hard to source reliably in the U.S. Anticipate high prices, stock outages, and extended delivery times.
 
 <details markdown="block">
 <summary>References and resources</summary>
@@ -338,4 +343,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-04 19:09:35.032932Z -->
+<!-- Updated 2025-03-08 20:25:54.684994Z -->

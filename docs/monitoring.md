@@ -5,12 +5,12 @@ nav_order: 131
 seo:
   headline: "Monitoring"
   name: "Monitoring"
-  date_modified: "2025-03-08T20:36:28.353807Z"
+  date_modified: "2025-03-09T19:39:46.602873Z"
 ---
 
 # Monitoring
 
-Updated March 8, 2025.
+Updated March 9, 2025.
 
 
 
@@ -172,6 +172,28 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; Tap Tool Pro
+
+![Tap Tool Pro](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9e/8e/68/9e8e6896-47d6-6b2d-64ef-15435c2a2023/AppIcon-Pro-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+[**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+ <a href="https://onethousandmoons.com/tap-tool/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://apps.apple.com/us/app/id1265968974" class="external" target="_blank">App Store&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://play.google.com/store/apps/details?id=com.onethousandmoons.taptool&hl=en_US" class="external" target="_blank">Play Store&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Dad uses this app to measure my respiratory and heart rates. When he evaluated several apps for this purpose, he found this one to be simplest, easiest to use, as well as most accurate.
+
+* * *
+
+
+
 ## &#x1F7E2; Vmed Technology vet-dop2
 
 ![Vmed Technology vet-dop2](https://www.vmedtechnology.com/wp-content/uploads/2023/09/vet-dop2.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -209,4 +231,4 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-08 20:36:28.353807Z -->
+<!-- Updated 2025-03-09 19:39:46.602873Z -->

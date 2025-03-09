@@ -5,12 +5,12 @@ nav_order: 113
 seo:
   headline: "Cystitis"
   name: "Cystitis"
-  date_modified: "2025-03-08T20:36:28.353807Z"
+  date_modified: "2025-03-09T19:39:46.602873Z"
 ---
 
 # Cystitis
 
-Updated March 8, 2025.
+Updated March 9, 2025.
 
 
 
@@ -57,7 +57,7 @@ View on <a href="https://www.amazon.com/dp/B00IR7MXY4/ref=nosim?tag=ckdcatsuppli
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
-> While this product has worked wonders for my FIC, it's made in the U.K. and can be hard to source reliably in the U.S. Anticipate high prices, stock outages, and extended delivery times.
+> Where to find Cystease in the U.S.? While this product has worked wonders for my FIC, it's made in the U.K. and can be hard to source reliably in the U.S. Anticipate high prices, stock outages, and extended delivery times.
 
 <details markdown="block">
 <summary>References and resources</summary>
@@ -345,4 +345,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-08 20:36:28.353807Z -->
+<!-- Updated 2025-03-09 19:39:46.602873Z -->

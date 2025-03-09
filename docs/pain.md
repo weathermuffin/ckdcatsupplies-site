@@ -5,12 +5,12 @@ nav_order: 138
 seo:
   headline: "Pain"
   name: "Pain"
-  date_modified: "2025-03-08T20:36:28.353807Z"
+  date_modified: "2025-03-09T19:39:46.602873Z"
 ---
 
 # Pain
 
-Updated March 8, 2025.
+Updated March 9, 2025.
 
 
 
@@ -47,6 +47,26 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 1. _"Due to the patents held on Redonyl Ultra, no other animal health nutraceutical can contain micronized or ultramicronized PEA."_ &mdash;  Dechra unveils skin-supporting Redonyl Ultra Feline (2022) <a href="https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/" class="external" target="_blank">https://todaysveterinarybusiness.com/redonyl-ultra-feline-dechra/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-10-20)
 
 </details>
+
+* * *
+
+
+
+## &#x1F7E2; Feline Grimace Scale
+
+![Feline Grimace Scale](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/5d/85/c65d851d-2e0c-59f5-f916-f1810f57c8d2/appicon-1x_U007emarketing-0-8-0-85-220-0.png/460x0w.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Pain**]({% link docs/pain.md %})
+{: .label }
+
+ <a href="https://www.felinegrimacescale.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://apps.apple.com/us/app/id1596750830" class="external" target="_blank">App Store&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://play.google.com/store/apps/details?id=com.universitedemontreal.felinegrimacescale&hl=en_US" class="external" target="_blank">Play Store&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Use this handy app to learn and quantify signs of pain in cats.
 
 * * *
 
@@ -174,4 +194,4 @@ View on <a href="https://www.chewy.com/dp/1129094" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-08 20:36:28.353807Z -->
+<!-- Updated 2025-03-09 19:39:46.602873Z -->

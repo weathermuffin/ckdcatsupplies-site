@@ -5,12 +5,12 @@ nav_order: 143
 seo:
   headline: "Probiotics"
   name: "Probiotics"
-  date_modified: "2025-03-08T20:36:28.353807Z"
+  date_modified: "2025-03-09T19:39:46.602873Z"
 ---
 
 # Probiotics
 
-Updated March 8, 2025.
+Updated March 9, 2025.
 
 
 
@@ -157,4 +157,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-08 20:36:28.353807Z -->
+<!-- Updated 2025-03-09 19:39:46.602873Z -->

@@ -5,12 +5,12 @@ nav_order: 130
 seo:
   headline: "Misc"
   name: "Misc"
-  date_modified: "2025-03-08T20:36:28.353807Z"
+  date_modified: "2025-03-09T19:39:46.602873Z"
 ---
 
 # Misc
 
-Updated March 8, 2025.
+Updated March 9, 2025.
 
 
 
@@ -36,6 +36,26 @@ View on <a href="https://www.amazon.com/dp/B0BNL5JCVR/ref=nosim?tag=ckdcatsuppli
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B0CCB1VRJD/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
+
+* * *
+
+
+
+## &#x1F7E2; Merck Vet Manual
+
+![Merck Vet Manual](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/95/a5/8e95a5f2-0299-0589-e984-a798919426d9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/460x0w.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Misc**]({% link docs/misc.md %})
+{: .label }
+
+ <a href="https://www.merckvetmanual.com/resourcespages/mobileapps" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://apps.apple.com/us/app/id1289663059" class="external" target="_blank">App Store&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://play.google.com/store/apps/details?id=com.mm.veterinary&hl=en_US" class="external" target="_blank">Play Store&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> A handy reference app.
 
 * * *
 
@@ -70,4 +90,4 @@ View on <a href="https://www.amazon.com/dp/B07Q5747XZ/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-08 20:36:28.353807Z -->
+<!-- Updated 2025-03-09 19:39:46.602873Z -->

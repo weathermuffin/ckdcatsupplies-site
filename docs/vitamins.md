@@ -5,12 +5,12 @@ nav_order: 154
 seo:
   headline: "Vitamins"
   name: "Vitamins"
-  date_modified: "2025-03-08T20:36:28.353807Z"
+  date_modified: "2025-03-09T19:39:46.602873Z"
 ---
 
 # Vitamins
 
-Updated March 8, 2025.
+Updated March 9, 2025.
 
 
 
@@ -188,4 +188,4 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-08 20:36:28.353807Z -->
+<!-- Updated 2025-03-09 19:39:46.602873Z -->

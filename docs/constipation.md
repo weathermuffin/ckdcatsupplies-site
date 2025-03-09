@@ -1,11 +1,11 @@
 ---
 title: "&#x1F535; Constipation"
 layout: default
-nav_order: 112
+nav_order: 113
 seo:
   headline: "Constipation"
   name: "Constipation"
-  date_modified: "2025-03-09T19:39:46.602873Z"
+  date_modified: "2025-03-09T19:43:45.881271Z"
 ---
 
 # Constipation
@@ -70,4 +70,4 @@ View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-09 19:39:46.602873Z -->
+<!-- Updated 2025-03-09 19:43:45.881271Z -->

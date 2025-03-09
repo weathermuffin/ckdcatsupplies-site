@@ -35,6 +35,9 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Appetite**]({% link docs/appetite.md %})
 {: .label }
 
+[**Apps**]({% link docs/apps.md %})
+{: .label }
+
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
 
@@ -182,4 +185,4 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2025-03-09 19:39:46.602873Z -->
+<!-- Updated 2025-03-09 19:43:45.881271Z -->

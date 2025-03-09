@@ -1,11 +1,11 @@
 ---
 title: "&#x1F535; Phosphate binders"
 layout: default
-nav_order: 140
+nav_order: 141
 seo:
   headline: "Phosphate binders"
   name: "Phosphate binders"
-  date_modified: "2025-03-09T19:39:46.602873Z"
+  date_modified: "2025-03-09T19:43:45.881271Z"
 ---
 
 # Phosphate binders
@@ -138,4 +138,4 @@ View on <a href="https://www.chewy.com/dp/102190" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-09 19:39:46.602873Z -->
+<!-- Updated 2025-03-09 19:43:45.881271Z -->

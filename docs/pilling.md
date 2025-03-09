@@ -1,11 +1,11 @@
 ---
 title: "&#x1F535; Pilling"
 layout: default
-nav_order: 141
+nav_order: 142
 seo:
   headline: "Pilling"
   name: "Pilling"
-  date_modified: "2025-03-09T19:39:46.602873Z"
+  date_modified: "2025-03-09T19:43:45.881271Z"
 ---
 
 # Pilling
@@ -365,4 +365,4 @@ View on <a href="https://www.amazon.com/dp/B095Z5WP43/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-09 19:39:46.602873Z -->
+<!-- Updated 2025-03-09 19:43:45.881271Z -->

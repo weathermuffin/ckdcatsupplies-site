@@ -130,6 +130,9 @@ Browse one of the following CATegories... &#x1F639;
 [**Appetite**]({% link docs/appetite.md %})
 {: .label }
 
+[**Apps**]({% link docs/apps.md %})
+{: .label }
+
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
 

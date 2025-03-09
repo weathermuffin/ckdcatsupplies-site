@@ -1,11 +1,11 @@
 ---
 title: "&#x1F535; Monitoring"
 layout: default
-nav_order: 131
+nav_order: 132
 seo:
   headline: "Monitoring"
   name: "Monitoring"
-  date_modified: "2025-03-09T19:39:46.602873Z"
+  date_modified: "2025-03-09T19:43:45.881271Z"
 ---
 
 # Monitoring
@@ -176,6 +176,8 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 
 ![Tap Tool Pro](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9e/8e/68/9e8e6896-47d6-6b2d-64ef-15435c2a2023/AppIcon-Pro-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+[**Apps**]({% link docs/apps.md %})
+{: .label }
 [**Heart**]({% link docs/heart.md %})
 {: .label }
 [**Monitoring**]({% link docs/monitoring.md %})
@@ -231,4 +233,4 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-09 19:39:46.602873Z -->
+<!-- Updated 2025-03-09 19:43:45.881271Z -->

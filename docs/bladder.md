@@ -1,11 +1,11 @@
 ---
 title: "&#x1F535; Bladder"
 layout: default
-nav_order: 108
+nav_order: 109
 seo:
   headline: "Bladder"
   name: "Bladder"
-  date_modified: "2025-03-09T19:39:46.602873Z"
+  date_modified: "2025-03-09T19:43:45.881271Z"
 ---
 
 # Bladder
@@ -259,4 +259,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-09 19:39:46.602873Z -->
+<!-- Updated 2025-03-09 19:43:45.881271Z -->

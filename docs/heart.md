@@ -5,12 +5,12 @@ nav_order: 123
 seo:
   headline: "Heart"
   name: "Heart"
-  date_modified: "2025-03-09T19:43:45.881271Z"
+  date_modified: "2025-03-14T20:21:10.372360Z"
 ---
 
 # Heart
 
-Updated March 9, 2025.
+Updated March 14, 2025.
 
 
 
@@ -22,6 +22,18 @@ Updated March 9, 2025.
 {: .label }
 
 View on <a href="https://www.amazon.com/dp/B000BD0RRM/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/doctors-best-nattokinase" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-nattokinase-2-000-fus-90-veggie-caps-33" class="external" target="_blank">Doctor's Best&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Chen H, McGowan EM, Ren N, Lal S, Nassif N, Shad-Kaneez F, Qu X, Lin Y. Nattokinase: A Promising Alternative in Prevention and Treatment of Cardiovascular Diseases. Biomark Insights. 2018 Jul 5;13:1177271918785130. doi:<a href="https://doi.org/10.1177/1177271918785130" class="external" target="_blank">10.1177/1177271918785130&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Chen H, Chen J, Zhang F, Li Y, Wang R, Zheng Q, Zhang X, Zeng J, Xu F, Lin Y. Effective management of atherosclerosis progress and hyperlipidemia with nattokinase: A clinical study with 1,062 participants. Front Cardiovasc Med. 2022 Aug 22;9:964977. doi: 10.3389/fcvm.2022.964977. Erratum in: Front Cardiovasc Med. 2022 Dec 05;9:1076420. doi:<a href="https://doi.org/10.3389/fcvm.2022.1076420" class="external" target="_blank">10.3389/fcvm.2022.1076420&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Di Micco, P., Bernardi, F. F., Camporese, G., Biglietto, M., Perrella, A., Ciarambino, T., Russo, V., & Imbalzano, E. (2023). Nattokinase historical sketch on experimental and clinical evidence. Italian Journal of Medicine, 17(1). doi:<a href="https://doi.org/10.4081/itjm.2023.1583" class="external" target="_blank">10.4081/itjm.2023.1583&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Raiszadeh MM. Compositions and methods for thromboembolism dissolution. World Intellectual Property Organization patent WO 2017/205790 A1. 2017 Nov 30. <a href="https://patents.google.com/patent/WO2017205790A1/en" class="external" target="_blank">WO 2017/205790 A1&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sumi H, Hamada H, Nakanishi K, Hiratani H. Enhancement of the fibrinolytic activity in plasma by oral administration of nattokinase. Acta Haematol. 1990;84(3):139-43. doi:<a href="https://doi.org/10.1159/000205051" class="external" target="_blank">10.1159/000205051&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Weng Y, Yao J, Sparks S, Wang KY. Nattokinase: An Oral Antithrombotic Agent for the Prevention of Cardiovascular Disease. Int J Mol Sci. 2017 Feb 28;18(3):523. doi:<a href="https://doi.org/10.3390/ijms18030523" class="external" target="_blank">10.3390/ijms18030523&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
 
 * * *
 
@@ -325,4 +337,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-09 19:43:45.881271Z -->
+<!-- Updated 2025-03-14 20:21:10.372360Z -->

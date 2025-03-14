@@ -5,12 +5,12 @@ nav_order: 106
 seo:
   headline: "Apps"
   name: "Apps"
-  date_modified: "2025-03-09T19:43:45.881271Z"
+  date_modified: "2025-03-14T20:21:10.372360Z"
 ---
 
 # Apps
 
-Updated March 9, 2025.
+Updated March 14, 2025.
 
 
 
@@ -95,4 +95,4 @@ View on <a href="https://apps.apple.com/us/app/id1265968974" class="external" ta
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-09 19:43:45.881271Z -->
+<!-- Updated 2025-03-14 20:21:10.372360Z -->

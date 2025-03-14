@@ -5,12 +5,12 @@ nav_order: 121
 seo:
   headline: "GI"
   name: "GI"
-  date_modified: "2025-03-09T19:43:45.881271Z"
+  date_modified: "2025-03-14T20:21:10.372360Z"
 ---
 
 # GI
 
-Updated March 9, 2025.
+Updated March 14, 2025.
 
 
 
@@ -32,6 +32,26 @@ View on <a href="https://www.chewy.com/dp/1028494" class="external" target="_bla
 1.  Silverman J, Otley A. Budesonide in the treatment of inflammatory bowel disease. Expert Rev Clin Immunol. 2011 Jul;7(4):419-28. doi:<a href="https://doi.org/10.1586/eci.11.34" class="external" target="_blank">10.1586/eci.11.34&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
+
+* * *
+
+
+
+## &#x1F7E2; Global Healing Aloe Vera Capsules
+
+![Global Healing Aloe Vera Capsules](https://globalhealing.com/cdn/shop/products/3000w_09b98b22-9221-4a5d-8444-d0ee1828a618.png?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Constipation**]({% link docs/constipation.md %})
+{: .label }
+[**GI**]({% link docs/gi.md %})
+{: .label }
+
+View on <a href="https://globalhealing.com/products/aloe-vera" class="external" target="_blank">Global Healing&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Aloe vera is supposed to help with gastric motility. Just be certain any aloe vera you use for a cat is inner fillet ONLY (not whole leaf), as the aloe skin is toxic. Also avoid aloe vera juice that contains lemon, since that's toxic to cats, too!
 
 * * *
 
@@ -78,4 +98,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-09 19:43:45.881271Z -->
+<!-- Updated 2025-03-14 20:21:10.372360Z -->

@@ -5,12 +5,12 @@ nav_order: 107
 seo:
   headline: "Arthritis"
   name: "Arthritis"
-  date_modified: "2025-03-09T19:43:45.881271Z"
+  date_modified: "2025-03-14T20:21:10.372360Z"
 ---
 
 # Arthritis
 
-Updated March 9, 2025.
+Updated March 14, 2025.
 
 
 
@@ -349,7 +349,7 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Zoetis Solensia
 
-![Zoetis Solensia](https://www.solensiavetteam.com/assets/images/Solensia-Product-Shot.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Zoetis Solensia](https://www.zoetisus.com/content/pages/Products/Cats/Solensia-Landing-page-resources/Images/Solensia-product-box-with-vial.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Arthritis**]({% link docs/arthritis.md %})
 {: .label }
@@ -405,4 +405,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-09 19:43:45.881271Z -->
+<!-- Updated 2025-03-14 20:21:10.372360Z -->

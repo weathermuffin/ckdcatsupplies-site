@@ -1,90 +1,33 @@
 ---
-title: "&#x1F535; Renal food"
+title: "&#x1F535; Low-phosphorus"
 layout: default
-nav_order: 149
+nav_order: 130
 seo:
-  headline: "Renal food"
-  name: "Renal food"
+  headline: "Low-phosphorus"
+  name: "Low-phosphorus"
   date_modified: "2025-03-28T19:58:02.371965Z"
 ---
 
-# Renal food
+# Low-phosphorus
 
 Updated March 28, 2025.
 
 
 
-## &#x1F7E2; Blue Buffalo Natural K+M Kidney + Mobility Dry Cat Food, 7 lb
+## &#x1F7E2; Weruva Truluxe Steak Frites Dinner
 
-[**Renal food**]({% link docs/renal-food.md %})
+![Weruva Truluxe Steak Frites Dinner](https://www.weruva.com/cdn/shop/files/878408003219_TRULUXE_CAN_STEAK-FRITES_3OZ_2300X2300_V3R4_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Low-phosphorus**]({% link docs/low-phosphorus.md %})
 {: .label }
 
- <a href="https://bluebuffalo.com/dry-cat-food/blue-natural-veterinary-diet/kidney-mobility/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+### 3 oz, case of 24
 
-View on <a href="https://www.chewy.com/dp/174510" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.chewy.com/dp/104733" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/products/steak-frites-dinner-cat-can?variant=44397747208466" class="external" target="_blank">Weruva&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> Personally I found this kibble way more palatable than the K+M wet food. YMMV.
+### 6 oz, case of 24
 
-* * *
-
-
-
-## &#x1F7E2; Blue Buffalo Natural K+M Kidney + Mobility Wet Cat Food, 5.5 oz, case of 24
-
-[**Renal food**]({% link docs/renal-food.md %})
-{: .label }
-
- <a href="https://bluebuffalo.com/wet-cat-food/natural-veterinary-diet/kidney-mobility/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.chewy.com/dp/174518" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> Even though Dad said he really liked the ingredients, I just couldn't get into this. Sorry you bought a whole case, Dad!
-
-* * *
-
-
-
-## &#x1F7E2; Hill's Prescription Diet k/d Kidney Care Early Support with Chicken Dry Cat Food
-
-![Hill's Prescription Diet k/d Kidney Care Early Support with Chicken Dry Cat Food](https://pxmshare.colgatepalmolive.com/PNG_500/d1zDNXDBD-FGe1S5gqQo5.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Renal food**]({% link docs/renal-food.md %})
-{: .label }
-
- <a href="https://www.hillspet.com/cat-food/pd-kd-early-support-feline-chicken-dry" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.chewy.com/dp/175305" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> I'm on an entirely wet food diet now, but man, back in the early CKD days, I used to love this kibble! Gobble, gobble. It's fairly calorically dense which is great for a kitty that won't eat much. It's a little harder for me now that I have fewer teeth.
-
-* * *
-
-
-
-## &#x1F7E2; Royal Canin Renal Support E Loaf in Sauce, 5.1-oz, case of 24
-
-![Royal Canin Renal Support E Loaf in Sauce, 5.1-oz, case of 24](https://cdn.royalcanin-weshare-online.io/Bz82vYcBRYZmsWpc2fhh/v17/center-front-hero-image-4168-030111948236-cat-01-jpg?w=640&auto=compress){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Renal food**]({% link docs/renal-food.md %})
-{: .label }
-
- <a href="https://www.royalcanin.com/us/cats/products/vet-products/renal-support-e-loaf-in-sauce-4168" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.chewy.com/dp/297392" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> Just gotta say, the renal diets are not my favorite... But of the canned options out there, this is the one I'll most readily accept.
+View on <a href="https://www.chewy.com/dp/104734" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.weruva.com/products/steak-frites-dinner-cat-can?variant=44397747241234" class="external" target="_blank">Weruva&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -190,6 +133,17 @@ View on <a href="https://www.weruva.com/products/pate-formulas-variety-pack-cat-
 > &#x1F63A; Luna Says
 >
 > I really liked this food. Sadly, I think I was allergic to the egg in it. But lots of kitties enjoy this food. It's a good source of protein with low phosphorus, a nice option for a CKD kitty. Bonus: it doesn't require a prescription!
+
+* * *
+
+
+# Low-phosphorus references and resources
+
+1.  Ando S, Sakuma M, Morimoto Y, Arai H. The Effect of Various Boiling Conditions on Reduction of Phosphorus and Protein in Meat. J Ren Nutr. 2015 Nov;25(6):504-9. doi:<a href="https://doi.org/10.1053/j.jrn.2015.05.005" class="external" target="_blank">10.1053/j.jrn.2015.05.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Biruete A, Hill Gallant KM, Lloyd L, Meade A, Moe SM, St-Jules DE, Kistler BM. 'Phos'tering a Clear Message: The Evolution of Dietary Phosphorus Management in Chronic Kidney Disease. J Ren Nutr. 2023 Nov;33(6S):S13-S20. doi:<a href="https://doi.org/10.1053/j.jrn.2023.05.004" class="external" target="_blank">10.1053/j.jrn.2023.05.004&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Cupisti A, Comar F, Benini O, Lupetti S, D'Alessandro C, Barsotti G, Gianfaldoni D. Effect of boiling on dietary phosphate and nitrogen intake. J Ren Nutr. 2006 Jan;16(1):36-40. doi:<a href="https://doi.org/10.1053/j.jrn.2005.10.005" class="external" target="_blank">10.1053/j.jrn.2005.10.005&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  de Abreu DBV, Picard K, Klein MRST, Gadas OM, Richard C, Barreto Silva MI. Soaking to Reduce Potassium and Phosphorus Content of Foods. J Ren Nutr. 2023 Jan;33(1):165-171. doi:<a href="https://doi.org/10.1053/j.jrn.2022.06.010" class="external" target="_blank">10.1053/j.jrn.2022.06.010&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Vrdoljak I, Panjkota Krbavčić I, Bituh M, Vrdoljak T, Dujmić Z. Analysis of different thermal processing methods of foodstuffs to optimize protein, calcium, and phosphorus content for dialysis patients. J Ren Nutr. 2015 May;25(3):308-15. doi:<a href="https://doi.org/10.1053/j.jrn.2014.11.002" class="external" target="_blank">10.1053/j.jrn.2014.11.002&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 

@@ -202,6 +202,9 @@ Browse one of the following CATegories... &#x1F639;
 [**Lactated Ringer's (LRS)**]({% link docs/lactated-ringers-lrs.md %})
 {: .label }
 
+[**Low-phosphorus**]({% link docs/low-phosphorus.md %})
+{: .label }
+
 [**Medicating**]({% link docs/medicating.md %})
 {: .label }
 

@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; Potassium"
 layout: default
-nav_order: 143
+nav_order: 144
 seo:
   headline: "Potassium"
   name: "Potassium"
-  date_modified: "2025-03-14T20:21:10.372360Z"
+  date_modified: "2025-03-28T19:58:02.371965Z"
 ---
 
 # Potassium
 
-Updated March 14, 2025.
+Updated March 28, 2025.
 
 
 
@@ -89,4 +89,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-14 20:21:10.372360Z -->
+<!-- Updated 2025-03-28 19:58:02.371965Z -->

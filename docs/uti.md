@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; UTI"
 layout: default
-nav_order: 154
+nav_order: 155
 seo:
   headline: "UTI"
   name: "UTI"
-  date_modified: "2025-03-14T20:21:10.372360Z"
+  date_modified: "2025-03-28T19:58:02.371965Z"
 ---
 
 # UTI
 
-Updated March 14, 2025.
+Updated March 28, 2025.
 
 
 
@@ -173,7 +173,7 @@ View on <a href="https://store.silverlakeresearch.com/product/rapidbac-vet-2-0-t
 
 ## &#x1F7E2; VRS flo cat (powder, 90 g)
 
-![VRS flo cat](https://vrshealth.com/wp-content/uploads/sites/8/2024/02/flo-Cat-Page-Images_2_Main-Product.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![VRS flo cat](https://vrshealth.com/cdn/shop/files/VRS_flo_cat_noShadow_white_R__Web.png?width=1200){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 Promote optimal urinary tract health and function.
 
@@ -264,4 +264,4 @@ View on <a href="https://www.chewy.com/dp/173148" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-14 20:21:10.372360Z -->
+<!-- Updated 2025-03-28 19:58:02.371965Z -->

@@ -5,12 +5,12 @@ nav_order: 113
 seo:
   headline: "Constipation"
   name: "Constipation"
-  date_modified: "2025-03-14T20:21:10.372360Z"
+  date_modified: "2025-03-28T19:58:02.371965Z"
 ---
 
 # Constipation
 
-Updated March 14, 2025.
+Updated March 28, 2025.
 
 
 
@@ -36,12 +36,12 @@ View on <a href="https://globalhealing.com/products/aloe-vera" class="external" 
 
 ## &#x1F7E2; MiraLAX
 
-![MiraLAX](https://www.miralax.com/sites/g/files/vrxlpx51391/files/2023-10/BCH%20-%202023%20-%20MiraLAX%20Redesign%20-%20MiraLAX%20-%20FullPack%20-%20Badge%20-%20PDP.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![MiraLAX](https://www.miralax.com/sites/g/files/vrxlpx54351/files/styles/desktop_1000xauto/public/2023-12/miralax-products-bottle-badge-700x700-v3.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Constipation**]({% link docs/constipation.md %})
 {: .label }
 
- <a href="https://felinecrf.org/constipation.htm#peg3350_miralax" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://www.miralax.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/constipation.htm#peg3350_miralax" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 {: .lunasays-title }
 > &#x1F63A; Luna Says
@@ -90,4 +90,4 @@ View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-03-14 20:21:10.372360Z -->
+<!-- Updated 2025-03-28 19:58:02.371965Z -->

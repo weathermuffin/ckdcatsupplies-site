@@ -5,12 +5,12 @@ nav_order: 123
 seo:
   headline: "Heart"
   name: "Heart"
-  date_modified: "2025-03-14T20:21:10.372360Z"
+  date_modified: "2025-03-28T19:58:02.371965Z"
 ---
 
 # Heart
 
-Updated March 14, 2025.
+Updated March 28, 2025.
 
 
 
@@ -41,12 +41,12 @@ View on <a href="https://www.amazon.com/dp/B000BD0RRM/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Doctor's Best Ubiquinol with Kaneka QH, 50 mg (90 ct)
 
-![Doctor's Best Ubiquinol with Kaneka QH, 50 mg](https://www.doctorsbest.com/cdn/shop/files/753950001787-BFP-V5-050124.png?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Doctor's Best Ubiquinol with Kaneka QH, 50 mg](https://www.doctorsbest.com/cdn/shop/files/80_4e55f1b6-094c-4a88-b7b6-4ecbc25763f8.jpg?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Heart**]({% link docs/heart.md %})
 {: .label }
 
-View on <a href="https://www.amazon.com/dp/B0014I4XMS/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/doctors-best-ubiquinol-with-kaneka-qh" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-ubiquinol-with-kaneka-50-mg-90-softgels-12631" class="external" target="_blank">Doctor's Best&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B0014I4XMS/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/doctors-best-ubiquinol-with-kaneka-qh" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.doctorsbest.com/products/doctor-s-best-ubiquinol-with-kaneka-q-50-mg-90-softgels-12631" class="external" target="_blank">Doctor's Best&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 <details markdown="block">
 <summary>References and resources</summary>
@@ -300,6 +300,7 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 # Heart references and resources
 
 1.  Amabile CM, Spencer AP. Keeping your patient with heart failure safe: a review of potentially dangerous medications. Arch Intern Med. 2004 Apr 12;164(7):709-20. doi:<a href="https://doi.org/10.1001/archinte.164.7.709" class="external" target="_blank">10.1001/archinte.164.7.709&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Brainard BM, Coleman AE, Kurosawa A, Rush JE, Hogan DF, Brooks MB, Kraus MS. Therapy with clopidogrel or rivaroxaban has equivalent impacts on recurrence of thromboembolism and survival in cats following cardiogenic thromboembolism: the SUPERCAT study. J Am Vet Med Assoc. 2024 Dec 18;263(4):1-10. doi:<a href="https://doi.org/10.2460/javma.24.09.0584" class="external" target="_blank">10.2460/javma.24.09.0584&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Burns K (2022). Feline Hypertrophic Cardiomyopathy and the Role of Nutrition. Today's Veterinary Nurse. <a href="https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/" class="external" target="_blank">https://todaysveterinarynurse.com/nutrition/feline-hypertrophic-cardiomyopathy-and-the-role-of-nutrition/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Cook A, Saunders A. Finding the Balance in Your Patients with Cardiovascular and Renal Disease. Today's Veterinary Practice. 2018. <a href="https://todaysveterinarypractice.com/cardiology/veterinary-patients-with-cardiovascular-and-renal-disease/" class="external" target="_blank">https://todaysveterinarypractice.com/cardiology/veterinary-patients-with-cardiovascular-and-renal-disease/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Hansen B (2021). Fluid Overload. Front. Vet. Sci. 8:668688. doi:<a href="https://doi.org/10.3389/fvets.2021.668688" class="external" target="_blank">10.3389/fvets.2021.668688&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -337,4 +338,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-14 20:21:10.372360Z -->
+<!-- Updated 2025-03-28 19:58:02.371965Z -->

@@ -59,3 +59,10 @@ Select or type in "Veterinary Medicine Biomedical Sciences Department Fund"
 ## Texas A&M Veterinary Medicine & Biomedical Sciences
 
 <a href="https://vetmed.tamu.edu/giving/" class="external" target="_blank">https://vetmed.tamu.edu/giving/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+
+## Darwin's Ark
+
+Non-profit engaged in feline (and canine) genomic research.
+
+<a href="https://givebutter.com/darwinsark" class="external" target="_blank">https://givebutter.com/darwinsark&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>

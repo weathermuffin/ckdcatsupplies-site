@@ -5,12 +5,12 @@ nav_order: 114
 seo:
   headline: "Cystitis"
   name: "Cystitis"
-  date_modified: "2025-03-28T19:58:02.371965Z"
+  date_modified: "2025-05-02T02:53:12.059923Z"
 ---
 
 # Cystitis
 
-Updated March 28, 2025.
+Updated May 2, 2025.
 
 
 
@@ -266,14 +266,14 @@ View on <a href="https://www.amazon.com/dp/B01M01AD0U/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; VetPlus Cystaid
 
-![VetPlus Cystaid](https://www.vetplus.co.uk/wp-content/uploads/2021/04/Cystaid.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![VetPlus Cystaid](https://vetplusglobal.com/wp-content/uploads/2025/02/Cystaid.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
- <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://vetplusglobal.com/product/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -315,6 +315,7 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 1.  Buffington, C.A.T. (2011), Idiopathic Cystitis in Domestic Cats—Beyond the Lower Urinary Tract. Journal of Veterinary Internal Medicine, 25: 784-796. doi:<a href="https://doi.org/10.1111/j.1939-1676.2011.0732.x" class="external" target="_blank">10.1111/j.1939-1676.2011.0732.x&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Carney HC, Sadek TP, Curtis TM, Halls V, Heath S, Hutchison P, Mundschenk K, Westropp JL; American Association of Feline Practitioners; International Society of Feline Medicine. AAFP and ISFM Guidelines for diagnosing and solving house-soiling behavior in cats. J Feline Med Surg. 2014 Jul;16(7):579-98. doi:<a href="https://doi.org/10.1177/1098612X14539092" class="external" target="_blank">10.1177/1098612X14539092&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Chew DJ, Buffington CA, Kendall MS, DiBartola SP, Woodworth BE. Amitriptyline treatment for severe recurrent idiopathic cystitis in cats. J Am Vet Med Assoc. 1998 Nov 1;213(9):1282-6. doi:<a href="https://doi.org/10.2460/javma.1998.213.09.1282" class="external" target="_blank">10.2460/javma.1998.213.09.1282&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Dowers K. Nonobstructive idiopathic feline lower urinary tract disease: How to approach a puzzling disorder. DVM360. 2009. <a href="https://www.dvm360.com/view/nonobstructive-idiopathic-feline-lower-urinary-tract-disease-how-approach-puzzling-disorder" class="external" target="_blank">https://www.dvm360.com/view/nonobstructive-idiopathic-feline-lower-urinary-tract-disease-how-approach-puzzling-disorder&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Gunn-Moore DA, Shenoy CM. Oral glucosamine and the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(4):219-225. doi:<a href="https://doi.org/10.1016/j.jfms.2003.09.007" class="external" target="_blank">10.1016/j.jfms.2003.09.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Gunn-Moore DA, Cameron ME. A pilot study using synthetic feline facial pheromone for the management of feline idiopathic cystitis. Journal of Feline Medicine and Surgery. 2004;6(3):133-138. doi:<a href="https://doi.org/10.1016/j.jfms.2004.01.006" class="external" target="_blank">10.1016/j.jfms.2004.01.006&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Hampton A, Ford A, Cox RE 3rd, Liu CC, Koh R. Effects of music on behavior and physiological stress response of domestic cats in a veterinary clinic. J Feline Med Surg. 2020 Feb;22(2):122-128. doi:<a href="https://doi.org/10.1177/1098612X19828131" class="external" target="_blank">10.1177/1098612X19828131&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -345,4 +346,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-28 19:58:02.371965Z -->
+<!-- Updated 2025-05-02 02:53:12.059923Z -->

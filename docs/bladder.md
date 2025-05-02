@@ -5,12 +5,12 @@ nav_order: 109
 seo:
   headline: "Bladder"
   name: "Bladder"
-  date_modified: "2025-03-28T19:58:02.371965Z"
+  date_modified: "2025-05-02T02:53:12.059923Z"
 ---
 
 # Bladder
 
-Updated March 28, 2025.
+Updated May 2, 2025.
 
 
 
@@ -198,14 +198,14 @@ View on <a href="https://www.amazon.com/dp/B0BTRQWTKN/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; VetPlus Cystaid
 
-![VetPlus Cystaid](https://www.vetplus.co.uk/wp-content/uploads/2021/04/Cystaid.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![VetPlus Cystaid](https://vetplusglobal.com/wp-content/uploads/2025/02/Cystaid.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
 [**Cystitis**]({% link docs/cystitis.md %})
 {: .label }
 
- <a href="https://www.vetplus.co.uk/products/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+ <a href="https://vetplusglobal.com/product/cystaid/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -259,4 +259,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-03-28 19:58:02.371965Z -->
+<!-- Updated 2025-05-02 02:53:12.059923Z -->

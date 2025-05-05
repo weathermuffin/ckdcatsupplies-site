@@ -5,12 +5,12 @@ nav_order: 132
 seo:
   headline: "Misc"
   name: "Misc"
-  date_modified: "2025-05-02T02:53:12.059923Z"
+  date_modified: "2025-05-05T17:16:26.658179Z"
 ---
 
 # Misc
 
-Updated May 2, 2025.
+Updated May 5, 2025.
 
 
 
@@ -92,4 +92,4 @@ View on <a href="https://www.amazon.com/dp/B07Q5747XZ/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-02 02:53:12.059923Z -->
+<!-- Updated 2025-05-05 17:16:26.658179Z -->

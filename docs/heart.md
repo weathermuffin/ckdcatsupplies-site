@@ -5,12 +5,12 @@ nav_order: 123
 seo:
   headline: "Heart"
   name: "Heart"
-  date_modified: "2025-05-02T02:53:12.059923Z"
+  date_modified: "2025-05-05T17:16:26.658179Z"
 ---
 
 # Heart
 
-Updated May 2, 2025.
+Updated May 5, 2025.
 
 
 
@@ -266,6 +266,29 @@ View on <a href="https://www.amazon.com/dp/B0C5RZJ1JP/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; TriviumVet felycin-CA1
+
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+
+ <a href="https://www.triviumvet.com/felycin-ca1" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  FDA Conditionally Approves Drug for Management of Ventricular Hypertrophy in Cats. March 14, 2025. <a href="https://www.fda.gov/animal-veterinary/cvm-updates/fda-conditionally-approves-drug-management-ventricular-hypertrophy-cats" class="external" target="_blank">https://www.fda.gov/animal-veterinary/cvm-updates/fda-conditionally-approves-drug-management-ventricular-hypertrophy-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Felycin-CA1 Freedom of Information Summary. March 14, 2025. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/16672" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/16672&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Kaplan JL, Rivas VN, Walker AL, Grubb L, Farrell A, Fitzgerald S, Kennedy S, Jauregui CE, Crofton AE, McLaughlin C, Van Zile R, DeFrancesco TC, Meurs KM, Stern JA. Delayed-release rapamycin halts progression of left ventricular hypertrophy in subclinical feline hypertrophic cardiomyopathy: results of the RAPACAT trial. J Am Vet Med Assoc. 2023 Jul 26;261(11):1628-1637. doi:<a href="https://doi.org/10.2460/javma.23.04.0187" class="external" target="_blank">10.2460/javma.23.04.0187&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  PBI-Gordon Companies Acquires TriviumVet, Expanding Portfolio of Innovative Treatments in Pet Health. May 5, 2025. <a href="https://www.prnewswire.com/news-releases/pbi-gordon-companies-acquires-triviumvet-expanding-portfolio-of-innovative-treatments-in-pet-health-302445353.html" class="external" target="_blank">https://www.prnewswire.com/news-releases/pbi-gordon-companies-acquires-triviumvet-expanding-portfolio-of-innovative-treatments-in-pet-health-302445353.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
 ## &#x1F7E2; Vetmedin Pimobendan Chewable Tablets
 
 ![Vetmedin Pimobendan Chewable Tablets](https://image.chewy.com/is/image/catalog/146420_MAIN._AC_SL600_V1706298829_.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -338,4 +361,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-02 02:53:12.059923Z -->
+<!-- Updated 2025-05-05 17:16:26.658179Z -->

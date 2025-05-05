@@ -5,12 +5,12 @@ nav_order: 119
 seo:
   headline: "Enteric dialysis"
   name: "Enteric dialysis"
-  date_modified: "2025-05-02T02:53:12.059923Z"
+  date_modified: "2025-05-05T17:16:26.658179Z"
 ---
 
 # Enteric dialysis
 
-Updated May 2, 2025.
+Updated May 5, 2025.
 
 
 
@@ -88,4 +88,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-02 02:53:12.059923Z -->
+<!-- Updated 2025-05-05 17:16:26.658179Z -->

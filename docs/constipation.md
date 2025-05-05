@@ -5,18 +5,18 @@ nav_order: 113
 seo:
   headline: "Constipation"
   name: "Constipation"
-  date_modified: "2025-05-02T02:53:12.059923Z"
+  date_modified: "2025-05-05T17:16:26.658179Z"
 ---
 
 # Constipation
 
-Updated May 2, 2025.
+Updated May 5, 2025.
 
 
 
 ## &#x1F7E2; Global Healing Aloe Vera Capsules
 
-![Global Healing Aloe Vera Capsules](https://globalhealing.com/cdn/shop/products/3000w_09b98b22-9221-4a5d-8444-d0ee1828a618.png?width=1100){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Global Healing Aloe Vera Capsules](https://globalhealing.com/cdn/shop/files/3000w_a1e32741-b10b-46f5-a23d-02d1f94046f7.png?width=990){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Constipation**]({% link docs/constipation.md %})
 {: .label }
@@ -90,4 +90,4 @@ View on <a href="https://www.chewy.com/dp/1067598" class="external" target="_bla
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-02 02:53:12.059923Z -->
+<!-- Updated 2025-05-05 17:16:26.658179Z -->

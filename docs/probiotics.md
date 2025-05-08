@@ -5,18 +5,47 @@ nav_order: 145
 seo:
   headline: "Probiotics"
   name: "Probiotics"
-  date_modified: "2025-05-05T17:16:26.658179Z"
+  date_modified: "2025-05-08T17:25:43.354183Z"
 ---
 
 # Probiotics
 
-Updated May 5, 2025.
+Updated May 8, 2025.
+
+
+
+## &#x1F7E2; Nutramax Proviable-DC Multi-Strain Probiotic
+
+![Nutramax Proviable-DC Multi-Strain Probiotic](https://d6ac4rx1taq9.cloudfront.net/img/proviable-dog-home-group-top.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Enterococcus faecium, Bifidobacterium bifidum, Streptococcus thermophilus, Lactobacillus helveticus, Lactobacillus delbrueckii, Lactobacillus casei, and Lactobacillus plantarum.
+
+[**Constipation**]({% link docs/constipation.md %})
+{: .label }
+[**GI**]({% link docs/gi.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+ <a href="https://www.proviable.com/proviable-dc-capsules-for-cats" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 30 ct
+
+View on <a href="https://www.amazon.com/dp/B0050JM626/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/101470" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 80 ct
+
+View on <a href="https://www.amazon.com/dp/B001O3UE9E/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/101471" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
 
 
 
 ## &#x1F7E2; Purina Calming Care (30 ct)
 
 ![Purina Calming Care](https://www.purina.com/.netlify/images?url=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-08%2Fcalming_care_feline_1_1000x1000_0.png&cd=cdd5ac39fc022def8ea5ce43b683ec00&w=1000&h=1000&fm=avif&q=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Bifidobacterium longum BL999.
 
 [**Anxiety**]({% link docs/anxiety.md %})
 {: .label }
@@ -44,9 +73,11 @@ View on <a href="https://www.amazon.com/dp/B0BGVF6PGW/ref=nosim?tag=ckdcatsuppli
 
 
 
-## &#x1F7E2; Purina FortiFlora Powder
+## &#x1F7E2; Purina Pro Plan FortiFlora Powder
 
-![Purina FortiFlora Powder](https://www.purina.com/_gatsby/image/8214f1a72af6b5832e42c34f7188c7de/c36b855aa1f5fb641ad91723b483f8b5/fortiflora_feline_1_1000x1000.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-09%2Ffortiflora_feline_1_1000x1000.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=b9551d6d5cca04196a4f921dd63eddbd){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Purina Pro Plan FortiFlora Powder](https://www.purina.com/_gatsby/image/8214f1a72af6b5832e42c34f7188c7de/c36b855aa1f5fb641ad91723b483f8b5/fortiflora_feline_1_1000x1000.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-09%2Ffortiflora_feline_1_1000x1000.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=b9551d6d5cca04196a4f921dd63eddbd){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Enterococcus faecium SF68.
 
 [**Diarrhea**]({% link docs/diarrhea.md %})
 {: .label }
@@ -70,6 +101,50 @@ View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank
 1.  Weese JS, Martin H. Assessment of commercial probiotic bacterial contents and label accuracy. Can Vet J. 2011 Jan;52(1):43-6. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003573/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC3003573/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
+
+* * *
+
+
+
+## &#x1F7E2; Purina Pro Plan FortiFlora SA Powder
+
+![Purina Pro Plan FortiFlora SA Powder](https://www.proplanvetdirect.com/media/catalog/product/cache/a44fa84799477722e5d163813fb9f04f/0/0/00038100187253_a1c1_1000x1000.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Enterococcus faecium SF68 and psyllium husk.
+
+[**Diarrhea**]({% link docs/diarrhea.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+ <a href="https://www.purina.com/pro-plan-vet/supplements/fortiflora" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B0C3MSW7MG/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.proplanvetdirect.com/fortiflora-sa-feline-probiotic-supplement" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
+## &#x1F7E2; VetriScience Vetri Mega Extra Strength Gut Health
+
+![VetriScience Vetri Mega Extra Strength Gut Health](https://www.vetriscience.com/media/catalog/product/cache/1954e24d6c69bb07acd10e833d43e266/0/9/0900714.120_f.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Lactobacillus acidophilus, Lactobacillus plantarum, Bifidobacterium bifidum, Lactobacillus casei, Lactobacillus brevis, Bifidobacterium longum, and Streptococcus thermophilus.
+
+[**Constipation**]({% link docs/constipation.md %})
+{: .label }
+[**GI**]({% link docs/gi.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+### 120 ct
+
+View on <a href="https://www.amazon.com/dp/B002GIVC4C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/48745" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vetriscience.com/vetri-mega-probiotic-153-digestive-supplement-for-dogs-cats.html" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 180 ct
+
+View on <a href="https://www.amazon.com/dp/B07ZG59V48/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vetriscience.com/vetri-mega-probiotic-153-digestive-supplement-for-dogs-cats.html" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -157,4 +232,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-05 17:16:26.658179Z -->
+<!-- Updated 2025-05-08 17:25:43.354183Z -->

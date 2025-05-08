@@ -5,12 +5,12 @@ nav_order: 152
 seo:
   headline: "Syringes"
   name: "Syringes"
-  date_modified: "2025-05-05T17:16:26.658179Z"
+  date_modified: "2025-05-08T17:25:43.354183Z"
 ---
 
 # Syringes
 
-Updated May 5, 2025.
+Updated May 8, 2025.
 
 
 
@@ -81,4 +81,4 @@ View on <a href="https://www.net32.com/ec/exelint-1cc-tuberculin-syringe-w-o-nee
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-05 17:16:26.658179Z -->
+<!-- Updated 2025-05-08 17:25:43.354183Z -->

@@ -5,12 +5,12 @@ nav_order: 114
 seo:
   headline: "Cystitis"
   name: "Cystitis"
-  date_modified: "2025-05-05T17:16:26.658179Z"
+  date_modified: "2025-05-08T17:25:43.354183Z"
 ---
 
 # Cystitis
 
-Updated May 5, 2025.
+Updated May 8, 2025.
 
 
 
@@ -37,7 +37,7 @@ View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Feliway Cystease Advanced Urinary Tract Support for Cats
 
-![Feliway Cystease Advanced Urinary Tract Support for Cats](https://www.feliway.co.uk/cdn/shop/files/KWP0136_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Feliway Cystease Advanced Urinary Tract Support for Cats](https://www.feliway.co.uk/cdn/shop/files/FELIWAY_Cystease_30_PackShot_967x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
@@ -197,6 +197,8 @@ View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsuppli
 
 ![Purina Calming Care](https://www.purina.com/.netlify/images?url=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-08%2Fcalming_care_feline_1_1000x1000_0.png&cd=cdd5ac39fc022def8ea5ce43b683ec00&w=1000&h=1000&fm=avif&q=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+Contains Bifidobacterium longum BL999.
+
 [**Anxiety**]({% link docs/anxiety.md %})
 {: .label }
 [**Cystitis**]({% link docs/cystitis.md %})
@@ -346,4 +348,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-05 17:16:26.658179Z -->
+<!-- Updated 2025-05-08 17:25:43.354183Z -->

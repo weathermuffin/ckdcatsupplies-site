@@ -5,12 +5,12 @@ nav_order: 121
 seo:
   headline: "GI"
   name: "GI"
-  date_modified: "2025-05-05T17:16:26.658179Z"
+  date_modified: "2025-05-08T17:25:43.354183Z"
 ---
 
 # GI
 
-Updated May 5, 2025.
+Updated May 8, 2025.
 
 
 
@@ -75,6 +75,58 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 * * *
 
 
+
+## &#x1F7E2; Nutramax Proviable-DC Multi-Strain Probiotic
+
+![Nutramax Proviable-DC Multi-Strain Probiotic](https://d6ac4rx1taq9.cloudfront.net/img/proviable-dog-home-group-top.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Enterococcus faecium, Bifidobacterium bifidum, Streptococcus thermophilus, Lactobacillus helveticus, Lactobacillus delbrueckii, Lactobacillus casei, and Lactobacillus plantarum.
+
+[**Constipation**]({% link docs/constipation.md %})
+{: .label }
+[**GI**]({% link docs/gi.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+ <a href="https://www.proviable.com/proviable-dc-capsules-for-cats" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 30 ct
+
+View on <a href="https://www.amazon.com/dp/B0050JM626/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/101470" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 80 ct
+
+View on <a href="https://www.amazon.com/dp/B001O3UE9E/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/101471" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
+## &#x1F7E2; VetriScience Vetri Mega Extra Strength Gut Health
+
+![VetriScience Vetri Mega Extra Strength Gut Health](https://www.vetriscience.com/media/catalog/product/cache/1954e24d6c69bb07acd10e833d43e266/0/9/0900714.120_f.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Lactobacillus acidophilus, Lactobacillus plantarum, Bifidobacterium bifidum, Lactobacillus casei, Lactobacillus brevis, Bifidobacterium longum, and Streptococcus thermophilus.
+
+[**Constipation**]({% link docs/constipation.md %})
+{: .label }
+[**GI**]({% link docs/gi.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+### 120 ct
+
+View on <a href="https://www.amazon.com/dp/B002GIVC4C/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/48745" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.vetriscience.com/vetri-mega-probiotic-153-digestive-supplement-for-dogs-cats.html" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 180 ct
+
+View on <a href="https://www.amazon.com/dp/B07ZG59V48/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vetriscience.com/vetri-mega-probiotic-153-digestive-supplement-for-dogs-cats.html" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
 # GI references and resources
 
 1.  Hall, E. (2002), Rational selection of gastrointestinal drugs for cats and dogs. In Practice, 24: 242-249. doi:<a href="https://doi.org/10.1136/inpract.24.5.242" class="external" target="_blank">10.1136/inpract.24.5.242&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -98,4 +150,9 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-05 17:16:26.658179Z -->
+* * *
+
+&#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
+<!-- Updated 2025-05-08 17:25:43.354183Z -->

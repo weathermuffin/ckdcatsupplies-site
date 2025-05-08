@@ -5,18 +5,20 @@ nav_order: 116
 seo:
   headline: "Diarrhea"
   name: "Diarrhea"
-  date_modified: "2025-05-05T17:16:26.658179Z"
+  date_modified: "2025-05-08T17:25:43.354183Z"
 ---
 
 # Diarrhea
 
-Updated May 5, 2025.
+Updated May 8, 2025.
 
 
 
-## &#x1F7E2; Purina FortiFlora Powder
+## &#x1F7E2; Purina Pro Plan FortiFlora Powder
 
-![Purina FortiFlora Powder](https://www.purina.com/_gatsby/image/8214f1a72af6b5832e42c34f7188c7de/c36b855aa1f5fb641ad91723b483f8b5/fortiflora_feline_1_1000x1000.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-09%2Ffortiflora_feline_1_1000x1000.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=b9551d6d5cca04196a4f921dd63eddbd){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Purina Pro Plan FortiFlora Powder](https://www.purina.com/_gatsby/image/8214f1a72af6b5832e42c34f7188c7de/c36b855aa1f5fb641ad91723b483f8b5/fortiflora_feline_1_1000x1000.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-09%2Ffortiflora_feline_1_1000x1000.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=b9551d6d5cca04196a4f921dd63eddbd){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Enterococcus faecium SF68.
 
 [**Diarrhea**]({% link docs/diarrhea.md %})
 {: .label }
@@ -40,6 +42,25 @@ View on <a href="https://www.chewy.com/dp/56853" class="external" target="_blank
 1.  Weese JS, Martin H. Assessment of commercial probiotic bacterial contents and label accuracy. Can Vet J. 2011 Jan;52(1):43-6. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003573/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC3003573/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
+
+* * *
+
+
+
+## &#x1F7E2; Purina Pro Plan FortiFlora SA Powder
+
+![Purina Pro Plan FortiFlora SA Powder](https://www.proplanvetdirect.com/media/catalog/product/cache/a44fa84799477722e5d163813fb9f04f/0/0/00038100187253_a1c1_1000x1000.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+Contains Enterococcus faecium SF68 and psyllium husk.
+
+[**Diarrhea**]({% link docs/diarrhea.md %})
+{: .label }
+[**Probiotics**]({% link docs/probiotics.md %})
+{: .label }
+
+ <a href="https://www.purina.com/pro-plan-vet/supplements/fortiflora" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B0C3MSW7MG/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.proplanvetdirect.com/fortiflora-sa-feline-probiotic-supplement" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -97,4 +118,4 @@ View on <a href="https://visbiomevet.com/products/visbiome-vet-bottle-4-pack?var
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-05 17:16:26.658179Z -->
+<!-- Updated 2025-05-08 17:25:43.354183Z -->

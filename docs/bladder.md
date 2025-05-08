@@ -5,12 +5,12 @@ nav_order: 109
 seo:
   headline: "Bladder"
   name: "Bladder"
-  date_modified: "2025-05-05T17:16:26.658179Z"
+  date_modified: "2025-05-08T17:25:43.354183Z"
 ---
 
 # Bladder
 
-Updated May 5, 2025.
+Updated May 8, 2025.
 
 
 
@@ -37,7 +37,7 @@ View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Feliway Cystease Advanced Urinary Tract Support for Cats
 
-![Feliway Cystease Advanced Urinary Tract Support for Cats](https://www.feliway.co.uk/cdn/shop/files/KWP0136_967x.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Feliway Cystease Advanced Urinary Tract Support for Cats](https://www.feliway.co.uk/cdn/shop/files/FELIWAY_Cystease_30_PackShot_967x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
@@ -259,4 +259,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-05 17:16:26.658179Z -->
+<!-- Updated 2025-05-08 17:25:43.354183Z -->

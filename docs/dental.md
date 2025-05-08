@@ -5,12 +5,27 @@ nav_order: 115
 seo:
   headline: "Dental"
   name: "Dental"
-  date_modified: "2025-05-05T17:16:26.658179Z"
+  date_modified: "2025-05-08T17:25:43.354183Z"
 ---
 
 # Dental
 
-Updated May 5, 2025.
+Updated May 8, 2025.
+
+
+
+## &#x1F7E2; Purina Pro Plan Dental Bites Cat Treats
+
+![Purina Pro Plan Dental Bites Cat Treats](https://www.proplanvetdirect.com/media/catalog/product/cache/a44fa84799477722e5d163813fb9f04f/p/r/pro_plan_veterinary_diets_dental_bites_cat_treats_french.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Dental**]({% link docs/dental.md %})
+{: .label }
+[**Oral**]({% link docs/oral.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B085Q3DN9S/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/221286" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.proplanvetdirect.com/shop-cat/cat-treats/dental-bites-cat-treats" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
 
 
 
@@ -76,4 +91,4 @@ View on <a href="https://www.amazon.com/dp/B00CAB5PU2/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-05 17:16:26.658179Z -->
+<!-- Updated 2025-05-08 17:25:43.354183Z -->

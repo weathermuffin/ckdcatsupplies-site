@@ -5,12 +5,12 @@ nav_order: 113
 seo:
   headline: "Constipation"
   name: "Constipation"
-  date_modified: "2025-05-08T17:25:43.354183Z"
+  date_modified: "2025-05-15T15:27:44.016074Z"
 ---
 
 # Constipation
 
-Updated May 8, 2025.
+Updated May 15, 2025.
 
 
 
@@ -147,4 +147,4 @@ View on <a href="https://www.amazon.com/dp/B07ZG59V48/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-08 17:25:43.354183Z -->
+<!-- Updated 2025-05-15 15:27:44.016074Z -->

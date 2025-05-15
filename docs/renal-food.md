@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; Renal food"
 layout: default
-nav_order: 149
+nav_order: 150
 seo:
   headline: "Renal food"
   name: "Renal food"
-  date_modified: "2025-05-08T17:25:43.354183Z"
+  date_modified: "2025-05-15T15:27:44.016074Z"
 ---
 
 # Renal food
 
-Updated May 8, 2025.
+Updated May 15, 2025.
 
 
 
@@ -208,4 +208,4 @@ View on <a href="https://www.weruva.com/products/pate-formulas-variety-pack-cat-
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-08 17:25:43.354183Z -->
+<!-- Updated 2025-05-15 15:27:44.016074Z -->

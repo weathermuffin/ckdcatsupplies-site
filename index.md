@@ -74,6 +74,9 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Ears**]({% link docs/ears.md %})
 {: .label }
 
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
+
 [**Enteric dialysis**]({% link docs/enteric-dialysis.md %})
 {: .label }
 
@@ -188,4 +191,4 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2025-05-08 17:25:43.354183Z -->
+<!-- Updated 2025-05-15 15:27:44.016074Z -->

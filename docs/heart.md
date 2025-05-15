@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; Heart"
 layout: default
-nav_order: 123
+nav_order: 124
 seo:
   headline: "Heart"
   name: "Heart"
-  date_modified: "2025-05-08T17:25:43.354183Z"
+  date_modified: "2025-05-15T15:27:44.016074Z"
 ---
 
 # Heart
 
-Updated May 8, 2025.
+Updated May 15, 2025.
 
 
 
@@ -146,6 +146,30 @@ View on <a href="https://www.amazon.com/dp/B0011E8DG2/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; NOW Potassium Chloride Powder (8 oz)
+
+![NOW Potassium Chloride Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-10/1450_v9.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+[**Potassium**]({% link docs/potassium.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B00028M02Q/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/now-potassium-chloride-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/potassium-chloride-powder" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/777" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Dad uses this to supplement my chloride without increasing sodium.
+
+* * *
+
+
+
 ## &#x1F7E2; NOW Taurine Pure Powder
 
 ![NOW Taurine Pure Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2022-08/0260_mainimage.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -211,6 +235,23 @@ View on <a href="https://www.amazon.com/dp/B01GL01D6C/ref=nosim?tag=ckdcatsuppli
 1. _"Forskolin should be avoided in patients with polycystic kidney disease."_ &mdash;  Forskolin. <a href="https://www.drugs.com/npc/forskolin.html" class="external" target="_blank">https://www.drugs.com/npc/forskolin.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> (retrieved 2024-10-20)
 
 </details>
+
+* * *
+
+
+
+## &#x1F7E2; Salix Furosemide Injectable (50 mg/mL, 50 mL)
+
+![Salix Furosemide Injectable](https://www.merck-animal-health-usa.com/wp-content/uploads/sites/54/2022/01/SALIX%C2%AE-flurosemide-INJECTION-for-companion-animals-product-image-1600x1600-1.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+
+ <a href="https://www.merck-animal-health-usa.com/products/salix-furosemide-injection" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.chewy.com/dp/201125" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -366,4 +407,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-08 17:25:43.354183Z -->
+<!-- Updated 2025-05-15 15:27:44.016074Z -->

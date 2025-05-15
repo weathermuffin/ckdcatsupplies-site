@@ -1,16 +1,40 @@
 ---
 title: "&#x1F535; Potassium"
 layout: default
-nav_order: 144
+nav_order: 145
 seo:
   headline: "Potassium"
   name: "Potassium"
-  date_modified: "2025-05-08T17:25:43.354183Z"
+  date_modified: "2025-05-15T15:27:44.016074Z"
 ---
 
 # Potassium
 
-Updated May 8, 2025.
+Updated May 15, 2025.
+
+
+
+## &#x1F7E2; NOW Potassium Chloride Powder (8 oz)
+
+![NOW Potassium Chloride Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-10/1450_v9.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+[**Potassium**]({% link docs/potassium.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B00028M02Q/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/now-potassium-chloride-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/potassium-chloride-powder" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/777" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Dad uses this to supplement my chloride without increasing sodium.
+
+* * *
 
 
 
@@ -18,6 +42,8 @@ Updated May 8, 2025.
 
 ![NOW Potassium Gluconate Pure Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2022-10/1471_mainimage.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
 [**Potassium**]({% link docs/potassium.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
@@ -40,6 +66,8 @@ View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" c
 
 ![Vetoquinol Renal K+](https://www.vetoquinolusa.com/sites/us2country/files/styles/product_detail__photo/public/2022-09/410630-410631-renal-k-large.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
 [**Potassium**]({% link docs/potassium.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
@@ -89,4 +117,9 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-08 17:25:43.354183Z -->
+* * *
+
+&#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
+<!-- Updated 2025-05-15 15:27:44.016074Z -->

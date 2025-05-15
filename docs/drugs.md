@@ -5,12 +5,12 @@ nav_order: 117
 seo:
   headline: "Drugs"
   name: "Drugs"
-  date_modified: "2025-05-08T17:25:43.354183Z"
+  date_modified: "2025-05-15T15:27:44.016074Z"
 ---
 
 # Drugs
 
-Updated May 8, 2025.
+Updated May 15, 2025.
 
 
 
@@ -429,6 +429,23 @@ View on <a href="https://helpingpetslivelonger.com/products/rapamycin-for-cats" 
 
 
 
+## &#x1F7E2; Salix Furosemide Injectable (50 mg/mL, 50 mL)
+
+![Salix Furosemide Injectable](https://www.merck-animal-health-usa.com/wp-content/uploads/sites/54/2022/01/SALIX%C2%AE-flurosemide-INJECTION-for-companion-animals-product-image-1600x1600-1.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+
+ <a href="https://www.merck-animal-health-usa.com/products/salix-furosemide-injection" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.chewy.com/dp/201125" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; TriviumVet felycin-CA1
 
 [**Drugs**]({% link docs/drugs.md %})
@@ -500,6 +517,7 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 <details markdown="block">
 <summary>References and resources</summary>
 
+1.  Bonqat (pregabalin oral solution) Package Insert. Zoetis Inc., November 2023. <a href="https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/bonqat-prescribing-information.pdf" class="external" target="_blank">https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/bonqat-prescribing-information.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Lamminen T, Doedée A, Hyttilä-Hopponen M, Kaskinoro J. Pharmacokinetics of single and repeated oral doses of pregabalin oral solution formulation in cats. J Vet Pharmacol Ther. 2022 Jul;45(4):385-391. doi:<a href="https://doi.org/10.1111/jvp.13061" class="external" target="_blank">10.1111/jvp.13061&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Mayoral V, Galvez R, Ferrándiz M, Miguéns Vázquez X, Cordero-García C, Alcántara Montero A, Pérez C, Pérez-Páramo M. Pregabalin vs. gabapentin in the treatment of neuropathic pain: a comprehensive systematic review and meta-analysis of effectiveness and safety. Front Pain Res (Lausanne). 2025 Jan 7;5:1513597. doi:<a href="https://doi.org/10.3389/fpain.2024.1513597" class="external" target="_blank">10.3389/fpain.2024.1513597&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Pregabalin - 5 things you should know about prescribing in dogs and cats. 2023. <a href="https://youtu.be/fr3gu6S6guE" class="external" target="_blank">https://youtu.be/fr3gu6S6guE&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -553,4 +571,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-08 17:25:43.354183Z -->
+<!-- Updated 2025-05-15 15:27:44.016074Z -->

@@ -169,6 +169,9 @@ Browse one of the following CATegories... &#x1F639;
 [**Ears**]({% link docs/ears.md %})
 {: .label }
 
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
+
 [**Enteric dialysis**]({% link docs/enteric-dialysis.md %})
 {: .label }
 

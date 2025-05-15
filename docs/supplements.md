@@ -1,16 +1,16 @@
 ---
 title: "&#x1F535; Supplements"
 layout: default
-nav_order: 151
+nav_order: 152
 seo:
   headline: "Supplements"
   name: "Supplements"
-  date_modified: "2025-05-08T17:25:43.354183Z"
+  date_modified: "2025-05-15T15:27:44.016074Z"
 ---
 
 # Supplements
 
-Updated May 8, 2025.
+Updated May 15, 2025.
 
 
 
@@ -286,10 +286,36 @@ View on <a href="https://www.amazon.com/dp/B0002JIXLM/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; NOW Potassium Chloride Powder (8 oz)
+
+![NOW Potassium Chloride Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-10/1450_v9.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+[**Potassium**]({% link docs/potassium.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B00028M02Q/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/now-potassium-chloride-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/potassium-chloride-powder" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/777" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> Dad uses this to supplement my chloride without increasing sodium.
+
+* * *
+
+
+
 ## &#x1F7E2; NOW Potassium Gluconate Pure Powder
 
 ![NOW Potassium Gluconate Pure Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2022-10/1471_mainimage.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
 [**Potassium**]({% link docs/potassium.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
@@ -500,6 +526,21 @@ View on <a href="https://www.amazon.com/dp/B001ICRYTY/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; Nutricost Magnesium Chloride Powder (2 lb)
+
+![Nutricost Magnesium Chloride Powder](https://nutricost.com/cdn/shop/products/nutricost-magnesium-chloride-powder-uf-542040_1800x1800.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B0D96X5KBX/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://nutricost.com/products/nutricost-magnesium-chloride-powder-uf" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/147074" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; Nutrim Oat Beta-Glucan
 
 ![Nutrim Oat Beta-Glucan](https://sur.co/cdn/shop/files/Nutrim-30_2024_pouch.png?width=3000){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -551,6 +592,21 @@ View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chi
 > &#x1F63A; Luna Says
 >
 > The first time Dad opened these up, I followed him around the house begging for a whole hour! I personally don't like to eat these on their own, but I do enjoy having some ground up and mixed in my food. Dad likes that these help with B vitamins and iron.
+
+* * *
+
+
+
+## &#x1F7E2; Pure Supplements Magnesium Chloride Powder (4 oz)
+
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
+[**Supplements**]({% link docs/supplements.md %})
+{: .label }
+
+ <a href="https://puresupplementsco.com" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B076ZY2NPT/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
 * * *
 
@@ -758,6 +814,8 @@ View on <a href="https://vetfood.co.uk/HemoActiv" class="external" target="_blan
 
 ![Vetoquinol Renal K+](https://www.vetoquinolusa.com/sites/us2country/files/styles/product_detail__photo/public/2022-09/410630-410631-renal-k-large.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
+[**Electrolytes**]({% link docs/electrolytes.md %})
+{: .label }
 [**Potassium**]({% link docs/potassium.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
@@ -951,4 +1009,4 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-08 17:25:43.354183Z -->
+<!-- Updated 2025-05-15 15:27:44.016074Z -->

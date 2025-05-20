@@ -151,6 +151,9 @@ Browse one of the following CATegories... &#x1F639;
 [**Capsules**]({% link docs/capsules.md %})
 {: .label }
 
+[**Chloride**]({% link docs/chloride.md %})
+{: .label }
+
 [**Constipation**]({% link docs/constipation.md %})
 {: .label }
 
@@ -167,9 +170,6 @@ Browse one of the following CATegories... &#x1F639;
 {: .label }
 
 [**Ears**]({% link docs/ears.md %})
-{: .label }
-
-[**Electrolytes**]({% link docs/electrolytes.md %})
 {: .label }
 
 [**Enteric dialysis**]({% link docs/enteric-dialysis.md %})

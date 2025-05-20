@@ -1,14 +1,14 @@
 ---
-title: "&#x1F535; Electrolytes"
+title: "&#x1F535; Chloride"
 layout: default
-nav_order: 119
+nav_order: 113
 seo:
-  headline: "Electrolytes"
-  name: "Electrolytes"
-  date_modified: "2025-05-20T17:14:54.631113Z"
+  headline: "Chloride"
+  name: "Chloride"
+  date_modified: "2025-05-20T17:54:45.913413Z"
 ---
 
-# Electrolytes
+# Chloride
 
 Updated May 20, 2025.
 
@@ -18,7 +18,7 @@ Updated May 20, 2025.
 
 ![NOW Potassium Chloride Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-10/1450_v9.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
+[**Chloride**]({% link docs/chloride.md %})
 {: .label }
 [**Heart**]({% link docs/heart.md %})
 {: .label }
@@ -38,35 +38,11 @@ View on <a href="https://www.amazon.com/dp/B00028M02Q/ref=nosim?tag=ckdcatsuppli
 
 
 
-## &#x1F7E2; NOW Potassium Gluconate Pure Powder
-
-![NOW Potassium Gluconate Pure Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2022-10/1471_mainimage.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Electrolytes**]({% link docs/electrolytes.md %})
-{: .label }
-[**Potassium**]({% link docs/potassium.md %})
-{: .label }
-[**Supplements**]({% link docs/supplements.md %})
-{: .label }
-
- <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_human" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/potassium-gluconate-powder" class="external" target="_blank">NOW Foods&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> CKD kitties like me struggle to keep their potassium up. So oral supplementation is often needed. Be sure to check with your vet whether potassium gluconate or potassium citrate is best for you! And it's very important to monitor blood potassium to make sure you don't go too high.
-
-* * *
-
-
-
 ## &#x1F7E2; Nutricost Magnesium Chloride Powder (2 lb)
 
 ![Nutricost Magnesium Chloride Powder](https://nutricost.com/cdn/shop/products/nutricost-magnesium-chloride-powder-uf-542040_1800x1800.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
+[**Chloride**]({% link docs/chloride.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
@@ -79,7 +55,7 @@ View on <a href="https://www.amazon.com/dp/B0D96X5KBX/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Pure Supplements Magnesium Chloride Powder (4 oz)
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
+[**Chloride**]({% link docs/chloride.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
@@ -91,31 +67,7 @@ View on <a href="https://www.amazon.com/dp/B076ZY2NPT/ref=nosim?tag=ckdcatsuppli
 * * *
 
 
-
-## &#x1F7E2; Vetoquinol Renal K+ (Powder)
-
-![Vetoquinol Renal K+](https://www.vetoquinolusa.com/sites/us2country/files/styles/product_detail__photo/public/2022-09/410630-410631-renal-k-large.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Electrolytes**]({% link docs/electrolytes.md %})
-{: .label }
-[**Potassium**]({% link docs/potassium.md %})
-{: .label }
-[**Supplements**]({% link docs/supplements.md %})
-{: .label }
-
- <a href="https://www.vetoquinolusa.com/products/renal-k-plus" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> <a href="https://felinecrf.org/potassium.htm#potassium_gluconate_brands" class="external" target="_blank">Tanya's info&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-{: .lunasays-title }
-> &#x1F63A; Luna Says
->
-> Before Dad knew what he was doing (as if he does now!), we once had to go to the ER for hypokalemia. That was not much fun. This got my potassium up fast. I take it every day now. Definitely get the powder, not the gel. I don't notice the powder when added to my food.
-
-* * *
-
-
-# Electrolytes references and resources
+# Chloride references and resources
 
 1.  Fernando MB, Ferreira I, Lourenço P. Admission and discharge sodium: Chloride ratio in acute heart failure - The importance of electrolytes. Int J Cardiol. 2024 Dec 15;417:132528. doi:<a href="https://doi.org/10.1016/j.ijcard.2024.132528" class="external" target="_blank">10.1016/j.ijcard.2024.132528&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fu Z, Zhang X, Zhao X, Wang Q. U-Shaped Relationship of Sodium-to-chloride Ratio on admission and Mortality in Elderly Patients with Heart Failure: A Retrospective Cohort Study. Curr Probl Cardiol. 2023 Jan;48(1):101419. doi:<a href="https://doi.org/10.1016/j.cpcardiol.2022.101419" class="external" target="_blank">10.1016/j.cpcardiol.2022.101419&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -148,4 +100,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-20 17:14:54.631113Z -->
+<!-- Updated 2025-05-20 17:54:45.913413Z -->

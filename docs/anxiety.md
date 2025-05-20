@@ -5,12 +5,12 @@ nav_order: 104
 seo:
   headline: "Anxiety"
   name: "Anxiety"
-  date_modified: "2025-05-15T15:27:44.016074Z"
+  date_modified: "2025-05-20T17:54:45.913413Z"
 ---
 
 # Anxiety
 
-Updated May 15, 2025.
+Updated May 20, 2025.
 
 
 
@@ -342,4 +342,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-15 15:27:44.016074Z -->
+<!-- Updated 2025-05-20 17:54:45.913413Z -->

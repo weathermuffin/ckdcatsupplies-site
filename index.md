@@ -56,6 +56,9 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Capsules**]({% link docs/capsules.md %})
 {: .label }
 
+[**Chloride**]({% link docs/chloride.md %})
+{: .label }
+
 [**Constipation**]({% link docs/constipation.md %})
 {: .label }
 
@@ -72,9 +75,6 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 {: .label }
 
 [**Ears**]({% link docs/ears.md %})
-{: .label }
-
-[**Electrolytes**]({% link docs/electrolytes.md %})
 {: .label }
 
 [**Enteric dialysis**]({% link docs/enteric-dialysis.md %})
@@ -191,4 +191,4 @@ First time visitor? [Start here.]({% link docs/start-here.md %})
 [**Vitamins**]({% link docs/vitamins.md %})
 {: .label }
 
-<!-- Updated 2025-05-15 15:27:44.016074Z -->
+<!-- Updated 2025-05-20 17:54:45.913413Z -->

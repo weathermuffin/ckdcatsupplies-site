@@ -5,12 +5,12 @@ nav_order: 145
 seo:
   headline: "Potassium"
   name: "Potassium"
-  date_modified: "2025-05-15T15:27:44.016074Z"
+  date_modified: "2025-05-20T17:54:45.913413Z"
 ---
 
 # Potassium
 
-Updated May 15, 2025.
+Updated May 20, 2025.
 
 
 
@@ -18,7 +18,7 @@ Updated May 15, 2025.
 
 ![NOW Potassium Chloride Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-10/1450_v9.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
+[**Chloride**]({% link docs/chloride.md %})
 {: .label }
 [**Heart**]({% link docs/heart.md %})
 {: .label }
@@ -42,8 +42,6 @@ View on <a href="https://www.amazon.com/dp/B00028M02Q/ref=nosim?tag=ckdcatsuppli
 
 ![NOW Potassium Gluconate Pure Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2022-10/1471_mainimage.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
-{: .label }
 [**Potassium**]({% link docs/potassium.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
@@ -66,8 +64,6 @@ View on <a href="https://www.vitacost.com/now-potassium-gluconate-pure-powder" c
 
 ![Vetoquinol Renal K+](https://www.vetoquinolusa.com/sites/us2country/files/styles/product_detail__photo/public/2022-09/410630-410631-renal-k-large.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
-{: .label }
 [**Potassium**]({% link docs/potassium.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
@@ -122,4 +118,4 @@ View on <a href="https://www.chewy.com/dp/109759" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-15 15:27:44.016074Z -->
+<!-- Updated 2025-05-20 17:54:45.913413Z -->

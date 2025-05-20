@@ -5,12 +5,12 @@ nav_order: 128
 seo:
   headline: "Inflammation"
   name: "Inflammation"
-  date_modified: "2025-05-15T15:27:44.016074Z"
+  date_modified: "2025-05-20T17:54:45.913413Z"
 ---
 
 # Inflammation
 
-Updated May 15, 2025.
+Updated May 20, 2025.
 
 
 
@@ -56,4 +56,4 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-15 15:27:44.016074Z -->
+<!-- Updated 2025-05-20 17:54:45.913413Z -->

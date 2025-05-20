@@ -5,12 +5,12 @@ nav_order: 152
 seo:
   headline: "Supplements"
   name: "Supplements"
-  date_modified: "2025-05-15T15:27:44.016074Z"
+  date_modified: "2025-05-20T17:54:45.913413Z"
 ---
 
 # Supplements
 
-Updated May 15, 2025.
+Updated May 20, 2025.
 
 
 
@@ -290,7 +290,7 @@ View on <a href="https://www.amazon.com/dp/B0002JIXLM/ref=nosim?tag=ckdcatsuppli
 
 ![NOW Potassium Chloride Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-10/1450_v9.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
+[**Chloride**]({% link docs/chloride.md %})
 {: .label }
 [**Heart**]({% link docs/heart.md %})
 {: .label }
@@ -314,8 +314,6 @@ View on <a href="https://www.amazon.com/dp/B00028M02Q/ref=nosim?tag=ckdcatsuppli
 
 ![NOW Potassium Gluconate Pure Powder](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2022-10/1471_mainimage.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
-{: .label }
 [**Potassium**]({% link docs/potassium.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
@@ -530,7 +528,7 @@ View on <a href="https://www.amazon.com/dp/B001ICRYTY/ref=nosim?tag=ckdcatsuppli
 
 ![Nutricost Magnesium Chloride Powder](https://nutricost.com/cdn/shop/products/nutricost-magnesium-chloride-powder-uf-542040_1800x1800.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
+[**Chloride**]({% link docs/chloride.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
@@ -599,7 +597,7 @@ View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chi
 
 ## &#x1F7E2; Pure Supplements Magnesium Chloride Powder (4 oz)
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
+[**Chloride**]({% link docs/chloride.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
 {: .label }
@@ -770,7 +768,7 @@ View on <a href="https://thornevet.com/product/curcuvet-sa150-powder/" class="ex
 
 ## &#x1F7E2; ThorneVET Kidney Support Formula
 
-![ThorneVET Kidney Support Formula](https://001c2688.delivery.rocketcdn.me/wp-content/uploads/2025/02/KidneySupportFormula_SC_ThorneVet.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![ThorneVET Kidney Support Formula](https://151129260.v2.pressablecdn.com/wp-content/uploads/2025/02/KidneySupportFormula_SC_ThorneVet.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**CKD**]({% link docs/ckd.md %})
 {: .label }
@@ -814,8 +812,6 @@ View on <a href="https://vetfood.co.uk/HemoActiv" class="external" target="_blan
 
 ![Vetoquinol Renal K+](https://www.vetoquinolusa.com/sites/us2country/files/styles/product_detail__photo/public/2022-09/410630-410631-renal-k-large.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
-[**Electrolytes**]({% link docs/electrolytes.md %})
-{: .label }
 [**Potassium**]({% link docs/potassium.md %})
 {: .label }
 [**Supplements**]({% link docs/supplements.md %})
@@ -1009,4 +1005,4 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-15 15:27:44.016074Z -->
+<!-- Updated 2025-05-20 17:54:45.913413Z -->

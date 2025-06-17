@@ -5,12 +5,12 @@ nav_order: 144
 seo:
   headline: "Pilling"
   name: "Pilling"
-  date_modified: "2025-05-20T17:54:45.913413Z"
+  date_modified: "2025-06-17T18:00:30.216233Z"
 ---
 
 # Pilling
 
-Updated May 20, 2025.
+Updated June 17, 2025.
 
 
 
@@ -185,7 +185,7 @@ View on <a href="https://www.amazon.com/dp/B0D2PCPX1T/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag
 
-![Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag](https://www.temptationstreats.com/cdn-cgi/image/width=600,height=600,f=auto,quality=90/sites/g/files/fnmzdf3061/files/migrate-product-files/images/jsupbyrbz4xbgtizdxer.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Temptations Classic Tasty Chicken Soft & Crunchy Treats, 3-oz bag](https://www.temptationstreats.com/cdn-cgi/image/width=600,height=600,f=auto,quality=90/sites/g/files/fnmzdf3061/files/migrate-product-files/images/y35dxcmib4cmjszpaarr.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Pilling**]({% link docs/pilling.md %})
 {: .label }
@@ -382,4 +382,4 @@ View on <a href="https://www.amazon.com/dp/B095Z5WP43/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-05-20 17:54:45.913413Z -->
+<!-- Updated 2025-06-17 18:00:30.216233Z -->

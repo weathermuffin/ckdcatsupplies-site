@@ -5,12 +5,36 @@ nav_order: 140
 seo:
   headline: "Otitis"
   name: "Otitis"
-  date_modified: "2025-05-20T17:54:45.913413Z"
+  date_modified: "2025-06-17T18:00:30.216233Z"
 ---
 
 # Otitis
 
-Updated May 20, 2025.
+Updated June 17, 2025.
+
+
+
+## &#x1F7E2; Dechra TrizUltra+Keto
+
+![Dechra TrizUltra+Keto](https://www.dechra-us.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/Ecom/Products/US/TrizULTRA_Keto-GROUP.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+A non-stinging, ear cleanser for acute or long-term use in patients with conditions that would respond favorably to ketoconazole and Tris-EDTA.
+
+[**Ears**]({% link docs/ears.md %})
+{: .label }
+[**Otitis**]({% link docs/otitis.md %})
+{: .label }
+
+ <a href="https://www.dechra-us.com/our-products/us/companion-animal/cat/non-prescription/trizultra-keto" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B0CKS1HFLH/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/126809" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> This seems to really help with whatever is causing my ears to itch. Putting about 0.2-0.25 mL in a syringe makes the process much less stressful for me... and everyone else!
+
+* * *
 
 
 
@@ -117,4 +141,9 @@ View on <a href="https://www.chewy.com/dp/143331" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-20 17:54:45.913413Z -->
+* * *
+
+&#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
+
+
+<!-- Updated 2025-06-17 18:00:30.216233Z -->

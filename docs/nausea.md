@@ -5,12 +5,12 @@ nav_order: 135
 seo:
   headline: "Nausea"
   name: "Nausea"
-  date_modified: "2025-05-20T17:54:45.913413Z"
+  date_modified: "2025-06-17T18:00:30.216233Z"
 ---
 
 # Nausea
 
-Updated May 20, 2025.
+Updated June 17, 2025.
 
 
 
@@ -158,4 +158,4 @@ View on <a href="https://www.nowfoods.com/products/supplements/slippery-elm-powd
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-05-20 17:54:45.913413Z -->
+<!-- Updated 2025-06-17 18:00:30.216233Z -->

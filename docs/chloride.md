@@ -5,12 +5,12 @@ nav_order: 113
 seo:
   headline: "Chloride"
   name: "Chloride"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Chloride
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
@@ -64,6 +64,14 @@ View on <a href="https://www.amazon.com/dp/B0D96X5KBX/ref=nosim?tag=ckdcatsuppli
 
 View on <a href="https://www.amazon.com/dp/B076ZY2NPT/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Elliott J, Geddes R, Jepson R. A review of the role of fibroblast growth factor 23 in phosphate homeostasis and the pathophysiology of mineral bone disorder associated with chronic kidney disease. International Renal Interest Society. 2023. <a href="https://www.iris-kidney.com/new-page-4" class="external" target="_blank">https://www.iris-kidney.com/new-page-4&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  van den Broek DHN, Chang YM, Elliott J, Jepson RE. Prognostic importance of plasma total magnesium in a cohort of cats with azotemic chronic kidney disease. J Vet Intern Med. 2018 Jul;32(4):1359-1371. doi:<a href="https://doi.org/10.1111/jvim.15141" class="external" target="_blank">10.1111/jvim.15141&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
 * * *
 
 
@@ -100,4 +108,4 @@ View on <a href="https://www.amazon.com/dp/B076ZY2NPT/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

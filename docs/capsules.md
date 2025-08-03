@@ -5,12 +5,12 @@ nav_order: 112
 seo:
   headline: "Capsules"
   name: "Capsules"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Capsules
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
@@ -139,4 +139,4 @@ View on <a href="https://www.amazon.com/dp/B095Z5WP43/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

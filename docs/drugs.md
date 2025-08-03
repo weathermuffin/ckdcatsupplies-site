@@ -5,12 +5,12 @@ nav_order: 118
 seo:
   headline: "Drugs"
   name: "Drugs"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Drugs
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
@@ -407,6 +407,32 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 
 
 
+## &#x1F7E2; PRN Pharmacal felycin-CA1
+
+![PRN Pharmacal felycin-CA1](https://cdn-ilbiojh.nitrocdn.com/jQKfSAcELAxuVziARmPdEdjkBoIFokIc/assets/images/optimized/rev-077d66c/www.prnpharmacal.com/wp-content/uploads/2025/06/Felycin-CA1_1.2mg_12ct_Front.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Drugs**]({% link docs/drugs.md %})
+{: .label }
+[**Heart**]({% link docs/heart.md %})
+{: .label }
+
+ <a href="https://www.prnpharmacal.com/products/pharmaceuticals/felycin-ca1-ventricular-hypertrophy-subclinical-hcm-cats/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  FDA Conditionally Approves Drug for Management of Ventricular Hypertrophy in Cats. March 14, 2025. <a href="https://www.fda.gov/animal-veterinary/cvm-updates/fda-conditionally-approves-drug-management-ventricular-hypertrophy-cats" class="external" target="_blank">https://www.fda.gov/animal-veterinary/cvm-updates/fda-conditionally-approves-drug-management-ventricular-hypertrophy-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Freedom of Information Summary (FOI), Application for Conditional Approval, Application number 141-604, felycin®-CA1 (sirolimus delayed-release tablets). March 14, 2025. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/16672" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/16672&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Kaplan JL, Rivas VN, Walker AL, Grubb L, Farrell A, Fitzgerald S, Kennedy S, Jauregui CE, Crofton AE, McLaughlin C, Van Zile R, DeFrancesco TC, Meurs KM, Stern JA. Delayed-release rapamycin halts progression of left ventricular hypertrophy in subclinical feline hypertrophic cardiomyopathy: results of the RAPACAT trial. J Am Vet Med Assoc. 2023 Jul 26;261(11):1628-1637. doi:<a href="https://doi.org/10.2460/javma.23.04.0187" class="external" target="_blank">10.2460/javma.23.04.0187&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Nguyen VN, Abagyan R, Tsunoda SM. Mtor inhibitors associated with higher cardiovascular adverse events-A large population database analysis. Clin Transplant. 2021 Apr;35(4):e14228. doi:<a href="https://doi.org/10.1111/ctr.14228" class="external" target="_blank">10.1111/ctr.14228&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  PBI-Gordon Companies Acquires TriviumVet, Expanding Portfolio of Innovative Treatments in Pet Health. May 5, 2025. <a href="https://www.prnewswire.com/news-releases/pbi-gordon-companies-acquires-triviumvet-expanding-portfolio-of-innovative-treatments-in-pet-health-302445353.html" class="external" target="_blank">https://www.prnewswire.com/news-releases/pbi-gordon-companies-acquires-triviumvet-expanding-portfolio-of-innovative-treatments-in-pet-health-302445353.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
 ## &#x1F7E2; Rapamycin for Cats
 
 [**CKD**]({% link docs/ckd.md %})
@@ -441,30 +467,6 @@ View on <a href="https://helpingpetslivelonger.com/products/rapamycin-for-cats" 
  <a href="https://www.merck-animal-health-usa.com/products/salix-furosemide-injection" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 View on <a href="https://www.chewy.com/dp/201125" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-* * *
-
-
-
-## &#x1F7E2; TriviumVet felycin-CA1
-
-[**Drugs**]({% link docs/drugs.md %})
-{: .label }
-[**Heart**]({% link docs/heart.md %})
-{: .label }
-
- <a href="https://www.triviumvet.com/felycin-ca1" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-<details markdown="block">
-<summary>References and resources</summary>
-
-1.  FDA Conditionally Approves Drug for Management of Ventricular Hypertrophy in Cats. March 14, 2025. <a href="https://www.fda.gov/animal-veterinary/cvm-updates/fda-conditionally-approves-drug-management-ventricular-hypertrophy-cats" class="external" target="_blank">https://www.fda.gov/animal-veterinary/cvm-updates/fda-conditionally-approves-drug-management-ventricular-hypertrophy-cats&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Freedom of Information Summary (FOI), Application for Conditional Approval, Application number 141-604, felycin®-CA1 (sirolimus delayed-release tablets). March 14, 2025. <a href="https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/16672" class="external" target="_blank">https://animaldrugsatfda.fda.gov/adafda/app/search/public/document/downloadFoi/16672&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Kaplan JL, Rivas VN, Walker AL, Grubb L, Farrell A, Fitzgerald S, Kennedy S, Jauregui CE, Crofton AE, McLaughlin C, Van Zile R, DeFrancesco TC, Meurs KM, Stern JA. Delayed-release rapamycin halts progression of left ventricular hypertrophy in subclinical feline hypertrophic cardiomyopathy: results of the RAPACAT trial. J Am Vet Med Assoc. 2023 Jul 26;261(11):1628-1637. doi:<a href="https://doi.org/10.2460/javma.23.04.0187" class="external" target="_blank">10.2460/javma.23.04.0187&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Nguyen VN, Abagyan R, Tsunoda SM. Mtor inhibitors associated with higher cardiovascular adverse events-A large population database analysis. Clin Transplant. 2021 Apr;35(4):e14228. doi:<a href="https://doi.org/10.1111/ctr.14228" class="external" target="_blank">10.1111/ctr.14228&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  PBI-Gordon Companies Acquires TriviumVet, Expanding Portfolio of Innovative Treatments in Pet Health. May 5, 2025. <a href="https://www.prnewswire.com/news-releases/pbi-gordon-companies-acquires-triviumvet-expanding-portfolio-of-innovative-treatments-in-pet-health-302445353.html" class="external" target="_blank">https://www.prnewswire.com/news-releases/pbi-gordon-companies-acquires-triviumvet-expanding-portfolio-of-innovative-treatments-in-pet-health-302445353.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-</details>
 
 * * *
 
@@ -572,4 +574,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

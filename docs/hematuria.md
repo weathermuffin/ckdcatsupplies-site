@@ -5,18 +5,18 @@ nav_order: 125
 seo:
   headline: "Hematuria"
   name: "Hematuria"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Hematuria
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
 ## &#x1F7E2; CheckUp Urine Test Strips
 
-![CheckUp Urine Test Strips](https://checkupkit.com/wp-content/uploads/2020/10/strips-10-a.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![CheckUp Urine Test Strips](https://www.checkupkit.com/cdn/shop/files/IMAGES_-_2025-06-19T212659.618.png?width=1346){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
@@ -27,9 +27,7 @@ Updated June 17, 2025.
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
- <a href="https://checkupkit.com/check-up-strips-2/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/283322" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/283322" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.checkupkit.com/products/checkup-testing-strips-x-50" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -62,4 +60,4 @@ View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

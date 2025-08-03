@@ -5,12 +5,12 @@ nav_order: 126
 seo:
   headline: "Hydration"
   name: "Hydration"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Hydration
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
@@ -36,7 +36,7 @@ View on <a href="https://modernistpantry.com/products/methocel-e4m-food-grade.ht
 
 ## &#x1F7E2; Purina Hydra Care, 3 oz
 
-![Purina Hydra Care, 3 oz](https://www.purina.com/_gatsby/image/05751f1ef9a850df7548f30a7ace8ddd/c36b855aa1f5fb641ad91723b483f8b5/main-pack-shot_1000x1000_0.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2022-10%2Fmain-pack-shot_1000x1000_0.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=aabb95682ce0d48c6872ff8d6620cbed){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Purina Hydra Care, 3 oz](https://www.purina.com/.netlify/images?w=1000&h=1000&fm=avif&q=75&url=https%3A%2F%2Flive.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2022-10%2Fmain-pack-shot_1000x1000_0.png&cd=92ebb15bb7865ce3f008ab81c559a78c){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Hydration**]({% link docs/hydration.md %})
 {: .label }
@@ -113,4 +113,4 @@ View on <a href="https://www.amazon.com/dp/B0CP7DTFQ2/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

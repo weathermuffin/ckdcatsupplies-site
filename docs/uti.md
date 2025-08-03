@@ -5,12 +5,12 @@ nav_order: 156
 seo:
   headline: "UTI"
   name: "UTI"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # UTI
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
@@ -67,6 +67,33 @@ View on <a href="https://www.amazon.com/dp/B0856W45VL/ref=nosim?tag=ckdcatsuppli
 > &#x1F63A; Luna Says
 >
 > This is useful if Dad needs to leave the house for a bit, or wants to see if I'm lounging by the litter box in an unhealthy way.
+
+* * *
+
+
+
+## &#x1F7E2; Green Lifestyle Reusable Pee Pads, 30x34 in.
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+ <a href="https://greenlifestyle.com/products/washable-underpads" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 2 ct
+
+View on <a href="https://www.chewy.com/dp/371139" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 4 ct
+
+View on <a href="https://www.chewy.com/dp/371140" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 6 ct
+
+View on <a href="https://www.chewy.com/dp/371141" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -264,4 +291,4 @@ View on <a href="https://www.chewy.com/dp/173148" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

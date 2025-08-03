@@ -5,18 +5,18 @@ nav_order: 138
 seo:
   headline: "Omega-3"
   name: "Omega-3"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Omega-3
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
 ## &#x1F7E2; Nordic Naturals Omega-3 Cat (2 fl. oz.)
 
-![Nordic Naturals Omega-3 Cat](https://cdn.shopify.com/s/files/1/0511/3059/7560/files/50515RC1-Omega3Cat_2oz_Box_Front.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Nordic Naturals Omega-3 Cat](https://cdn.shopify.com/s/files/1/0511/3059/7560/files/50515E1-Cat_Omega3_2oz_Box_Front.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Omega-3**]({% link docs/omega-3.md %})
 {: .label }
@@ -93,4 +93,4 @@ View on <a href="https://www.vitacost.com/now-neptune-krill-oil" class="external
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

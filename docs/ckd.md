@@ -5,12 +5,12 @@ nav_order: 111
 seo:
   headline: "CKD"
   name: "CKD"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # CKD
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
@@ -146,6 +146,7 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 1.  Heine GH, Seiler S, Fliser D. FGF-23: the rise of a novel cardiovascular risk marker in CKD. Nephrol Dial Transplant. 2012 Aug;27(8):3072-81. doi:<a href="https://doi.org/10.1093/ndt/gfs259" class="external" target="_blank">10.1093/ndt/gfs259&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Ishikawa, A., Kawarazaki, H., Ando, K. et al. Renal preservation effect of ubiquinol, the reduced form of coenzyme Q10. Clin Exp Nephrol 15, 30-33 (2011). doi:<a href="https://doi.org/10.1007/s10157-010-0350-8" class="external" target="_blank">10.1007/s10157-010-0350-8&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Izuhara Y, Nangaku M, Inagi R, Tominaga N, Aizawa T, Kurokawa K, van Ypersele de Strihou C, Miyata T. Renoprotective properties of angiotensin receptor blockers beyond blood pressure lowering. J Am Soc Nephrol. 2005 Dec;16(12):3631-41. doi:<a href="https://doi.org/10.1681/ASN.2005050522" class="external" target="_blank">10.1681/ASN.2005050522&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Suárez-Bonnet A. "Interactive 4D Cat's Kidney Model". Dechra. <a href="https://4d-kidneymodel.com" class="external" target="_blank">https://4d-kidneymodel.com&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kobori H, Mori H, Masaki T, Nishiyama A. Angiotensin II blockade and renal protection. Curr Pharm Des. 2013;19(17):3033-42. doi:<a href="https://doi.org/10.2174/1381612811319170009" class="external" target="_blank">10.2174/1381612811319170009&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Lawson JS, Jepson RE. Feline comorbidities: The intermingled relationship between chronic kidney disease and hypertension. Journal of Feline Medicine and Surgery. 2021;23(9):812-822. doi:<a href="https://doi.org/10.1177/1098612X211037872" class="external" target="_blank">10.1177/1098612X211037872&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Le Garreres A, Laroute V, De La Farge F, Boudet KG, Lefebvre HP. Disposition of plasma creatinine in non-azotaemic and moderately azotaemic cats. Journal of Feline Medicine and Surgery. 2007;9(2):89-96. doi:<a href="https://doi.org/10.1016/j.jfms.2006.08.003" class="external" target="_blank">10.1016/j.jfms.2006.08.003&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -189,4 +190,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

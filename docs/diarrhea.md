@@ -5,18 +5,18 @@ nav_order: 117
 seo:
   headline: "Diarrhea"
   name: "Diarrhea"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Diarrhea
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
 ## &#x1F7E2; Purina Pro Plan FortiFlora Powder
 
-![Purina Pro Plan FortiFlora Powder](https://www.purina.com/_gatsby/image/8214f1a72af6b5832e42c34f7188c7de/c36b855aa1f5fb641ad91723b483f8b5/fortiflora_feline_1_1000x1000.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2023-09%2Ffortiflora_feline_1_1000x1000.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=b9551d6d5cca04196a4f921dd63eddbd){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Purina Pro Plan FortiFlora Powder](https://www.purina.com/.netlify/images?w=812&h=360&fm=avif&q=75&url=https%3A%2F%2Flive.purina.com%2Fsites%2Fdefault%2Ffiles%2F2024-03%2Ffortiflora_module4_812x360.png&cd=da25cca75d7284fdbcb2bcc0220617e8){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 Contains Enterococcus faecium SF68.
 
@@ -118,4 +118,4 @@ View on <a href="https://visbiomevet.com/products/visbiome-vet-bottle-4-pack?var
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

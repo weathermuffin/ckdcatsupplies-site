@@ -5,12 +5,12 @@ nav_order: 152
 seo:
   headline: "Supplements"
   name: "Supplements"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Supplements
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
@@ -161,7 +161,7 @@ View on <a href="https://www.amazon.com/dp/B000Z96GFY/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Nature's Way Corn Silk 1,200 mg Capsules (100 ct)
 
-![Nature's Way Corn Silk 1,200 mg Capsules](https://naturesway.com/cdn/shop/files/jnnbzvuoycdasscr3ctu.png?height=500){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Nature's Way Corn Silk 1,200 mg Capsules](https://naturesway.com/cdn/shop/files/20250710_5ab48355-b334-460f-bc57-338f42ba5616.png?height=500){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
@@ -178,7 +178,7 @@ View on <a href="https://www.amazon.com/dp/B005U912I0/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Nordic Naturals Omega-3 Cat (2 fl. oz.)
 
-![Nordic Naturals Omega-3 Cat](https://cdn.shopify.com/s/files/1/0511/3059/7560/files/50515RC1-Omega3Cat_2oz_Box_Front.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Nordic Naturals Omega-3 Cat](https://cdn.shopify.com/s/files/1/0511/3059/7560/files/50515E1-Cat_Omega3_2oz_Box_Front.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Omega-3**]({% link docs/omega-3.md %})
 {: .label }
@@ -606,6 +606,14 @@ View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chi
 
 View on <a href="https://www.amazon.com/dp/B076ZY2NPT/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
 
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Elliott J, Geddes R, Jepson R. A review of the role of fibroblast growth factor 23 in phosphate homeostasis and the pathophysiology of mineral bone disorder associated with chronic kidney disease. International Renal Interest Society. 2023. <a href="https://www.iris-kidney.com/new-page-4" class="external" target="_blank">https://www.iris-kidney.com/new-page-4&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  van den Broek DHN, Chang YM, Elliott J, Jepson RE. Prognostic importance of plasma total magnesium in a cohort of cats with azotemic chronic kidney disease. J Vet Intern Med. 2018 Jul;32(4):1359-1371. doi:<a href="https://doi.org/10.1111/jvim.15141" class="external" target="_blank">10.1111/jvim.15141&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
 * * *
 
 
@@ -644,7 +652,7 @@ View on <a href="https://www.amazon.com/dp/B0BGVF6PGW/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Purina Hydra Care, 3 oz
 
-![Purina Hydra Care, 3 oz](https://www.purina.com/_gatsby/image/05751f1ef9a850df7548f30a7ace8ddd/c36b855aa1f5fb641ad91723b483f8b5/main-pack-shot_1000x1000_0.avif?u=https%3A%2F%2Fwww.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2022-10%2Fmain-pack-shot_1000x1000_0.png&a=w%3D1000%26h%3D1000%26fm%3Davif%26q%3D75&cd=aabb95682ce0d48c6872ff8d6620cbed){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Purina Hydra Care, 3 oz](https://www.purina.com/.netlify/images?w=1000&h=1000&fm=avif&q=75&url=https%3A%2F%2Flive.purina.com%2Fsites%2Fdefault%2Ffiles%2Fproducts%2F2022-10%2Fmain-pack-shot_1000x1000_0.png&cd=92ebb15bb7865ce3f008ab81c559a78c){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Hydration**]({% link docs/hydration.md %})
 {: .label }
@@ -1005,4 +1013,4 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

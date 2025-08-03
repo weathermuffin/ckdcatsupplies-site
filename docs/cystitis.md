@@ -5,18 +5,18 @@ nav_order: 115
 seo:
   headline: "Cystitis"
   name: "Cystitis"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Cystitis
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
 ## &#x1F7E2; CheckUp Urine Test Strips
 
-![CheckUp Urine Test Strips](https://checkupkit.com/wp-content/uploads/2020/10/strips-10-a.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![CheckUp Urine Test Strips](https://www.checkupkit.com/cdn/shop/files/IMAGES_-_2025-06-19T212659.618.png?width=1346){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
@@ -27,9 +27,7 @@ Updated June 17, 2025.
 [**Monitoring**]({% link docs/monitoring.md %})
 {: .label }
 
- <a href="https://checkupkit.com/check-up-strips-2/" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-
-View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/283322" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+View on <a href="https://www.amazon.com/dp/B087H8XM5L/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.chewy.com/dp/283322" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.checkupkit.com/products/checkup-testing-strips-x-50" class="external" target="_blank">Direct&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -144,6 +142,33 @@ View on <a href="https://www.chewy.com/dp/580974" class="external" target="_blan
 
 
 
+## &#x1F7E2; Green Lifestyle Reusable Pee Pads, 30x34 in.
+
+[**Bladder**]({% link docs/bladder.md %})
+{: .label }
+[**Cystitis**]({% link docs/cystitis.md %})
+{: .label }
+[**UTI**]({% link docs/uti.md %})
+{: .label }
+
+ <a href="https://greenlifestyle.com/products/washable-underpads" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 2 ct
+
+View on <a href="https://www.chewy.com/dp/371139" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 4 ct
+
+View on <a href="https://www.chewy.com/dp/371140" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+### 6 ct
+
+View on <a href="https://www.chewy.com/dp/371141" class="external" target="_blank">Chewy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
+
+
+
 ## &#x1F7E2; Nature's Answer Cornsilk Liquid Extract, Alcohol-Free (1 oz)
 
 ![Nature's Answer Cornsilk Liquid Extract, Alcohol-Free](https://www.naturesanswer.com/wp-content/uploads/2021/02/Cornsilk-AF44-01.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -163,7 +188,7 @@ View on <a href="https://www.amazon.com/dp/B000Z96GFY/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Nature's Way Corn Silk 1,200 mg Capsules (100 ct)
 
-![Nature's Way Corn Silk 1,200 mg Capsules](https://naturesway.com/cdn/shop/files/jnnbzvuoycdasscr3ctu.png?height=500){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Nature's Way Corn Silk 1,200 mg Capsules](https://naturesway.com/cdn/shop/files/20250710_5ab48355-b334-460f-bc57-338f42ba5616.png?height=500){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Bladder**]({% link docs/bladder.md %})
 {: .label }
@@ -348,4 +373,4 @@ View on <a href="https://vrshealth.com/product/flocat/" class="external" target=
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

@@ -5,12 +5,12 @@ nav_order: 132
 seo:
   headline: "Medicating"
   name: "Medicating"
-  date_modified: "2025-06-17T18:00:30.216233Z"
+  date_modified: "2025-08-03T17:02:19.173689Z"
 ---
 
 # Medicating
 
-Updated June 17, 2025.
+Updated August 3, 2025.
 
 
 
@@ -43,7 +43,7 @@ View on <a href="https://www.amazon.com/dp/B0C9573FGW/ref=nosim?tag=ckdcatsuppli
 
 ## &#x1F7E2; Greenies Pill Pockets, Salmon Flavor
 
-![Greenies Pill Pockets, Salmon Flavor](https://www.greenies.com/cdn/shop/files/fgj1dzrzfjdyl8evvhs0.jpg?width=990){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Greenies Pill Pockets, Salmon Flavor](https://www.greenies.com/cdn/shop/files/00642863021428_C1N1.jpg?width=990){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Medicating**]({% link docs/medicating.md %})
 {: .label }
@@ -162,4 +162,4 @@ View on <a href="https://www.amazon.com/dp/B00701NED2/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-06-17 18:00:30.216233Z -->
+<!-- Updated 2025-08-03 17:02:19.173689Z -->

@@ -5,12 +5,12 @@ nav_order: 131
 seo:
   headline: "Low-phosphorus"
   name: "Low-phosphorus"
-  date_modified: "2025-08-03T17:02:19.173689Z"
+  date_modified: "2025-08-24T04:10:56.191314Z"
 ---
 
 # Low-phosphorus
 
-Updated August 3, 2025.
+Updated August 24, 2025.
 
 
 
@@ -162,4 +162,4 @@ View on <a href="https://www.weruva.com/products/pate-formulas-variety-pack-cat-
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-08-03 17:02:19.173689Z -->
+<!-- Updated 2025-08-24 04:10:56.191314Z -->

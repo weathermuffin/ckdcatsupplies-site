@@ -5,12 +5,12 @@ nav_order: 129
 seo:
   headline: "Iron"
   name: "Iron"
-  date_modified: "2025-08-03T17:02:19.173689Z"
+  date_modified: "2025-08-24T04:10:56.191314Z"
 ---
 
 # Iron
 
-Updated August 3, 2025.
+Updated August 24, 2025.
 
 
 
@@ -57,27 +57,6 @@ View on <a href="https://www.naturalpetwarehouse.com/oc-raw-freeze-dried-usa-chi
 > &#x1F63A; Luna Says
 >
 > The first time Dad opened these up, I followed him around the house begging for a whole hour! I personally don't like to eat these on their own, but I do enjoy having some ground up and mixed in my food. Dad likes that these help with B vitamins and iron.
-
-* * *
-
-
-
-## &#x1F7E2; VetFood HemoActiv (60 capsules)
-
-![VetFood HemoActiv](https://vetfood.co.uk/image/cache/catalog/pet-supplements/hemoactiv-1100x1100.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
-
-[**Anemia**]({% link docs/anemia.md %})
-{: .label }
-[**B vitamins**]({% link docs/b-vitamins.md %})
-{: .label }
-[**Iron**]({% link docs/iron.md %})
-{: .label }
-[**Supplements**]({% link docs/supplements.md %})
-{: .label }
-[**Vitamins**]({% link docs/vitamins.md %})
-{: .label }
-
-View on <a href="https://vetfood.co.uk/HemoActiv" class="external" target="_blank">VetFood&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -150,4 +129,4 @@ View on <a href="https://www.amazon.com/dp/B00076HUAA/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-08-03 17:02:19.173689Z -->
+<!-- Updated 2025-08-24 04:10:56.191314Z -->

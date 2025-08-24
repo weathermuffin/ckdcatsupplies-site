@@ -5,12 +5,12 @@ nav_order: 118
 seo:
   headline: "Drugs"
   name: "Drugs"
-  date_modified: "2025-08-03T17:02:19.173689Z"
+  date_modified: "2025-08-24T04:10:56.191314Z"
 ---
 
 # Drugs
 
-Updated August 3, 2025.
+Updated August 24, 2025.
 
 
 
@@ -140,6 +140,13 @@ View on <a href="https://www.chewy.com/dp/316892" class="external" target="_blan
 > &#x1F63A; Luna Says
 >
 > We tried this, but it was so vile I threw a fit harder and harder each time until Dad gave up. Apparently some folks have had better luck putting the liquid into a gelatin capsule so kitty can't taste it. We're going to stick to mirtazapine.
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Brusach K, Lorbach S, Quimby J, Nijveldt E, Paschall R, Kinsella H, Parker V, Toribio R. Measurement of Ghrelin as a Marker of Appetite Dysregulation in Cats with and without Chronic Kidney Disease. Vet Sci. 2023 Jul 14;10(7):464. doi:<a href="https://doi.org/10.3390/vetsci10070464" class="external" target="_blank">10.3390/vetsci10070464&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
 
 * * *
 
@@ -574,4 +581,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-08-03 17:02:19.173689Z -->
+<!-- Updated 2025-08-24 04:10:56.191314Z -->

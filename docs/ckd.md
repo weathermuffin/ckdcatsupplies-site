@@ -5,12 +5,12 @@ nav_order: 111
 seo:
   headline: "CKD"
   name: "CKD"
-  date_modified: "2025-08-03T17:02:19.173689Z"
+  date_modified: "2025-08-24T04:10:56.191314Z"
 ---
 
 # CKD
 
-Updated August 3, 2025.
+Updated August 24, 2025.
 
 
 
@@ -190,4 +190,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-08-03 17:02:19.173689Z -->
+<!-- Updated 2025-08-24 04:10:56.191314Z -->

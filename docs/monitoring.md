@@ -5,12 +5,12 @@ nav_order: 134
 seo:
   headline: "Monitoring"
   name: "Monitoring"
-  date_modified: "2025-08-03T17:02:19.173689Z"
+  date_modified: "2025-08-24T04:10:56.191314Z"
 ---
 
 # Monitoring
 
-Updated August 3, 2025.
+Updated August 24, 2025.
 
 
 
@@ -67,7 +67,7 @@ View on <a href="https://www.amazon.com/dp/B075CVM9R6/ref=nosim?tag=ckdcatsuppli
 {: .lunasays-title }
 > &#x1F63A; Luna Says
 >
-> Keeping tabs on blood pressure is super important for a CKD kitty like me! This device, plus regular vet visits, help make sure my blood pressure is just right.
+> Keeping tabs on blood pressure is super important for a CKD kitty like me! This device, plus regular vet visits, help make sure my blood pressure is just right. If you're seeing a lot of "weak signal" or "timeout" errors, try replacing the cuff.
 
 * * *
 
@@ -83,6 +83,31 @@ View on <a href="https://www.amazon.com/dp/B075CVM9R6/ref=nosim?tag=ckdcatsuppli
 {: .label }
 
 View on <a href="https://contechealth.com/products/neonate-cuff-6-to-11-cm-arm-single-tube-reusable-cuff-for-patient-nibp-monitor?variant=41026112454806" class="external" target="_blank">Contec Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> This may ship from overseas and take a while to arrive. If the small animal cuff is unavailable, this can be substituted.
+
+* * *
+
+
+
+## &#x1F7E2; CONTEC Small Animal Cuff 6 to 11 cm
+
+![CONTEC Small Animal Cuff 6 to 11 cm](https://contechealth.com/cdn/shop/files/04_63247d1b-d7e4-4866-b02a-06da28dd5e24_1024x1024.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Blood pressure**]({% link docs/blood-pressure.md %})
+{: .label }
+[**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+View on <a href="https://contechealth.com/collections/accessories-for-upper-arm-blood-pressure-monitor/products/contec-small-animal-cuff-6-11-cm-single-tube-cuff-for-nibp-blood-pressure-monitor-contec08a-vet" class="external" target="_blank">Contec Health&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+{: .lunasays-title }
+> &#x1F63A; Luna Says
+>
+> This may ship from overseas and take a while to arrive. The neonate cuff can be substituted if this is unavailable.
 
 * * *
 
@@ -231,4 +256,4 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-08-03 17:02:19.173689Z -->
+<!-- Updated 2025-08-24 04:10:56.191314Z -->

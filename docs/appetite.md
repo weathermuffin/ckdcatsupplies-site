@@ -5,12 +5,12 @@ nav_order: 105
 seo:
   headline: "Appetite"
   name: "Appetite"
-  date_modified: "2025-08-03T17:02:19.173689Z"
+  date_modified: "2025-08-24T04:10:56.191314Z"
 ---
 
 # Appetite
 
-Updated August 3, 2025.
+Updated August 24, 2025.
 
 
 
@@ -164,6 +164,13 @@ View on <a href="https://www.chewy.com/dp/316892" class="external" target="_blan
 >
 > We tried this, but it was so vile I threw a fit harder and harder each time until Dad gave up. Apparently some folks have had better luck putting the liquid into a gelatin capsule so kitty can't taste it. We're going to stick to mirtazapine.
 
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Brusach K, Lorbach S, Quimby J, Nijveldt E, Paschall R, Kinsella H, Parker V, Toribio R. Measurement of Ghrelin as a Marker of Appetite Dysregulation in Cats with and without Chronic Kidney Disease. Vet Sci. 2023 Jul 14;10(7):464. doi:<a href="https://doi.org/10.3390/vetsci10070464" class="external" target="_blank">10.3390/vetsci10070464&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
 * * *
 
 
@@ -239,6 +246,7 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 # Appetite references and resources
 
 1.  Agnew W, Korman R. Pharmacological appetite stimulation: Rational choices in the inappetent cat. Journal of Feline Medicine and Surgery. 2014;16(9):749-756. doi:<a href="https://doi.org/10.1177/1098612X14545273" class="external" target="_blank">10.1177/1098612X14545273&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Brusach K, Lorbach S, Quimby J, Nijveldt E, Paschall R, Kinsella H, Parker V, Toribio R. Measurement of Ghrelin as a Marker of Appetite Dysregulation in Cats with and without Chronic Kidney Disease. Vet Sci. 2023 Jul 14;10(7):464. doi:<a href="https://doi.org/10.3390/vetsci10070464" class="external" target="_blank">10.3390/vetsci10070464&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Fantinati M, Trnka J, Signor A, et al. Appetite-stimulating effect of gabapentin vs mirtazapine in healthy cats post-ovariectomy. Journal of Feline Medicine and Surgery. 2020;22(12):1176-1183. doi:<a href="https://doi.org/10.1177/1098612X20916391" class="external" target="_blank">10.1177/1098612X20916391&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Ferro L, Ciccarelli S, Stanzani G, Nappi L, Angelini F, Leo C. Appetite Stimulant and Anti-Emetic Effect of Mirtazapine Transdermal Ointment in Cats Affected by Lymphoma Following Chemotherapy Administration: A Multi-Centre Retrospective Study. Animals. 2022; 12(2):155. doi:<a href="https://doi.org/10.3390/ani12020155" class="external" target="_blank">10.3390/ani12020155&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Johannes CM, Musser ML. The Use of Capromorelin for the Clinical Problem of Inappetence. Today's Veterinary Practice. 2019. <a href="https://todaysveterinarypractice.com/pharmacology/the-use-of-capromorelin-for-the-clinical-problem-of-inappetence/" class="external" target="_blank">https://todaysveterinarypractice.com/pharmacology/the-use-of-capromorelin-for-the-clinical-problem-of-inappetence/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -272,4 +280,4 @@ View on <a href="https://www.chewy.com/dp/273308" class="external" target="_blan
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-08-03 17:02:19.173689Z -->
+<!-- Updated 2025-08-24 04:10:56.191314Z -->

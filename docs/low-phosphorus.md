@@ -5,18 +5,18 @@ nav_order: 131
 seo:
   headline: "Low-phosphorus"
   name: "Low-phosphorus"
-  date_modified: "2025-08-24T04:10:56.191314Z"
+  date_modified: "2025-09-24T06:46:00.933275Z"
 ---
 
 # Low-phosphorus
 
-Updated August 24, 2025.
+Updated September 24, 2025.
 
 
 
 ## &#x1F7E2; Weruva Truluxe Steak Frites Dinner
 
-![Weruva Truluxe Steak Frites Dinner](https://www.weruva.com/cdn/shop/files/878408003219_TRULUXE_CAN_STEAK-FRITES_3OZ_2300X2300_V3R4_1.jpg?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+![Weruva Truluxe Steak Frites Dinner](https://www.weruva.com/cdn/shop/files/4216_878408003219_20Steak_20Frites_20Dinner_2030oz_20Can_a8ed2e06-1292-4eda-ab09-f7e6424f809b.png?width=1214){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
 
 [**Low-phosphorus**]({% link docs/low-phosphorus.md %})
 {: .label }
@@ -162,4 +162,4 @@ View on <a href="https://www.weruva.com/products/pate-formulas-variety-pack-cat-
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-08-24 04:10:56.191314Z -->
+<!-- Updated 2025-09-24 06:46:00.933275Z -->

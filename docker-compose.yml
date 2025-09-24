@@ -1,7 +1,5 @@
 # https://dev.to/stankukucka/install-jekyll-on-your-mac-with-docker-compose-file-everything-you-need-to-get-going-2alf
 
-version: "3"
-
 services:
   jekyll:
       # https://github.com/jekyll/jekyll-sass-converter/issues/156

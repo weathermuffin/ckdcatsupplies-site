@@ -5,12 +5,12 @@ nav_order: 110
 seo:
   headline: "Blood pressure"
   name: "Blood pressure"
-  date_modified: "2025-08-24T04:10:56.191314Z"
+  date_modified: "2025-09-24T06:46:00.933275Z"
 ---
 
 # Blood pressure
 
-Updated August 24, 2025.
+Updated September 24, 2025.
 
 
 
@@ -140,9 +140,33 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Izuhara Y, Nangaku M, Inagi R, Tominaga N, Aizawa T, Kurokawa K, van Ypersele de Strihou C, Miyata T. Renoprotective properties of angiotensin receptor blockers beyond blood pressure lowering. J Am Soc Nephrol. 2005 Dec;16(12):3631-41. doi:<a href="https://doi.org/10.1681/ASN.2005050522" class="external" target="_blank">10.1681/ASN.2005050522&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kobori H, Mori H, Masaki T, Nishiyama A. Angiotensin II blockade and renal protection. Curr Pharm Des. 2013;19(17):3033-42. doi:<a href="https://doi.org/10.2174/1381612811319170009" class="external" target="_blank">10.2174/1381612811319170009&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Lewis EJ, Hunsicker LG, Clarke WR, Berl T, Pohl MA, Lewis JB, Ritz E, Atkins RC, Rohde R, Raz I; Collaborative Study Group. Renoprotective effect of the angiotensin-receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes. N Engl J Med. 2001 Sep 20;345(12):851-60. doi:<a href="https://doi.org/10.1056/NEJMoa011303" class="external" target="_blank">10.1056/NEJMoa011303&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Sent, U., Gössl, R., Elliott, J., Syme, H.M. and Zimmering, T. (2015), Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med, 29: 1479-1487. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sent U, Gössl R, Elliott J, Syme HM, Zimmering T. Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med. 2015 Nov-Dec;29(6):1479-87. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
+## &#x1F7E2; SunTech Vet20 Veterinary Blood Pressure Monitor (Peacock Blue)
+
+![SunTech Vet20 Veterinary Blood Pressure Monitor](https://www.suntechmed.com/images/products/vet20/vet20-sill-555x366.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Blood pressure**]({% link docs/blood-pressure.md %})
+{: .label }
+[**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+ <a href="https://www.suntechmed.com/bp-products/veterinary-blood-pressure-monitors/suntech-vet20-veterinary-blood-pressure-monitor" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B01N6NIBPW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Cremer J, da Cunha A, Aulakh K, Liu CC, Acierno MJ. Validation of the oscillometric blood pressure monitor Vet20 SunTech in anesthetized healthy cats. Vet Anaesth Analg. 2020 May;47(3):309-314. doi:<a href="https://doi.org/10.1016/j.vaa.2019.12.007" class="external" target="_blank">10.1016/j.vaa.2019.12.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 </details>
 
@@ -175,6 +199,7 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 1.  Acierno MJ, Brown S, Coleman AE, et al. ACVIM consensus statement: Guidelines for the identification, evaluation, and management of systemic hypertension in dogs and cats. J Vet Intern Med. 2018; 32: 1803–1822. doi:<a href="https://doi.org/10.1111/jvim.15331" class="external" target="_blank">10.1111/jvim.15331&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Adin D, Atkins C, Domenig O, Glahn C, DeFrancesco T, Meurs K. Evaluation of Renin-Angiotensin-Aldosterone System Components and Enzymes in Systemically Hypertensive Cats Receiving Amlodipine. Animals (Basel). 2023 Nov 10;13(22):3479. doi:<a href="https://doi.org/10.3390/ani13223479" class="external" target="_blank">10.3390/ani13223479&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Brown SA, Brown CA, Jacobs G, Stiles J, Hendi RS, Wilson S. Effects of the angiotensin converting enzyme inhibitor benazepril in cats with induced renal insufficiency. Am J Vet Res. 2001 Mar;62(3):375-83. doi:<a href="https://doi.org/10.2460/ajvr.2001.62.375" class="external" target="_blank">10.2460/ajvr.2001.62.375&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Cannon MJ, Brett J. Comparison of how well conscious cats tolerate blood pressure measurement from the radial and coccygeal arteries. J Feline Med Surg. 2012 Dec;14(12):906-9. doi:<a href="https://doi.org/10.1177/1098612X12455023" class="external" target="_blank">10.1177/1098612X12455023&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Carter J. Hypertensive ocular disease in cats: A guide to fundic lesions to facilitate early diagnosis. Journal of Feline Medicine and Surgery. 2019;21(1):35-45. doi:<a href="https://doi.org/10.1177/1098612X18818668" class="external" target="_blank">10.1177/1098612X18818668&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Coleman AE, Brown SA, Traas AM, Bryson L, Zimmering T, Zimmerman A. Safety and efficacy of orally administered telmisartan for the treatment of systemic hypertension in cats: Results of a double-blind, placebo-controlled, randomized clinical trial. J Vet Intern Med. 2019; 33: 478-488. doi:<a href="https://doi.org/10.1111/jvim.15429" class="external" target="_blank">10.1111/jvim.15429&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Coleman A, Elliott J. Inhibition of the renin-angiotensin-aldosterone system in cats and dogs: The emerging role of angiotensin II receptor blockers. International Renal Interest Society (IRIS). 2022. <a href="http://www.iris-kidney.com/education/renin-anglotensin-aldosterone-system.html" class="external" target="_blank">http://www.iris-kidney.com/education/renin-anglotensin-aldosterone-system.html&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -196,7 +221,7 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 1.  Quimby JM. Maropitant Use in Cats. Today's Veterinary Practice. 2020. <a href="https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/" class="external" target="_blank">https://todaysveterinarypractice.com/pharmacology/maropitant-use-in-cats/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Jones SE, Saffire A, et al. Assessment of the effect of gabapentin on blood pressure in cats with and without chronic kidney disease. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241240326" class="external" target="_blank">10.1177/1098612X241240326&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Scansen BA. Which Drugs Can Control Systemic Arterial Hypertension in Dogs & Cats. Plumb's Therapeutics Brief. May 2016. <a href="https://assets.ctfassets.net/4dmg3l1sxd6g/j7ipcDz6lLAmgrZV2uarX/0d81ffc57d077ea4a8ad40716bc584a3/rx-solutions_which-drugs-can-control-systemic-arterial-hypertension-in-dogs--cats-28111-article.pdf" class="external" target="_blank">https://assets.ctfassets.net/4dmg3l1sxd6g/j7ipcDz6lLAmgrZV2uarX/0d81ffc57d077ea4a8ad40716bc584a3/rx-solutions_which-drugs-can-control-systemic-arterial-hypertension-in-dogs--cats-28111-article.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Sent, U., Gössl, R., Elliott, J., Syme, H.M. and Zimmering, T. (2015), Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med, 29: 1479-1487. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sent U, Gössl R, Elliott J, Syme HM, Zimmering T. Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med. 2015 Nov-Dec;29(6):1479-87. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Taylor SS, Sparkes AH, Briscoe K, et al. ISFM Consensus Guidelines on the Diagnosis and Management of Hypertension in Cats. Journal of Feline Medicine and Surgery. 2017;19(3):288-303. doi:<a href="https://doi.org/10.1177/1098612X17693500" class="external" target="_blank">10.1177/1098612X17693500&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Thompson J. Management of hypertension in a geriatric cat. Can Vet J. 2004 May;45(5):427-9. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC548629/" class="external" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC548629/&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -224,4 +249,4 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-08-24 04:10:56.191314Z -->
+<!-- Updated 2025-09-24 06:46:00.933275Z -->

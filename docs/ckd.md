@@ -5,12 +5,12 @@ nav_order: 111
 seo:
   headline: "CKD"
   name: "CKD"
-  date_modified: "2025-08-24T04:10:56.191314Z"
+  date_modified: "2025-09-24T06:46:00.933275Z"
 ---
 
 # CKD
 
-Updated August 24, 2025.
+Updated September 24, 2025.
 
 
 
@@ -157,7 +157,7 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 1.  Quimby JM, Lunn KF. Mirtazapine as an appetite stimulant and anti-emetic in cats with chronic kidney disease: a masked placebo-controlled crossover clinical trial. Vet J. 2013 Sep;197(3):651-5. doi:<a href="https://doi.org/10.1016/j.tvjl.2013.05.048" class="external" target="_blank">10.1016/j.tvjl.2013.05.048&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Benson KK, Summers SC, et al. Assessment of compounded transdermal mirtazapine as an appetite stimulant in cats with chronic kidney disease. Journal of Feline Medicine and Surgery. 2020;22(4):376-383. doi:<a href="https://doi.org/10.1177/1098612X19851303" class="external" target="_blank">10.1177/1098612X19851303&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Quimby JM, Lorbach SK, Saffire A, et al. Serum concentrations of gabapentin in cats with chronic kidney disease. Journal of Feline Medicine and Surgery. 2022;24(12):1260-1266. doi:<a href="https://doi.org/10.1177/1098612X221077017" class="external" target="_blank">10.1177/1098612X221077017&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Sent, U., Gössl, R., Elliott, J., Syme, H.M. and Zimmering, T. (2015), Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med, 29: 1479-1487. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sent U, Gössl R, Elliott J, Syme HM, Zimmering T. Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med. 2015 Nov-Dec;29(6):1479-87. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Sparkes AH, Caney S, Chalhoub S, Elliott J, Finch N, Gajanayake I, Langston C, Lefebvre HP, White J, Quimby J. ISFM Consensus Guidelines on the Diagnosis and Management of Feline Chronic Kidney Disease. J Feline Med Surg. 2016 Mar;18(3):219-39. doi:<a href="https://doi.org/10.1177/1098612X16631234" class="external" target="_blank">10.1177/1098612X16631234&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Sueyoshi M, Fukunaga M, Mei M, Nakajima A, Tanaka G, Murase T, Narita Y, Hirata S, Kadowaki D. Effects of lactulose on renal function and gut microbiota in adenine-induced chronic kidney disease rats. Clin Exp Nephrol. 2019 Jul;23(7):908-919. doi:<a href="https://doi.org/10.1007/s10157-019-01727-4" class="external" target="_blank">10.1007/s10157-019-01727-4&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Syme HM. Cardiovascular and renal manifestations of hyperthyroidism. Vet Clin North Am Small Anim Pract. 2007 Jul;37(4):723-43, vi. doi:<a href="https://doi.org/10.1016/j.cvsm.2007.05.011" class="external" target="_blank">10.1016/j.cvsm.2007.05.011&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
@@ -190,4 +190,4 @@ View on <a href="https://www.chewy.com/dp/1091558" class="external" target="_bla
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-08-24 04:10:56.191314Z -->
+<!-- Updated 2025-09-24 06:46:00.933275Z -->

@@ -5,12 +5,12 @@ nav_order: 136
 seo:
   headline: "Needles"
   name: "Needles"
-  date_modified: "2025-08-24T04:10:56.191314Z"
+  date_modified: "2025-09-24T06:46:00.933275Z"
 ---
 
 # Needles
 
-Updated August 24, 2025.
+Updated September 24, 2025.
 
 
 
@@ -105,4 +105,4 @@ View on <a href="https://thrivingpets.com/products/terumo-needles-thin-wall-21-g
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-08-24 04:10:56.191314Z -->
+<!-- Updated 2025-09-24 06:46:00.933275Z -->

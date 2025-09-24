@@ -5,12 +5,12 @@ nav_order: 134
 seo:
   headline: "Monitoring"
   name: "Monitoring"
-  date_modified: "2025-08-24T04:10:56.191314Z"
+  date_modified: "2025-09-24T06:46:00.933275Z"
 ---
 
 # Monitoring
 
-Updated August 24, 2025.
+Updated September 24, 2025.
 
 
 
@@ -195,6 +195,30 @@ View on <a href="https://www.amazon.com/dp/B0C7S7NPMX/ref=nosim?tag=ckdcatsuppli
 
 
 
+## &#x1F7E2; SunTech Vet20 Veterinary Blood Pressure Monitor (Peacock Blue)
+
+![SunTech Vet20 Veterinary Blood Pressure Monitor](https://www.suntechmed.com/images/products/vet20/vet20-sill-555x366.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Blood pressure**]({% link docs/blood-pressure.md %})
+{: .label }
+[**Monitoring**]({% link docs/monitoring.md %})
+{: .label }
+
+ <a href="https://www.suntechmed.com/bp-products/veterinary-blood-pressure-monitors/suntech-vet20-veterinary-blood-pressure-monitor" class="external" target="_blank">manufacturer page&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+View on <a href="https://www.amazon.com/dp/B01N6NIBPW/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2;
+
+<details markdown="block">
+<summary>References and resources</summary>
+
+1.  Cremer J, da Cunha A, Aulakh K, Liu CC, Acierno MJ. Validation of the oscillometric blood pressure monitor Vet20 SunTech in anesthetized healthy cats. Vet Anaesth Analg. 2020 May;47(3):309-314. doi:<a href="https://doi.org/10.1016/j.vaa.2019.12.007" class="external" target="_blank">10.1016/j.vaa.2019.12.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+</details>
+
+* * *
+
+
+
 ## &#x1F7E2; Tap Tool Pro
 
 ![Tap Tool Pro](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9e/8e/68/9e8e6896-47d6-6b2d-64ef-15435c2a2023/AppIcon-Pro-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
@@ -256,4 +280,4 @@ View on <a href="https://www.vmedtechnology.com/product/vet-dop/" class="externa
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-08-24 04:10:56.191314Z -->
+<!-- Updated 2025-09-24 06:46:00.933275Z -->

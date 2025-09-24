@@ -5,12 +5,25 @@ nav_order: 114
 seo:
   headline: "Constipation"
   name: "Constipation"
-  date_modified: "2025-08-24T04:10:56.191314Z"
+  date_modified: "2025-09-24T06:46:00.933275Z"
 ---
 
 # Constipation
 
-Updated August 24, 2025.
+Updated September 24, 2025.
+
+
+
+## &#x1F7E2; CocoTherapy Hairball Plus
+
+![CocoTherapy Hairball Plus](https://www.cocotherapy.com/cdn/shop/products/Hairball_Plus_Bag_Single2_1000x.jpg){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Constipation**]({% link docs/constipation.md %})
+{: .label }
+
+View on <a href="https://www.cocotherapy.com/products/cocotherapy-hairball-plus" class="external" target="_blank">CocoTherapy&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+
+* * *
 
 
 
@@ -47,6 +60,19 @@ View on <a href="https://globalhealing.com/products/aloe-vera" class="external" 
 > &#x1F63A; Luna Says
 >
 > Don't know what I'd do without this... It almost became a full-blown emergency once when I didn't poo for three days. Yikes! This keeps the plumbing flowing smoothly.
+
+* * *
+
+
+
+## &#x1F7E2; NOW Organic Psyllium Husk Powder (12 oz.)
+
+![NOW Organic Psyllium Husk Powder (12 oz.)](https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2024-11/5966_v7.png){: style="max-height: 144px; width: auto; float: right; margin-left: 1em;" }
+
+[**Constipation**]({% link docs/constipation.md %})
+{: .label }
+
+View on <a href="https://www.amazon.com/dp/B002N0OFEM/ref=nosim?tag=ckdcatsupplies-20" class="external" target="_blank">Amazon&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#x1f4b2; &#124; <a href="https://www.vitacost.com/now-organic-psyllium-husk-powder" class="external" target="_blank">Vitacost&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.nowfoods.com/products/supplements/psyllium-husk-powder-organic" class="external" target="_blank">NOW&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a> &#124; <a href="https://www.iherb.com/pr/21116" class="external" target="_blank">iHerb&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -147,4 +173,4 @@ View on <a href="https://www.amazon.com/dp/B07ZG59V48/ref=nosim?tag=ckdcatsuppli
 &#x1F449; Product links on this page marked with a &#x1f4b2; may earn the site a modest commission.
 
 
-<!-- Updated 2025-08-24 04:10:56.191314Z -->
+<!-- Updated 2025-09-24 06:46:00.933275Z -->

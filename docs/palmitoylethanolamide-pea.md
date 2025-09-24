@@ -5,12 +5,12 @@ nav_order: 142
 seo:
   headline: "Palmitoylethanolamide (PEA)"
   name: "Palmitoylethanolamide (PEA)"
-  date_modified: "2025-08-24T04:10:56.191314Z"
+  date_modified: "2025-09-24T06:46:00.933275Z"
 ---
 
 # Palmitoylethanolamide (PEA)
 
-Updated August 24, 2025.
+Updated September 24, 2025.
 
 
 
@@ -65,6 +65,7 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 1.  Redlich S, Ribes S, Schütze S, Nau R. Palmitoylethanolamide stimulates phagocytosis of Escherichia coli K1 by macrophages and increases the resistance of mice against infections. J Neuroinflammation. 2014 Jun 14;11:108. doi:<a href="https://doi.org/10.1186/1742-2094-11-108" class="external" target="_blank">10.1186/1742-2094-11-108&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Palmitoylethanolamide (PEA) for neuropathic pain in dogs and cats. 2023. <a href="https://youtu.be/MQQJzhT8yxY" class="external" target="_blank">https://youtu.be/MQQJzhT8yxY&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Neuropathic pain in cats: mechanisms and multimodal management. Journal of Feline Medicine and Surgery. 2024;26(5). doi:<a href="https://doi.org/10.1177/1098612X241246518" class="external" target="_blank">10.1177/1098612X241246518&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Varrassi G, Rekatsina M, Leoni MLG, Cascella M, Finco G, Sardo S, Corno C, Tiso D, Schweiger V, Fornasari DMM, Paladini A. A Decades-Long Journey of Palmitoylethanolamide (PEA) for Chronic Neuropathic Pain Management: A Comprehensive Narrative Review. Pain Ther. 2025 Feb;14(1):81-101. doi:<a href="https://doi.org/10.1007/s40122-024-00685-4" class="external" target="_blank">10.1007/s40122-024-00685-4&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
 * * *
 
@@ -83,4 +84,4 @@ View on <a href="https://www.vetrxdirect.com/product/view/redonyl-ultra-pea-um-f
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-08-24 04:10:56.191314Z -->
+<!-- Updated 2025-09-24 06:46:00.933275Z -->

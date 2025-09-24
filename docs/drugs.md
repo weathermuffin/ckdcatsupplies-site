@@ -5,12 +5,12 @@ nav_order: 118
 seo:
   headline: "Drugs"
   name: "Drugs"
-  date_modified: "2025-08-24T04:10:56.191314Z"
+  date_modified: "2025-09-24T06:46:00.933275Z"
 ---
 
 # Drugs
 
-Updated August 24, 2025.
+Updated September 24, 2025.
 
 
 
@@ -404,7 +404,7 @@ View on <a href="https://www.chewy.com/dp/583926" class="external" target="_blan
 1.  Izuhara Y, Nangaku M, Inagi R, Tominaga N, Aizawa T, Kurokawa K, van Ypersele de Strihou C, Miyata T. Renoprotective properties of angiotensin receptor blockers beyond blood pressure lowering. J Am Soc Nephrol. 2005 Dec;16(12):3631-41. doi:<a href="https://doi.org/10.1681/ASN.2005050522" class="external" target="_blank">10.1681/ASN.2005050522&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Kobori H, Mori H, Masaki T, Nishiyama A. Angiotensin II blockade and renal protection. Curr Pharm Des. 2013;19(17):3033-42. doi:<a href="https://doi.org/10.2174/1381612811319170009" class="external" target="_blank">10.2174/1381612811319170009&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Lewis EJ, Hunsicker LG, Clarke WR, Berl T, Pohl MA, Lewis JB, Ritz E, Atkins RC, Rohde R, Raz I; Collaborative Study Group. Renoprotective effect of the angiotensin-receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes. N Engl J Med. 2001 Sep 20;345(12):851-60. doi:<a href="https://doi.org/10.1056/NEJMoa011303" class="external" target="_blank">10.1056/NEJMoa011303&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
-1.  Sent, U., Gössl, R., Elliott, J., Syme, H.M. and Zimmering, T. (2015), Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med, 29: 1479-1487. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Sent U, Gössl R, Elliott J, Syme HM, Zimmering T. Comparison of Efficacy of Long-term Oral Treatment with Telmisartan and Benazepril in Cats with Chronic Kidney Disease. J Vet Intern Med. 2015 Nov-Dec;29(6):1479-87. doi:<a href="https://doi.org/10.1111/jvim.13639" class="external" target="_blank">10.1111/jvim.13639&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J, Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto RD, Middleton JP, Rostand SG; African American Study of Kidney Disease and Hypertension Study Group. Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial. JAMA. 2002 Nov 20;288(19):2421-31. doi:<a href="https://doi.org/10.1001/jama.288.19.2421" class="external" target="_blank">10.1001/jama.288.19.2421&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Zhang Y, He D, Zhang W, Xing Y, Guo Y, Wang F, Jia J, Yan T, Liu Y, Lin S. ACE Inhibitor Benefit to Kidney and Cardiovascular Outcomes for Patients with Non-Dialysis Chronic Kidney Disease Stages 3-5: A Network Meta-Analysis of Randomised Clinical Trials. Drugs. 2020 Jun;80(8):797-811. doi:<a href="https://doi.org/10.1007/s40265-020-01290-3" class="external" target="_blank">10.1007/s40265-020-01290-3&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
@@ -528,7 +528,13 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 <summary>References and resources</summary>
 
 1.  Bonqat (pregabalin oral solution) Package Insert. Zoetis Inc., November 2023. <a href="https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/bonqat-prescribing-information.pdf" class="external" target="_blank">https://www.zoetisus.com/content/_assets/docs/vmips/package-inserts/bonqat-prescribing-information.pdf&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Esteban MA, Dewey CW, Schwark WS, Rishniw M, Boothe DM. Pharmacokinetics of Single-Dose Oral Pregabalin Administration in Normal Cats. Front Vet Sci. 2018 Jul 20;5:136. doi:<a href="https://doi.org/10.3389/fvets.2018.00136" class="external" target="_blank">10.3389/fvets.2018.00136&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lamminen T, Korpivaara M, Suokko M, Aspegrén J, Palestrini C, Overall K. Efficacy of a Single Dose of Pregabalin on Signs of Anxiety in Cats During Transportation-A Pilot Study. Front Vet Sci. 2021 Sep 1;8:711816. doi:<a href="https://doi.org/10.3389/fvets.2021.711816" class="external" target="_blank">10.3389/fvets.2021.711816&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Lamminen T, Doedée A, Hyttilä-Hopponen M, Kaskinoro J. Pharmacokinetics of single and repeated oral doses of pregabalin oral solution formulation in cats. J Vet Pharmacol Ther. 2022 Jul;45(4):385-391. doi:<a href="https://doi.org/10.1111/jvp.13061" class="external" target="_blank">10.1111/jvp.13061&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Lamminen T, Korpivaara M, Aspegrén J, Palestrini C, Overall KL. Pregabalin Alleviates Anxiety and Fear in Cats during Transportation and Veterinary Visits-A Clinical Field Study. Animals (Basel). 2023 Jan 21;13(3):371. doi:<a href="https://doi.org/10.3390/ani13030371" class="external" target="_blank">10.3390/ani13030371&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Li M, Wu Y, Chen H, Xu X, Peng H, Wei B, Zhu Y, Yang Z. Effect of oral administration of pregabalin on physiological and echocardiographic variables in healthy cats. J Feline Med Surg. 2024 Jul;26(7):1098612X241250245. doi:<a href="https://doi.org/10.1177/1098612X241250245" class="external" target="_blank">10.1177/1098612X241250245&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Luo L, Chen H, Zhu Y, Wu Y, Guo W, Yang Z, Li M. The effect of oral pregabalin on the minimum alveolar concentration of isoflurane in cats. Vet Anaesth Analg. 2024 Jul-Aug;51(4):391-398. doi:<a href="https://doi.org/10.1016/j.vaa.2024.04.007" class="external" target="_blank">10.1016/j.vaa.2024.04.007&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
+1.  Madan RD, Cenani A, Montgomery E, Azevedo T, Vernau KM, Brosnan RJ. Pregabalin produces similar effects as gabapentin for preanesthetic sedation in cats. J Am Vet Med Assoc. 2023 Dec 22;262(3):359-363. doi:<a href="https://doi.org/10.2460/javma.23.09.0493" class="external" target="_blank">10.2460/javma.23.09.0493&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Mayoral V, Galvez R, Ferrándiz M, Miguéns Vázquez X, Cordero-García C, Alcántara Montero A, Pérez C, Pérez-Páramo M. Pregabalin vs. gabapentin in the treatment of neuropathic pain: a comprehensive systematic review and meta-analysis of effectiveness and safety. Front Pain Res (Lausanne). 2025 Jan 7;5:1513597. doi:<a href="https://doi.org/10.3389/fpain.2024.1513597" class="external" target="_blank">10.3389/fpain.2024.1513597&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 1.  Rusbridge C. Pregabalin - 5 things you should know about prescribing in dogs and cats. 2023. <a href="https://youtu.be/fr3gu6S6guE" class="external" target="_blank">https://youtu.be/fr3gu6S6guE&nbsp;<svg width="18" height="18" viewBox="0 0 24 24"><use xlink:href="#svg-external-link"></use></svg></a>
 
@@ -581,4 +587,4 @@ View on <a href="https://www.chewy.com/dp/173263" class="external" target="_blan
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<!-- Updated 2025-08-24 04:10:56.191314Z -->
+<!-- Updated 2025-09-24 06:46:00.933275Z -->
